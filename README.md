@@ -1,101 +1,137 @@
-# Agentic Frontier Observatory / 全球智能体前沿观察站
+# Agentic Frontier Observatory
+### 全球人工智能与智能体前沿观察站
 
-> **One repository, one day, one integrated research report**  
-> **一仓一日一份完整研究报告**
+> **One repository · One day · One integrated research report**  
+> **一仓 · 一日 · 一份完整研究报告**
 
-A bilingual, source-grounded daily research observatory tracing artificial intelligence from its intellectual and computational roots to the agentic frontier as of August 2026.
+A bilingual, source-grounded observatory tracing artificial intelligence from its intellectual and computational roots to the agentic frontier
 
-一个以公开权威来源为基础、每日运行的中英双语研究观察站，研究范围从人工智能的思想与计算根基延伸至 2026 年 8 月的智能体前沿。
+一个以公开权威来源为基础、每日运行的中英双语研究观察站，从人工智能的思想与计算根基持续观察到智能体时代
 
-## Mission / 使命
+**[Daily Reports](./reports/daily/) · [History](./history/AI_FROM_ZERO_TO_2026-08.md) · [Methodology](./METHODOLOGY.md) · [Sources](./SOURCE_REGISTRY.md) · [Watchlist](./watchlist/ACTIVE.md) · [Workstreams](./workstreams/README.md)**
 
-This repository does not build an agent, reproduce benchmarks, or validate vendor capability. It maintains an external world model through daily search, date calibration, source comparison, and cross-system analysis.
+**Twin Observatory / 双仓联动：** [China Agentic Observatory](https://github.com/lostlight530/china-agentic-observatory)
 
-本仓库不制造智能体、不复现实验、不验证厂商能力。它通过每日联网搜索、日期校准、信源对照和跨系统分析，持续维护一份外部世界模型。
+---
 
-## Scope / 范围
+## Current Research Pack / 当前研究包
 
-The scope is intentionally broad and may include:
+### 2026-08-08 — **The Watch Begins / 守望开始**
 
-- Prehistory of artificial intelligence: logic, computation, cybernetics, learning, search, and automation
-- Symbolic AI, connectionism, expert systems, statistical machine learning, deep learning, reinforcement learning, and robotics
-- Foundation models, generative AI, multimodal systems, reasoning models, and scientific AI
-- Agent runtimes, harnesses, memory, tools, computer use, orchestration, and long-horizon work
-- MCP, A2A, agent discovery, identity, authorization, payments, interoperability, and open governance
-- Evaluation, safety, security, labor, economy, policy, standards, infrastructure, energy, and social impact
-- Open-source communities, commercial systems, research institutions, and global institutions
+> **Truth Before Freshness at the Agentic Frontier**  
+> **在智能体前沿，先有事实，再有新鲜感**
 
-研究范围不限于某个模型、协议或公司，也不限于“Agent 新闻”。凡是能够解释人工智能如何形成、如何演进以及正在走向何处的公开材料，都可以进入观察范围。
+Today’s observation is delivered as a **9-file research pack**
 
-## Core Deliverables / 核心交付
+今天的观察由 **9 份研究文件**共同组成
 
-Every daily run must produce exactly one integrated research report:
+| Layer | File | Focus |
+|---|---|---|
+| Integrated report | [`2026-08-08.md`](./reports/daily/2026/08/2026-08-08.md) | One complete daily judgment / 每日完整总判断 |
+| Task index | [`README.md`](./reports/daily/2026/08/2026-08-08/README.md) | Research package map / 今日研究包索引 |
+| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-08/F1-history-theory.md) | Historical continuity and paradigm shifts |
+| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-08/F2-models-algorithms.md) | Models, reasoning, multimodality |
+| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-08/F3-infrastructure.md) | Compute, data, evaluation infrastructure |
+| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-08/F4-agentic-systems.md) | Runtime, harness, MCP, A2A, identity |
+| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-08/F5-evaluation-governance.md) | Reliability, security, standards, governance |
+| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-08/F6-ecosystem-society.md) | Open source, industry, economy, society |
+| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-08/F7-synthesis.md) | Cross-system judgment and correction |
+
+### Current Lens / 当前观察框架
 
 ```text
-reports/daily/YYYY/MM/YYYY-MM-DD.md
+Model
+→ Harness / Runtime
+→ Tool & Data Access
+→ Agent-to-Agent Coordination
+→ Identity & Authorization
+→ Evaluation & Observability
+→ Governance & Deployment Decision
 ```
 
-The workstreams remain independent inputs to that report. Long-term assets are updated when required:
+The current frontier is no longer explained by model capability alone
 
-- `ledger/` — structured event records / 结构化事件账本
-- `history/` — long-range historical synthesis / 长周期历史总纲
-- `watchlist/` — unresolved and next-step questions / 未闭环观察点
-- `entities/` — durable object cards / 长期对象卡
-- `maps/` — relationship and landscape maps / 关系与生态地图
-- `workstreams/` — preserved research sub-tasks / 保留的研究分任务
+当前前沿已经不能只由模型能力解释，而要观察模型如何进入工具、运行时、智能体协作、身份授权、评测与治理组成的完整系统
 
-## Daily Research Contract / 每日研究契约
+---
 
-- Search the web every day
-- Prefer official and primary sources
-- Record one complete report even when no material change is found
-- Separate fact, external claim, and repository analysis
-- Separate event date, publication date, and observation date
-- Correct prior judgments when new evidence requires it
-- Never create novelty merely to make the report look eventful
+## Research System / 研究系统
 
-详细流程见 [`DAILY_SOP.md`](./DAILY_SOP.md)。
+```text
+Authoritative Public Sources
+          ↓
+7 Independent Workstreams
+          ↓
+Date · Status · Evidence Calibration
+          ↓
+Cross-System Synthesis
+          ↓
+One Integrated Daily Report
+          ↓
+Ledger · Watchlist · Entities · Maps
+```
 
-## Historical Baseline / 历史基线
+The workstreams remain independently readable, while the integrated report is the single daily top-level judgment
 
-The field was named at the 1956 Dartmouth Summer Research Project on Artificial Intelligence. Seventy years later, by 2026, AI had become a global technical, economic, social, and governance system, while agent standards and protocols were moving from isolated tools toward interoperable infrastructure.
+各分任务保留独立研究结果，总报告负责去重、校准、跨系统综合并形成当日唯一顶层判断
 
-人工智能在 1956 年达特茅斯暑期研究项目中正式命名。七十年后的 2026 年，人工智能已经成为技术、经济、社会和治理共同作用的全球系统，智能体协议与标准也正从单一工具连接走向可互操作基础设施。
+---
 
-See [`history/AI_FROM_ZERO_TO_2026-08.md`](./history/AI_FROM_ZERO_TO_2026-08.md).
+## Research Coverage / 研究覆盖
 
-## Founding Date / 成立日期
+| Layer | Coverage |
+|---|---|
+| Foundations | Logic · computation · cybernetics · learning · search · automation |
+| Models | Deep learning · foundation models · multimodality · reasoning · scientific AI |
+| Agentic Systems | Runtime · harness · memory · tools · computer use · long-horizon work |
+| Protocols | MCP · A2A · discovery · identity · authorization · delegation · payments |
+| Infrastructure | Chips · compute · data · cloud · edge · energy · evaluation infrastructure |
+| Governance | Safety · security · standards · policy · transparency · human oversight |
+| Ecosystem | Open source · research institutions · industry · economy · labor · society |
 
-This repository was founded on **7 August 2026**. The date links three layers of meaning:
+The scope is intentionally broad
 
-1. Seventy years after the 1956 birth of AI as a named field
-2. A real-world transition from model-centric AI toward agentic systems, interoperability, identity, and governance
-3. The completion of a ten-repository system that can both build inward and observe outward
+研究范围不限于某个模型、协议、公司或“Agent 新闻”，凡是能够解释人工智能如何形成、如何演进以及正在走向何处的公开材料，都可以进入观察范围
 
-The historical framing is documented in [`ORIGIN.md`](./ORIGIN.md). It is a commitment to correction, strategic depth, and independent judgment, not a substitute for technical evidence.
+---
 
-## Repository Boundary / 仓库边界
+## Research Discipline / 研究纪律
 
-This is a research observatory, not:
+- **Primary sources first / 一手来源优先**
+- **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
+- **Fact ≠ external claim ≠ observatory analysis / 事实、外部声明与本仓分析严格区分**
+- **Draft ≠ release · roadmap ≠ implementation / 草案不等于发布，路线图不等于实现**
+- **No forced novelty / 不为了日报制造趋势**
+- **Correction is a feature / 新证据要求时必须修正旧判断**
+- **No capability validation / 不运行、部署或验证外部项目能力**
 
-- an autonomous-agent runtime
-- a benchmark laboratory
-- a truth engine
-- a security certification service
-- a news scraper
-- a marketing tracker
-- an investment recommendation service
+→ [`Daily SOP`](./DAILY_SOP.md) · [`Methodology`](./METHODOLOGY.md) · [`Source Registry`](./SOURCE_REGISTRY.md)
 
-## Status / 状态
+---
 
-Initialized on 2026-08-07 with:
+## Origin / 起源
 
-- bilingual scope and methodology
-- daily SOP and preserved workstreams
-- authoritative source registry
-- historical synthesis through August 2026
-- first integrated daily research report
-- initial event ledger and active watchlist
+**Founded on 7 August 2026 / 成立于 2026 年 8 月 7 日**
+
+1956 年，人工智能作为研究领域在达特茅斯正式命名
+
+七十年后，AI 已从模型与算法扩展为模型、工具、协议、身份、授权、评测、治理和人类判断共同组成的全球系统
+
+第九仓由此承担一个新的职责：不再继续向内制造另一套 Agent，而是每天向外观察世界
+
+> **From imagination to intelligence**  
+> **From the past to the future**  
+> **From isolated systems to the agentic frontier**
+
+→ [`ORIGIN.md`](./ORIGIN.md) · [`AI from Zero to August 2026`](./history/AI_FROM_ZERO_TO_2026-08.md) · [`Ten-Repository Context`](./TEN_REPOSITORY_CONTEXT.md)
+
+---
+
+## Boundary / 边界
+
+This repository is a research observatory, not an autonomous-agent runtime, benchmark laboratory, certification service, news scraper, marketing tracker, or investment service
+
+本仓库只进行公开来源搜索、事实校准、关系分析、趋势判断与判断修正，不承担外部项目执行、能力验证或认证职责
 
 ## License
 
