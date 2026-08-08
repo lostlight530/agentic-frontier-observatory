@@ -8,7 +8,7 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 一个以公开权威来源为基础、每日运行的中英双语研究观察站，从人工智能的思想与计算根基持续观察到智能体时代
 
-**[Daily Reports](./reports/daily/) · [History](./history/AI_FROM_ZERO_TO_2026-08.md) · [Methodology](./METHODOLOGY.md) · [Sources](./SOURCE_REGISTRY.md) · [Watchlist](./watchlist/ACTIVE.md) · [Workstreams](./workstreams/README.md)**
+**[Daily Reports](./reports/daily/) · [Weekly Synthesis](./reports/weekly/) · [History](./history/AI_FROM_ZERO_TO_2026-08.md) · [Methodology](./METHODOLOGY.md) · [Sources](./SOURCE_REGISTRY.md) · [Watchlist](./watchlist/ACTIVE.md) · [Workstreams](./workstreams/README.md)**
 
 **Twin Observatory / 双仓联动：** [China Agentic Observatory](https://github.com/lostlight530/china-agentic-observatory)
 
@@ -16,26 +16,35 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-08 — **The Watch Begins / 守望开始**
+### 2026-08-09 — **The Network Appears / 网络显形**
 
-> **Truth Before Freshness at the Agentic Frontier**  
-> **在智能体前沿，先有事实，再有新鲜感**
+> **Discovery · Identity · Authority · Evidence**  
+> **发现 · 身份 · 授权 · 证据**
 
-Today’s observation is delivered as a **9-file research pack**
+Today’s observation is delivered as a **9-file research pack**, with the first weekly synthesis published alongside it
 
-今天的观察由 **9 份研究文件**共同组成
+今天的观察由 **9 份研究文件**共同组成，并同步形成建仓首周周报
 
 | Layer | File | Focus |
 |---|---|---|
-| Integrated report | [`2026-08-08.md`](./reports/daily/2026/08/2026-08-08.md) | One complete daily judgment / 每日完整总判断 |
-| Task index | [`README.md`](./reports/daily/2026/08/2026-08-08/README.md) | Research package map / 今日研究包索引 |
-| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-08/F1-history-theory.md) | Historical continuity and paradigm shifts |
-| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-08/F2-models-algorithms.md) | Models, reasoning, multimodality |
-| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-08/F3-infrastructure.md) | Compute, data, evaluation infrastructure |
-| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-08/F4-agentic-systems.md) | Runtime, harness, MCP, A2A, identity |
-| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-08/F5-evaluation-governance.md) | Reliability, security, standards, governance |
-| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-08/F6-ecosystem-society.md) | Open source, industry, economy, society |
-| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-08/F7-synthesis.md) | Cross-system judgment and correction |
+| Integrated report | [`2026-08-09.md`](./reports/daily/2026/08/2026-08-09.md) | One complete daily judgment / 每日完整总判断 |
+| Task index | [`README.md`](./reports/daily/2026/08/2026-08-09/README.md) | Research package map / 今日研究包索引 |
+| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-09/F1-history-theory.md) | Network formation and historical layering |
+| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-09/F2-models-algorithms.md) | Model versus system capability |
+| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-09/F3-infrastructure.md) | Statelessness, routing, discovery, transports |
+| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-09/F4-agentic-systems.md) | MCP, A2A, discovery, identity |
+| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-09/F5-evaluation-governance.md) | Conformance, authority, evidence |
+| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-09/F6-ecosystem-society.md) | Open governance and ecosystem structure |
+| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-09/F7-synthesis.md) | Three-day synthesis and judgment revision |
+
+### First Weekly Synthesis / 首份周报
+
+**2026-W32 · Founding Week / 创始周**  
+[`From Construction to Continuous Observation`](./reports/weekly/2026/2026-W32.md)
+
+The first week covers the repository’s real lifetime — **7–9 August 2026** — rather than inventing a seven-day history
+
+首周只覆盖仓库真实存在的 **8 月 7 日至 9 日**，不补写不存在的周一至周四记录
 
 ### Current Lens / 当前观察框架
 
@@ -44,14 +53,15 @@ Model
 → Harness / Runtime
 → Tool & Data Access
 → Agent-to-Agent Coordination
+→ Discovery & Reachability
 → Identity & Authorization
-→ Evaluation & Observability
+→ Conformance, Evaluation & Observability
 → Governance & Deployment Decision
 ```
 
-The current frontier is no longer explained by model capability alone
+The frontier is increasingly a network formation problem, not a single-protocol race
 
-当前前沿已经不能只由模型能力解释，而要观察模型如何进入工具、运行时、智能体协作、身份授权、评测与治理组成的完整系统
+当前前沿越来越像一场网络形成过程，而不是单一协议的胜负赛
 
 ---
 
@@ -67,6 +77,8 @@ Date · Status · Evidence Calibration
 Cross-System Synthesis
           ↓
 One Integrated Daily Report
+          ↓
+Weekly Synthesis
           ↓
 Ledger · Watchlist · Entities · Maps
 ```
