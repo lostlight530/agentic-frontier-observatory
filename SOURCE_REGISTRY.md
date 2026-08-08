@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Data cut-off for initialization: **2026-08-07**
+Updated through: **2026-08-09**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -14,9 +14,14 @@ Data cut-off for initialization: **2026-08-07**
 | G-OPENAI-CHATGPT | G2 | OpenAI | ChatGPT launch, 2022-11-30 | https://openai.com/index/chatgpt/ |
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch, 2024-11-25 | https://www.anthropic.com/news/model-context-protocol |
 | G-AAIF | G1 | Linux Foundation | Agentic AI Foundation, 2025-12-09 | https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation |
+| G-MCP-2026-07-28 | G0 | Model Context Protocol | Final 2026-07-28 specification and migration direction | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
 | G-A2A | G0 | A2A Project | Agent-to-agent interoperability specification | https://a2a-protocol.org/latest/ |
-| G-A2A-SPEC | G0 | A2A Project | Latest released specification | https://a2a-protocol.org/dev/specification/ |
+| G-A2A-RELEASES | G0 | A2A Project | Specification release history | https://github.com/a2aproject/A2A/releases |
+| G-A2A-JS | G2 | A2A Project | JavaScript SDK stable v1.0 implementation | https://github.com/a2aproject/a2a-js/releases |
+| G-DNS-AID | G1 | Linux Foundation | Decentralized discovery for agents and MCP servers | https://www.linuxfoundation.org/press/linux-foundation-announces-dns-aid-project-to-advance-decentralized-ai-agent-discovery |
 | G-NIST-AGENTS | G1 | NIST | AI Agent Standards Initiative | https://www.nist.gov/artificial-intelligence/ai-agent-standards-initiative |
+| G-NIST-IDENTITY | G1 | NIST NCCoE | Software and AI Agent Identity and Authorization | https://www.nccoe.nist.gov/projects/software-and-ai-agent-identity-and-authorization |
+| G-NIST-AI-STANDARDS | G1 | NIST | AI standards landscape and evaluation work | https://www.nist.gov/artificial-intelligence/ai-standards |
 
 ## Maintenance rule / 维护规则
 
