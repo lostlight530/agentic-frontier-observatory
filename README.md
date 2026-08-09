@@ -8,7 +8,7 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 一个以公开权威来源为基础、每日运行的中英双语研究观察站，从人工智能的思想与计算根基持续观察到智能体时代
 
-**[Daily Reports](./reports/daily/) · [Weekly Synthesis](./reports/weekly/) · [History](./history/AI_FROM_ZERO_TO_2026-08.md) · [Methodology](./METHODOLOGY.md) · [Sources](./SOURCE_REGISTRY.md) · [Watchlist](./watchlist/ACTIVE.md) · [Workstreams](./workstreams/README.md)**
+**[Daily Reports](./reports/daily/) · [Weekly Research](./reports/weekly/) · [History](./history/AI_FROM_ZERO_TO_2026-08.md) · [Methodology](./METHODOLOGY.md) · [Sources](./SOURCE_REGISTRY.md) · [Watchlist](./watchlist/ACTIVE.md) · [Workstreams](./workstreams/README.md)**
 
 **Twin Observatory / 双仓联动：** [China Agentic Observatory](https://github.com/lostlight530/china-agentic-observatory)
 
@@ -16,42 +16,47 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-09 — **The Network Appears / 网络显形**
+### 2026-08-10 — **The Agentic Surface Consolidates / 智能体能力回流核心平台**
 
-> **Discovery · Identity · Authority · Evidence**  
-> **发现 · 身份 · 授权 · 证据**
+> **Native Action · Core Platforms · Open Interoperability · Trust**  
+> **原生行动 · 核心平台 · 开放互操作 · 信任**
 
-Today’s observation is delivered as a **9-file research pack**, with the first weekly synthesis published alongside it
+Today’s observation is delivered as a **9-file research pack**, with the first full-week opening brief published alongside it
 
-今天的观察由 **9 份研究文件**共同组成，并同步形成建仓首周周报
+今天的观察由 **9 份研究文件**共同组成，并同步建立第一个完整周的开周基线
 
 | Layer | File | Focus |
 |---|---|---|
-| Integrated report | [`2026-08-09.md`](./reports/daily/2026/08/2026-08-09.md) | One complete daily judgment / 每日完整总判断 |
-| Task index | [`README.md`](./reports/daily/2026/08/2026-08-09/README.md) | Research package map / 今日研究包索引 |
-| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-09/F1-history-theory.md) | Network formation and historical layering |
-| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-09/F2-models-algorithms.md) | Model versus system capability |
-| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-09/F3-infrastructure.md) | Statelessness, routing, discovery, transports |
-| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-09/F4-agentic-systems.md) | MCP, A2A, discovery, identity |
-| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-09/F5-evaluation-governance.md) | Conformance, authority, evidence |
-| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-09/F6-ecosystem-society.md) | Open governance and ecosystem structure |
-| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-09/F7-synthesis.md) | Three-day synthesis and judgment revision |
+| Integrated report | [`2026-08-10.md`](./reports/daily/2026/08/2026-08-10.md) | One complete daily judgment / 每日完整总判断 |
+| Task index | [`README.md`](./reports/daily/2026/08/2026-08-10/README.md) | Research package map / 今日研究包索引 |
+| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-10/F1-history-theory.md) | Agency becoming a platform primitive |
+| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-10/F2-models-algorithms.md) | Native action and model boundaries |
+| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-10/F3-infrastructure.md) | Browser/computer infrastructure and trust |
+| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-10/F4-agentic-systems.md) | Core surfaces versus open interoperability |
+| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-10/F5-evaluation-governance.md) | Deployability, identity, audit, escalation |
+| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-10/F6-ecosystem-society.md) | Consolidation and ecosystem plurality |
+| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-10/F7-synthesis.md) | Inward consolidation + outward standardization |
 
-### First Weekly Synthesis / 首份周报
+### Weekly Research / 本周研究
 
-**2026-W32 · Founding Week / 创始周**  
-[`From Construction to Continuous Observation`](./reports/weekly/2026/2026-W32.md)
+**2026-W33 · First Full Week / 第一个完整周**  
+[`From Network Formation to Operational Trust`](./reports/weekly/2026/2026-W33.md)
 
-The first week covers the repository’s real lifetime — **7–9 August 2026** — rather than inventing a seven-day history
+Monday opens the week with explicit research priorities and falsifiable hypotheses rather than rewriting the already-closed W32 founding synthesis
 
-首周只覆盖仓库真实存在的 **8 月 7 日至 9 日**，不补写不存在的周一至周四记录
+周一 weekly 负责建立本周研究基线与可证伪假设，不重复已经封存的 W32 创始周总结
 
 ### Current Lens / 当前观察框架
 
 ```text
+INWARD CONSOLIDATION
 Model
-→ Harness / Runtime
-→ Tool & Data Access
+→ Native Computer / Browser / Tool Use
+→ Core Product Surface
+→ Harness / Workflow / Enterprise Context
+
+OUTWARD INTEROPERATION
+Tool & Data Access
 → Agent-to-Agent Coordination
 → Discovery & Reachability
 → Identity & Authorization
@@ -59,9 +64,9 @@ Model
 → Governance & Deployment Decision
 ```
 
-The frontier is increasingly a network formation problem, not a single-protocol race
+The frontier is moving in two directions at once: generic agency is becoming native, while trust and interoperability remain explicit infrastructure
 
-当前前沿越来越像一场网络形成过程，而不是单一协议的胜负赛
+当前前沿同时向两个方向发展：通用行动能力正在原生化，而信任与互操作仍必须作为显式基础设施存在
 
 ---
 
@@ -78,7 +83,7 @@ Cross-System Synthesis
           ↓
 One Integrated Daily Report
           ↓
-Weekly Synthesis
+Weekly Research Layer
           ↓
 Ledger · Watchlist · Entities · Maps
 ```
