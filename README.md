@@ -16,57 +16,50 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-10 — **The Agentic Surface Consolidates / 智能体能力回流核心平台**
+### 2026-08-11 — **Discovery Becomes Governed / 发现开始被治理**
 
-> **Native Action · Core Platforms · Open Interoperability · Trust**  
-> **原生行动 · 核心平台 · 开放互操作 · 信任**
+> **Federation · Registries · Policy Scope · Invocation**  
+> **联邦发现 · 注册表 · 策略范围 · 调用边界**
 
-Today’s observation is delivered as a **9-file research pack**, with the first full-week opening brief published alongside it
+Today's observation is delivered as a **9-file research pack**, while W33 is updated with its first progress check
 
-今天的观察由 **9 份研究文件**共同组成，并同步建立第一个完整周的开周基线
+今天的观察由 **9 份研究文件**共同组成，并同步更新 W33 首次周内进展检查
 
 | Layer | File | Focus |
 |---|---|---|
-| Integrated report | [`2026-08-10.md`](./reports/daily/2026/08/2026-08-10.md) | One complete daily judgment / 每日完整总判断 |
-| Task index | [`README.md`](./reports/daily/2026/08/2026-08-10/README.md) | Research package map / 今日研究包索引 |
-| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-10/F1-history-theory.md) | Agency becoming a platform primitive |
-| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-10/F2-models-algorithms.md) | Native action and model boundaries |
-| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-10/F3-infrastructure.md) | Browser/computer infrastructure and trust |
-| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-10/F4-agentic-systems.md) | Core surfaces versus open interoperability |
-| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-10/F5-evaluation-governance.md) | Deployability, identity, audit, escalation |
-| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-10/F6-ecosystem-society.md) | Consolidation and ecosystem plurality |
-| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-10/F7-synthesis.md) | Inward consolidation + outward standardization |
+| Integrated report | [`2026-08-11.md`](./reports/daily/2026/08/2026-08-11.md) | Governed discovery / 受治理发现 |
+| Task index | [`README.md`](./reports/daily/2026/08/2026-08-11/README.md) | Research package map |
+| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-11/F1-history-theory.md) | Discovery as a systems layer |
+| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-11/F2-models-algorithms.md) | Model capability vs resource selection |
+| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-11/F3-infrastructure.md) | Registry · federation · conformance |
+| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-11/F4-agentic-systems.md) | ARD · MCP · A2A |
+| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-11/F5-evaluation-governance.md) | Discovery ≠ authorization ≠ invocation |
+| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-11/F6-ecosystem-society.md) | Ranking and ecosystem power |
+| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-11/F7-synthesis.md) | Governed discovery as trust infrastructure |
 
 ### Weekly Research / 本周研究
 
 **2026-W33 · First Full Week / 第一个完整周**  
-[`From Network Formation to Operational Trust`](./reports/weekly/2026/2026-W33.md)
+[`From Network Formation to Operational Trust — 11 Aug Progress Check`](./reports/weekly/2026/2026-W33.md)
 
-Monday opens the week with explicit research priorities and falsifiable hypotheses rather than rewriting the already-closed W32 founding synthesis
+W33 H2 and H3 are strengthened today: discovery, registry policy, and conformance are becoming first-class operational infrastructure
 
-周一 weekly 负责建立本周研究基线与可证伪假设，不重复已经封存的 W32 创始周总结
+今天 W33 的 H2、H3 被新证据强化：发现、注册表策略与一致性开始成为独立基础设施层
 
 ### Current Lens / 当前观察框架
 
 ```text
-INWARD CONSOLIDATION
-Model
-→ Native Computer / Browser / Tool Use
-→ Core Product Surface
-→ Harness / Workflow / Enterprise Context
-
-OUTWARD INTEROPERATION
-Tool & Data Access
-→ Agent-to-Agent Coordination
-→ Discovery & Reachability
-→ Identity & Authorization
-→ Conformance, Evaluation & Observability
-→ Governance & Deployment Decision
+Resource Publication
+→ Federated Discovery / Registry
+→ Ranking & Policy Scope
+→ User / Organization Selection
+→ Authorization
+→ Invocation via MCP / A2A / API
+→ Identity & Audit
+→ Conformance / Evaluation / Governance
 ```
 
-The frontier is moving in two directions at once: generic agency is becoming native, while trust and interoperability remain explicit infrastructure
-
-当前前沿同时向两个方向发展：通用行动能力正在原生化，而信任与互操作仍必须作为显式基础设施存在
+> **Discovery ≠ Authorization ≠ Invocation**
 
 ---
 
@@ -88,9 +81,7 @@ Weekly Research Layer
 Ledger · Watchlist · Entities · Maps
 ```
 
-The workstreams remain independently readable, while the integrated report is the single daily top-level judgment
-
-各分任务保留独立研究结果，总报告负责去重、校准、跨系统综合并形成当日唯一顶层判断
+各分任务保留独立结果，总报告负责去重、状态校准和跨系统判断
 
 ---
 
@@ -101,14 +92,12 @@ The workstreams remain independently readable, while the integrated report is th
 | Foundations | Logic · computation · cybernetics · learning · search · automation |
 | Models | Deep learning · foundation models · multimodality · reasoning · scientific AI |
 | Agentic Systems | Runtime · harness · memory · tools · computer use · long-horizon work |
-| Protocols | MCP · A2A · discovery · identity · authorization · delegation · payments |
-| Infrastructure | Chips · compute · data · cloud · edge · energy · evaluation infrastructure |
+| Protocols | MCP · A2A · ARD · discovery · identity · authorization · delegation |
+| Infrastructure | Chips · compute · data · cloud · edge · registries · evaluation infrastructure |
 | Governance | Safety · security · standards · policy · transparency · human oversight |
 | Ecosystem | Open source · research institutions · industry · economy · labor · society |
 
-The scope is intentionally broad
-
-研究范围不限于某个模型、协议、公司或“Agent 新闻”，凡是能够解释人工智能如何形成、如何演进以及正在走向何处的公开材料，都可以进入观察范围
+研究范围不限于某个模型、协议、公司或“Agent 新闻”
 
 ---
 
@@ -116,8 +105,8 @@ The scope is intentionally broad
 
 - **Primary sources first / 一手来源优先**
 - **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
-- **Fact ≠ external claim ≠ observatory analysis / 事实、外部声明与本仓分析严格区分**
-- **Draft ≠ release · roadmap ≠ implementation / 草案不等于发布，路线图不等于实现**
+- **Fact ≠ external claim ≠ observatory analysis**
+- **Draft ≠ release · discovery ≠ permission · permission ≠ invocation**
 - **No forced novelty / 不为了日报制造趋势**
 - **Correction is a feature / 新证据要求时必须修正旧判断**
 - **No capability validation / 不运行、部署或验证外部项目能力**
@@ -129,12 +118,6 @@ The scope is intentionally broad
 ## Origin / 起源
 
 **Founded on 7 August 2026 / 成立于 2026 年 8 月 7 日**
-
-1956 年，人工智能作为研究领域在达特茅斯正式命名
-
-七十年后，AI 已从模型与算法扩展为模型、工具、协议、身份、授权、评测、治理和人类判断共同组成的全球系统
-
-第九仓由此承担一个新的职责：不再继续向内制造另一套 Agent，而是每天向外观察世界
 
 > **From imagination to intelligence**  
 > **From the past to the future**  
@@ -148,7 +131,7 @@ The scope is intentionally broad
 
 This repository is a research observatory, not an autonomous-agent runtime, benchmark laboratory, certification service, news scraper, marketing tracker, or investment service
 
-本仓库只进行公开来源搜索、事实校准、关系分析、趋势判断与判断修正，不承担外部项目执行、能力验证或认证职责
+本仓库只进行公开来源搜索、事实校准、关系分析、趋势判断与判断修正
 
 ## License
 
