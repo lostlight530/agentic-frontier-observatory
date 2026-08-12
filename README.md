@@ -16,53 +16,54 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-12 — **Identity Becomes the Principal / 身份成为主体**
+### 2026-08-13 — **Identity Reaches the Wire / 身份走上网络线**
 
-> **Agent Identity · Delegation · Least Privilege · Accountability**  
-> **智能体身份 · 委托 · 最小权限 · 可追责性**
+> **Signed Requests · Web Bot Auth · Edge Verification · Request Identity**  
+> **签名请求 · Web Bot Auth · 边缘验证 · 请求级身份**
 
-Today's observation is delivered as a **9-file research pack**, while W33 receives its second progress check
+Today's observation is delivered as a **9-file research pack**, while W33 receives its third progress check
 
-今天的观察由 **9 份研究文件**共同组成，并同步更新 W33 第二次周内进展检查
+今天的观察由 **9 份研究文件**共同组成，并同步更新 W33 第三次周内进展检查
 
 | Layer | File | Focus |
 |---|---|---|
-| Integrated report | [`2026-08-12.md`](./reports/daily/2026/08/2026-08-12.md) | First-class agent identity / 第一类智能体身份 |
-| Task index | [`README.md`](./reports/daily/2026/08/2026-08-12/README.md) | Research package map |
-| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-12/F1-history-theory.md) | From software actor to accountable principal |
-| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-12/F2-models-algorithms.md) | Capability remains separate from authority |
-| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-12/F3-infrastructure.md) | Tokens, attestation, workload identity |
-| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-12/F4-agentic-systems.md) | Discovery → identity → authorization |
-| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-12/F5-evaluation-governance.md) | Sponsors, least privilege, audit, revocation |
-| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-12/F6-ecosystem-society.md) | Accountability for nonhuman actors |
-| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-12/F7-synthesis.md) | Cross-vendor identity convergence |
+| Integrated report | [`2026-08-13.md`](./reports/daily/2026/08/2026-08-13.md) | Request-level cryptographic identity / 请求级密码学身份 |
+| Task index | [`README.md`](./reports/daily/2026/08/2026-08-13/README.md) | Research package map |
+| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-13/F1-history-theory.md) | From asserted identity to proof |
+| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-13/F2-models-algorithms.md) | Capability drives trust demand |
+| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-13/F3-infrastructure.md) | Signatures · keys · edge verification |
+| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-13/F4-agentic-systems.md) | Control-plane vs request-plane identity |
+| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-13/F5-evaluation-governance.md) | Authenticated traffic ≠ authorized action |
+| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-13/F6-ecosystem-society.md) | Verified agents and Web policy |
+| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-13/F7-synthesis.md) | Identity reaches the action boundary |
 
 ### Weekly Research / 本周研究
 
 **2026-W33 · First Full Week / 第一个完整周**  
-[`From Network Formation to Operational Trust — 12 Aug Progress Check`](./reports/weekly/2026/2026-W33.md)
+[`From Network Formation to Operational Trust — 13 Aug Progress Check`](./reports/weekly/2026/2026-W33.md)
 
-W33 now has a new H4: **agent identity becomes a first-class principal**. H2 and H3 are strengthened again by concrete Microsoft, Google Cloud, and AWS identity architectures
+W33 H4 is strengthened and refined today, while H5 is introduced: **request-level cryptographic agent identity becomes a Web primitive**
 
-W33 今天新增 H4：**智能体身份成为第一类主体**，Microsoft、Google Cloud 与 AWS 的现实身份架构再次强化 H2/H3
+今天 W33 强化并细化 H4，同时新增 H5：**请求级密码学智能体身份成为 Web 基础能力**
 
 ### Current Lens / 当前观察框架
 
 ```text
 Resource Publication
 → Governed Discovery / Registry
-→ Resource Selection
 → Agent Principal / Identity
-→ Human Sponsor / Workload Owner
+→ Sponsor / Owner
 → Authentication
-→ Delegated or Autonomous Authorization
+→ Authorization
 → Credential / Token
+→ Request Signature
+→ Edge / Origin Verification
 → Invocation
 → Audit / Revocation / Lifecycle
 → Evaluation / Governance
 ```
 
-> **Discovery ≠ Identity ≠ Credential ≠ Authority ≠ Invocation**
+> **Discovery ≠ Identity ≠ Credential ≠ Authority ≠ Request Proof ≠ Invocation**
 
 ---
 
@@ -94,7 +95,7 @@ Ledger · Watchlist · Entities · Maps
 | Models | Deep learning · foundation models · multimodality · reasoning · scientific AI |
 | Agentic Systems | Runtime · harness · memory · tools · computer use · long-horizon work |
 | Protocols | MCP · A2A · ARD · discovery · identity · authorization · delegation |
-| Infrastructure | Chips · compute · data · cloud · edge · registries · identity · evaluation |
+| Infrastructure | Chips · compute · data · cloud · edge · registries · request identity · evaluation |
 | Governance | Safety · security · standards · policy · transparency · human oversight |
 | Ecosystem | Open source · research institutions · industry · economy · labor · society |
 
@@ -107,10 +108,10 @@ Ledger · Watchlist · Entities · Maps
 - **Primary sources first / 一手来源优先**
 - **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
 - **Fact ≠ external claim ≠ observatory analysis**
-- **Draft ≠ release · discovery ≠ identity · identity ≠ authority**
-- **Architecture convergence ≠ protocol convergence**
+- **RFC ≠ Internet-Draft · implementation ≠ universal interoperability**
+- **Identity ≠ credential · authentication ≠ authorization**
+- **Signed request ≠ end-user consent**
 - **No forced novelty / 不为了日报制造趋势**
-- **Correction is a feature / 新证据要求时必须修正旧判断**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
 → [`Daily SOP`](./DAILY_SOP.md) · [`Methodology`](./METHODOLOGY.md) · [`Source Registry`](./SOURCE_REGISTRY.md)
