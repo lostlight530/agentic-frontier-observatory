@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-11**
+Updated through: **2026-08-12**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -12,22 +12,25 @@ Updated through: **2026-08-11**
 | G-TRANSFORMER | G3 | Original paper | Transformer architecture | https://arxiv.org/abs/1706.03762 |
 | G-OPENAI-RELEASE-NOTES | G2 | OpenAI | ChatGPT product chronology | https://help.openai.com/en/articles/6825453-chatgpt-release-notes |
 | G-OPENAI-PRESENCE | G2 | OpenAI | Production-agent policy and escalation | https://openai.com/index/introducing-openai-presence/ |
-| G-GOOGLE-COMPUTER-USE | G2 | Google | Built-in computer use in Gemini 3.5 Flash | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ |
+| G-GOOGLE-COMPUTER-USE | G2 | Google | Built-in computer use | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ |
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch | https://www.anthropic.com/news/model-context-protocol |
 | G-AAIF | G1 | Linux Foundation | Agentic AI Foundation | https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation |
 | G-MCP-2026-07-28 | G0 | Model Context Protocol | Final 2026-07-28 specification | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
 | G-MCP-EMA | G0 | Model Context Protocol | Enterprise-Managed Authorization | https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ |
 | G-A2A | G0 | A2A Project | Agent interoperability specification | https://a2a-protocol.org/latest/ |
 | G-A2A-DISCOVERY | G0 | A2A Project | Agent Card discovery | https://a2a-protocol.org/latest/topics/agent-discovery/ |
-| G-A2A-RELEASES | G0 | A2A Project | Specification releases | https://github.com/a2aproject/A2A/releases |
-| G-DNS-AID | G1 | Linux Foundation | Decentralized agent discovery | https://www.linuxfoundation.org/press/linux-foundation-announces-dns-aid-project-to-advance-decentralized-ai-agent-discovery |
-| G-ARD-INTRO | G1 | Microsoft | Agentic Resource Discovery introduction and architecture | https://commandline.microsoft.com/agentic-resource-discovery-specification-ard/ |
-| G-ARD-SPEC | G0 | ARD Project | Canonical v0.9 Draft specification and conformance tooling | https://github.com/ards-project/ard-spec |
-| G-GITHUB-AGENT-FINDER | G2 | GitHub | ARD-based governed resource discovery | https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/ |
-| G-GITHUB-AI-CONTROLS | G2 | GitHub | Enterprise agent policy, audit, and MCP allowlists | https://github.blog/changelog/2026-02-26-enterprise-ai-controls-agent-control-plane-now-generally-available/ |
+| G-ARD-SPEC | G0 | ARD Project | Federated discovery draft | https://github.com/ards-project/ard-spec |
+| G-GITHUB-AGENT-FINDER | G2 | GitHub | Governed resource discovery | https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/ |
+| G-MS-ENTRA-AGENT-ID | G2 | Microsoft | First-class agent identity, lifecycle and governance | https://learn.microsoft.com/en-us/entra/agent-id/ |
+| G-MS-ENTRA-AUTH | G2 | Microsoft | Agent authorization and blocked high-privilege permissions | https://learn.microsoft.com/en-us/entra/agent-id/authorization-agent-id |
+| G-MS-ENTRA-IDENTITIES | G2 | Microsoft | Agent identity, blueprint, sponsor and token semantics | https://learn.microsoft.com/en-us/entra/agent-id/agent-identities |
+| G-GCP-AGENT-IDENTITY | G2 | Google Cloud | SPIFFE-based attested Agent Identity | https://docs.cloud.google.com/iam/docs/agent-identity-overview |
+| G-GCP-WORKLOAD-IDENTITIES | G2 | Google Cloud | Agent identities within workload identity model | https://docs.cloud.google.com/iam/docs/workload-identities |
+| G-AWS-AGENTCORE-IDENTITY | G2 | AWS | AgentCore Identity and credential management | https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html |
+| G-AWS-WORKLOAD-IDENTITY | G2 | AWS | Stable workload identity for agents | https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/understanding-agent-identities.html |
 | G-NIST-AGENTS | G1 | NIST | AI Agent Standards Initiative | https://www.nist.gov/artificial-intelligence/ai-agent-standards-initiative |
 | G-NIST-IDENTITY | G1 | NIST NCCoE | Software and AI Agent Identity and Authorization | https://www.nccoe.nist.gov/projects/software-and-ai-agent-identity-and-authorization |
 
 ## Maintenance rule / 维护规则
 
-A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit.
+A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence.
