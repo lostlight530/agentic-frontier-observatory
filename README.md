@@ -14,92 +14,32 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ---
 
-## Current Research Pack / 当前研究包
+## Current Research / 当前研究
 
-### 2026-08-13 — **Identity Reaches the Wire / 身份走上网络线**
+### 2026-08-14 — **Authority Gets a Receipt / 授权开始留下收据**
 
-> **Signed Requests · Web Bot Auth · Edge Verification · Request Identity**  
-> **签名请求 · Web Bot Auth · 边缘验证 · 请求级身份**
+> **Delegated Intent · User-Approved Scope · Outcome Evidence**  
+> **委托意图 · 用户批准范围 · 结果证据**
 
-Today's observation is delivered as a **9-file research pack**, while W33 receives its third progress check
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-14.md) · [`W33 Friday Progress`](./reports/weekly/2026/2026-W33-2026-08-14-progress.md)
 
-今天的观察由 **9 份研究文件**共同组成，并同步更新 W33 第三次周内进展检查
+Today’s research extends yesterday’s request-provenance layer into a new evidence boundary: an authentic Agent request still needs a representation of what the user approved and what outcome was recorded
 
-| Layer | File | Focus |
-|---|---|---|
-| Integrated report | [`2026-08-13.md`](./reports/daily/2026/08/2026-08-13.md) | Request-level cryptographic identity / 请求级密码学身份 |
-| Task index | [`README.md`](./reports/daily/2026/08/2026-08-13/README.md) | Research package map |
-| F1 | [`History & Theory`](./reports/daily/2026/08/2026-08-13/F1-history-theory.md) | From asserted identity to proof |
-| F2 | [`Models & Algorithms`](./reports/daily/2026/08/2026-08-13/F2-models-algorithms.md) | Capability drives trust demand |
-| F3 | [`Infrastructure`](./reports/daily/2026/08/2026-08-13/F3-infrastructure.md) | Signatures · keys · edge verification |
-| F4 | [`Agentic Systems`](./reports/daily/2026/08/2026-08-13/F4-agentic-systems.md) | Control-plane vs request-plane identity |
-| F5 | [`Evaluation & Governance`](./reports/daily/2026/08/2026-08-13/F5-evaluation-governance.md) | Authenticated traffic ≠ authorized action |
-| F6 | [`Ecosystem & Society`](./reports/daily/2026/08/2026-08-13/F6-ecosystem-society.md) | Verified agents and Web policy |
-| F7 | [`Synthesis`](./reports/daily/2026/08/2026-08-13/F7-synthesis.md) | Identity reaches the action boundary |
-
-### Weekly Research / 本周研究
-
-**2026-W33 · First Full Week / 第一个完整周**  
-[`From Network Formation to Operational Trust — 13 Aug Progress Check`](./reports/weekly/2026/2026-W33.md)
-
-W33 H4 is strengthened and refined today, while H5 is introduced: **request-level cryptographic agent identity becomes a Web primitive**
-
-今天 W33 强化并细化 H4，同时新增 H5：**请求级密码学智能体身份成为 Web 基础能力**
-
-### Current Lens / 当前观察框架
+今天的研究把昨天的请求来源证明继续推进到新的证据边界：请求来自真实 Agent 仍然不等于用户批准了这项行动，系统还需要表达用户批准范围与后续结果证据
 
 ```text
-Resource Publication
-→ Governed Discovery / Registry
-→ Agent Principal / Identity
-→ Sponsor / Owner
-→ Authentication
-→ Authorization
-→ Credential / Token
-→ Request Signature
-→ Edge / Origin Verification
-→ Invocation
-→ Audit / Revocation / Lifecycle
-→ Evaluation / Governance
+Agent identity
+→ request provenance
+→ user-approved scope
+→ action decision
+→ outcome evidence
 ```
 
-> **Discovery ≠ Identity ≠ Credential ≠ Authority ≠ Request Proof ≠ Invocation**
+### W33 update
 
----
+H4 and H5 are strengthened and refined, while **H6 — delegated intent becomes portable evidence** is introduced
 
-## Research System / 研究系统
-
-```text
-Authoritative Public Sources
-          ↓
-7 Independent Workstreams
-          ↓
-Date · Status · Evidence Calibration
-          ↓
-Cross-System Synthesis
-          ↓
-One Integrated Daily Report
-          ↓
-Weekly Research Layer
-          ↓
-Ledger · Watchlist · Entities · Maps
-```
-
----
-
-## Research Coverage / 研究覆盖
-
-| Layer | Coverage |
-|---|---|
-| Foundations | Logic · computation · cybernetics · learning · search · automation |
-| Models | Deep learning · foundation models · multimodality · reasoning · scientific AI |
-| Agentic Systems | Runtime · harness · memory · tools · computer use · long-horizon work |
-| Protocols | MCP · A2A · ARD · discovery · identity · authorization · delegation |
-| Infrastructure | Chips · compute · data · cloud · edge · registries · request identity · evaluation |
-| Governance | Safety · security · standards · policy · transparency · human oversight |
-| Ecosystem | Open source · research institutions · industry · economy · labor · society |
-
-研究范围不限于某个模型、协议、公司或“Agent 新闻”
+AP2 v0.2 is treated as payment-domain evidence; FIDO Agentic AI work remains active standards work, not a finished universal standard
 
 ---
 
@@ -108,9 +48,9 @@ Ledger · Watchlist · Entities · Maps
 - **Primary sources first / 一手来源优先**
 - **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
 - **Fact ≠ external claim ≠ observatory analysis**
-- **RFC ≠ Internet-Draft · implementation ≠ universal interoperability**
-- **Identity ≠ credential · authentication ≠ authorization**
-- **Signed request ≠ end-user consent**
+- **Identity ≠ request provenance ≠ user-approved scope**
+- **Payment-domain protocol ≠ universal Agent standard**
+- **Evidence of scope ≠ task correctness**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
@@ -126,15 +66,7 @@ Ledger · Watchlist · Entities · Maps
 > **From the past to the future**  
 > **From isolated systems to the agentic frontier**
 
-→ [`ORIGIN.md`](./ORIGIN.md) · [`AI from Zero to August 2026`](./history/AI_FROM_ZERO_TO_2026-08.md) · [`Ten-Repository Context`](./TEN_REPOSITORY_CONTEXT.md)
-
----
-
-## Boundary / 边界
-
-This repository is a research observatory, not an autonomous-agent runtime, benchmark laboratory, certification service, news scraper, marketing tracker, or investment service
-
-本仓库只进行公开来源搜索、事实校准、关系分析、趋势判断与判断修正
+→ [`ORIGIN.md`](./ORIGIN.md) · [`Ten-Repository Context`](./TEN_REPOSITORY_CONTEXT.md)
 
 ## License
 
