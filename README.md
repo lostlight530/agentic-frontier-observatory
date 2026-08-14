@@ -16,30 +16,32 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-14 — **Authority Gets a Receipt / 授权开始留下收据**
+### 2026-08-15 — **Trust Crosses Domains / 信任跨越边界**
 
-> **Delegated Intent · User-Approved Scope · Outcome Evidence**  
-> **委托意图 · 用户批准范围 · 结果证据**
+> **Delegation · Trust Domains · Gateways · Provenance · Audit**  
+> **委托 · 信任域 · 网关 · 来源证据 · 审计**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-14.md) · [`W33 Friday Progress`](./reports/weekly/2026/2026-W33-2026-08-14-progress.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-15.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-15/) · [`W33 Saturday Checkpoint`](./reports/weekly/2026/2026-W33-2026-08-15-progress.md)
 
-Today’s research extends yesterday’s request-provenance layer into a new evidence boundary: an authentic Agent request still needs a representation of what the user approved and what outcome was recorded
+Today extends yesterday's portable delegated-intent evidence into a cross-domain question: can identity, delegated scope, revocation and audit remain interpretable when an Agent crosses organizational boundaries?
 
-今天的研究把昨天的请求来源证明继续推进到新的证据边界：请求来自真实 Agent 仍然不等于用户批准了这项行动，系统还需要表达用户批准范围与后续结果证据
+今天把昨日“可携带委托意图”继续推进到跨域问题：当 Agent 穿过企业、云、SaaS、网关和第三方平台时，身份、委托范围、撤销与审计能否继续被另一信任域解释
 
 ```text
-Agent identity
-→ request provenance
-→ user-approved scope
-→ action decision
-→ outcome evidence
+discovery
+→ identity
+→ delegation
+→ trust-domain boundary
+→ policy interpretation
+→ action
+→ audit / revocation
 ```
 
 ### W33 update
 
-H4 and H5 are strengthened and refined, while **H6 — delegated intent becomes portable evidence** is introduced
+H6 is strengthened and refined, while **H7 — trust domains become an explicit interoperability boundary** is introduced
 
-AP2 v0.2 is treated as payment-domain evidence; FIDO Agentic AI work remains active standards work, not a finished universal standard
+All cited IETF Agent trust documents remain Internet-Drafts / work in progress, not consensus Internet standards
 
 ---
 
@@ -48,9 +50,9 @@ AP2 v0.2 is treated as payment-domain evidence; FIDO Agentic AI work remains act
 - **Primary sources first / 一手来源优先**
 - **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
 - **Fact ≠ external claim ≠ observatory analysis**
-- **Identity ≠ request provenance ≠ user-approved scope**
-- **Payment-domain protocol ≠ universal Agent standard**
-- **Evidence of scope ≠ task correctness**
+- **Transport interoperability ≠ trust interoperability**
+- **Internet-Draft ≠ RFC / consensus standard**
+- **Identity ≠ delegation ≠ foreign-domain acceptance**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
