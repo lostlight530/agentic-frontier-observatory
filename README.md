@@ -16,35 +16,42 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-16 — **The Trust Stack Holds / 信任栈成立**
+### 2026-08-17 — **Governance Reaches the Workspace / 治理进入工作空间**
 
-> **Capability · Identity · Provenance · Delegation · Trust Domains · Audit**  
-> **能力 · 身份 · 来源证明 · 委托 · 信任域 · 审计**
+> **Publish · Access · Connection Identity · Approval · Constraint · Trigger · Audit**  
+> **发布 · 访问 · 连接身份 · 批准 · 约束 · 触发 · 审计**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-16.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-16/) · [`W33 Final`](./reports/weekly/2026/2026-W33.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-17.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-17/) · [`W34 Opening`](./reports/weekly/2026/2026-W34.md)
 
-W33 closes with a durable structural judgment: generic agentic capability can move into core AI platforms, while accountable action still requires an explicit trust stack around identity, delegation, provenance, revocation and audit
+W33 made the Agent trust stack visible
 
-W33 最终收官：通用 Agent 行动力可以被核心平台吸收，但可追责行动仍需要身份、委托、来源证明、撤销与审计组成的显式信任栈
+W34 begins by asking how that stack becomes a real operational workspace: which definition is live, who may run it, whose identity reaches downstream systems, what actions are constrained or approved, how it is triggered, and what evidence remains afterward
+
+W33 让信任栈变得可见
+
+W34 第一问是：这套信任如何真正进入共享 Agent 的发布、访问、连接身份、批准、触发与审计
 
 ```text
-Native Agentic Capability
-→ Governed Discovery
-→ Agent Principal / Identity
-→ Request Provenance
-→ Delegated User Scope
-→ Trust-Domain Boundary
-→ Policy Interpretation
-→ Action
-→ Audit / Revocation / Evaluation
+AGENT DEFINITION
+→ DRAFT
+→ PUBLISH
+→ ACCESS / AUDIENCE
+→ CONNECTION IDENTITY
+→ TOOL / ACTION SCOPE
+→ APPROVAL / CONSTRAINT
+→ SCHEDULE / API / CHANNEL TRIGGER
+→ EXECUTION
+→ AUDIT / ANALYTICS / REVOCATION
 ```
 
-### W33 final settlement
+### W34 opening hypotheses
 
-- **DURABLE:** H1, H3, H4
-- **STRENGTHENED BUT OPEN:** H2, H5, H6
-- **OPEN / STRONG DESIGN SIGNAL:** H7
-- **REFUTED:** none
+- H1 — governance becomes a product primitive
+- H2 — published state becomes an execution boundary
+- H3 — connection identity becomes an authority dimension
+- H4 — policy closure requires more than write approval
+- H5 — human accountability persists above autonomous execution
+- H6 — vendor-local governance pressures open interoperability
 
 ---
 
@@ -53,11 +60,11 @@ Native Agentic Capability
 - **Primary sources first / 一手来源优先**
 - **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
 - **Fact ≠ external claim ≠ observatory analysis**
-- **Capability ≠ deployability**
-- **Identity ≠ credential ≠ authority**
-- **Authenticated origin ≠ delegated user authority**
-- **Transport interoperability ≠ trust interoperability**
-- **Protocol publication ≠ operational maturity**
+- **Workspace control ≠ open standard**
+- **Editable draft ≠ live executable state**
+- **Shared connection ≠ delegated user authority**
+- **Write approval ≠ data-return governance**
+- **Audit visibility ≠ task correctness**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
