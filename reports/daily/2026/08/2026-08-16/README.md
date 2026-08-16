@@ -15,4 +15,4 @@
 | F6 | [`F6-ecosystem-society.md`](./F6-ecosystem-society.md) | Consolidated surfaces, plural trust infrastructure |
 | F7 | [`F7-synthesis.md`](./F7-synthesis.md) | W33 final synthesis |
 
-Weekly closure: [`2026-W33 Final`](../../../weekly/2026/2026-W33.md)
+Weekly closure: [`2026-W33 Final`](../../../../weekly/2026/2026-W33.md)
