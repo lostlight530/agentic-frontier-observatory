@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-13**
+Updated through: **2026-08-17**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -10,6 +10,8 @@ Updated through: **2026-08-13**
 | G-OPENAI-RELEASE-NOTES | G2 | OpenAI | ChatGPT product chronology | https://help.openai.com/en/articles/6825453-chatgpt-release-notes |
 | G-OPENAI-PRESENCE | G2 | OpenAI | Production-agent policy and escalation | https://openai.com/index/introducing-openai-presence/ |
 | G-OPENAI-AGENT-SIGNED-REQUESTS | G2 | OpenAI | ChatGPT agent signed outbound HTTP requests and allowlisting | https://help.openai.com/en/articles/11845367 |
+| G-OPENAI-WORKSPACE-AGENTS | G2 | OpenAI | Workspace Agent publishing, RBAC, connections, schedules, API triggers, approvals and constraints | https://help.openai.com/en/articles/20001143-chatgpt-workspace-agents-for-enterprise-and-business |
+| G-GITHUB-AGENT-CONTROL-PLANE | G2 | GitHub | Enterprise Agent sessions, audit, policies and MCP governance | https://github.blog/changelog/2026-02-26-enterprise-ai-controls-agent-control-plane-now-generally-available/ |
 | G-GOOGLE-COMPUTER-USE | G2 | Google | Built-in computer use | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ |
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch | https://www.anthropic.com/news/model-context-protocol |
 | G-MCP-2026-07-28 | G0 | Model Context Protocol | 2026-07-28 specification | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
@@ -18,6 +20,7 @@ Updated through: **2026-08-13**
 | G-ARD-SPEC | G0 | ARD Project | Federated discovery draft | https://github.com/ards-project/ard-spec |
 | G-GITHUB-AGENT-FINDER | G2 | GitHub | Governed resource discovery | https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/ |
 | G-MS-ENTRA-AGENT-ID | G2 | Microsoft | First-class agent identity and governance | https://learn.microsoft.com/en-us/entra/agent-id/ |
+| G-MS-ENTRA-AGENT-GOVERNANCE | G2 | Microsoft | Agent sponsors, access packages, expiry and Conditional Access | https://learn.microsoft.com/en-us/entra/id-governance/agent-id-governance-overview |
 | G-GCP-AGENT-IDENTITY | G2 | Google Cloud | Attested Agent Identity | https://docs.cloud.google.com/iam/docs/agent-identity-overview |
 | G-AWS-AGENTCORE-IDENTITY | G2 | AWS | AgentCore Identity | https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html |
 | G-RFC-9421 | G0 | IETF / RFC Editor | HTTP Message Signatures | https://www.rfc-editor.org/rfc/rfc9421 |
@@ -28,4 +31,4 @@ Updated through: **2026-08-13**
 
 ## Maintenance rule / 维护规则
 
-A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Standardized HTTP Message Signatures must be distinguished from agent-specific Internet-Drafts and provider implementations.
+A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance.
