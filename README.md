@@ -16,42 +16,41 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-17 — **Governance Reaches the Workspace / 治理进入工作空间**
+### 2026-08-18 — **Execution Leaves a Trace / 执行开始留下轨迹**
 
-> **Publish · Access · Connection Identity · Approval · Constraint · Trigger · Audit**  
-> **发布 · 访问 · 连接身份 · 批准 · 约束 · 触发 · 审计**
+> **Session Evidence · Tool Calls · Task State · Audit · SIEM · Review**  
+> **会话证据 · 工具调用 · 任务状态 · 审计 · SIEM · 复核**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-17.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-17/) · [`W34 Opening`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-18.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-18/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
 
-W33 made the Agent trust stack visible
+Yesterday W34 moved governance into the execution surface
 
-W34 begins by asking how that stack becomes a real operational workspace: which definition is live, who may run it, whose identity reaches downstream systems, what actions are constrained or approved, how it is triggered, and what evidence remains afterward
+Today the model extends from preventive controls into structured runtime evidence: prompts, responses, tool calls, session state, audit and enterprise telemetry become part of the governance envelope
 
-W33 让信任栈变得可见
+昨天 W34 让治理进入真实执行面
 
-W34 第一问是：这套信任如何真正进入共享 Agent 的发布、访问、连接身份、批准、触发与审计
+今天进一步确认：只控制“能不能做”还不够，生产 Agent 还必须留下“实际做了什么”的结构化运行证据
 
 ```text
-AGENT DEFINITION
-→ DRAFT
-→ PUBLISH
-→ ACCESS / AUDIENCE
-→ CONNECTION IDENTITY
-→ TOOL / ACTION SCOPE
-→ APPROVAL / CONSTRAINT
-→ SCHEDULE / API / CHANNEL TRIGGER
-→ EXECUTION
-→ AUDIT / ANALYTICS / REVOCATION
+PRE-EXECUTION
+publish → identity → policy → trigger
+
+IN-EXECUTION
+prompt → response → tool call → task state
+
+POST-EXECUTION
+audit → SIEM → review → revocation / policy update
 ```
 
-### W34 opening hypotheses
+### W34 progress
 
-- H1 — governance becomes a product primitive
-- H2 — published state becomes an execution boundary
-- H3 — connection identity becomes an authority dimension
-- H4 — policy closure requires more than write approval
-- H5 — human accountability persists above autonomous execution
-- H6 — vendor-local governance pressures open interoperability
+- H1 — **STRENGTHENED**
+- H2 — **SUPPORTED / unchanged**
+- H3 — **SUPPORTED / unchanged**
+- H4 — **STRENGTHENED**
+- H5 — **STRENGTHENED**
+- H6 — **OPEN**
+- H7 — **NEW: session evidence becomes a governance primitive**
 
 ---
 
@@ -64,7 +63,8 @@ AGENT DEFINITION
 - **Editable draft ≠ live executable state**
 - **Shared connection ≠ delegated user authority**
 - **Write approval ≠ data-return governance**
-- **Audit visibility ≠ task correctness**
+- **Session visibility ≠ execution correctness**
+- **Vendor telemetry ≠ cross-platform observability standard**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
