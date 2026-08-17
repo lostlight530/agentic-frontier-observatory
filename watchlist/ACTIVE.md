@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-17
+Updated: 2026-08-18
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -10,7 +10,7 @@ Updated: 2026-08-17
 | G-W04 | Can benchmarks measure long-horizon recovery and authority boundaries? | OPEN | Public methods |
 | G-W05 | How do DNS-AID, registries, MCP, A2A and ARD compose? | OPEN | Crosswalks and deployments |
 | G-W06 | Which harness layers become standardized versus model-native? | OPEN | Runtime and model APIs |
-| G-W07 | Can observability reconstruct delegation, revocation and recovery? | OPEN | Tracing and audit methods |
+| G-W07 | Can observability reconstruct delegation, revocation and recovery? | **STRENGTHENED / open** | Session traces, audit methods, cross-system correlation |
 | G-W08 | Are standalone agent surfaces being absorbed into core AI products? | **DURABLE TREND / monitor** | Product transitions |
 | G-W09 | Can enterprise authorization span browser actions, MCP, A2A, cloud IAM and human approvals? | **STRENGTHENED / open** | Cross-system demonstrations |
 | G-W10 | Can ARD, DNS-AID, A2A Agent Cards and registries compose without collapsing policy boundaries? | OPEN | Federation tests |
@@ -28,3 +28,9 @@ Updated: 2026-08-17
 | G-W22 | Do schedule, API, Slack and IDE triggers preserve the same authority envelope? | OPEN | Cross-channel execution evidence |
 | G-W23 | Can owner/sponsor accountability survive agent handoff, employee departure and autonomous execution? | OPEN | Lifecycle workflows and production cases |
 | G-W24 | Can vendor-local workspace governance map to MCP/A2A/Web trust primitives? | OPEN | Formal mappings and cross-platform demonstrations |
+| G-W25 | Can session evidence identify the exact published Agent definition and policy version that executed? | OPEN | Version IDs in telemetry, replay and incident tooling |
+| G-W26 | Can runtime traces distinguish end-user, Agent-owned, delegated and service identities? | OPEN | Identity fields and cross-system correlation |
+| G-W27 | Can MCP/A2A calls preserve correlation IDs across Agent and tool boundaries? | OPEN | Trace-context mappings and multi-system demonstrations |
+| G-W28 | Can failed or risky sessions drive auditable revocation or policy changes? | OPEN | Incident-to-policy workflows |
+| G-W29 | What retention and privacy boundaries apply to prompt / response / tool-call telemetry? | OPEN | Enterprise controls, privacy guidance and retention settings |
+| G-W30 | Do vendors converge on a portable Agent session evidence schema? | OPEN | Cross-platform schemas, standards or conformance work |
