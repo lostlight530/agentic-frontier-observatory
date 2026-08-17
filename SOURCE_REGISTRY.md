@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-17**
+Updated through: **2026-08-18**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@ Updated through: **2026-08-17**
 | G-OPENAI-AGENT-SIGNED-REQUESTS | G2 | OpenAI | ChatGPT agent signed outbound HTTP requests and allowlisting | https://help.openai.com/en/articles/11845367 |
 | G-OPENAI-WORKSPACE-AGENTS | G2 | OpenAI | Workspace Agent publishing, RBAC, connections, schedules, API triggers, approvals and constraints | https://help.openai.com/en/articles/20001143-chatgpt-workspace-agents-for-enterprise-and-business |
 | G-GITHUB-AGENT-CONTROL-PLANE | G2 | GitHub | Enterprise Agent sessions, audit, policies and MCP governance | https://github.blog/changelog/2026-02-26-enterprise-ai-controls-agent-control-plane-now-generally-available/ |
+| G-GITHUB-SESSION-STREAMING | G2 | GitHub | Agent session prompts, responses, tool calls, streaming and REST usage records | https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/ |
 | G-GOOGLE-COMPUTER-USE | G2 | Google | Built-in computer use | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ |
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch | https://www.anthropic.com/news/model-context-protocol |
 | G-MCP-2026-07-28 | G0 | Model Context Protocol | 2026-07-28 specification | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
@@ -31,4 +32,4 @@ Updated through: **2026-08-17**
 
 ## Maintenance rule / 维护规则
 
-A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance.
+A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness, authorization proof, and cross-platform observability standards.
