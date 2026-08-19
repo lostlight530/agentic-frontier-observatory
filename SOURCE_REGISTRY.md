@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-18**
+Updated through: **2026-08-19**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -11,8 +11,12 @@ Updated through: **2026-08-18**
 | G-OPENAI-PRESENCE | G2 | OpenAI | Production-agent policy and escalation | https://openai.com/index/introducing-openai-presence/ |
 | G-OPENAI-AGENT-SIGNED-REQUESTS | G2 | OpenAI | ChatGPT agent signed outbound HTTP requests and allowlisting | https://help.openai.com/en/articles/11845367 |
 | G-OPENAI-WORKSPACE-AGENTS | G2 | OpenAI | Workspace Agent publishing, RBAC, connections, schedules, API triggers, approvals and constraints | https://help.openai.com/en/articles/20001143-chatgpt-workspace-agents-for-enterprise-and-business |
+| G-OPENAI-CODEX-REVIEW | G2 | OpenAI | Codex PR review, intent-vs-diff reasoning and test execution | https://openai.com/index/introducing-upgrades-to-codex/ |
 | G-GITHUB-AGENT-CONTROL-PLANE | G2 | GitHub | Enterprise Agent sessions, audit, policies and MCP governance | https://github.blog/changelog/2026-02-26-enterprise-ai-controls-agent-control-plane-now-generally-available/ |
 | G-GITHUB-SESSION-STREAMING | G2 | GitHub | Agent session prompts, responses, tool calls, streaming and REST usage records | https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview/ |
+| G-GITHUB-AGENT-COMMIT-PROVENANCE | G2 | GitHub | Agent-authored commits, human co-author and Agent-Logs-Url back-link to session logs | https://github.blog/changelog/2026-03-20-trace-any-copilot-coding-agent-commit-to-its-session-logs/ |
+| G-GITHUB-COPILOT-APP-POLICY | G2 | GitHub | Isolated Agent workspaces landing changes through PR reviews, checks and audit history | https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy/ |
+| G-GITHUB-CHAT-SESSION-LOGS | G2 | GitHub | Session search and session-log retrieval from PR-associated Agent work | https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions/ |
 | G-GOOGLE-COMPUTER-USE | G2 | Google | Built-in computer use | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ |
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch | https://www.anthropic.com/news/model-context-protocol |
 | G-MCP-2026-07-28 | G0 | Model Context Protocol | 2026-07-28 specification | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
@@ -32,4 +36,4 @@ Updated through: **2026-08-18**
 
 ## Maintenance rule / 维护规则
 
-A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness, authorization proof, and cross-platform observability standards.
+A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard.
