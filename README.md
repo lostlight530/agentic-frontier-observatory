@@ -16,41 +16,42 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-18 — **Execution Leaves a Trace / 执行开始留下轨迹**
+### 2026-08-19 — **Evidence Binds to the Change / 证据绑定到变更**
 
-> **Session Evidence · Tool Calls · Task State · Audit · SIEM · Review**  
-> **会话证据 · 工具调用 · 任务状态 · 审计 · SIEM · 复核**
+> **Session · Commit · Pull Request · Review · Checks · Durable History**  
+> **会话 · 提交 · PR · 复核 · 检查 · 持久历史**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-18.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-18/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-19.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-19/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
 
-Yesterday W34 moved governance into the execution surface
+Yesterday W34 established that execution must leave structured session evidence
 
-Today the model extends from preventive controls into structured runtime evidence: prompts, responses, tool calls, session state, audit and enterprise telemetry become part of the governance envelope
+Today that evidence begins to bind to durable change-control artifacts: Agent-authored commits can link back to full session logs, while pull requests, reviews and checks form a separate integration boundary
 
-昨天 W34 让治理进入真实执行面
+昨天确认“执行必须留下轨迹”
 
-今天进一步确认：只控制“能不能做”还不够，生产 Agent 还必须留下“实际做了什么”的结构化运行证据
+今天继续确认：只有当轨迹和 commit、PR、review、checks 这些持久变更对象绑定起来，才开始形成真正可审查的 provenance chain
 
 ```text
-PRE-EXECUTION
-publish → identity → policy → trigger
-
-IN-EXECUTION
-prompt → response → tool call → task state
-
-POST-EXECUTION
-audit → SIEM → review → revocation / policy update
+TASK / ISSUE
+→ AGENT SESSION
+→ SESSION LOGS
+→ AGENT-AUTHORED COMMIT
+→ PULL REQUEST
+→ REVIEW / CHECKS
+→ MERGE DECISION
+→ DURABLE HISTORY
 ```
 
 ### W34 progress
 
-- H1 — **STRENGTHENED**
-- H2 — **SUPPORTED / unchanged**
+- H1 — **STRENGTHENED AGAIN**
+- H2 — **STRENGTHENED / REFINED**
 - H3 — **SUPPORTED / unchanged**
 - H4 — **STRENGTHENED**
-- H5 — **STRENGTHENED**
+- H5 — **STRENGTHENED AGAIN**
 - H6 — **OPEN**
-- H7 — **NEW: session evidence becomes a governance primitive**
+- H7 — **STRENGTHENED / REFINED**
+- H8 — **NEW: durable change artifacts become provenance anchors**
 
 ---
 
@@ -59,12 +60,11 @@ audit → SIEM → review → revocation / policy update
 - **Primary sources first / 一手来源优先**
 - **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
 - **Fact ≠ external claim ≠ observatory analysis**
-- **Workspace control ≠ open standard**
-- **Editable draft ≠ live executable state**
-- **Shared connection ≠ delegated user authority**
-- **Write approval ≠ data-return governance**
-- **Session visibility ≠ execution correctness**
-- **Vendor telemetry ≠ cross-platform observability standard**
+- **Session trace ≠ durable provenance**
+- **Commit provenance ≠ review approval**
+- **Review / checks ≠ semantic correctness**
+- **Merge decision ≠ proof of safe authorization**
+- **Vendor provenance metadata ≠ open interoperability standard**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
