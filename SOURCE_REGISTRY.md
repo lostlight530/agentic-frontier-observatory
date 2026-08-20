@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-20**
+Updated through: **2026-08-21**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -20,6 +20,10 @@ Updated through: **2026-08-20**
 | G-GITHUB-ARTIFACT-ATTESTATIONS | G0 | GitHub Docs | Signed build provenance, artifact digest, source SHA, workflow, environment and triggering event | https://docs.github.com/en/actions/concepts/security/artifact-attestations |
 | G-GITHUB-ATTESTATION-USAGE | G0 | GitHub Docs | Generating and verifying artifact attestations | https://docs.github.com/en/actions/how-tos/secure-your-work/use-artifact-attestations |
 | G-GITHUB-SLSA-L3 | G0 | GitHub Docs | Reusable workflows + artifact attestations for SLSA v1 Build Level 3 | https://docs.github.com/en/actions/how-tos/secure-your-work/use-artifact-attestations/increase-security-rating |
+| G-GITHUB-ATTESTATION-ADMISSION | G0 | GitHub Docs | Kubernetes admission enforcement for artifact attestations with Sigstore Policy Controller | https://docs.github.com/en/actions/how-tos/secure-your-work/use-artifact-attestations/enforce-artifact-attestations |
+| G-GITHUB-K8S-ADMISSION | G0 | GitHub Docs | TrustRoot, ClusterImagePolicy and image-admission verification model | https://docs.github.com/en/actions/concepts/security/kubernetes-admissions-controller |
+| G-GITHUB-ATTESTATION-LIFECYCLE | G0 | GitHub Docs | Finding, deleting and lifecycle-managing attestations | https://docs.github.com/en/actions/how-tos/secure-your-work/use-artifact-attestations/manage-attestations |
+| G-GITHUB-OPA-ATTESTATION | G2 | GitHub Changelog | OPA Gatekeeper support for attestation-based Kubernetes admission policy | https://github.blog/changelog/2025-06-24-enforce-admission-policies-with-artifact-attestations-in-kubernetes-using-opa-gatekeeper/ |
 | G-GOOGLE-COMPUTER-USE | G2 | Google | Built-in computer use | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ |
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch | https://www.anthropic.com/news/model-context-protocol |
 | G-MCP-2026-07-28 | G0 | Model Context Protocol | 2026-07-28 specification | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
@@ -39,4 +43,4 @@ Updated through: **2026-08-20**
 
 ## Maintenance rule / 维护规则
 
-A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard. Artifact attestations establish build provenance and integrity evidence, not software safety, delegated-authority validity, or deployment authorization.
+A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard. Artifact attestations establish build provenance and integrity evidence, not software safety, delegated-authority validity, or deployment authorization. Admission enforcement proves that configured policy can gate runtime entry; it does not prove application correctness, business authorization or safe Agent behavior.
