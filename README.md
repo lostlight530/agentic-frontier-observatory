@@ -16,43 +16,44 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-20 — **Provenance Reaches the Artifact / 来源链到达构建产物**
+### 2026-08-21 — **Evidence Becomes Admission Policy / 证据变成准入策略**
 
-> **Session · Source Change · Build · Artifact Digest · Attestation · Verification**  
-> **会话 · 源码变更 · 构建 · 产物摘要 · 认证声明 · 验证**
+> **Attestation · Policy Evaluation · Admission · Runtime**  
+> **证明 · 策略评估 · 准入 · 运行**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-20.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-20/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-21.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-21/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
 
-Yesterday W34 bound Agent execution evidence to commits, pull requests and reviewable source changes
+Yesterday provenance reached the built artifact
 
-Today the provenance chain extends into the delivered software artifact: build attestations can bind artifact digest, source commit and workflow identity into machine-verifiable evidence
+Today the evidence chain reaches an operational gate: artifact attestations can be verified by admission policy before a workload is allowed into runtime
 
-昨天把 Agent 会话证据绑定到了 commit、PR 和 review
+昨天证明“最终 artifact 从哪里来”
 
-今天继续推进：来源链不应停在源码变更，还要能回答最终 package、binary、container image 到底由哪份源码和哪次构建产生
+今天继续推进：如果证明缺失或不满足 policy，部署系统可以直接拒绝它进入运行环境
 
 ```text
 AGENT SESSION
-→ SOURCE CHANGE
-→ PR / REVIEW / MERGE
-→ BUILD WORKFLOW
-→ ARTIFACT DIGEST
+→ REVIEWED SOURCE
+→ BUILD
+→ ARTIFACT
 → SIGNED ATTESTATION
-→ VERIFY
-→ DEPLOYMENT POLICY
+→ POLICY EVALUATION
+→ ADMIT / REJECT
+→ RUNTIME
 ```
 
 ### W34 progress
 
 - H1 — **STRENGTHENED AGAIN**
-- H2 — **STRENGTHENED / REFINED AGAIN**
+- H2 — **STRENGTHENED / REFINED**
 - H3 — **SUPPORTED / unchanged**
 - H4 — **STRENGTHENED AGAIN**
 - H5 — **SUPPORTED / unchanged**
-- H6 — **STRENGTHENED / PARTIAL SUPPORT**
+- H6 — **STRENGTHENED**
 - H7 — **SUPPORTED / unchanged**
-- H8 — **STRENGTHENED / REFINED**
-- H9 — **NEW: build artifact attestation becomes a deployment provenance boundary**
+- H8 — **STRENGTHENED / unchanged**
+- H9 — **STRENGTHENED**
+- H10 — **NEW: machine-verifiable evidence becomes a runtime admission primitive**
 
 ---
 
@@ -61,10 +62,10 @@ AGENT SESSION
 - **Primary sources first / 一手来源优先**
 - **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
 - **Fact ≠ external claim ≠ observatory analysis**
-- **Session provenance ≠ source provenance ≠ build provenance**
-- **Artifact attestation ≠ security proof**
-- **Signed attestation ≠ policy acceptance**
-- **Verification ≠ authorization to deploy**
+- **Evidence availability ≠ evidence enforcement**
+- **Valid attestation ≠ acceptable deployment policy**
+- **Admission success ≠ application safety**
+- **Supply-chain provenance ≠ delegated Agent authority**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 

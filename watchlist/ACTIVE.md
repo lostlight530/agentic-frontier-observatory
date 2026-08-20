@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-20
+Updated: 2026-08-21
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -42,7 +42,13 @@ Updated: 2026-08-20
 | G-W36 | Do review failures and check failures feed back into Agent policy or definition changes? | OPEN | Closed-loop incident and policy evidence |
 | G-W37 | Can a build attestation preserve the exact Agent session, initiator and reviewed PR that produced its source commit? | OPEN | Custom attestation predicates, provenance mappings, production examples |
 | G-W38 | Can artifact attestations carry Agent identity or delegated-authority metadata without overloading build provenance? | OPEN | Provenance schemas and policy profiles |
-| G-W39 | How are Agent-generated artifacts revoked, rebuilt and re-attested after a security or policy incident? | OPEN | Attestation lifecycle and rollback evidence |
-| G-W40 | Can deployment systems enforce both valid attestation and separate Agent-specific authorization policy? | OPEN | Admission policies and production deployment evidence |
+| G-W39 | How are Agent-generated artifacts revoked, rebuilt and re-attested after a security or policy incident? | **STRENGTHENED / open** | Attestation deletion, rebuild and runtime propagation evidence |
+| G-W40 | Can deployment systems enforce both valid attestation and separate Agent-specific authorization policy? | **STRENGTHENED / open** | Admission policies combining provenance and authority evidence |
 | G-W41 | Do non-code Agent outputs gain equivalent cryptographic provenance primitives? | OPEN | Document, dataset, ticket and infrastructure attestations |
 | G-W42 | Does open Sigstore/SLSA provenance become a bridge from vendor-local Agent governance to cross-platform evidence portability? | **STRENGTHENED / open** | Cross-vendor Agent provenance mappings and conformance |
+| G-W43 | Can an admission controller verify Agent-session or sponsor metadata in addition to ordinary build provenance? | OPEN | Custom predicates, policy examples and deployments |
+| G-W44 | Can one policy decision correlate Agent definition, session, reviewed source, artifact digest and runtime workload? | OPEN | End-to-end correlation IDs and evidence graphs |
+| G-W45 | How are policy exceptions represented, approved, expired and audited without becoming a permanent bypass? | OPEN | Exception workflows and incident evidence |
+| G-W46 | Does attestation deletion or revocation automatically stop already-running or cached workloads? | OPEN | Runtime revocation and re-admission implementations |
+| G-W47 | Can OPA / Sigstore / cloud admission systems converge on portable Agent-specific provenance profiles? | OPEN | Shared schemas and cross-platform policy packs |
+| G-W48 | Can non-code Agent outputs be subject to an equivalent machine-enforced admission / publication gate? | OPEN | Document, dataset, ticket and infrastructure examples |
