@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-19**
+Updated through: **2026-08-20**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -17,6 +17,9 @@ Updated through: **2026-08-19**
 | G-GITHUB-AGENT-COMMIT-PROVENANCE | G2 | GitHub | Agent-authored commits, human co-author and Agent-Logs-Url back-link to session logs | https://github.blog/changelog/2026-03-20-trace-any-copilot-coding-agent-commit-to-its-session-logs/ |
 | G-GITHUB-COPILOT-APP-POLICY | G2 | GitHub | Isolated Agent workspaces landing changes through PR reviews, checks and audit history | https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy/ |
 | G-GITHUB-CHAT-SESSION-LOGS | G2 | GitHub | Session search and session-log retrieval from PR-associated Agent work | https://github.blog/changelog/2026-06-10-copilot-chat-now-sees-your-agent-sessions/ |
+| G-GITHUB-ARTIFACT-ATTESTATIONS | G0 | GitHub Docs | Signed build provenance, artifact digest, source SHA, workflow, environment and triggering event | https://docs.github.com/en/actions/concepts/security/artifact-attestations |
+| G-GITHUB-ATTESTATION-USAGE | G0 | GitHub Docs | Generating and verifying artifact attestations | https://docs.github.com/en/actions/how-tos/secure-your-work/use-artifact-attestations |
+| G-GITHUB-SLSA-L3 | G0 | GitHub Docs | Reusable workflows + artifact attestations for SLSA v1 Build Level 3 | https://docs.github.com/en/actions/how-tos/secure-your-work/use-artifact-attestations/increase-security-rating |
 | G-GOOGLE-COMPUTER-USE | G2 | Google | Built-in computer use | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ |
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch | https://www.anthropic.com/news/model-context-protocol |
 | G-MCP-2026-07-28 | G0 | Model Context Protocol | 2026-07-28 specification | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
@@ -36,4 +39,4 @@ Updated through: **2026-08-19**
 
 ## Maintenance rule / 维护规则
 
-A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard.
+A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard. Artifact attestations establish build provenance and integrity evidence, not software safety, delegated-authority validity, or deployment authorization.
