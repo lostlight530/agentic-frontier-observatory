@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-19
+Updated: 2026-08-20
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -40,3 +40,9 @@ Updated: 2026-08-19
 | G-W34 | Can subagent contributions remain attributable inside one final artifact? | OPEN | Nested provenance and delegation traces |
 | G-W35 | Can non-code Agents attach equivalent provenance to documents, tickets, CRM changes and infrastructure updates? | OPEN | Durable business-artifact examples |
 | G-W36 | Do review failures and check failures feed back into Agent policy or definition changes? | OPEN | Closed-loop incident and policy evidence |
+| G-W37 | Can a build attestation preserve the exact Agent session, initiator and reviewed PR that produced its source commit? | OPEN | Custom attestation predicates, provenance mappings, production examples |
+| G-W38 | Can artifact attestations carry Agent identity or delegated-authority metadata without overloading build provenance? | OPEN | Provenance schemas and policy profiles |
+| G-W39 | How are Agent-generated artifacts revoked, rebuilt and re-attested after a security or policy incident? | OPEN | Attestation lifecycle and rollback evidence |
+| G-W40 | Can deployment systems enforce both valid attestation and separate Agent-specific authorization policy? | OPEN | Admission policies and production deployment evidence |
+| G-W41 | Do non-code Agent outputs gain equivalent cryptographic provenance primitives? | OPEN | Document, dataset, ticket and infrastructure attestations |
+| G-W42 | Does open Sigstore/SLSA provenance become a bridge from vendor-local Agent governance to cross-platform evidence portability? | **STRENGTHENED / open** | Cross-vendor Agent provenance mappings and conformance |

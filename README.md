@@ -16,42 +16,43 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-19 — **Evidence Binds to the Change / 证据绑定到变更**
+### 2026-08-20 — **Provenance Reaches the Artifact / 来源链到达构建产物**
 
-> **Session · Commit · Pull Request · Review · Checks · Durable History**  
-> **会话 · 提交 · PR · 复核 · 检查 · 持久历史**
+> **Session · Source Change · Build · Artifact Digest · Attestation · Verification**  
+> **会话 · 源码变更 · 构建 · 产物摘要 · 认证声明 · 验证**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-19.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-19/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-20.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-20/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
 
-Yesterday W34 established that execution must leave structured session evidence
+Yesterday W34 bound Agent execution evidence to commits, pull requests and reviewable source changes
 
-Today that evidence begins to bind to durable change-control artifacts: Agent-authored commits can link back to full session logs, while pull requests, reviews and checks form a separate integration boundary
+Today the provenance chain extends into the delivered software artifact: build attestations can bind artifact digest, source commit and workflow identity into machine-verifiable evidence
 
-昨天确认“执行必须留下轨迹”
+昨天把 Agent 会话证据绑定到了 commit、PR 和 review
 
-今天继续确认：只有当轨迹和 commit、PR、review、checks 这些持久变更对象绑定起来，才开始形成真正可审查的 provenance chain
+今天继续推进：来源链不应停在源码变更，还要能回答最终 package、binary、container image 到底由哪份源码和哪次构建产生
 
 ```text
-TASK / ISSUE
-→ AGENT SESSION
-→ SESSION LOGS
-→ AGENT-AUTHORED COMMIT
-→ PULL REQUEST
-→ REVIEW / CHECKS
-→ MERGE DECISION
-→ DURABLE HISTORY
+AGENT SESSION
+→ SOURCE CHANGE
+→ PR / REVIEW / MERGE
+→ BUILD WORKFLOW
+→ ARTIFACT DIGEST
+→ SIGNED ATTESTATION
+→ VERIFY
+→ DEPLOYMENT POLICY
 ```
 
 ### W34 progress
 
 - H1 — **STRENGTHENED AGAIN**
-- H2 — **STRENGTHENED / REFINED**
+- H2 — **STRENGTHENED / REFINED AGAIN**
 - H3 — **SUPPORTED / unchanged**
-- H4 — **STRENGTHENED**
-- H5 — **STRENGTHENED AGAIN**
-- H6 — **OPEN**
-- H7 — **STRENGTHENED / REFINED**
-- H8 — **NEW: durable change artifacts become provenance anchors**
+- H4 — **STRENGTHENED AGAIN**
+- H5 — **SUPPORTED / unchanged**
+- H6 — **STRENGTHENED / PARTIAL SUPPORT**
+- H7 — **SUPPORTED / unchanged**
+- H8 — **STRENGTHENED / REFINED**
+- H9 — **NEW: build artifact attestation becomes a deployment provenance boundary**
 
 ---
 
@@ -60,11 +61,10 @@ TASK / ISSUE
 - **Primary sources first / 一手来源优先**
 - **Exact dates over apparent freshness / 精确日期优先于表面新鲜度**
 - **Fact ≠ external claim ≠ observatory analysis**
-- **Session trace ≠ durable provenance**
-- **Commit provenance ≠ review approval**
-- **Review / checks ≠ semantic correctness**
-- **Merge decision ≠ proof of safe authorization**
-- **Vendor provenance metadata ≠ open interoperability standard**
+- **Session provenance ≠ source provenance ≠ build provenance**
+- **Artifact attestation ≠ security proof**
+- **Signed attestation ≠ policy acceptance**
+- **Verification ≠ authorization to deploy**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
