@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-23 · W34 final settlement applied
+Updated: 2026-08-24 · W35 opening priorities applied
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -52,3 +52,10 @@ Updated: 2026-08-23 · W34 final settlement applied
 | G-W46 | Does attestation deletion or revocation automatically stop already-running or cached workloads? | **OPEN / W35 PRIORITY** | Runtime revocation and re-admission implementations |
 | G-W47 | Can OPA / Sigstore / cloud admission systems converge on portable Agent-specific provenance profiles? | OPEN | Shared schemas and cross-platform policy packs |
 | G-W48 | Can non-code Agent outputs be subject to an equivalent machine-enforced admission / publication gate? | OPEN | Document, dataset, ticket and infrastructure examples |
+| G-W49 | Can continuous runtime policy evaluation consume Agent-specific identity, delegation and risk state rather than only workload/user state? | **NEW / W35 PRIORITY** | Agent runtime authorization implementations and policy schemas |
+| G-W50 | Which enforcement point can actually limit or terminate a running Agent session after trust changes? | **NEW / W35 PRIORITY** | Runtime PEP implementations, incident evidence, session-control APIs |
+| G-W51 | Can artifact provenance be correlated with SPIFFE-style live workload identity without collapsing their semantics? | **NEW / W35 PRIORITY** | Provenance-to-workload mappings and deployment examples |
+| G-W52 | Do short-lived workload credentials reduce Agent incident blast radius without masking stale delegated authority? | **NEW / W35 PRIORITY** | Rotation and authorization-lifecycle evidence |
+| G-W53 | Can break-glass Agent exceptions carry owner, scope, reason, expiry and audit evidence end to end? | **NEW / W35 PRIORITY** | Exception schemas, temporary access workflows and incidents |
+| G-W54 | Do non-code Agent outputs gain publication, admission, supersession and revocation primitives? | **NEW / W35 PRIORITY** | Durable document/ticket/CRM/infrastructure examples |
+| G-W55 | Can one incident correlation chain span Agent definition, identity, session, tool calls, artifact and runtime state? | **NEW / W35 PRIORITY** | Cross-system trace IDs and evidence graphs |

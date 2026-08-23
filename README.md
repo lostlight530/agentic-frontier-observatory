@@ -16,53 +16,51 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-23 — **Governance Becomes Executable / 治理成为可执行系统**
+### 2026-08-24 — **Trust Must Stay Live / 信任必须持续有效**
 
-> **Workspace Control · Session Evidence · Provenance · Admission · Revocation**  
-> **工作空间治理 · 会话证据 · 来源链 · 准入 · 撤销**
+> **Continuous Evaluation · Enforcement Point · Workload Identity · Revocation Propagation**  
+> **持续评估 · 执行点 · 工作负载身份 · 撤销传播**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-23.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-23/) · [`W34 Final`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-24.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-24/) · [`W35 Opening`](./reports/weekly/2026/2026-W35.md)
 
-W34 closes with a durable judgment: governance is no longer only an organizational control plane. Session evidence, durable change, signed provenance and admission policy can participate directly in the execution path
+W34 proved that evidence can participate in admission
 
-W34 正式收官：治理已经不只存在于组织规则和控制面配置中，session evidence、durable change、signed provenance 与 admission policy 已经能够直接参与执行路径
+W35 opens with the harder runtime question: can trust changes propagate to sessions and workloads that are already active?
 
 ```text
-AGENT DEFINITION
-→ PUBLISH / IDENTITY / POLICY
-→ SESSION EVIDENCE
-→ DURABLE CHANGE
-→ BUILD / ATTESTATION
-→ POLICY EVALUATION
-→ ADMIT / REJECT
-→ RUNTIME
-→ EVIDENCE LIFECYCLE
+ADMISSION-TIME TRUST
+artifact provenance
+→ policy evaluation
+→ admit / reject
+
+RUNTIME TRUST
+workload identity
+→ telemetry / environment
+→ continuous re-evaluation
+→ continue / limit / revoke
 ```
 
-The hard open edge remains runtime propagation after trust changes
+### W35 opening hypotheses
 
-最关键的开放边界仍然是：证据或策略发生变化后，撤销能否真正传播到 already-running workload 和 delegated authority
-
-### W34 final settlement
-
-- **DURABLE:** H1, H2, H4, H7, H8, H9, H10
-- **STRENGTHENED BUT OPEN:** H3, H5, H11
-- **OPEN / STRONG DESIGN PRESSURE:** H6
-- **REFUTED:** none
+- H1 — continuous runtime re-evaluation
+- H2 — explicit enforcement point
+- H3 — artifact trust ↔ workload identity correlation
+- H4 — short-lived identity does not replace policy revocation
+- H5 — exception lifecycle
+- H6 — non-code lifecycle parity
+- H7 — end-to-end incident correlation
 
 ---
 
 ## Research Discipline / 研究纪律
 
 - **Primary sources first / 一手来源优先**
-- **Editable definition ≠ published executable state**
-- **Session trace ≠ durable provenance**
-- **Artifact attestation ≠ security proof**
-- **Evidence availability ≠ evidence enforcement**
-- **Admission success ≠ application safety**
-- **Admission decision ≠ permanent trust**
-- **Revocation signal ≠ revocation propagation**
-- **Artifact trust ≠ Agent authority**
+- **Admission ≠ continuous authorization**
+- **Credential rotation ≠ authority revocation**
+- **Attestation deletion ≠ workload termination**
+- **Workload identity ≠ delegated Agent authority**
+- **Policy decision ≠ enforcement**
+- **Telemetry ≠ incident reconstruction**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
