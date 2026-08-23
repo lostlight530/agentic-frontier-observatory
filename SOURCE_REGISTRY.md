@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-21**
+Updated through: **2026-08-24**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -40,7 +40,10 @@ Updated through: **2026-08-21**
 | G-CLOUDFLARE-WEB-BOT-AUTH | G2 | Cloudflare | Operational Web Bot Auth verification for bots and agents | https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/ |
 | G-CLOUDFLARE-VERIFIED-AGENTS | G2 | Cloudflare | Verified bots and signed-agent handling | https://developers.cloudflare.com/bots/concepts/bot/verified-bots/ |
 | G-NIST-IDENTITY | G1 | NIST NCCoE | Software and AI Agent Identity and Authorization | https://www.nccoe.nist.gov/projects/software-and-ai-agent-identity-and-authorization |
+| G-NIST-ZTA-RUNTIME | G1 | NIST | Continuous access evaluation; continue, limit or revoke active sessions | https://pages.nist.gov/zero-trust-architecture/VolumeB/architecture.html |
+| G-NIST-ZTA-207A | G1 | NIST | Identity-tier policy enforcement for cloud-native multi-cloud applications | https://csrc.nist.gov/pubs/sp/800/207/a/final |
+| G-SPIFFE-CONCEPTS | G0 | SPIFFE | Short-lived workload identity, automatic credential rotation and trust bundles | https://spiffe.io/docs/latest/spiffe/concepts/ |
 
 ## Maintenance rule / 维护规则
 
-A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard. Artifact attestations establish build provenance and integrity evidence, not software safety, delegated-authority validity, or deployment authorization. Admission enforcement proves that configured policy can gate runtime entry; it does not prove application correctness, business authorization or safe Agent behavior.
+A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard. Artifact attestations establish build provenance and integrity evidence, not software safety, delegated-authority validity, or deployment authorization. Admission enforcement proves that configured policy can gate runtime entry; it does not prove ongoing runtime compliance. NIST Zero Trust runtime guidance is a general access-control architecture, not an Agent-specific revocation standard. SPIFFE workload identity must not be conflated with Agent delegation, build provenance or business authority.
