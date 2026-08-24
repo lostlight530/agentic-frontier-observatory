@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-24**
+Updated through: **2026-08-25**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -33,6 +33,8 @@ Updated through: **2026-08-24**
 | G-GITHUB-AGENT-FINDER | G2 | GitHub | Governed resource discovery | https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available/ |
 | G-MS-ENTRA-AGENT-ID | G2 | Microsoft | First-class agent identity and governance | https://learn.microsoft.com/en-us/entra/agent-id/ |
 | G-MS-ENTRA-AGENT-GOVERNANCE | G2 | Microsoft | Agent sponsors, access packages, expiry and Conditional Access | https://learn.microsoft.com/en-us/entra/id-governance/agent-id-governance-overview |
+| G-MS-ENTRA-AGENT-CA | G2 | Microsoft | Conditional Access subject/audience semantics for Agents and resource-scoped access | https://learn.microsoft.com/en-us/entra/identity/conditional-access/agent-id |
+| G-MS-ENTRA-WORKLOAD-CAE | G2 | Microsoft | Continuous Access Evaluation for workload identities; resource-side token rejection, revocation events and claims challenges | https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-continuous-access-evaluation-workload |
 | G-GCP-AGENT-IDENTITY | G2 | Google Cloud | Attested Agent Identity | https://docs.cloud.google.com/iam/docs/agent-identity-overview |
 | G-AWS-AGENTCORE-IDENTITY | G2 | AWS | AgentCore Identity | https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html |
 | G-RFC-9421 | G0 | IETF / RFC Editor | HTTP Message Signatures | https://www.rfc-editor.org/rfc/rfc9421 |
@@ -46,4 +48,4 @@ Updated through: **2026-08-24**
 
 ## Maintenance rule / 维护规则
 
-A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard. Artifact attestations establish build provenance and integrity evidence, not software safety, delegated-authority validity, or deployment authorization. Admission enforcement proves that configured policy can gate runtime entry; it does not prove ongoing runtime compliance. NIST Zero Trust runtime guidance is a general access-control architecture, not an Agent-specific revocation standard. SPIFFE workload identity must not be conflated with Agent delegation, build provenance or business authority.
+A source enters this registry only when its identity, ownership, and relevance are clear. Draft status and implementation status must remain explicit. Architecture convergence must not be mislabeled protocol convergence. Product-local workspace governance must not be mislabeled open cross-platform governance. Session telemetry must be distinguished from correctness and authorization proof. Product-specific commit/session linkage must not be mislabeled a universal Agent provenance standard. Artifact attestations establish build provenance and integrity evidence, not software safety, delegated-authority validity, or deployment authorization. Admission enforcement proves that configured policy can gate runtime entry; it does not prove ongoing runtime compliance. NIST Zero Trust runtime guidance is a general access-control architecture, not an Agent-specific revocation standard. SPIFFE workload identity must not be conflated with Agent delegation, build provenance or business authority. Microsoft Entra workload-identity CAE is strong implementation evidence for resource-side revocation enforcement in its documented scope; it must not be generalized to all resources, all identities, or universal Agent runtime termination.
