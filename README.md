@@ -16,51 +16,52 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-24 — **Trust Must Stay Live / 信任必须持续有效**
+### 2026-08-25 — **Revocation Reaches the Resource / 撤销到达资源端**
 
-> **Continuous Evaluation · Enforcement Point · Workload Identity · Revocation Propagation**  
-> **持续评估 · 执行点 · 工作负载身份 · 撤销传播**
+> **Trust Event · Resource Enforcement · Claims Challenge · Re-evaluation**  
+> **信任事件 · 资源执行 · Claims Challenge · 重新评估**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-24.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-24/) · [`W35 Opening`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-25.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-25/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
 
-W34 proved that evidence can participate in admission
+W35 opened by asking whether trust can stay synchronized after execution begins
 
-W35 opens with the harder runtime question: can trust changes propagate to sessions and workloads that are already active?
+Today adds a concrete propagation path: in supported Microsoft Entra workload-identity CAE scenarios, a relying resource can reject a token after revocation / risk changes and force fresh evaluation
 
 ```text
-ADMISSION-TIME TRUST
-artifact provenance
-→ policy evaluation
-→ admit / reject
-
-RUNTIME TRUST
-workload identity
-→ telemetry / environment
-→ continuous re-evaluation
-→ continue / limit / revoke
+TRUST EVENT
+→ IDENTITY / POLICY SERVICE
+→ RELYING RESOURCE
+→ DENY / CLAIMS CHALLENGE
+→ NEW TOKEN / RE-EVALUATION
 ```
 
-### W35 opening hypotheses
+The hard boundary remains wider Agent runtime state
 
-- H1 — continuous runtime re-evaluation
-- H2 — explicit enforcement point
-- H3 — artifact trust ↔ workload identity correlation
-- H4 — short-lived identity does not replace policy revocation
-- H5 — exception lifecycle
-- H6 — non-code lifecycle parity
-- H7 — end-to-end incident correlation
+> **Resource denial ≠ Agent-process termination**
+
+### W35 progress
+
+- H1 — continuous runtime re-evaluation: **STRENGTHENED**
+- H2 — explicit enforcement point: **STRONGLY STRENGTHENED**
+- H3 — artifact trust ↔ workload identity: **SUPPORTED**
+- H4 — short-lived identity ≠ policy revocation: **STRENGTHENED**
+- H5 — exception lifecycle: **OPEN**
+- H6 — non-code lifecycle parity: **OPEN**
+- H7 — end-to-end incident correlation: **SUPPORTED / strengthened context**
+- H8 — relying-resource participation in revocation: **NEW / STRONG IMPLEMENTATION SIGNAL**
 
 ---
 
 ## Research Discipline / 研究纪律
 
-- **Primary sources first / 一手来源优先**
 - **Admission ≠ continuous authorization**
+- **Revocation event ≠ propagated revocation**
+- **Issuer decision ≠ resource enforcement**
+- **Resource denial ≠ Agent-process termination**
+- **401 claims challenge ≠ global Agent shutdown**
 - **Credential rotation ≠ authority revocation**
-- **Attestation deletion ≠ workload termination**
 - **Workload identity ≠ delegated Agent authority**
-- **Policy decision ≠ enforcement**
-- **Telemetry ≠ incident reconstruction**
+- **One resource's CAE support ≠ universal runtime support**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
