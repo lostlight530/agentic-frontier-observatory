@@ -16,52 +16,54 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-25 — **Revocation Reaches the Resource / 撤销到达资源端**
+### 2026-08-26 — **Runtime Becomes Stoppable / 运行时开始可终止**
 
-> **Trust Event · Resource Enforcement · Claims Challenge · Re-evaluation**  
-> **信任事件 · 资源执行 · Claims Challenge · 重新评估**
+> **Resource Denial · Session Stop · Compute Termination · Preserved State**  
+> **资源拒绝 · 会话停止 · 计算终止 · 状态保留**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-25.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-25/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-26.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-26/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
 
-W35 opened by asking whether trust can stay synchronized after execution begins
+W35 has now moved beyond proving that stale trust can be denied at one resource
 
-Today adds a concrete propagation path: in supported Microsoft Entra workload-identity CAE scenarios, a relying resource can reject a token after revocation / risk changes and force fresh evaluation
+GitHub and Microsoft Foundry both expose explicit Agent runtime/session stop controls, establishing STOP as a distinct lifecycle state from DENIED and DELETED
 
 ```text
-TRUST EVENT
-→ IDENTITY / POLICY SERVICE
-→ RELYING RESOURCE
-→ DENY / CLAIMS CHALLENGE
-→ NEW TOKEN / RE-EVALUATION
+TRUST / RISK CHANGE
+→ RESOURCE DENIAL
+→ ? POLICY / CORRELATION BRIDGE
+→ RUNTIME STOP
+→ PRESERVED STATE / SIDE EFFECTS
+→ CLEANUP / RESUME
 ```
 
-The hard boundary remains wider Agent runtime state
+The open boundary is now precise
 
-> **Resource denial ≠ Agent-process termination**
+> **Explicit stop control ≠ automatic trust-signal-to-stop propagation**
 
 ### W35 progress
 
-- H1 — continuous runtime re-evaluation: **STRENGTHENED**
-- H2 — explicit enforcement point: **STRONGLY STRENGTHENED**
+- H1 — continuous runtime re-evaluation: **STRONGLY STRENGTHENED**
+- H2 — explicit enforcement point: **STRONGLY STRENGTHENED / REFINED**
 - H3 — artifact trust ↔ workload identity: **SUPPORTED**
 - H4 — short-lived identity ≠ policy revocation: **STRENGTHENED**
 - H5 — exception lifecycle: **OPEN**
-- H6 — non-code lifecycle parity: **OPEN**
-- H7 — end-to-end incident correlation: **SUPPORTED / strengthened context**
-- H8 — relying-resource participation in revocation: **NEW / STRONG IMPLEMENTATION SIGNAL**
+- H6 — non-code lifecycle parity: **OPEN / stronger pressure**
+- H7 — end-to-end incident correlation: **STRENGTHENED**
+- H8 — relying-resource participation: **STRONG IMPLEMENTATION SIGNAL**
+- H9 — explicit Agent-runtime termination: **NEW / MULTI-PLATFORM IMPLEMENTATION SIGNAL**
 
 ---
 
 ## Research Discipline / 研究纪律
 
 - **Admission ≠ continuous authorization**
-- **Revocation event ≠ propagated revocation**
-- **Issuer decision ≠ resource enforcement**
-- **Resource denial ≠ Agent-process termination**
-- **401 claims challenge ≠ global Agent shutdown**
-- **Credential rotation ≠ authority revocation**
-- **Workload identity ≠ delegated Agent authority**
-- **One resource's CAE support ≠ universal runtime support**
+- **Resource denial ≠ runtime stop**
+- **Runtime stop ≠ rollback**
+- **Stop ≠ delete**
+- **Stop ≠ credential revocation**
+- **Stop control ≠ automatic trust propagation**
+- **Preserved state ≠ safe state**
+- **Session termination ≠ revocation of every external side effect**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
