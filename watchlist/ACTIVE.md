@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-26 · explicit Agent runtime-stop evidence applied
+Updated: 2026-08-27 · post-stop reconciliation evidence applied
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -53,15 +53,20 @@ Updated: 2026-08-26 · explicit Agent runtime-stop evidence applied
 | G-W47 | Can OPA / Sigstore / cloud admission systems converge on portable Agent-specific provenance profiles? | OPEN | Shared schemas and cross-platform policy packs |
 | G-W48 | Can non-code Agent outputs be subject to an equivalent machine-enforced admission / publication gate? | OPEN | Document, dataset, ticket and infrastructure examples |
 | G-W49 | Can continuous runtime policy evaluation consume Agent-specific identity, delegation and risk state rather than only workload/user state? | **STRENGTHENED / W35 PRIORITY** | Agent-specific CAE / policy implementations and schemas |
-| G-W50 | Which enforcement point can actually limit or terminate a running Agent session after trust changes? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Explicit stop APIs now exist; need policy-to-stop propagation evidence |
+| G-W50 | Which enforcement point can actually limit or terminate a running Agent session after trust changes? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Explicit stop APIs exist; need policy-to-stop propagation evidence |
 | G-W51 | Can artifact provenance be correlated with SPIFFE-style live workload identity without collapsing their semantics? | **NEW / W35 PRIORITY** | Provenance-to-workload mappings and deployment examples |
 | G-W52 | Do short-lived workload credentials reduce Agent incident blast radius without masking stale delegated authority? | **NEW / W35 PRIORITY** | Rotation and authorization-lifecycle evidence |
 | G-W53 | Can break-glass Agent exceptions carry owner, scope, reason, expiry and audit evidence end to end? | **NEW / W35 PRIORITY** | Exception schemas, temporary access workflows and incidents |
-| G-W54 | Do non-code Agent outputs gain publication, admission, supersession and revocation primitives? | **NEW / W35 PRIORITY** | Durable document/ticket/CRM/infrastructure examples |
-| G-W55 | Can one incident correlation chain span Agent definition, identity, session, tool calls, artifact and runtime state? | **STRENGTHENED / W35 PRIORITY** | Add stop/cancel and cleanup events to cross-system evidence graph |
-| G-W56 | Can resource-side token denial reliably trigger Agent-runtime cancellation or safe degradation rather than repeated failure loops? | **STRONGLY STRENGTHENED / open** | Runtime-stop primitives exist; need automatic denial-to-stop linkage |
+| G-W54 | Do non-code Agent outputs gain publication, admission, supersession and revocation primitives? | **STRENGTHENED / W35 PRIORITY** | Need withdrawal / supersession / compensation implementations |
+| G-W55 | Can one incident correlation chain span Agent definition, identity, session, tool calls, artifact and runtime state? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Add residual-state and remediation events to evidence graph |
+| G-W56 | Can resource-side token denial reliably trigger Agent-runtime cancellation or safe degradation rather than repeated failure loops? | **STRONGLY STRENGTHENED / open** | Need automatic denial-to-stop linkage |
 | G-W57 | Can CAE-style claims challenges preserve user delegation and Agent identity semantics across MCP, A2A and third-party SaaS resources? | **NEW / W35 PRIORITY** | Cross-protocol claims / authorization mappings and pilots |
 | G-W58 | What happens to unsupported resources when the issuer revokes trust but no continuous-evaluation channel exists? | **NEW / W35 PRIORITY** | Mixed-resource incident evidence, token-lifetime and fallback policies |
-| G-W59 | Can identity-risk, policy or CAE events automatically invoke a runtime `stop` / `cancel` primitive with an auditable reason and correlation ID? | **NEW / W35 PRIORITY** | Policy-to-runtime integration, incident automations and runtime APIs |
-| G-W60 | What durable side effects remain after Agent session stop, and how are they rolled back, superseded or remediated? | **NEW / W35 PRIORITY** | Stop-state semantics, cleanup workflows and production incidents |
-| G-W61 | Do stop / cancel / suspend / resume semantics converge across Agent runtimes or remain vendor-local? | **NEW / W35 PRIORITY** | Cross-vendor runtime APIs, protocol proposals and orchestration layers |
+| G-W59 | Can identity-risk, policy or CAE events automatically invoke a runtime `stop` / `cancel` primitive with an auditable reason and correlation ID? | **STRENGTHENED / W35 PRIORITY** | Operation and session cancellation primitives exist; need automated policy bridge |
+| G-W60 | What durable side effects remain after Agent session stop, and how are they rolled back, superseded or remediated? | **STRONGLY STRENGTHENED / W35 PRIORITY** | GitHub pushed commits + revert semantics; seek tools/infrastructure/non-code cases |
+| G-W61 | Do stop / cancel / suspend / resume semantics converge across Agent runtimes or remain vendor-local? | **STRENGTHENED / W35 PRIORITY** | OpenAI operation cancel + GitHub/Foundry stop show distinct local semantics |
+| G-W62 | Can a runtime stop enumerate every retained local state and external durable side effect before incident closure? | **NEW / W35 PRIORITY** | Residual-state inventories, transaction logs and incident tooling |
+| G-W63 | Can remediation actions carry the original incident/session correlation ID, owner, reason and completion evidence? | **NEW / W35 PRIORITY** | Revert/compensation workflow schemas and production tooling |
+| G-W64 | Does Agent resume require fresh identity, delegation, policy and risk evaluation rather than blindly restoring preserved state? | **NEW / W35 PRIORITY** | Resume authorization docs and incident workflows |
+| G-W65 | Can in-flight tool calls be fenced or cancelled before session stop while preserving which effects committed? | **NEW / W35 PRIORITY** | Tool-call cancellation, transactional boundaries and remote-tool evidence |
+| G-W66 | What are the portable equivalents of revert / compensate / withdraw for non-code Agent outputs? | **NEW / W35 PRIORITY** | Documents, messages, tickets, CRM, datasets and infrastructure examples |
