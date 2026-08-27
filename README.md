@@ -16,29 +16,28 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-26 — **Runtime Becomes Stoppable / 运行时开始可终止**
+### 2026-08-27 — **Termination Leaves Residue / 终止之后仍有残留状态**
 
-> **Resource Denial · Session Stop · Compute Termination · Preserved State**  
-> **资源拒绝 · 会话停止 · 计算终止 · 状态保留**
+> **Operation Cancel · Runtime Stop · Residual State · Reconciliation**  
+> **操作取消 · 运行停止 · 残留状态 · 事后纠偏**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-26.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-26/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-27.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-27/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
 
-W35 has now moved beyond proving that stale trust can be denied at one resource
-
-GitHub and Microsoft Foundry both expose explicit Agent runtime/session stop controls, establishing STOP as a distinct lifecycle state from DENIED and DELETED
+W35 has moved from proving that a runtime can be stopped to asking what remains after stop
 
 ```text
-TRUST / RISK CHANGE
+TRUST / INCIDENT SIGNAL
 → RESOURCE DENIAL
-→ ? POLICY / CORRELATION BRIDGE
-→ RUNTIME STOP
-→ PRESERVED STATE / SIDE EFFECTS
-→ CLEANUP / RESUME
+→ OPERATION CANCEL
+→ SESSION / COMPUTE STOP
+→ RESIDUAL STATE INVENTORY
+→ DELETE / REVERT / COMPENSATE / REVOKE
+→ FRESH-TRUST RESUME
 ```
 
-The open boundary is now precise
+The current boundary is:
 
-> **Explicit stop control ≠ automatic trust-signal-to-stop propagation**
+> **Termination ≠ remediation**
 
 ### W35 progress
 
@@ -47,23 +46,23 @@ The open boundary is now precise
 - H3 — artifact trust ↔ workload identity: **SUPPORTED**
 - H4 — short-lived identity ≠ policy revocation: **STRENGTHENED**
 - H5 — exception lifecycle: **OPEN**
-- H6 — non-code lifecycle parity: **OPEN / stronger pressure**
-- H7 — end-to-end incident correlation: **STRENGTHENED**
+- H6 — non-code lifecycle parity: **STRENGTHENED PRESSURE**
+- H7 — end-to-end incident correlation: **STRONGLY STRENGTHENED**
 - H8 — relying-resource participation: **STRONG IMPLEMENTATION SIGNAL**
-- H9 — explicit Agent-runtime termination: **NEW / MULTI-PLATFORM IMPLEMENTATION SIGNAL**
+- H9 — explicit Agent-runtime termination: **STRONGLY STRENGTHENED**
+- H10 — termination and remediation as separate phases: **NEW / STRONG STRUCTURAL SIGNAL**
 
 ---
 
 ## Research Discipline / 研究纪律
 
-- **Admission ≠ continuous authorization**
-- **Resource denial ≠ runtime stop**
-- **Runtime stop ≠ rollback**
-- **Stop ≠ delete**
-- **Stop ≠ credential revocation**
-- **Stop control ≠ automatic trust propagation**
-- **Preserved state ≠ safe state**
-- **Session termination ≠ revocation of every external side effect**
+- **Cancel operation ≠ stop session**
+- **Stop session ≠ delete retained state**
+- **Runtime stop ≠ rollback durable effects**
+- **Revert ≠ historical erasure**
+- **Preserved state ≠ trusted state**
+- **Resume ≠ fresh authorization**
+- **Termination ≠ remediation**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
