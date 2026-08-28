@@ -16,31 +16,34 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-28 — **Recovery Gets a New Task Boundary / 恢复获得新的任务边界**
+### 2026-08-29 — **Recovery Must Reauthorize / 恢复必须重新授权**
 
-> **Terminal Task · Historical Evidence · New Recovery Task · Context Continuity**  
-> **终止任务 · 历史证据 · 新恢复任务 · 上下文连续性**
+> **Successor Task · Related Context · Request Authentication · Authorization**  
+> **后继任务 · 关联上下文 · 请求认证 · 授权判断**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-28.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-28/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-29.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-29/) · [`W35 Saturday Checkpoint`](./reports/weekly/2026/2026-W35.md)
 
-W35 has moved from post-stop reconciliation to the identity boundary of recovery itself
+Friday established a new auditable recovery-task boundary
+
+Saturday adds the security-plane requirement around re-entry
 
 ```text
 TERMINAL TASK
-→ KEEP HISTORICAL EXECUTION EVIDENCE
-→ RECONCILE RESIDUAL EFFECTS
+→ REMEDIATION
 → NEW RECOVERY TASK
-→ FRESH AUTHORITY / POLICY
-→ CONTINUE RELATED CONTEXT
+→ RELATED CONTEXT
+→ AUTHENTICATE REQUEST
+→ AUTHORIZE REQUEST / ACTION
+→ EXECUTE
 ```
-
-A2A provides the clearest distinction: terminal tasks cannot be restarted, while one context can contain multiple related tasks
-
-MCP 2026-07-28 independently gives long-running asynchronous work stable task identity through the Tasks extension
 
 The current boundary is:
 
-> **Context continuity ≠ task restart ≠ authority continuity**
+> **Context continuity ≠ authority continuity**
+
+and:
+
+> **Fresh authorization decision ≠ fresh credential ≠ fresh human approval**
 
 ### W35 progress
 
@@ -53,19 +56,19 @@ The current boundary is:
 - H7 — end-to-end incident correlation: **STRONGLY STRENGTHENED**
 - H8 — relying-resource participation: **STRONG IMPLEMENTATION SIGNAL**
 - H9 — explicit Agent-runtime termination: **STRONGLY STRENGTHENED**
-- H10 — termination and remediation as separate phases: **STRONGLY STRENGTHENED**
-- H11 — new execution identity for recovery: **NEW / STRONG OPEN-PROTOCOL STRUCTURAL SIGNAL**
+- H10 — termination and remediation: **STRONGLY STRENGTHENED**
+- H11 — new execution identity for recovery: **STRONGLY STRENGTHENED / REFINED**
 
 ---
 
 ## Research Discipline / 研究纪律
 
-- **Terminal task ≠ incident closure**
-- **Context continuity ≠ task restart**
-- **Cancellation intent ≠ proven termination**
-- **Task ID ≠ principal identity**
-- **New task ≠ inherited authority**
-- **Protocol history ≠ complete side-effect ledger**
+- **Context continuity ≠ authority continuity**
+- **New task ≠ inherited authorization**
+- **Fresh authorization ≠ fresh credential**
+- **Fresh authorization ≠ fresh human approval**
+- **Authentication ≠ authorization**
+- **Authorization ≠ user intent**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
