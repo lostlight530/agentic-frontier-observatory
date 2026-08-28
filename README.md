@@ -16,53 +16,56 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-27 — **Termination Leaves Residue / 终止之后仍有残留状态**
+### 2026-08-28 — **Recovery Gets a New Task Boundary / 恢复获得新的任务边界**
 
-> **Operation Cancel · Runtime Stop · Residual State · Reconciliation**  
-> **操作取消 · 运行停止 · 残留状态 · 事后纠偏**
+> **Terminal Task · Historical Evidence · New Recovery Task · Context Continuity**  
+> **终止任务 · 历史证据 · 新恢复任务 · 上下文连续性**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-27.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-27/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-28.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-28/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
 
-W35 has moved from proving that a runtime can be stopped to asking what remains after stop
+W35 has moved from post-stop reconciliation to the identity boundary of recovery itself
 
 ```text
-TRUST / INCIDENT SIGNAL
-→ RESOURCE DENIAL
-→ OPERATION CANCEL
-→ SESSION / COMPUTE STOP
-→ RESIDUAL STATE INVENTORY
-→ DELETE / REVERT / COMPENSATE / REVOKE
-→ FRESH-TRUST RESUME
+TERMINAL TASK
+→ KEEP HISTORICAL EXECUTION EVIDENCE
+→ RECONCILE RESIDUAL EFFECTS
+→ NEW RECOVERY TASK
+→ FRESH AUTHORITY / POLICY
+→ CONTINUE RELATED CONTEXT
 ```
+
+A2A provides the clearest distinction: terminal tasks cannot be restarted, while one context can contain multiple related tasks
+
+MCP 2026-07-28 independently gives long-running asynchronous work stable task identity through the Tasks extension
 
 The current boundary is:
 
-> **Termination ≠ remediation**
+> **Context continuity ≠ task restart ≠ authority continuity**
 
 ### W35 progress
 
 - H1 — continuous runtime re-evaluation: **STRONGLY STRENGTHENED**
-- H2 — explicit enforcement point: **STRONGLY STRENGTHENED / REFINED**
+- H2 — explicit enforcement points: **STRONGLY STRENGTHENED / REFINED**
 - H3 — artifact trust ↔ workload identity: **SUPPORTED**
 - H4 — short-lived identity ≠ policy revocation: **STRENGTHENED**
-- H5 — exception lifecycle: **OPEN**
+- H5 — exception lifecycle: **OPEN / stronger pressure**
 - H6 — non-code lifecycle parity: **STRENGTHENED PRESSURE**
 - H7 — end-to-end incident correlation: **STRONGLY STRENGTHENED**
 - H8 — relying-resource participation: **STRONG IMPLEMENTATION SIGNAL**
 - H9 — explicit Agent-runtime termination: **STRONGLY STRENGTHENED**
-- H10 — termination and remediation as separate phases: **NEW / STRONG STRUCTURAL SIGNAL**
+- H10 — termination and remediation as separate phases: **STRONGLY STRENGTHENED**
+- H11 — new execution identity for recovery: **NEW / STRONG OPEN-PROTOCOL STRUCTURAL SIGNAL**
 
 ---
 
 ## Research Discipline / 研究纪律
 
-- **Cancel operation ≠ stop session**
-- **Stop session ≠ delete retained state**
-- **Runtime stop ≠ rollback durable effects**
-- **Revert ≠ historical erasure**
-- **Preserved state ≠ trusted state**
-- **Resume ≠ fresh authorization**
-- **Termination ≠ remediation**
+- **Terminal task ≠ incident closure**
+- **Context continuity ≠ task restart**
+- **Cancellation intent ≠ proven termination**
+- **Task ID ≠ principal identity**
+- **New task ≠ inherited authority**
+- **Protocol history ≠ complete side-effect ledger**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
