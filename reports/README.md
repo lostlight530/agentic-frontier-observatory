@@ -1,31 +1,75 @@
 # Reports / 研究报告
 
+This directory is the observatory's time-structured memory.
+
+```text
+Daily = atomic observation
+Weekly = hypothesis memory and settlement
+Monthly = long-horizon compression and carry-forward
+```
+
 ## Daily / 每日
 
-`daily/` contains the atomic research record. Every observation day produces one integrated report plus preserved workstream outputs.
+`daily/` contains the atomic research record.
 
-`daily/` 是原子研究记录，每个观察日形成一份完整总报告和保留的分任务结果。
+> **允许无变化，不允许无报告。**
+
+Mature daily pack:
+
+```text
+Integrated Daily
++ F1–F7
++ task index
+```
 
 Daily maintenance follows [`DAILY_SOP.md`](../DAILY_SOP.md).
 
+Historical records created before the mature pack/layout rule are not rewritten solely for style. Factual, status and chronology corrections remain explicit.
+
 ## Weekly / 每周
 
-`weekly/` compresses accumulated daily evidence into durable judgments, changed assumptions, stable conclusions, and the next watch priorities.
+Exactly one canonical file per ISO week:
 
-周报只从日报、事件账本和权威新增证据中综合，不替代日报，也不补写不存在的历史。
+```text
+weekly/YYYY/YYYY-Www.md
+```
 
-Weekly maintenance follows [`WEEKLY_SOP.md`](../WEEKLY_SOP.md). One ISO week keeps one canonical file and is updated in place until natural-week closure.
+Current chain:
 
-- [`2026-W32`](./weekly/2026/2026-W32.md) — founding week, 7–9 August 2026
-- [`2026-W33`](./weekly/2026/2026-W33.md) — first complete seven-day week, 10–16 August 2026
-- [`2026-W34`](./weekly/2026/2026-W34.md) — complete seven-day week, 17–23 August 2026
+- [`2026-W32`](./weekly/2026/2026-W32.md) — **CLOSED**, founding partial week, 7–9 Aug
+- [`2026-W33`](./weekly/2026/2026-W33.md) — **CLOSED**, 10–16 Aug
+- [`2026-W34`](./weekly/2026/2026-W34.md) — **CLOSED**, 17–23 Aug
+- [`2026-W35`](./weekly/2026/2026-W35.md) — **CLOSED**, 24–30 Aug
+
+Historical `*-progress.md` files are **legacy non-canonical snapshots**, retained only for audit and superseded by the matching `YYYY-Www.md`.
+
+Weekly maintenance follows [`WEEKLY_SOP.md`](../WEEKLY_SOP.md).
+
+> **周日不是清空，周一不是重启。**
 
 ## Monthly / 每月
 
-Monthly synthesis is a natural-month closure layer derived from the real daily and weekly record. It does not replace atomic reports and it must not be finalized before the natural month ends.
+Canonical path:
 
-月报只在自然月结束后收口，必须保留真实仓库生命周期和跨月周边界，不得提前制造 `FINAL` 月报。
+```text
+monthly/YYYY/YYYY-MM.md
+```
 
-Monthly maintenance follows [`MONTHLY_SOP.md`](../MONTHLY_SOP.md). Canonical monthly reports use `monthly/YYYY/YYYY-MM.md` when the first natural monthly closure is actually due.
+- [`2026-08`](./monthly/2026/2026-08.md) — **OPEN checkpoint through 30 Aug**
 
-For August 2026, repository-native coverage begins on 7 August 2026. The first August monthly closure therefore covers the real observatory lifetime from 7–31 August rather than fabricating 1–6 August run history.
+The repository was founded on 7 August. August 1–6 are not observatory-native runs.
+
+August cannot close until the actual 31 August record exists. W36 intersects August only on 31 August and is partial monthly context.
+
+Monthly maintenance follows [`MONTHLY_SOP.md`](../MONTHLY_SOP.md).
+
+## Canonicality / 记录优先级
+
+```text
+exact-day integrated daily = atomic state for that observation day
+canonical YYYY-Www.md     = weekly settlement
+canonical YYYY-MM.md      = monthly settlement / checkpoint
+legacy progress snapshot  = historical supplement only
+```
+
+Later synthesis does not rewrite earlier-day knowledge; corrections explain changed understanding explicitly.
