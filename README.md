@@ -14,52 +14,46 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-30 — **Recovery Boundaries Survive Closure / 恢复边界经受收口复核**
+### 2026-08-31 — **Reference Is Not Authority / 引用不是权限**
 
-[`Integrated Daily`](./reports/daily/2026/08/2026-08-30.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-30/) · [`W35 Final`](./reports/weekly/2026/2026-W35.md) · [`August OPEN Checkpoint`](./reports/monthly/2026/2026-08.md)
+[`Integrated Daily`](./reports/daily/2026/08/2026-08-31.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-31/) · [`W36 Opening`](./reports/weekly/2026/2026-W36.md) · [`August FINAL`](./reports/monthly/2026/2026-08.md)
 
-Sunday rechecked the core primary-source surfaces rather than manufacturing H12.
+August closes after **25 / 25 real repository-native observation days**.
 
-A2A continues to separate:
-
-```text
-contextId = semantic / conversational continuity
-Task ID   = distinct stateful execution object
-request   = independently authenticated / authorized operation boundary
-```
-
-Its current security text also makes the key W35 boundary explicit: entering `TASK_STATE_AUTH_REQUIRED` is not itself authorization for an operation, and authorization obtained there must not be assumed to cover later messages unless the implementation / issuer / extension explicitly defines that behavior.
-
-MCP Tasks continues to provide a distinct durable task identity with cooperative cancellation semantics, while GitHub session stop and Microsoft resource-side CAE preserve the distinction between resource denial, runtime stop and durable effects.
-
-W35 therefore closes on:
+The current normative A2A definition already provides:
 
 ```text
-TRUST CHANGE
-→ RESOURCE / POLICY ENFORCEMENT
-→ CANCEL / STOP
-→ TERMINAL EXECUTION RECORD
-→ RESIDUAL EFFECTS
-→ REMEDIATION
-→ SUCCESSOR TASK
-→ REQUEST AUTHENTICATION
-→ REQUEST AUTHORIZATION
-→ FOLLOW-UP VALIDATION
+referenceTaskIds
+= task IDs referenced for additional context
 ```
 
-### W35 final settlement
+So the open recovery question is no longer whether a Task can be referenced.
 
-- H1 — continuous runtime trust: **DURABLE GOVERNANCE DOCTRINE**
-- H2 — explicit enforcement points: **DURABLE**
-- H3 — artifact trust ≠ workload identity: **DURABLE DISTINCTION**
-- H4 — short-lived identity ≠ policy revocation: **DURABLE DOCTRINE**
-- H5 — exception lifecycle: **OPEN**
-- H6 — non-code lifecycle parity: **STRENGTHENED BUT OPEN**
-- H7 — end-to-end incident correlation: **DURABLE ANALYTICAL REQUIREMENT**
-- H8 — relying-resource participation: **DURABLE AS SCOPED IMPLEMENTATION PATTERN**
-- H9 — explicit Agent-runtime termination: **DURABLE AS MULTI-PLATFORM IMPLEMENTATION**
-- H10 — termination ≠ remediation: **DURABLE**
-- H11 — successor execution + independent authorization: **DURABLE AS A2A PROTOCOL BOUNDARY; PORTABLE RECOVERY MODEL OPEN**
+It is whether generic references become typed, interoperable recovery lineage:
+
+```text
+referenceTaskIds
+≠ predecessor
+≠ supersedes
+≠ repairs
+≠ compensates
+```
+
+A2A Java SDK 1.2.0.Final, published **7 August** and first observed by this repository on **31 August**, also hardened read authorization on referenced-task lookups.
+
+The durable new boundary is:
+
+> **Task reference ≠ Task authority.**
+
+### August → W36
+
+W32–W35 remain closed historical memory. W36 opens on 31 August and studies:
+
+- typed recovery lineage beyond generic references
+- cross-task read / authorization boundaries
+- A2A ↔ MCP ↔ vendor incident correlation
+- portable exception / break-glass lifecycle
+- non-code withdraw / supersede / compensate semantics
 
 ---
 
@@ -76,6 +70,8 @@ Resource Denial ≠ Runtime Stop
 Runtime Stop ≠ Rollback
 Termination ≠ Remediation
 Context Continuity ≠ Authority Continuity
+referenceTaskIds ≠ typed recovery lineage
+Task reference ≠ Task authority
 ```
 
 > **允许无变化，不允许无报告。**
@@ -88,9 +84,7 @@ Context Continuity ≠ Authority Continuity
 
 **Founded on 7 August 2026 / 成立于 2026 年 8 月 7 日**
 
-> **From imagination to intelligence**  
-> **From the past to the future**  
-> **From isolated systems to the agentic frontier**
+> **前八仓构建自己的世界，第九、十仓每天重新观察外部世界**
 
 ## License
 

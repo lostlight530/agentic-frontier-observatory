@@ -1,75 +1,62 @@
 # Reports / 研究报告
 
-This directory is the observatory's time-structured memory.
+The report tree is the observatory's time-ordered research memory.
 
 ```text
-Daily = atomic observation
-Weekly = hypothesis memory and settlement
-Monthly = long-horizon compression and carry-forward
+Daily   = atomic observation
+Weekly  = hypothesis memory / settlement
+Monthly = long-horizon compression / correction
 ```
 
 ## Daily / 每日
 
-`daily/` contains the atomic research record.
+Canonical path: `daily/YYYY/MM/YYYY-MM-DD.md`
+
+Every real observation day produces one integrated global report; mature packs also preserve F1–F7 workstream outputs and a task index.
 
 > **允许无变化，不允许无报告。**
 
-Mature daily pack:
+For August 2026, repository-native coverage begins on 7 August and closes with **25 real daily records through 31 August**. Days 1–6 predate the repository.
 
-```text
-Integrated Daily
-+ F1–F7
-+ task index
-```
-
-Daily maintenance follows [`DAILY_SOP.md`](../DAILY_SOP.md).
-
-Historical records created before the mature pack/layout rule are not rewritten solely for style. Factual, status and chronology corrections remain explicit.
+See [`daily/2026/08/README.md`](./daily/2026/08/README.md).
 
 ## Weekly / 每周
 
-Exactly one canonical file per ISO week:
+Canonical path: `weekly/YYYY/YYYY-Www.md`
 
-```text
-weekly/YYYY/YYYY-Www.md
-```
+One ISO week keeps one canonical file.
 
-Current chain:
+- [`2026-W32`](./weekly/2026/2026-W32.md) — 7–9 Aug, founding partial, CLOSED
+- [`2026-W33`](./weekly/2026/2026-W33.md) — 10–16 Aug, CLOSED
+- [`2026-W34`](./weekly/2026/2026-W34.md) — 17–23 Aug, CLOSED
+- [`2026-W35`](./weekly/2026/2026-W35.md) — 24–30 Aug, CLOSED
+- [`2026-W36`](./weekly/2026/2026-W36.md) — opens 31 Aug and continues into September, OPEN
 
-- [`2026-W32`](./weekly/2026/2026-W32.md) — **CLOSED**, founding partial week, 7–9 Aug
-- [`2026-W33`](./weekly/2026/2026-W33.md) — **CLOSED**, 10–16 Aug
-- [`2026-W34`](./weekly/2026/2026-W34.md) — **CLOSED**, 17–23 Aug
-- [`2026-W35`](./weekly/2026/2026-W35.md) — **CLOSED**, 24–30 Aug
-
-Historical `*-progress.md` files are **legacy non-canonical snapshots**, retained only for audit and superseded by the matching `YYYY-Www.md`.
-
-Weekly maintenance follows [`WEEKLY_SOP.md`](../WEEKLY_SOP.md).
+Legacy W33 date-named progress files remain frozen historical supplements only.
 
 > **周日不是清空，周一不是重启。**
 
 ## Monthly / 每月
 
-Canonical path:
+Canonical path: `monthly/YYYY/YYYY-MM.md`
+
+- [`2026-08`](./monthly/2026/2026-08.md) — **CLOSED**, repository-native coverage 7–31 Aug, 25 real daily records
+
+W36 intersects August only on Monday 31 August and remains open into September.
+
+## Historical truth and current state
 
 ```text
-monthly/YYYY/YYYY-MM.md
+historical snapshot ≠ current status
+publication date ≠ observation date
+explicit correction > silent overwrite
 ```
 
-- [`2026-08`](./monthly/2026/2026-08.md) — **OPEN checkpoint through 30 Aug**
+An older daily/weekly remains the record of what was observed then. Later verified evidence updates the current model without pretending it existed earlier.
 
-The repository was founded on 7 August. August 1–6 are not observatory-native runs.
+Maintenance follows:
 
-August cannot close until the actual 31 August record exists. W36 intersects August only on 31 August and is partial monthly context.
-
-Monthly maintenance follows [`MONTHLY_SOP.md`](../MONTHLY_SOP.md).
-
-## Canonicality / 记录优先级
-
-```text
-exact-day integrated daily = atomic state for that observation day
-canonical YYYY-Www.md     = weekly settlement
-canonical YYYY-MM.md      = monthly settlement / checkpoint
-legacy progress snapshot  = historical supplement only
-```
-
-Later synthesis does not rewrite earlier-day knowledge; corrections explain changed understanding explicitly.
+- [`DAILY_SOP.md`](../DAILY_SOP.md)
+- [`WEEKLY_SOP.md`](../WEEKLY_SOP.md)
+- [`MONTHLY_SOP.md`](../MONTHLY_SOP.md)
+- [`METHODOLOGY.md`](../METHODOLOGY.md)

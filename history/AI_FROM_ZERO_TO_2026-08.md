@@ -65,6 +65,62 @@ The history of AI is not a straight line from weak to strong machines. It is a r
 
 The agentic frontier of 2026 is historically significant because all five layers are becoming coupled. Models are embedded in systems that act, which makes protocols, identity, authorization, observability, recovery, and human judgment first-class research subjects.
 
+## 10｜August 2026 observatory refinement / 2026 年 8 月观察站修正
+
+The first continuous observatory month, 7–31 August 2026, turns the generic “agentic infrastructure” claim into a more stateful historical model.
+
+```text
+W32
+model capability
+→ protocol / discovery / identity / governance network
+
+W33
+capability
+→ accountable principal
+→ request identity
+→ delegated scope
+→ trust-domain boundary
+
+W34
+published Agent / session evidence
+→ durable source change
+→ artifact provenance
+→ admission policy
+
+W35
+live trust
+→ relying-resource denial
+→ runtime stop
+→ residual state
+→ remediation
+→ successor Task
+→ request authorization
+
+31 Aug
+cross-task reference exists
+→ typed recovery lineage remains open
+→ referenced Task access remains authorization-scoped
+```
+
+The durable historical change is that **relationships themselves become system objects**. Context, Task identity, cross-task references, credentials, authorization decisions, provenance and remediation cannot be collapsed into one session flag.
+
+August therefore adds these long-term historical boundaries:
+
+```text
+Capability ≠ Deployability
+Identity ≠ Credential ≠ Authority
+Protocol Publication ≠ Operational Maturity
+Admission ≠ Continuous Authorization
+Resource Denial ≠ Runtime Stop
+Runtime Stop ≠ Rollback
+Termination ≠ Remediation
+Context Continuity ≠ Authority Continuity
+referenceTaskIds ≠ typed recovery lineage
+Task reference ≠ Task authority
+```
+
+The A2A Java SDK 1.2.0.Final release, published on 7 August and first observed by this repository on 31 August, is a useful implementation-history example: protocol relationship support created a real authorization-hardening requirement around referenced Task lookup. This is evidence that protocol maturity includes operational security correction, not merely specification publication.
+
 ## Primary references / 一手参考
 
 See [`../SOURCE_REGISTRY.md`](../SOURCE_REGISTRY.md).
