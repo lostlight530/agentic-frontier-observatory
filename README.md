@@ -14,46 +14,34 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-08-31 — **Reference Is Not Authority / 引用不是权限**
+### 2026-09-01 — **Approval Is a State, Not Maturity / 批准是状态，不是成熟度**
 
-[`Integrated Daily`](./reports/daily/2026/08/2026-08-31.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-31/) · [`W36 Opening`](./reports/weekly/2026/2026-W36.md) · [`August FINAL`](./reports/monthly/2026/2026-08.md)
+[`Integrated Daily`](./reports/daily/2026/09/2026-09-01.md) · [`Research Pack`](./reports/daily/2026/09/2026-09-01/) · [`W36 Tuesday`](./reports/weekly/2026/2026-W36.md) · [`September OPEN`](./reports/monthly/2026/2026-09.md)
 
-August closes after **25 / 25 real repository-native observation days**.
+The current ITU-T Work Programme records **F.748.93 — Framework and Requirements for AI Agent Interoperability** as **Approved on 2026-08-29** under AAP.
 
-The current normative A2A definition already provides:
-
-```text
-referenceTaskIds
-= task IDs referenced for additional context
-```
-
-So the open recovery question is no longer whether a Task can be referenced.
-
-It is whether generic references become typed, interoperable recovery lineage:
+That gives the observatory a useful lifecycle distinction:
 
 ```text
-referenceTaskIds
-≠ predecessor
-≠ supersedes
-≠ repairs
-≠ compensates
+Consented
+→ Approved
+→ publication / stable text ?
+→ implementation ?
+→ conformance ?
+→ cross-vendor operational interoperability ?
 ```
 
-A2A Java SDK 1.2.0.Final, published **7 August** and first observed by this repository on **31 August**, also hardened read authorization on referenced-task lookups.
+> **Approval is a real state transition; it is not operational maturity.**
 
-The durable new boundary is:
+W36's recovery track remains intact:
 
-> **Task reference ≠ Task authority.**
+```text
+referenceTaskIds exists
+≠ typed recovery lineage
+Task reference ≠ Task authority
+```
 
-### August → W36
-
-W32–W35 remain closed historical memory. W36 opens on 31 August and studies:
-
-- typed recovery lineage beyond generic references
-- cross-task read / authorization boundaries
-- A2A ↔ MCP ↔ vendor incident correlation
-- portable exception / break-glass lifecycle
-- non-code withdraw / supersede / compensate semantics
+A2A request authorization remains independently scoped, MCP Tasks remains Draft, and the NIST NCCoE identity/authorization project remains in `Reviewing Comments` on the current source surfaces checked for this cycle.
 
 ---
 
@@ -63,10 +51,9 @@ W32–W35 remain closed historical memory. W36 opens on 31 August and studies:
 Capability ≠ Deployability
 Discovery ≠ Authorization ≠ Invocation
 Identity ≠ Credential ≠ Authority
-Authenticated Origin ≠ Delegated User Authority
+Protocol Consent ≠ Approval ≠ Implementation ≠ Conformance
 Protocol Publication ≠ Operational Maturity
 Admission ≠ Continuous Authorization
-Resource Denial ≠ Runtime Stop
 Runtime Stop ≠ Rollback
 Termination ≠ Remediation
 Context Continuity ≠ Authority Continuity

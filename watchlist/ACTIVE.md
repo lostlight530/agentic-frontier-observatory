@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-08-31 · August closure + W36 opening**
+Updated: **2026-09-01 · W36 Tuesday**
 
 > Historical `W35 PRIORITY` labels below are retained as provenance of the previous week's research pressure. They are not the current ranking. The W36 active shortlist appears after the full table.
 
@@ -76,26 +76,23 @@ Updated: **2026-08-31 · August closure + W36 opening**
 | G-W68 | Can a new recovery task carry fresh user delegation, workload identity and policy evidence rather than inheriting authority from shared context/reference? | **STRONGLY STRENGTHENED / OPEN** | Authorization profiles, referenced-task access rules and recovery workflows |
 | G-W69 | Can one incident ID span vendor session IDs, MCP task IDs, A2A task IDs and durable-effect remediation records? | **NEW / W35 PRIORITY** | Trace-context mappings and cross-protocol implementations |
 | G-W70 | Can task-state evidence distinguish cancellation intent, observed terminal state and the exact external effects that committed during the race window? | **NEW / W35 PRIORITY** | Task/event logs, idempotency and effect-ledger implementations |
+| G-W71 | Does F.748.93 approval produce inspectable Recommendation publication, implementation, conformance and cross-vendor interoperability evidence? | **NEW / W36 PRIORITY** | Stable Recommendation text/reference, conformance methods, implementations and interoperability results |
 
 ## W36 Active Shortlist / W36 当前优先清单
 
-1. **G-W67** — typed recovery lineage beyond generic `referenceTaskIds`
-2. **G-W68** — successor/referenced-task authority and delegated-user evidence
-3. **G-W69 / G-W55** — cross-protocol incident correlation
-4. **G-W45 / G-W53** — exception / break-glass lifecycle
-5. **G-W54 / G-W66** — non-code withdraw / supersede / compensate semantics
-6. **G-W59 / G-W56** — resource denial / risk event → runtime safe stop
-7. **G-W62 / G-W70** — residual-effect inventory and race-window effect evidence
+1. **G-W71** — F.748.93 approval → implementation / conformance / interoperability evidence
+2. **G-W67** — typed recovery lineage beyond generic `referenceTaskIds`
+3. **G-W68** — successor/referenced-task authority and delegated-user evidence
+4. **G-W69 / G-W55** — cross-protocol incident correlation
+5. **G-W45 / G-W53** — exception / break-glass lifecycle
+6. **G-W54 / G-W66** — non-code withdraw / supersede / compensate semantics
+7. **G-W59 / G-W56** — resource denial / risk event → runtime safe stop
+8. **G-W62 / G-W70** — residual-effect inventory and race-window effect evidence
 
-## Month-end durable correction / 月末耐久纠偏
+## Durable correction / 耐久纠偏
 
 ```text
-referenceTaskIds exists
-≠ typed recovery relation exists
-
-Task reference
-≠ Task read authority
-≠ Task write authority
+Consent ≠ Approval ≠ Implementation ≠ Conformance
+referenceTaskIds exists ≠ typed recovery relation exists
+Task reference ≠ Task read/write authority
 ```
-
-The A2A Java SDK 1.2.0.Final authorization fix is implementation evidence for this boundary, not proof that all A2A SDKs / deployments enforce identical policy semantics.
