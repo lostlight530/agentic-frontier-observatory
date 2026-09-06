@@ -63,6 +63,8 @@ Only after the final real daily exists:
 8. create next-week carry-forward
 9. do not manufacture Sunday novelty
 
+When Sunday Daily and weekly settlement are completed in the same maintenance pass, prefer one branch and one final PR for both. This is cadence coalescing, not a second weekly artifact: there is still exactly one canonical weekly file. Do not create a duplicate weekly PR solely to satisfy a cadence label.
+
 ## Recommended structure / 推荐结构
 
 ```markdown
@@ -90,6 +92,21 @@ Early `YYYY-Www-YYYY-MM-DD-progress.md` files may remain for audit, but must be 
 - frozen; never updated
 - never counted as a second weekly
 
+## Agent / PR evidence boundary / Agent 与 PR 证据边界
+
+Weekly settlement is supported by real Dailies, registered primary sources, current repository facts, and explicit corrections.
+
+Jules, Codex, or another agent's task/PR summary, automated test narrative, completion judgment, or PR body is not independent strengthening evidence.
+
+```text
+agent summary != weekly evidence
+PR narrative != current main truth
+same agent restatement != independent source
+claimed completion != verified state transition
+```
+
+If an agent-authored PR actually changes merged `main`, the **merged repository state** may be treated as a repository fact. The PR narrative itself is still not automatically authoritative. Historical agent prose that needs correction must retain its original time context and be corrected explicitly in current records, never backdated into the earlier week.
+
 ## Permanent boundaries / 永久边界
 
 ```text
@@ -100,6 +117,7 @@ Protocol Publication ≠ Operational Maturity
 Admission ≠ Continuous Authorization
 Runtime Stop ≠ Rollback
 Termination ≠ Remediation
+Agent/Task Narrative ≠ Authoritative Evidence
 ```
 
 No external project execution, no automation, no CI/Actions changes, no automatic merge, no direct main write.
