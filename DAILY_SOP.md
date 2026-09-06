@@ -95,6 +95,8 @@ Update only the same canonical weekly when the day's evidence changes a weekly h
 
 Daily ≠ mini-weekly. Weekly ≠ concatenated dailies.
 
+If the day is the week's final real observation day and the canonical weekly is ready for settlement, the Daily pack and Sunday settlement should normally be delivered in the **same branch and final PR**. Do not manufacture a second PR merely because Daily and Weekly are separate cadence names; the weekly file remains unique and canonical.
+
 ## Durable assets / 长期资产
 
 - Source Registry: add only durable new source families / version anchors / corrections
@@ -111,6 +113,23 @@ old repository claim
 ```
 
 Later evidence must not be made to look like it existed earlier.
+
+## Coding-agent and PR provenance / 编码代理与 PR 来源边界
+
+Jules, Codex, or any other coding/research agent task description, PR title/body, automated summary, test statement, or completion narrative is **work-proposal / delivery metadata**, not primary external evidence and not automatic repository truth.
+
+```text
+agent/task narrative != authoritative evidence
+PR body != merged main
+claimed test pass != independently reverified runtime fact
+agent summary != current implementation truth
+historical PR wording != current contract
+```
+
+- An unmerged agent PR is a proposal. After merge, the historical repository fact is the actual merged code/document state, not every assertion in the PR narrative.
+- Claims such as `tests passed`, `fully aligned`, `fixed`, `complete`, or `100%` require current reproducible repository/runtime evidence before being reused as current facts.
+- Agent task/PR prose must not be cited as an F1–F7 primary source; it may only identify repository objects that need verification.
+- If historical agent prose conflicts with current `main`, active machine contracts, or authoritative external sources, current verified truth wins. Record an explicit correction while preserving the historical PR rather than silently rewriting it.
 
 ## Forbidden / 禁止事项
 
