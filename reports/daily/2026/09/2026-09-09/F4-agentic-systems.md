@@ -1,0 +1,2 @@
+# F4 — Agentic Systems
+A2A current `Life of a Task` still uses `contextId` and `referenceTaskIds` for related interactions. Terminal tasks cannot restart; refinements create a new Task in the same context. Artifact mutation linkage remains client-managed and outside the A2A specification. This still does not provide typed predecessor/supersedes/repairs/compensates recovery lineage or successor-authority inheritance.
