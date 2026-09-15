@@ -8,6 +8,8 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 **[Daily Reports](./reports/daily/) · [Weekly Research](./reports/weekly/) · [Monthly Research](./reports/monthly/) · [Methodology](./METHODOLOGY.md) · [Sources](./SOURCE_REGISTRY.md) · [Watchlist](./watchlist/ACTIVE.md) · [Workstreams](./workstreams/README.md) · [External Audit](./governance/external-audit/)**
 
+**Repository context / governance:** [Origin](./ORIGIN.md) · [Scope](./SCOPE.md) · [Taxonomy](./TAXONOMY.md) · [Ten-repository context](./TEN_REPOSITORY_CONTEXT.md) · [Governance](./governance/README.md)
+
 **Twin Observatory / 双仓联动：** [China Agentic Observatory](https://github.com/lostlight530/china-agentic-observatory)
 
 ---
