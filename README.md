@@ -14,34 +14,22 @@ A bilingual, source-grounded observatory tracing artificial intelligence from it
 
 ## Current Research / 当前研究
 
-### 2026-09-01 — **Approval Is a State, Not Maturity / 批准是状态，不是成熟度**
+Current state is maintained on the canonical time-ordered surfaces rather than duplicated in this repository front page:
 
-[`Integrated Daily`](./reports/daily/2026/09/2026-09-01.md) · [`Research Pack`](./reports/daily/2026/09/2026-09-01/) · [`W36 Tuesday`](./reports/weekly/2026/2026-W36.md) · [`September OPEN`](./reports/monthly/2026/2026-09.md)
-
-The current ITU-T Work Programme records **F.748.93 — Framework and Requirements for AI Agent Interoperability** as **Approved on 2026-08-29** under AAP.
-
-That gives the observatory a useful lifecycle distinction:
-
-```text
-Consented
-→ Approved
-→ publication / stable text ?
-→ implementation ?
-→ conformance ?
-→ cross-vendor operational interoperability ?
-```
-
-> **Approval is a real state transition; it is not operational maturity.**
-
-W36's recovery track remains intact:
+- [`September 2026 Daily Index`](./reports/daily/2026/09/README.md) — atomic observation-day record
+- [`2026 Weekly Canonical Index`](./reports/weekly/2026/README.md) — current weekly hypothesis state and closed-week history
+- [`September 2026 Monthly`](./reports/monthly/2026/2026-09.md) — current monthly synthesis, kept `OPEN` until natural month closure
+- [`Active Watchlist`](./watchlist/ACTIVE.md) — current research-pressure shortlist
+- [`Source Registry`](./SOURCE_REGISTRY.md) — current source identities and source-bounded state notes
 
 ```text
-referenceTaskIds exists
-≠ typed recovery lineage
-Task reference ≠ Task authority
+Daily atomic observation
+→ Weekly hypothesis correction / settlement
+→ Monthly durable synthesis
+→ Watchlist / Registry / durable assets only when evidence requires
 ```
 
-A2A request authorization remains independently scoped, MCP Tasks remains Draft, and the NIST NCCoE identity/authorization project remains in `Reviewing Comments` on the current source surfaces checked for this cycle.
+The front page intentionally does not mirror the latest Daily or current Weekly in prose. The linked canonical surfaces own those states.
 
 ---
 
@@ -51,7 +39,7 @@ A2A request authorization remains independently scoped, MCP Tasks remains Draft,
 Capability ≠ Deployability
 Discovery ≠ Authorization ≠ Invocation
 Identity ≠ Credential ≠ Authority
-Protocol Consent ≠ Approval ≠ Implementation ≠ Conformance
+Protocol Consent ≠ Approval ≠ Publication ≠ Implementation ≠ Conformance
 Protocol Publication ≠ Operational Maturity
 Admission ≠ Continuous Authorization
 Runtime Stop ≠ Rollback
