@@ -6,7 +6,7 @@
 
 A bilingual, source-grounded observatory tracing artificial intelligence from its intellectual and computational roots to the agentic frontier.
 
-**[Daily Reports](./reports/daily/) · [Weekly Research](./reports/weekly/) · [Monthly Research](./reports/monthly/) · [Methodology](./METHODOLOGY.md) · [Sources](./SOURCE_REGISTRY.md) · [Watchlist](./watchlist/ACTIVE.md) · [Workstreams](./workstreams/README.md)**
+**[Daily Reports](./reports/daily/) · [Weekly Research](./reports/weekly/) · [Monthly Research](./reports/monthly/) · [Methodology](./METHODOLOGY.md) · [Sources](./SOURCE_REGISTRY.md) · [Watchlist](./watchlist/ACTIVE.md) · [Workstreams](./workstreams/README.md) · [External Audit](./governance/external-audit/)**
 
 **Twin Observatory / 双仓联动：** [China Agentic Observatory](https://github.com/lostlight530/china-agentic-observatory)
 
@@ -30,6 +30,8 @@ Daily atomic observation
 ```
 
 The front page intentionally does not mirror the latest Daily or current Weekly in prose. The linked canonical surfaces own those states.
+
+External maintenance is tracked separately under [`governance/external-audit/`](./governance/external-audit/) and does not enter the Daily → Weekly → Monthly research-compression chain.
 
 ---
 
