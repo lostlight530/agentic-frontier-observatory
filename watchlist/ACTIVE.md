@@ -1,8 +1,8 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-09-01 · W36 Tuesday**
+Updated: **2026-09-15 · W38**
 
-> Historical `W35 PRIORITY` labels below are retained as provenance of the previous week's research pressure. They are not the current ranking. The W36 active shortlist appears after the full table.
+> Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current ranking. The W38 active shortlist appears after the full table.
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -50,49 +50,51 @@ Updated: **2026-09-01 · W36 Tuesday**
 | G-W42 | Does open Sigstore/SLSA provenance become a bridge from vendor-local Agent governance to cross-platform evidence portability? | **STRENGTHENED / open** | Cross-vendor Agent provenance mappings and conformance |
 | G-W43 | Can an admission controller verify Agent-session or sponsor metadata in addition to ordinary build provenance? | OPEN | Custom predicates, policy examples and deployments |
 | G-W44 | Can one policy decision correlate Agent definition, session, reviewed source, artifact digest and runtime workload? | **OPEN / W35 PRIORITY** | End-to-end correlation IDs and evidence graphs |
-| G-W45 | How are policy exceptions represented, approved, expired and audited without becoming a permanent bypass? | **OPEN / W35 PRIORITY** | Exception workflows and incident evidence |
+| G-W45 | How are policy exceptions represented, approved, expired and audited without becoming a permanent bypass? | **OPEN / W38 PRIORITY** | Exception workflows and incident evidence |
 | G-W46 | Does attestation deletion or revocation automatically stop already-running or cached workloads? | **OPEN / W35 PRIORITY** | Runtime revocation and re-admission implementations |
 | G-W47 | Can OPA / Sigstore / cloud admission systems converge on portable Agent-specific provenance profiles? | OPEN | Shared schemas and cross-platform policy packs |
 | G-W48 | Can non-code Agent outputs be subject to an equivalent machine-enforced admission / publication gate? | OPEN | Document, dataset, ticket and infrastructure examples |
-| G-W49 | Can continuous runtime policy evaluation consume Agent-specific identity, delegation and risk state rather than only workload/user state? | **STRENGTHENED / W35 PRIORITY** | Agent-specific CAE / policy implementations and schemas |
-| G-W50 | Which enforcement point can actually limit or terminate a running Agent session after trust changes? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Need policy-to-stop propagation evidence |
+| G-W49 | Can continuous runtime policy evaluation consume Agent-specific identity, delegation and risk state rather than only workload/user state? | **STRENGTHENED / W38 PRIORITY** | Agent-specific continuous-authorization implementations and schemas |
+| G-W50 | Which enforcement point can actually limit or terminate a running Agent session after trust changes? | **STRONGLY STRENGTHENED / open** | Need policy-to-stop propagation evidence |
 | G-W51 | Can artifact provenance be correlated with SPIFFE-style live workload identity without collapsing their semantics? | **NEW / W35 PRIORITY** | Provenance-to-workload mappings and deployment examples |
 | G-W52 | Do short-lived workload credentials reduce Agent incident blast radius without masking stale delegated authority? | **NEW / W35 PRIORITY** | Rotation and authorization-lifecycle evidence |
-| G-W53 | Can break-glass Agent exceptions carry owner, scope, reason, expiry and audit evidence end to end? | **NEW / W35 PRIORITY** | Exception schemas, temporary access workflows and incidents |
-| G-W54 | Do non-code Agent outputs gain publication, admission, supersession and revocation primitives? | **STRENGTHENED / W35 PRIORITY** | Need withdrawal / supersession / compensation implementations |
-| G-W55 | Can one incident correlation chain span Agent definition, identity, session, tool calls, artifact and runtime state? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Add original-task and recovery-task relations |
+| G-W53 | Can break-glass Agent exceptions carry owner, scope, reason, expiry and audit evidence end to end? | **OPEN / W38 PRIORITY** | Exception schemas, temporary access workflows and incidents |
+| G-W54 | Do non-code Agent outputs gain publication, admission, supersession and revocation primitives? | **STRENGTHENED / open** | Need withdrawal / supersession / compensation implementations |
+| G-W55 | Can one incident correlation chain span Agent definition, identity, session, tool calls, artifact and runtime state? | **STRONGLY STRENGTHENED / open** | Add original-task and recovery-task relations |
 | G-W56 | Can resource-side token denial reliably trigger Agent-runtime cancellation or safe degradation rather than repeated failure loops? | **STRONGLY STRENGTHENED / open** | Need automatic denial-to-stop linkage |
 | G-W57 | Can CAE-style claims challenges preserve user delegation and Agent identity semantics across MCP, A2A and third-party SaaS resources? | **NEW / W35 PRIORITY** | Cross-protocol claims / authorization mappings and pilots |
 | G-W58 | What happens to unsupported resources when the issuer revokes trust but no continuous-evaluation channel exists? | **NEW / W35 PRIORITY** | Mixed-resource incident evidence, token-lifetime and fallback policies |
-| G-W59 | Can identity-risk, policy or CAE events automatically invoke a runtime `stop` / `cancel` primitive with an auditable reason and correlation ID? | **STRENGTHENED / W35 PRIORITY** | Need automated policy bridge |
-| G-W60 | What durable side effects remain after Agent session stop, and how are they rolled back, superseded or remediated? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Seek tools/infrastructure/non-code cases |
-| G-W61 | Do stop / cancel / suspend / resume semantics converge across Agent runtimes or remain vendor-local? | **STRONGLY STRENGTHENED / W35 PRIORITY** | A2A/MCP add open task lifecycle; recovery mapping remains open |
+| G-W59 | Can identity-risk, policy or CAE events automatically invoke a runtime `stop` / `cancel` primitive with an auditable reason and correlation ID? | **STRENGTHENED / open** | Need automated policy bridge |
+| G-W60 | What durable side effects remain after Agent session stop, and how are they rolled back, superseded or remediated? | **OPEN / W38 PRIORITY** | Portable committed-effect and rollback/compensation contracts |
+| G-W61 | Do stop / cancel / suspend / resume semantics converge across Agent runtimes or remain vendor-local? | **STRONGLY STRENGTHENED / open** | A2A/MCP add open task lifecycle; recovery mapping remains open |
 | G-W62 | Can a runtime stop enumerate every retained local state and external durable side effect before incident closure? | **NEW / W35 PRIORITY** | Residual-state inventories, transaction logs and incident tooling |
-| G-W63 | Can remediation actions carry the original incident/session correlation ID, owner, reason and completion evidence? | **NEW / W35 PRIORITY** | Revert/compensation workflow schemas and production tooling |
-| G-W64 | Does Agent resume require fresh identity, delegation, policy and risk evaluation rather than blindly restoring preserved state? | **STRONGLY STRENGTHENED / W35 PRIORITY** | New-task boundary exists; need explicit fresh-authorization linkage |
+| G-W63 | Can remediation actions carry the original incident/session correlation ID, owner, reason and completion evidence? | **OPEN / W38 PRIORITY** | Portable remediation and completion-evidence schemas |
+| G-W64 | Does Agent resume require fresh identity, delegation, policy and risk evaluation rather than blindly restoring preserved state? | **STRONGLY STRENGTHENED / open** | New-task boundary exists; need explicit fresh-authorization linkage |
 | G-W65 | Can in-flight tool calls be fenced or cancelled before session stop while preserving which effects committed? | **NEW / W35 PRIORITY** | Tool-call cancellation, transactional boundaries and remote-tool evidence |
-| G-W66 | What are the portable equivalents of revert / compensate / withdraw for non-code Agent outputs? | **NEW / W35 PRIORITY** | Documents, messages, tickets, CRM, datasets and infrastructure examples |
-| G-W67 | Can generic A2A `referenceTaskIds` become typed recovery lineage (`predecessor` / `supersedes` / `repairs` / `compensates`) across systems? | **REFINED / OPEN 2026-08-31** | Typed relation/extension semantics, TCK and interoperable implementations |
-| G-W68 | Can a new recovery task carry fresh user delegation, workload identity and policy evidence rather than inheriting authority from shared context/reference? | **STRONGLY STRENGTHENED / OPEN** | Authorization profiles, referenced-task access rules and recovery workflows |
+| G-W66 | What are the portable equivalents of revert / compensate / withdraw for non-code Agent outputs? | **OPEN / W38 PRIORITY** | Documents, messages, tickets, CRM, datasets and infrastructure examples |
+| G-W67 | Can generic A2A `referenceTaskIds` become typed recovery lineage (`predecessor` / `supersedes` / `repairs` / `compensates`) across systems? | **OPEN / W38 PRIORITY** | Typed relation/extension semantics, TCK and interoperable implementations |
+| G-W68 | Can a new recovery task carry fresh user delegation, workload identity and policy evidence rather than inheriting authority from shared context/reference? | **OPEN / W38 PRIORITY** | Authorization profiles, referenced-task access rules and recovery workflows |
 | G-W69 | Can one incident ID span vendor session IDs, MCP task IDs, A2A task IDs and durable-effect remediation records? | **NEW / W35 PRIORITY** | Trace-context mappings and cross-protocol implementations |
 | G-W70 | Can task-state evidence distinguish cancellation intent, observed terminal state and the exact external effects that committed during the race window? | **NEW / W35 PRIORITY** | Task/event logs, idempotency and effect-ledger implementations |
-| G-W71 | Does F.748.93 approval produce inspectable Recommendation publication, implementation, conformance and cross-vendor interoperability evidence? | **NEW / W36 PRIORITY** | Stable Recommendation text/reference, conformance methods, implementations and interoperability results |
+| G-W71 | Does F.748.93 approval/publication produce inspectable implementation, conformance and cross-vendor interoperability evidence? | **OPEN / W38 MONITOR** | Conformance methods, implementations and interoperability results |
+| G-W72 | Can recovery/remediation completion be expressed as portable machine-readable proof accepted by the required authority? | **NEW / W38 PRIORITY** | Normative completion evidence, acceptance semantics and interoperable implementations |
 
-## W36 Active Shortlist / W36 当前优先清单
+## W38 Active Shortlist / W38 当前优先清单
 
-1. **G-W71** — F.748.93 approval → implementation / conformance / interoperability evidence
-2. **G-W67** — typed recovery lineage beyond generic `referenceTaskIds`
-3. **G-W68** — successor/referenced-task authority and delegated-user evidence
-4. **G-W69 / G-W55** — cross-protocol incident correlation
-5. **G-W45 / G-W53** — exception / break-glass lifecycle
-6. **G-W54 / G-W66** — non-code withdraw / supersede / compensate semantics
-7. **G-W59 / G-W56** — resource denial / risk event → runtime safe stop
-8. **G-W62 / G-W70** — residual-effect inventory and race-window effect evidence
+1. **G-W67** — typed recovery lineage beyond generic contextual task references
+2. **G-W68** — successor authority / explicit re-authorization for follow-up recovery work
+3. **G-W60 / G-W63 / G-W66** — committed effects, rollback/compensation and remediation completion evidence
+4. **G-W45 / G-W49 / G-W53** — continuous authorization plus scoped exception / break-glass lifecycle
+5. **G-W72** — portable proof that recovery/remediation obligations were completed and accepted
+6. **G-W71** — F.748.93 implementation / conformance / operational interoperability evidence remains an open maturity gap
 
 ## Durable correction / 耐久纠偏
 
 ```text
-Consent ≠ Approval ≠ Implementation ≠ Conformance
+Consent ≠ Approval ≠ Publication ≠ Implementation ≠ Conformance
+Protocol publication ≠ operational maturity
 referenceTaskIds exists ≠ typed recovery relation exists
 Task reference ≠ Task read/write authority
+Context continuity ≠ authority continuity
+Runtime stop ≠ rollback ≠ remediation completion
 ```

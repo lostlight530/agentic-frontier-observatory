@@ -2,7 +2,7 @@
 
 ## 中文
 
-本仓库研究人工智能从思想史、数学与计算根基到 2026 年 8 月现实前沿的完整演进。范围默认开放，但所有纳入内容必须能回答至少一个问题：
+本仓库研究人工智能从思想史、数学与计算根基到当前现实前沿的完整演进。范围默认开放，但所有纳入内容必须能回答至少一个问题：
 
 1. 人工智能是如何形成的
 2. 某个范式、组织、政策或基础设施改变了什么
@@ -28,7 +28,7 @@
 
 ## English
 
-The repository studies the complete evolution of AI from intellectual, mathematical, and computational roots to the practical frontier of August 2026. Scope is broad by default, but every item must explain formation, change, relationships, evidence status, or unresolved questions.
+The repository studies the complete evolution of AI from intellectual, mathematical, and computational roots to the current practical frontier. Scope is broad by default, but every item must explain formation, change, relationships, evidence status, or unresolved questions.
 
 The repository includes models, algorithms, data, compute, chips, infrastructure, robotics, embodied AI, scientific AI, policy, standards, economics, labor, safety, security, energy, open source, commercial systems, and agentic interoperability.
 
