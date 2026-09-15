@@ -7,15 +7,19 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W32 | 7–9 Aug | CLOSED founding partial | Historical baseline stable. |
 | W33 | 10–16 Aug | CLOSED | Trust-stack doctrine remains scoped; progress snapshots are legacy non-canonical. |
 | W34 | 17–23 Aug | CLOSED | Executable-governance/provenance settlement remains valid. |
-| W35 | 24–30 Aug | CLOSED | Runtime-recovery settlement remains valid; generic reference exists, typed lineage open. |
-| W36 | 31 Aug–6 Sep | **OPEN — Tue 1 Sep** | Adds F.748.93 Approved state without collapsing approval into interoperability maturity. |
+| W35 | 24–30 Aug | CLOSED | Runtime-recovery settlement remains valid; generic reference exists, typed lineage remains open. |
+| W36 | 31 Aug–6 Sep | CLOSED — Sunday settlement | Bounded references; approval/publication/implementation/conformance remain separate states. |
+| W37 | 7–13 Sep | FINAL — H37-1~H37-5 OPEN | Execution continues to outrun portable authority, durable-effect and recovery contracts. |
+| W38 | 14–20 Sep | **OPEN — updated through 15 Sep Daily** | Recovery-contract hypotheses H38-1~H38-5 remain OPEN. |
+
+The dated `2026-W36-2026-09-07-special-event-reconciliation.md` file is an explicit non-canonical reconciliation supplement. It does not replace or duplicate canonical `2026-W36.md`.
 
 ```text
 closed historical week
 ≠ current-state index
 
 later event discovery
-→ explicit new daily / current index
+→ explicit new Daily / correction / reconciliation
 ≠ silent rewrite
 ```
 
