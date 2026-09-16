@@ -1,4 +1,7 @@
 # Agentic Frontier Observatory
+
+[![DOI](https://zenodo.org/badge/1326164255.svg)](https://zenodo.org/badge/latestdoi/1326164255)
+
 ### 全球人工智能与智能体前沿观察站
 
 > **One repository · One day · One integrated research report**  
