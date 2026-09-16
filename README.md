@@ -1,6 +1,6 @@
 # Agentic Frontier Observatory
 
-[![DOI](https://zenodo.org/badge/1326164255.svg)](https://zenodo.org/badge/latestdoi/1326164255)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22791334.svg)](https://doi.org/10.5281/zenodo.22791334)
 
 ### 全球人工智能与智能体前沿观察站
 
