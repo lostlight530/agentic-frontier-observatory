@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository in your work, please cite it using the metadata below."
+title: "Agentic Frontier Observatory"
+authors:
+  - name: "lostlight530"
+    website: "https://github.com/lostlight530"
+repository-code: "https://github.com/lostlight530/agentic-frontier-observatory"
+license: MIT
+abstract: >-
+  A bilingual, source-grounded observatory tracing artificial intelligence
+  from its intellectual and computational roots to the agentic frontier with
+  daily, weekly, and monthly evidence-bounded research surfaces.
+keywords:
+  - artificial intelligence
+  - agentic systems
+  - research observatory
+  - evidence
+  - provenance
+  - technology monitoring

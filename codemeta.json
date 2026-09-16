@@ -1,0 +1,23 @@
+{
+  "@context": "https://w3id.org/codemeta/3.1",
+  "@type": "SoftwareSourceCode",
+  "name": "Agentic Frontier Observatory",
+  "description": "A bilingual, source-grounded observatory tracing artificial intelligence from its intellectual and computational roots to the agentic frontier with daily, weekly, and monthly evidence-bounded research surfaces.",
+  "codeRepository": "https://github.com/lostlight530/agentic-frontier-observatory",
+  "license": "https://spdx.org/licenses/MIT.html",
+  "author": {
+    "@type": "Person",
+    "name": "lostlight530",
+    "url": "https://github.com/lostlight530"
+  },
+  "applicationCategory": "Research Software",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "artificial intelligence",
+    "agentic systems",
+    "research observatory",
+    "evidence",
+    "provenance",
+    "technology monitoring"
+  ]
+}
