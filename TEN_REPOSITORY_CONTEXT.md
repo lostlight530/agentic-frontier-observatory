@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / SYSTEM CONTEXT`
+> - **Role:** Durable map of the Global Observatory inside the public ten-repository system
+> - **Authority:** Current repository-role authority for cross-repository interpretation, not execution authority over other repositories
+> - **Current meaning:** Use this file to understand inward construction, research-infrastructure, and outward observation roles without collapsing their local evidence models
+> - **Evidence boundary:** observatory findings do not automatically mutate other repositories; software publication identity does not validate runtime/scientific claims or make later main identical to an archive
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update when durable repository roles or cross-repository relationships change
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+
 # Ten-Repository Context / 十仓体系定位
 
 This file describes the observatory's **durable place inside the public ten-repository research/software system**. It is not a scheduler and does not make the observatory an execution validator for the other repositories.

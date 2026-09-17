@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / SOURCE IDENTITY REGISTRY`
+> - **Role:** Durable registry of named external source identities and bounded current-state notes
+> - **Authority:** Current source-identity authority only through its explicit `Updated through` freshness bound
+> - **Current meaning:** Use registry entries as identity/provenance anchors. The stated update date bounds registry freshness and does not prove that later periodic research introduced no additional sources
+> - **Evidence boundary:** registry presence is not independent corroboration, implementation proof, adoption evidence, or source truth; current-state notes remain proposition/date scoped
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update when a durable source identity is admitted, source identity/status is corrected, or a current-state note materially changes
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+
 # Source Registry / 权威信源注册表
 
 Updated through: **2026-09-15**

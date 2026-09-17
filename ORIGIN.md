@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / FOUNDING RATIONALE`
+> - **Role:** Dated founding rationale for why the Global Observatory was created on 7 August 2026
+> - **Authority:** Historical-origin authority, not a perpetual current-state registry
+> - **Current meaning:** Read the historical/technical/system rationale as a dated explanation of repository formation. Time-sensitive external facts used in that rationale were rechecked on 2026-09-18 for the specific founding propositions
+> - **Evidence boundary:** Founding facts and analogies do not prove present deployment maturity or technical capability. Reuse of external claims outside the stated proposition requires a current source check
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update only for explicit factual correction or clarification of founding context; do not rewrite the origin narrative to mirror every later ecosystem change
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+
 # Origin: Why 7 August 2026 / 起源：为什么是 2026 年 8 月 7 日
 
 ## 中文

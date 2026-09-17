@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** F1 durable responsibility contract for AI history, theory, paradigms, lineage, and analogy limits
+> - **Authority:** Current F1 subject-boundary authority
+> - **Current meaning:** F1 explains intellectual/technical lineage and what genuinely changed without turning historical analogy into present capability evidence
+> - **Evidence boundary:** historical similarity is not identical mechanism; later interpretation is not original belief; paradigm labels do not prove discontinuity
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update when F1's durable responsibility/evidence boundary changes, not for each periodic historical observation
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+
 # F1｜History, Theory, and Paradigms / 历史、理论与范式
 
 F1 owns the observatory's long-range conceptual and historical frame. It asks whether a current AI claim is genuinely new, a recombination of older ideas, or a familiar limitation appearing under new scale/interface conditions.

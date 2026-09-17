@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `METHOD / EVIDENCE CONTRACT`
+> - **Role:** Durable observatory method for source hierarchy, statement classes, existence verification, date/status calibration, independence, correction, and synthesis
+> - **Authority:** Current evidence-method authority for F1–F7 and periodic research interpretation
+> - **Current meaning:** Use this file to decide how public information becomes bounded observatory evidence and how judgments may be revised without rewriting earlier observations
+> - **Evidence boundary:** source existence is not capability validation; authority is proposition-specific; aggregation and repeated citation do not create independence; current-state observation is not a transition timestamp
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update when evidence rules, status/date semantics, correction discipline, or synthesis rules materially change
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+
 # Methodology / 方法论
 
 ## 0. Observatory pipeline / 观察站方法链

@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / TAXONOMY`
+> - **Role:** Durable normalization vocabulary for eras, domains, entity classes, observation classes, maturity/status, dates, relationships, and evidence independence
+> - **Authority:** Current classification authority for cross-workstream normalization
+> - **Current meaning:** Taxonomy labels organize evidence; they neither establish truth nor propagate maturity/authority between related objects
+> - **Evidence boundary:** same vocabulary is not same mechanism; protocol release is not deployment; source count is not independent evidence count
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update only when a recurring distinction cannot be represented without ambiguity
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+
 # Taxonomy / 分类体系
 
 This taxonomy is a **durable normalization layer** for the observatory. It helps different workstreams describe the same world consistently without pretending that labels are evidence.
