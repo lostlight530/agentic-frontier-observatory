@@ -1,35 +1,77 @@
 # Scope / 研究范围
 
-## 中文
+Agentic Frontier Observatory is a bilingual, source-grounded research observatory for the evolution of artificial intelligence from its intellectual/computational roots to current agentic systems and their surrounding infrastructure, institutions, standards, and social effects.
 
-本仓库研究人工智能从思想史、数学与计算根基到当前现实前沿的完整演进。范围默认开放，但所有纳入内容必须能回答至少一个问题：
+The repository's primary role is **public-source observation and judgment calibration**. It does not independently operate every external system it studies and therefore does not certify external capability, security, compliance, or production maturity by experiment.
 
-1. 人工智能是如何形成的
-2. 某个范式、组织、政策或基础设施改变了什么
-3. 当前不同技术路线如何收敛、分化或竞争
-4. 哪些能力是真实发布、哪些只是声明或计划
-5. 哪些问题仍然没有得到解决
+## Core research questions / 核心研究问题
 
-### 包含
+Every durable observation should help answer at least one of these questions:
 
-- 历史、理论、算法、模型、数据、算力、芯片、系统和基础设施
-- 机器人、具身智能、科研智能、医疗、教育、工业和公共治理
-- 开源、商业、学术、政府、标准组织和社会影响
-- 安全、隐私、版权、劳动、能源、经济、伦理和地缘技术秩序
-- Agent 协议、运行时、工具链、身份、授权、支付、发现和协作
+1. **Formation** — how did a model, method, infrastructure layer, protocol, institution, or governance mechanism emerge?
+2. **Change** — what actually changed in capability, interface, authority, deployment, economics, or evidence?
+3. **Relationship** — which systems, standards, protocols, organizations, or paradigms are complementary, competing, layered, or independent?
+4. **Maturity** — is the object proposed, previewed, released, deployed, adopted, deprecated, or still unclear?
+5. **Evidence** — which part is an observed fact, attributed external claim, independent corroboration, observatory analysis, or unresolved uncertainty?
+6. **Boundary** — what does the available evidence explicitly *not* prove?
+7. **Revision** — what new evidence should change a previous working judgment?
 
-### 不包含为主产物
+## Included domains / 纳入领域
 
-- 未经一手来源校准的新闻搬运
-- 单纯 Star、融资或营销排名
-- 产品使用教程
-- 代码运行、部署和性能复现
-- 投资建议或政治预测
+- history of AI, computation, control, learning, automation, and research paradigms;
+- models, algorithms, training/inference methods, multimodality, reasoning, robotics and scientific AI;
+- data, accelerators, compute systems, cloud/edge infrastructure, networking, storage, energy and cost;
+- agent runtimes, tools, memory, sandboxes, orchestration, durable tasks and recovery;
+- protocols/interoperability, discovery, identity, credentials, authorization, delegation and consent;
+- evaluation, benchmarking, reliability, safety, security, red teaming and incident evidence;
+- standards, regulation, policy, governance, transparency and human oversight;
+- open source, firms, commercial deployment, scientific institutions and public-sector adoption;
+- labor, education, culture, economics, access, environment/energy and broader social effects.
 
-## English
+## Not primary outputs / 非主要产物
 
-The repository studies the complete evolution of AI from intellectual, mathematical, and computational roots to the current practical frontier. Scope is broad by default, but every item must explain formation, change, relationships, evidence status, or unresolved questions.
+The repository does not treat the following as sufficient research products by themselves:
 
-The repository includes models, algorithms, data, compute, chips, infrastructure, robotics, embodied AI, scientific AI, policy, standards, economics, labor, safety, security, energy, open source, commercial systems, and agentic interoperability.
+- uncalibrated news aggregation or headline chronology;
+- star/download/funding/marketing rankings without a bounded research question;
+- product tutorials or buying advice;
+- unsupported investment or election forecasting;
+- benchmark reproduction presented as if it replaced source/status research;
+- private or non-inspectable evidence that readers cannot independently audit;
+- broad capability/security/legal conclusions inferred from a source that only supports a narrower proposition.
 
-It excludes uncalibrated news aggregation, popularity tracking as analysis, product tutorials, code execution, benchmark reproduction, investment advice, and unsupported political forecasting.
+## Observation versus validation / 观察与验证边界
+
+The observatory verifies public information at the level the source permits: existence, identity, provenance, dates, status, stated behavior, documented implementation, reported result, and independently published evidence.
+
+It does not convert that into stronger claims automatically:
+
+```text
+document exists != implementation works
+implementation documented != deployment observed
+benchmark reported != universal capability
+protocol published != operational maturity
+standard published != universal adoption
+vendor claim != independent verification
+```
+
+Capability testing may be referenced as external evidence, but this repository's own source-analysis role is distinct from running the external system.
+
+## Geographic and institutional scope
+
+Global scope includes public materials from governments, standards bodies, research institutions, open-source communities, companies, civil society, and other relevant actors. Source authority is proposition-specific rather than institution-prestige-specific.
+
+China-specific policy/standard/industry interpretation is handled in more depth by the twin [`china-agentic-observatory`](https://github.com/lostlight530/china-agentic-observatory). Cross-observatory comparison must preserve each repository's source hierarchy and local terminology rather than forcing one vocabulary onto the other.
+
+## Durable research surfaces
+
+- [`METHODOLOGY.md`](./METHODOLOGY.md) — evidence, independence, date/status and correction method.
+- [`TAXONOMY.md`](./TAXONOMY.md) — shared eras, domains, entity/status and evidence vocabulary.
+- [`SOURCE_REGISTRY.md`](./SOURCE_REGISTRY.md) — current source identity registry.
+- [`workstreams/`](./workstreams/) — stable research responsibility map.
+- [`watchlist/`](./watchlist/) — current questions under research pressure; watchlist presence is not a conclusion.
+- `reports/` — time-scoped research evidence and synthesis governed by separate periodic contracts.
+
+## Historical preservation
+
+A later source or stronger interpretation may correct the current judgment without rewriting what an earlier observation actually recorded. Point-in-time records preserve their own observation boundary.

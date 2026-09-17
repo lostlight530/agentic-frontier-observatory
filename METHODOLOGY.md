@@ -13,13 +13,11 @@ F1–F7 independent workstreams
 ↓
 evidence grading / date-status calibration
 ↓
-one integrated daily report
+integrated time-ordered research outputs
 ↓
-one canonical weekly accumulates memory
+hypothesis correction / settlement
 ↓
-hypotheses strengthened / open / refuted / durable
-↓
-monthly long-horizon settlement
+long-horizon synthesis
 ↓
 Source Registry + Watchlist
 ```
@@ -43,16 +41,20 @@ This repository is a research observatory, not a benchmark, deployment platform,
 | G5 | High-quality secondary analysis | Discovery and comparison only |
 | G6 | Community discussion and social media | Leads only; never final evidence by itself |
 
-Authority does not eliminate date, scope, version or maturity calibration.
+Authority does not eliminate date, scope, version, or maturity calibration.
+
+A source level is claim-specific. A first-party page may be primary evidence for what an organization announced while remaining insufficient evidence for independent performance, adoption, or ecosystem-wide conclusions.
 
 ## 2. Statement classes / 陈述分类
 
 Every material statement should be identifiable as:
 
-- **FACT / 事实** — directly supported by a cited source
-- **EXTERNAL CLAIM / 外部声明** — a claim made by a company, author, institution or project
-- **ANALYSIS / 本仓分析** — inference or synthesis produced by this observatory
-- **UNCERTAIN / 不确定** — evidence insufficient, stale, ambiguous or conflicting
+- **FACT / 事实** — directly supported by a cited source;
+- **EXTERNAL CLAIM / 外部声明** — a claim made by a company, author, institution, or project;
+- **ANALYSIS / 本仓分析** — inference or synthesis produced by this observatory;
+- **UNCERTAIN / 不确定** — evidence insufficient, stale, ambiguous, or conflicting.
+
+Attributed external claims do not become repository facts merely because they are repeated across multiple reports.
 
 ## 3. Existence verification / 存在性验证
 
@@ -71,59 +73,76 @@ source exists
 Then and only then infer relationships.
 
 ```text
-spec exists ≠ interoperable deployment
-product docs exist ≠ capability validated
-benchmark claim exists ≠ benchmark reproduced
-protocol release ≠ operational maturity
+spec exists != interoperable deployment
+product docs exist != capability validated
+benchmark claim exists != benchmark reproduced
+protocol release != operational maturity
 ```
 
 ## 4. Date and change discipline / 日期与变化纪律
 
 Always distinguish:
 
-- `event_date`
-- `publication_date`
-- `effective_date` when applicable
-- `observed_at`
-- known `state_transition_date` when available
+- `event_date`;
+- `publication_date`;
+- `effective_date` when applicable;
+- `observed_at`;
+- known `state_transition_date` when available.
 
 Change classes:
 
-- `MATERIAL_CHANGE`
-- `MINOR_SIGNAL`
-- `NO_MATERIAL_CHANGE`
-- `CORRECTION`
-- `CONFLICT`
+- `MATERIAL_CHANGE`;
+- `MINOR_SIGNAL`;
+- `NO_MATERIAL_CHANGE`;
+- `CORRECTION`;
+- `CONFLICT`.
 
-Relative language in durable reports should be replaced by exact dates.
-
-Current-state confirmation is not automatically a same-day transition.
+Relative language in durable records should be replaced by exact dates. Current-state confirmation is not automatically a same-day transition.
 
 ## 5. Evidence independence / 证据独立性
 
-Mirrors, repeated announcements, syndicated articles and multiple pages derived from the same original source are not independent evidence.
+Mirrors, repeated announcements, syndicated articles, model summaries, search-result snippets, and multiple pages derived from the same original source are not independent evidence.
 
-A hypothesis is strengthened by independent layers, implementations, standards work, research, or real status transitions—not citation volume.
+A hypothesis is strengthened by genuinely independent layers, implementations, standards work, research, or real status transitions—not citation volume.
 
-## 6. Permanent semantic boundaries / 长期语义边界
+When two sources ultimately depend on one upstream document or announcement, preserve that shared lineage instead of counting them as separate corroboration.
+
+## 6. Repository publication is not observed-world evidence / 仓库出版物不是外部世界证据
+
+The observatory itself has a Zenodo software publication. That publication identifies this repository as a citable software/research object; it is not a G0–G6 source about the external world.
 
 ```text
-Capability ≠ Deployability
-Discovery ≠ Authorization ≠ Invocation
-Identity ≠ Credential ≠ Authority
-Authenticated Origin ≠ Delegated User Authority
-Transport Interoperability ≠ Trust Interoperability
-Protocol Publication ≠ Operational Maturity
-Admission ≠ Continuous Authorization
-Resource Denial ≠ Runtime Stop
-Runtime Stop ≠ Rollback
-Termination ≠ Remediation
-Context Continuity ≠ Authority Continuity
+repository DOI != external source
+repository DOI != independent corroboration
+repository publication != evidence for an observed technology claim
+repository archive != current-main research state
+```
+
+A repository-level citation may identify the observatory software or archived research object. A factual claim about an external system still requires the external evidence chain that supports that claim.
+
+Internal reports may be cited for the observatory's own earlier analysis or observation history, but self-citation does not create source independence.
+
+## 7. Permanent semantic boundaries / 长期语义边界
+
+```text
+Capability != Deployability
+Discovery != Authorization != Invocation
+Identity != Credential != Authority
+Authenticated Origin != Delegated User Authority
+Transport Interoperability != Trust Interoperability
+Protocol Publication != Operational Maturity
+Admission != Continuous Authorization
+Resource Denial != Runtime Stop
+Runtime Stop != Rollback
+Termination != Remediation
+Context Continuity != Authority Continuity
 ```
 
 These boundaries remain defaults until evidence explicitly requires correction.
 
-## 7. Daily → Weekly → Monthly memory / 日周月记忆链
+## 8. Research-memory chain / 研究记忆链
+
+Time-ordered research outputs serve different evidentiary roles:
 
 ```text
 Daily = atomic observation + delta
@@ -133,17 +152,20 @@ Monthly = long-horizon compression + carry-forward
 
 > **周日不是清空，周一不是重启。**
 
-Durable doctrine becomes baseline. Open gaps continue across week/month boundaries rather than being rediscovered as new.
+Durable doctrine becomes baseline only after surviving the applicable evidence and correction process. Open gaps continue across week/month boundaries rather than being rediscovered as new.
 
-## 8. Correction and historical-record discipline / 修正与历史纪律
+Aggregation does not create independent evidence by itself.
 
-- factual errors are corrected explicitly
-- later evidence is never backdated into earlier observation days
-- atomic historical reports are not rewritten solely to modernize style
-- legacy non-canonical snapshots remain auditable but must point to the canonical record that supersedes them
-- contradictions are retained as `CONFLICT` until resolved
+## 9. Correction and historical-record discipline / 修正与历史纪律
 
-## 9. Non-validation boundary / 非验证边界
+- factual errors are corrected explicitly;
+- later evidence is never backdated into earlier observation days;
+- atomic historical reports are not rewritten solely to modernize style;
+- legacy non-canonical snapshots remain auditable but must not outrank the canonical current interpretation;
+- contradictions are retained as `CONFLICT` until resolved;
+- later confirmation does not manufacture an earlier transition timestamp.
+
+## 10. Non-validation boundary / 非验证边界
 
 The observatory verifies that a public source exists and represents it accurately.
 
@@ -151,10 +173,10 @@ It does not independently run or deploy models/agents, reproduce benchmark claim
 
 > **不验证能力，不等于不核验事实。**
 
-## 10. Synthesis discipline / 综合纪律
+## 11. Synthesis and comparison discipline / 综合与比较纪律
 
-Independent workstreams gather evidence. F7 removes duplicates, calibrates dates/status, identifies cross-system relationships and revises judgments.
+Independent workstreams gather evidence. Integration removes duplicates, calibrates dates/status, identifies cross-system relationships, and revises judgments.
 
-Comparison must name the layer: model, infrastructure, runtime, discovery, identity, delegation, protocol, evaluation, governance, provenance, authorization, revocation, remediation or society.
+Comparison must name the layer: model, infrastructure, runtime, discovery, identity, delegation, protocol, evaluation, governance, provenance, authorization, revocation, remediation, or society.
 
-Structural similarity is not interoperability.
+Structural similarity is not interoperability. Shared vocabulary is not equivalent architecture. A comparative statement must preserve the evidence and maturity boundaries of both sides being compared.

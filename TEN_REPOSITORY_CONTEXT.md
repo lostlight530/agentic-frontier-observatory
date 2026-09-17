@@ -1,83 +1,98 @@
 # Ten-Repository Context / 十仓体系定位
 
-## 中文
+This file describes the observatory's **durable place inside the public ten-repository research/software system**. It is not a scheduler and does not make the observatory an execution validator for the other repositories.
 
-截至 2026 年 8 月 7 日，lostlight 的公开研究体系形成十个相互区分的仓库位置。
+## System shape / 体系结构
 
-前八仓主要面向内部构建：门户与知识生命周期、确定性状态、数据契约、版本化图谱、Agent 理论、科研流水线、文档工程和科学可视化。它们回答“我们能够构建、表达和维护什么”。
+By 7 August 2026, the public system had formed ten distinct repositories. Their responsibilities are intentionally not collapsed into one monorepo or one evidence model.
 
-第九、十仓转向外部观察：
+### Inward-facing construction and theory
 
-- `agentic-frontier-observatory` 观察全球人工智能与智能体前沿
-- `china-agentic-observatory` 观察中国人工智能与智能体政策、标准、科研、产业、基础设施与治理演进
+- `welcome-to-github` — public portal, knowledge-lifecycle host, digital archaeology, and portfolio entry point.
+- `zero-entropy-lab` — deterministic state/memory/protocol experiments and reliability evidence surfaces.
+- `Axiom-0` — executable reference contracts plus ADR/Methodology/evidence/reproducibility layers.
+- `reflective-continuum` — versioned graph state, reflection, drift, entropy/statistical and persistence-identity experiments.
+- `agent-foundations` — bilingual theory/evidence/source/provenance core for agent architectures, memory, tools, and collaboration.
 
-它们回答“外部世界正在发生什么，以及这些变化如何修正我们的判断”。
+### Research-infrastructure chain
 
-## First-month operating loop / 首月运行闭环
+- `auto-doc-engine` — research documents, artifact identity, lineage, assertion basis, and process disclosure.
+- `epistemic-pipeline` — claim/evidence processing, audit/transfer semantics, provenance and runtime-policy boundaries.
+- `sci-render-kit` — scientific communication, figure claims, uncertainty/accessibility metadata and communication transfer.
 
-经过 2026-08-07 → 2026-08-31 的首月连续运行，第九、第十仓的实际职责可以压缩为一句：
+### Outward-facing observation
 
-> **前八仓构建自己的世界，第九、十仓每天重新观察外部世界。**
+- `agentic-frontier-observatory` — global AI/agentic frontier observation.
+- `china-agentic-observatory` — China-specific policy, standards, research, infrastructure, industry and governance observation.
 
-两仓是十仓体系的 **external fact / judgment-correction layer**，不是新闻聚合层，也不是前八仓的验证或执行副本。
+The first eight primarily ask **what can be built, represented, reasoned about, or maintained inside the system**. The two observatories ask **what is publicly happening outside the system, what evidence supports it, and how should that revise current judgment**.
+
+## External fact / judgment-correction role
+
+The observatories are not news mirrors and are not duplicate test harnesses for the first eight repositories.
 
 ```text
-公开世界
+public world
 ↓
-Global Observatory / China Observatory
+source identity + proposition-specific authority
 ↓
-权威信源检索
+date / maturity / implementation-status calibration
 ↓
-事实存在性验证
+counterevidence + uncertainty
 ↓
-状态 / 日期 / 证据边界校准
+bounded observatory analysis
 ↓
-Daily atomic record
-↓
-Weekly hypothesis correction
-↓
-Monthly durable synthesis
-↓
-向整个十仓体系返回外部事实与判断修正
+revised public world model
 ```
+
+A finding can influence how the broader ten-repository system thinks about the external world without becoming an automatic code/configuration change in another repository.
+
+## Global and China observatory distinction
 
 ### Global Observatory
 
-观察全球 AI 如何获得：
+Focuses on worldwide AI evolution and the agentic stack, including:
 
 `capability → discovery → identity → authority → execution → runtime trust → revocation → recovery → governance`
 
 ### China Observatory
 
-观察中国 AI 如何通过：
+Uses China-specific institutional/source/status semantics for:
 
 `policy → standards → data → evaluation → infrastructure → industry → lifecycle governance`
 
-### Shared method / 共同方法
+The twin repositories can compare evidence, but neither automatically inherits the other's source hierarchy, terminology, maturity label, or conclusion.
+
+## 2026-09 software publication state
+
+On 2026-09-16, all ten repositories received independent Zenodo software-publication identities rather than one umbrella DOI.
+
+For this repository:
+
+- DOI: `10.5281/zenodo.22791334`
+- publication date: 2026-09-16
+
+The ten DOI records strengthen stable citation/publication identity for the archived software objects. They do not make the observatories external evidence for their own findings, do not validate the other repositories' runtime/scientific claims, and do not make later `main` revisions identical to the archived objects.
+
+## Shared system principles
+
+Across the ten repositories, the exact local vocabulary differs, but several public principles remain compatible:
 
 ```text
-事实先于判断
-状态先于宣传
-历史不可改写
-不确定性必须保留
-每天观察
-每周纠偏
-每月压缩
-长期积累
+current implementation/state before stale narrative
+source/evidence identity before inference
+time-scoped history remains time-scoped
+later correction != history rewrite
+machine/checker success supports only implemented predicates
+publication identity != scientific validation
 ```
 
-最核心的边界：
+These are interoperability principles, not a claim that all ten repositories share one implementation or one authority hierarchy.
 
-> **不验证技术是否真的有效，但必须验证信息是否真的存在。**
+## Relationship to periodic research
 
-## English
+The original first-month operating loop from 2026-08-07 through 2026-08-31 remains historical evidence of how the observatories stabilized their Daily → Weekly → Monthly research chain.
 
-By 7 August 2026, the public research system reached ten repositories with distinct responsibilities.
+Current periodic production remains governed by its own SOPs and time-scoped reports. This context file only owns the durable ten-repository relationship.
 
-The first eight are primarily inward-facing construction layers. Repositories nine and ten are outward-facing observatories.
-
-After the first continuous month, their operating role is explicit:
-
-> **The first eight repositories build their own world; repositories nine and ten re-observe the external world every day.**
-
-The observatories are the external-fact and judgment-correction layer of the wider system. They verify public-source existence, ownership, dates and maturity states; preserve counterevidence and uncertainty; and revise the world model. They do not independently run external systems to certify capability claims.
+> **The first eight repositories build their own world; repositories nine and ten continuously re-observe the external world.**
