@@ -4,6 +4,8 @@
   "name": "Agentic Frontier Observatory",
   "description": "A bilingual, source-grounded observatory tracing artificial intelligence from its intellectual and computational roots to the agentic frontier with daily, weekly, and monthly evidence-bounded research surfaces.",
   "codeRepository": "https://github.com/lostlight530/agentic-frontier-observatory",
+  "identifier": "https://doi.org/10.5281/zenodo.22791334",
+  "datePublished": "2026-09-16",
   "license": "https://spdx.org/licenses/MIT.html",
   "author": {
     "@type": "Person",
