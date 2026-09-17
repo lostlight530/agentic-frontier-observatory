@@ -1,3 +1,37 @@
 # F6｜Open Source, Industry, Economy, and Society / 开源、产业、经济与社会
 
-Tracks open-source governance, commercial adoption, labor, education, science, culture, public opinion, market structure, and unequal distribution of benefits and risks.
+F6 tracks how AI/agent technologies move through open-source communities, firms, institutions, labor markets, science, education, culture, public services, and broader social/economic structures.
+
+## Core questions
+
+- Is a signal about code availability, community maintenance, commercial productization, deployment, usage, revenue, institutional adoption, or social impact?
+- Who is the relevant population and what denominator supports a rate or trend claim?
+- Does a company announcement describe intention, availability, customer use, measured outcome, or broad market adoption?
+- How are benefits, costs, labor effects, access, energy/resource burdens, and risks distributed?
+- Does an open-source project's activity indicate maintainership and technical continuity, or only visibility/popularity?
+
+## Preferred evidence
+
+Prefer source repositories/releases for open-source identity, company/regulatory/financial filings for organization-specific facts, original surveys/datasets/research for economic and social outcomes, and public-sector/institutional sources for deployments or policy-linked adoption.
+
+Community metrics, stars, downloads, funding, media volume, or market narratives can be signals but are not substitutes for deployment/outcome evidence.
+
+## Ecosystem boundaries
+
+```text
+open source != broadly adopted
+stars/downloads != production deployment
+funding != technical maturity
+product announced != customer outcome
+case study != population-wide effect
+revenue claim != independent market share
+public attention != social benefit or harm
+```
+
+Preserve geography, sector, organization size, time window, sampling method, and source incentives when interpreting ecosystem evidence.
+
+## Handoff to F7
+
+F6 contributes the entity/ecosystem, observed signal, population/scope, dates, evidence basis, adoption/outcome maturity, uncertainty and counterevidence, plus explicit limits on extrapolation.
+
+F6 does not infer technical capability, safety, or universal social effect from popularity or commercial momentum alone.
