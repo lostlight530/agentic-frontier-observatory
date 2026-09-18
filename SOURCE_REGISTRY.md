@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / SOURCE IDENTITY REGISTRY`
-> - **Role:** Durable registry of named external source identities and bounded current-state notes
-> - **Authority:** Current source-identity authority only through its explicit `Updated through` freshness bound
-> - **Current meaning:** Use registry entries as identity/provenance anchors. The stated update date bounds registry freshness and does not prove that later periodic research introduced no additional sources
-> - **Evidence boundary:** registry presence is not independent corroboration, implementation proof, adoption evidence, or source truth; current-state notes remain proposition/date scoped
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update when a durable source identity is admitted, source identity/status is corrected, or a current-state note materially changes
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+> - **Subject class:** `SOURCE REGISTRY`
+> - **Role:** Current admitted source-identity registry and bounded current-state notes for recurring observatory evidence surfaces
+> - **Authority:** Current registry authority for the source identities actually listed here
+> - **Current meaning:** `Updated through` is a registry-cutoff statement, not a claim that the entire observatory or external world was last observed on that date. Newer periodic sources may exist before formal registry admission
+> - **Evidence boundary:** Registry presence does not equal independent corroboration, truth, current deployment or universal authority. Each source remains proposition-, version-, date- and scope-bounded
+> - **Cross-document relation:** Methodology defines source levels and independence; reports may cite newer time-scoped sources; durable admission here should occur only when identity/ownership/relevance are clear
+> - **Update trigger:** Update when a source becomes a recurring durable evidence surface, when identity/status notes need correction, or when a listed current-state note is materially stale
+> - **Preservation rule:** The existing subject remains the owning repository document. Dated origin/status statements keep their original time boundary; later evidence changes current interpretation through explicit edits rather than silent historical rewrite
 
 # Source Registry / 权威信源注册表
 

@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `DEFINITION / SYSTEM CONTEXT`
-> - **Role:** Durable map of the Global Observatory inside the public ten-repository system
-> - **Authority:** Current repository-role authority for cross-repository interpretation, not execution authority over other repositories
-> - **Current meaning:** Use this file to understand inward construction, research-infrastructure, and outward observation roles without collapsing their local evidence models
-> - **Evidence boundary:** observatory findings do not automatically mutate other repositories; software publication identity does not validate runtime/scientific claims or make later main identical to an archive
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update when durable repository roles or cross-repository relationships change
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+> - **Subject class:** `ARCHITECTURE / CONTEXT`
+> - **Role:** Durable map of the Global Observatory inside the ten-repository system
+> - **Authority:** Current cross-repository role authority for this observatory, not authority over the other repositories' implementation or evidence
+> - **Current meaning:** Use this file to understand inward-facing construction versus outward-facing observation and the Global/China observatory separation
+> - **Evidence boundary:** Cross-repository relevance does not automatically create a code/config change, shared implementation, shared evidence hierarchy, or inherited scientific validity
+> - **Cross-document relation:** Each repository keeps its native authority; the twin observatories may compare evidence but preserve local terminology/status/source hierarchy
+> - **Update trigger:** Update only when durable repository roles or inter-repository relationships materially change
+> - **Preservation rule:** The existing subject remains the owning repository document. Dated origin/status statements keep their original time boundary; later evidence changes current interpretation through explicit edits rather than silent historical rewrite
 
 # Ten-Repository Context / 十仓体系定位
 

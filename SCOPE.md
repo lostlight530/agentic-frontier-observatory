@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `DEFINITION / SCOPE`
-> - **Role:** Durable definition of what the Global Observatory observes, what questions it asks, and what it explicitly does not validate
-> - **Authority:** Current repository-native research-scope authority
-> - **Current meaning:** Use this file to decide whether a topic belongs in the observatory and what level of claim the observatory may responsibly make
-> - **Evidence boundary:** Public-source observation can establish existence/status/attributed claims but not automatically certify capability, security, compliance, deployment, or adoption
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update when durable research coverage or observation/validation boundaries change
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+> - **Subject class:** `DEFINITION`
+> - **Role:** Durable definition of the observatory's research object, included domains, non-goals, and observation/validation boundary
+> - **Authority:** Current repository-native scope authority
+> - **Current meaning:** Use this file to decide whether a question belongs in the observatory and which conclusions remain out of scope
+> - **Evidence boundary:** Public-source observation can establish existence, identity, provenance, date, status and bounded reported behavior; it does not independently certify external capability, security, compliance, deployment maturity, or universal adoption
+> - **Cross-document relation:** Methodology governs evidence handling; Taxonomy governs normalization; workstreams decompose the scope; periodic reports remain separate time-scoped outputs
+> - **Update trigger:** Update when durable research coverage or explicit non-goals change, not because a Daily report adds a new observation
+> - **Preservation rule:** The existing subject remains the owning repository document. Dated origin/status statements keep their original time boundary; later evidence changes current interpretation through explicit edits rather than silent historical rewrite
 
 # Scope / 研究范围
 
