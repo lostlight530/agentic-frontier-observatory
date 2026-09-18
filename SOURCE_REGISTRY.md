@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-09-15**
+Updated through: **2026-09-19**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -57,7 +57,9 @@ Updated through: **2026-09-15**
 | G-MS-ENTRA-AGENT-CA | G2 | Microsoft | Conditional Access subject/audience semantics for Agents and resource-scoped access | https://learn.microsoft.com/en-us/entra/identity/conditional-access/agent-id |
 | G-MS-ENTRA-WORKLOAD-CAE | G2 | Microsoft | Continuous Access Evaluation for workload identities; resource-side token rejection, revocation events and claims challenges | https://learn.microsoft.com/en-us/entra/identity/conditional-access/concept-continuous-access-evaluation-workload |
 | G-GCP-AGENT-IDENTITY | G2 | Google Cloud | Attested Agent Identity | https://docs.cloud.google.com/iam/docs/agent-identity-overview |
-| G-AWS-AGENTCORE-IDENTITY | G2 | AWS | AgentCore Identity | https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html |
+| G-AWS-AGENTCORE-IDENTITY | G2 | AWS | AgentCore Identity, credential and consent surfaces | https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html |
+| G-AWS-AGENTCORE-RUNTIME | G2 | AWS | AgentCore Runtime product architecture and 2026-09-18 Runtime V2 announcement | https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/ |
+| G-AWS-AGENT-REGISTRY | G2 | AWS | Agent Registry record lifecycle, approval and discoverability semantics | https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/registry-record-lifecycle.html |
 | G-RFC-9421 | G0 | IETF / RFC Editor | HTTP Message Signatures | https://www.rfc-editor.org/rfc/rfc9421 |
 | G-IETF-WEB-BOT-AUTH | G0 | IETF Internet-Draft | HTTP Message Signatures for automated traffic architecture | https://datatracker.ietf.org/doc/draft-meunier-web-bot-auth-architecture/ |
 | G-CLOUDFLARE-WEB-BOT-AUTH | G2 | Cloudflare | Operational Web Bot Auth verification for bots and agents | https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/ |
@@ -72,7 +74,8 @@ Updated through: **2026-09-15**
 - F.748.93 was **Approved on 2026-08-29**; the Recommendation surface now reports **`In force (prepublished)`**, with English files available **2026-09-09**. Publication availability is standards-lifecycle evidence, not proof of implementation, conformance or deployed interoperability.
 - A2A normative definitions include generic `referenceTaskIds` for additional context. This is not typed predecessor/supersedes/repairs/compensates recovery lineage.
 - A2A Java SDK 1.2.0.Final hardened read authorization on referenced-task lookup. **Task reference ≠ Task authority.**
-- NIST NCCoE Software and AI Agent Identity and Authorization remains **Reviewing Comments** on the checked current project page through 2026-09-15.
+- NIST NCCoE Software and AI Agent Identity and Authorization remains **Reviewing Comments** on the checked current project page through 2026-09-19.
+- A later 2026-09-19 independent recheck recovered AWS first-party evidence absent from the initial Daily: a Runtime announcement dated 2026-09-18, an AWS-managed end-user Consent Portal, and Agent Registry approval/discovery lifecycle documentation. These are product-local AWS surfaces. Runtime performance/adoption statements remain provider claims unless independently reproduced; consent and registry approval do not establish portable successor authority, runtime authorization or recovery completion.
 - MCP `SEP-2663` is **Final on the Extensions Track**, while the Tasks specification remains **Draft**. `SEP Final != core-protocol maturity != operational maturity`.
 
 ## Maintenance rule / 维护规则
