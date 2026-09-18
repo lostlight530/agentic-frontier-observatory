@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / WORKSTREAM`
-> - **Role:** F3 durable responsibility contract for compute, chips, data, systems infrastructure, capacity, energy, cost, and deployment constraints
-> - **Authority:** Current F3 subject-boundary authority
-> - **Current meaning:** Keep announced specifications, measured performance, ordered capacity, installed capacity, utilized capacity, cloud availability, and real deployment as distinct states
-> - **Evidence boundary:** peak specification is not application performance; ordered capacity is not deployed capacity; cloud listing is not adoption; efficiency claims are not lifecycle-impact verification
-> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
-> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
-> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **infrastructure**
+> - **Authority:** Current workstream-scope authority for what this stream may observe, compare, hand off, and explicitly must not infer
+> - **Current meaning:** This file defines a stable research lens, not a periodic report and not a source by itself. Findings remain proposition-, version-, date-, population- and maturity-bounded
+> - **Evidence boundary:** Workstream assignment does not strengthen evidence. Multiple workstreams citing one lineage do not create independent corroboration. Structural similarity does not imply interoperability, deployment, safety, adoption or causal effect
+> - **Cross-document relation:** `SCOPE.md` owns repository coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 synthesis cannot manufacture stronger evidence than F1–F6 provide
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, or analytical boundary changes materially
+> - **Preservation rule:** Periodic findings belong to time-scoped reports. This file remains a non-periodic research contract and must not be rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # F3｜Compute, Chips, Data, and Infrastructure / 算力、芯片、数据与基础设施
 

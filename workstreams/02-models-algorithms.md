@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / WORKSTREAM`
-> - **Role:** F2 durable responsibility contract for models, algorithms, multimodality, and evaluation-conditioned capability claims
-> - **Authority:** Current F2 subject-boundary authority
-> - **Current meaning:** Retain exact model/method/version and evaluation-system identity. Separate native model properties from harness/tool/workflow effects and vendor-reported results from independent support
-> - **Evidence boundary:** benchmark score is not universal capability; model release is not deployment; model identity is not evaluated-system identity; leaderboard rank is not generalized superiority
-> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
-> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
-> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **models algorithms**
+> - **Authority:** Current workstream-scope authority for what this stream may observe, compare, hand off, and explicitly must not infer
+> - **Current meaning:** This file defines a stable research lens, not a periodic report and not a source by itself. Findings remain proposition-, version-, date-, population- and maturity-bounded
+> - **Evidence boundary:** Workstream assignment does not strengthen evidence. Multiple workstreams citing one lineage do not create independent corroboration. Structural similarity does not imply interoperability, deployment, safety, adoption or causal effect
+> - **Cross-document relation:** `SCOPE.md` owns repository coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 synthesis cannot manufacture stronger evidence than F1–F6 provide
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, or analytical boundary changes materially
+> - **Preservation rule:** Periodic findings belong to time-scoped reports. This file remains a non-periodic research contract and must not be rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # F2｜Models, Algorithms, and Multimodality / 模型、算法与多模态
 

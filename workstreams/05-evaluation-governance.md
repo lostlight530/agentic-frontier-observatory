@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / WORKSTREAM`
-> - **Role:** F5 durable responsibility contract for evaluation, safety, security, governance, regulation, standards, incidents, and oversight
-> - **Authority:** Current F5 subject-boundary authority
-> - **Current meaning:** Retain the evaluated system/configuration/population and the exact lifecycle state of standards/policies/regulation. Evaluator authority does not erase coverage or measurement limits
-> - **Evidence boundary:** benchmark PASS is not general correctness; safety evaluation is not universal safety; standard published is not universal adoption; policy announced is not effective requirement; compliance claim is not independent certification
-> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
-> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
-> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **evaluation governance**
+> - **Authority:** Current workstream-scope authority for what this stream may observe, compare, hand off, and explicitly must not infer
+> - **Current meaning:** This file defines a stable research lens, not a periodic report and not a source by itself. Findings remain proposition-, version-, date-, population- and maturity-bounded
+> - **Evidence boundary:** Workstream assignment does not strengthen evidence. Multiple workstreams citing one lineage do not create independent corroboration. Structural similarity does not imply interoperability, deployment, safety, adoption or causal effect
+> - **Cross-document relation:** `SCOPE.md` owns repository coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 synthesis cannot manufacture stronger evidence than F1–F6 provide
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, or analytical boundary changes materially
+> - **Preservation rule:** Periodic findings belong to time-scoped reports. This file remains a non-periodic research contract and must not be rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # F5｜Evaluation, Safety, Governance, and Standards / 评测、安全、治理与标准
 

@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / WORKSTREAM`
-> - **Role:** F1 durable responsibility contract for AI history, theory, paradigms, lineage, and analogy limits
-> - **Authority:** Current F1 subject-boundary authority
-> - **Current meaning:** F1 explains intellectual/technical lineage and what genuinely changed without turning historical analogy into present capability evidence
-> - **Evidence boundary:** historical similarity is not identical mechanism; later interpretation is not original belief; paradigm labels do not prove discontinuity
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes terms; Methodology defines evidence discipline; Source Registry owns source identities; F1–F7 own bounded domains; F7 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update when F1's durable responsibility/evidence boundary changes, not for each periodic historical observation
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file is changed only for durable framework correction or current interpretive clarity
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **history theory**
+> - **Authority:** Current workstream-scope authority for what this stream may observe, compare, hand off, and explicitly must not infer
+> - **Current meaning:** This file defines a stable research lens, not a periodic report and not a source by itself. Findings remain proposition-, version-, date-, population- and maturity-bounded
+> - **Evidence boundary:** Workstream assignment does not strengthen evidence. Multiple workstreams citing one lineage do not create independent corroboration. Structural similarity does not imply interoperability, deployment, safety, adoption or causal effect
+> - **Cross-document relation:** `SCOPE.md` owns repository coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 synthesis cannot manufacture stronger evidence than F1–F6 provide
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, or analytical boundary changes materially
+> - **Preservation rule:** Periodic findings belong to time-scoped reports. This file remains a non-periodic research contract and must not be rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # F1｜History, Theory, and Paradigms / 历史、理论与范式
 

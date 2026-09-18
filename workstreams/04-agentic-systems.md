@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / WORKSTREAM`
-> - **Role:** F4 durable responsibility contract for agents, runtimes, harnesses, protocols, discovery, identity, authorization, task state, recovery, and long-horizon execution
-> - **Authority:** Current F4 subject-boundary authority
-> - **Current meaning:** Resolve every claim to the exact layer—model, harness, runtime, protocol, identity, credential, authority, task service, or application—and preserve state/recovery/authorization ownership
-> - **Evidence boundary:** discovery != identity != credential != authority; request accepted != task completed; runtime stop != rollback; state continuity != authority continuity; protocol publication != operational maturity
-> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
-> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
-> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **agentic systems**
+> - **Authority:** Current workstream-scope authority for what this stream may observe, compare, hand off, and explicitly must not infer
+> - **Current meaning:** This file defines a stable research lens, not a periodic report and not a source by itself. Findings remain proposition-, version-, date-, population- and maturity-bounded
+> - **Evidence boundary:** Workstream assignment does not strengthen evidence. Multiple workstreams citing one lineage do not create independent corroboration. Structural similarity does not imply interoperability, deployment, safety, adoption or causal effect
+> - **Cross-document relation:** `SCOPE.md` owns repository coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 synthesis cannot manufacture stronger evidence than F1–F6 provide
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, or analytical boundary changes materially
+> - **Preservation rule:** Periodic findings belong to time-scoped reports. This file remains a non-periodic research contract and must not be rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # F4｜Agents, Runtimes, Harnesses, and Protocols / 智能体、运行时、Harness 与协议
 
