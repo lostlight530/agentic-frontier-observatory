@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** F7 durable synthesis and judgment-revision contract across F1–F6
+> - **Authority:** Current synthesis authority; not an additional source class
+> - **Current meaning:** Normalize identity/date/status, deduplicate source lineage, preserve conflicts/counterevidence, compare only compatible evidence layers, and state exactly what evidence changed a judgment
+> - **Evidence boundary:** multiple workstreams citing one source are not independent corroboration; synthesis cannot manufacture evidence; unresolved conflict may legitimately end in UNCERTAIN
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+
 # F7｜Cross-System Synthesis and Judgment Revision / 跨系统综合与判断修正
 
 F7 is the observatory's durable synthesis layer. It consumes bounded findings from F1–F6, reconciles definitions/dates/status, removes duplicate source lineages, surfaces conflicts, and produces calibrated cross-system interpretation.

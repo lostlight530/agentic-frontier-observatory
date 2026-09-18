@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** F5 durable responsibility contract for evaluation, safety, security, governance, regulation, standards, incidents, and oversight
+> - **Authority:** Current F5 subject-boundary authority
+> - **Current meaning:** Retain the evaluated system/configuration/population and the exact lifecycle state of standards/policies/regulation. Evaluator authority does not erase coverage or measurement limits
+> - **Evidence boundary:** benchmark PASS is not general correctness; safety evaluation is not universal safety; standard published is not universal adoption; policy announced is not effective requirement; compliance claim is not independent certification
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+
 # F5｜Evaluation, Safety, Governance, and Standards / 评测、安全、治理与标准
 
 F5 tracks how AI/agent systems are measured, constrained, audited, governed, standardized, secured, and overseen.

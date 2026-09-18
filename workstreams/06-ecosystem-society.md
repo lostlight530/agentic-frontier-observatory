@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** F6 durable responsibility contract for open source, firms, institutions, adoption, labor, education, economics, access, environment, and social effects
+> - **Authority:** Current F6 subject-boundary authority
+> - **Current meaning:** Preserve the population, denominator, geography, sector, organization, time window, and signal type behind ecosystem/adoption/outcome claims
+> - **Evidence boundary:** stars/downloads/funding/media volume are not deployment; case studies are not population-wide effects; commercial momentum is not technical maturity or social benefit
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+
 # F6｜Open Source, Industry, Economy, and Society / 开源、产业、经济与社会
 
 F6 tracks how AI/agent technologies move through open-source communities, firms, institutions, labor markets, science, education, culture, public services, and broader social/economic structures.

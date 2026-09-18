@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** F2 durable responsibility contract for models, algorithms, multimodality, and evaluation-conditioned capability claims
+> - **Authority:** Current F2 subject-boundary authority
+> - **Current meaning:** Retain exact model/method/version and evaluation-system identity. Separate native model properties from harness/tool/workflow effects and vendor-reported results from independent support
+> - **Evidence boundary:** benchmark score is not universal capability; model release is not deployment; model identity is not evaluated-system identity; leaderboard rank is not generalized superiority
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+
 # F2｜Models, Algorithms, and Multimodality / 模型、算法与多模态
 
 F2 tracks model and algorithmic capability claims: foundation/frontier models, training and inference methods, reasoning, multimodality, robotics/embodied models, scientific AI, and the evaluations used to describe them.

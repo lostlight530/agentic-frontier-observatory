@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** F4 durable responsibility contract for agents, runtimes, harnesses, protocols, discovery, identity, authorization, task state, recovery, and long-horizon execution
+> - **Authority:** Current F4 subject-boundary authority
+> - **Current meaning:** Resolve every claim to the exact layer—model, harness, runtime, protocol, identity, credential, authority, task service, or application—and preserve state/recovery/authorization ownership
+> - **Evidence boundary:** discovery != identity != credential != authority; request accepted != task completed; runtime stop != rollback; state continuity != authority continuity; protocol publication != operational maturity
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; F7 may synthesize but cannot upgrade evidence strength by aggregation
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns the stable research responsibility only
+
 # F4｜Agents, Runtimes, Harnesses, and Protocols / 智能体、运行时、Harness 与协议
 
 F4 owns the observatory's agentic-systems surface: tool use, memory, sandboxes, computer use, orchestration, durable tasks, recovery, MCP, A2A and related protocols, discovery, identity, credentials, authorization, delegation, consent, revocation, and long-horizon execution.
