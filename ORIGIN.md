@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / ORIGIN`
+> - **Role:** Durable founding rationale and historical framing for why the Global Observatory exists
+> - **Authority:** Founding rationale authority only; current external status must still be revalidated against current primary sources
+> - **Current meaning:** The 7 August 2026 origin narrative remains a dated explanation of repository formation. NIST's 2026 AI Agent Standards Initiative, A2A v1.0, and AAIF governance claims remain externally supportable at the reviewed date, but later ecosystem changes do not rewrite the founding moment
+> - **Evidence boundary:** Historical analogy and institutional milestones are context, not technical proof or evidence that every referenced technology is deployed, secure, interoperable, or mature
+> - **Cross-document relation:** Scope/Taxonomy/Methodology own current research semantics; Source Registry owns admitted source identities; workstreams own durable subject responsibilities
+> - **Update trigger:** Update only for factual correction to the founding record or a durable reinterpretation of repository purpose; do not turn later events into backdated origin facts
+> - **Preservation rule:** The existing subject remains the owning repository document. Dated origin/status statements keep their original time boundary; later evidence changes current interpretation through explicit edits rather than silent historical rewrite
+
 # Origin: Why 7 August 2026 / 起源：为什么是 2026 年 8 月 7 日
 
 ## 中文

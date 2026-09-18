@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `SYNTHESIS WORKSTREAM`
+> - **Role:** Durable responsibility contract for **Cross-System Synthesis and Judgment Revision**
+> - **Authority:** Current workstream-scope authority for cross-workstream normalization, lineage deduplication, conflicts, counterevidence and explicit judgment revision
+> - **Current meaning:** This file defines the stable analytical layer named above. Findings remain proposition-, version-, date-, system/configuration-, population- and maturity-bounded; the workstream itself is not a source or a periodic research result
+> - **Evidence boundary:** same source across workstreams != independent evidence; aggregation != corroboration; synthesis cannot manufacture evidence. Multiple pages or workstreams sharing one upstream lineage do not create independent corroboration
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns source/date/status/correction discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 cannot strengthen F1–F6 evidence by synthesis alone
+> - **Update trigger:** Update only when this durable workstream responsibility, comparison layer, handoff contract or analytical boundary materially changes
+> - **Preservation rule:** Time-scoped observations belong in periodic reports. This file remains a non-periodic research contract and is not rewritten merely because a new Daily/Weekly/Monthly result appears
+
 # F7｜Cross-System Synthesis and Judgment Revision / 跨系统综合与判断修正
 
 F7 is the observatory's durable synthesis layer. It consumes bounded findings from F1–F6, reconciles definitions/dates/status, removes duplicate source lineages, surfaces conflicts, and produces calibrated cross-system interpretation.

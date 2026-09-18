@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `METHOD`
+> - **Role:** Durable observatory method for source hierarchy, statement classes, existence verification, date/status calibration, evidence independence, correction and synthesis
+> - **Authority:** Current methodology authority for non-periodic research semantics
+> - **Current meaning:** Use this file to determine how public information becomes a bounded observatory statement and how later evidence revises current judgment without rewriting history
+> - **Evidence boundary:** Source existence is not capability validation; publisher independence is not automatically run independence; aggregation is not corroboration; repository publication is not external-world evidence
+> - **Cross-document relation:** Taxonomy supplies vocabulary; Source Registry supplies admitted identities; workstreams apply the method; periodic SOPs govern cadence but do not redefine the evidence method
+> - **Update trigger:** Update when evidence/status/correction methodology changes materially
+> - **Preservation rule:** The existing subject remains the owning repository document. Dated origin/status statements keep their original time boundary; later evidence changes current interpretation through explicit edits rather than silent historical rewrite
+
 # Methodology / 方法论
 
 ## 0. Observatory pipeline / 观察站方法链

@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `ARCHITECTURE / CONTEXT`
+> - **Role:** Durable map of the Global Observatory inside the ten-repository system
+> - **Authority:** Current cross-repository role authority for this observatory, not authority over the other repositories' implementation or evidence
+> - **Current meaning:** Use this file to understand inward-facing construction versus outward-facing observation and the Global/China observatory separation
+> - **Evidence boundary:** Cross-repository relevance does not automatically create a code/config change, shared implementation, shared evidence hierarchy, or inherited scientific validity
+> - **Cross-document relation:** Each repository keeps its native authority; the twin observatories may compare evidence but preserve local terminology/status/source hierarchy
+> - **Update trigger:** Update only when durable repository roles or inter-repository relationships materially change
+> - **Preservation rule:** The existing subject remains the owning repository document. Dated origin/status statements keep their original time boundary; later evidence changes current interpretation through explicit edits rather than silent historical rewrite
+
 # Ten-Repository Context / 十仓体系定位
 
 This file describes the observatory's **durable place inside the public ten-repository research/software system**. It is not a scheduler and does not make the observatory an execution validator for the other repositories.

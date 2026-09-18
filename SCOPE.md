@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION`
+> - **Role:** Durable definition of the observatory's research object, included domains, non-goals, and observation/validation boundary
+> - **Authority:** Current repository-native scope authority
+> - **Current meaning:** Use this file to decide whether a question belongs in the observatory and which conclusions remain out of scope
+> - **Evidence boundary:** Public-source observation can establish existence, identity, provenance, date, status and bounded reported behavior; it does not independently certify external capability, security, compliance, deployment maturity, or universal adoption
+> - **Cross-document relation:** Methodology governs evidence handling; Taxonomy governs normalization; workstreams decompose the scope; periodic reports remain separate time-scoped outputs
+> - **Update trigger:** Update when durable research coverage or explicit non-goals change, not because a Daily report adds a new observation
+> - **Preservation rule:** The existing subject remains the owning repository document. Dated origin/status statements keep their original time boundary; later evidence changes current interpretation through explicit edits rather than silent historical rewrite
+
 # Scope / 研究范围
 
 Agentic Frontier Observatory is a bilingual, source-grounded research observatory for the evolution of artificial intelligence from its intellectual/computational roots to current agentic systems and their surrounding infrastructure, institutions, standards, and social effects.

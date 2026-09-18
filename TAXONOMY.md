@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / NORMALIZATION`
+> - **Role:** Durable normalization vocabulary for eras, domains, entity classes, observation classes, maturity, dates, relationships and evidence independence
+> - **Authority:** Current taxonomy authority; labels organize observations but do not create evidence
+> - **Current meaning:** Use taxonomy values to keep cross-workstream language consistent while retaining object-specific versions, dates and maturity
+> - **Evidence boundary:** Classification does not establish truth, interoperability, deployment, adoption or independent corroboration; one object's maturity never automatically transfers to a related object
+> - **Cross-document relation:** Methodology controls evidence/status calibration; workstreams use the vocabulary; historical reports retain their original labels unless explicitly mapped forward
+> - **Update trigger:** Update only when recurring distinctions cannot be represented without ambiguity
+> - **Preservation rule:** The existing subject remains the owning repository document. Dated origin/status statements keep their original time boundary; later evidence changes current interpretation through explicit edits rather than silent historical rewrite
+
 # Taxonomy / 分类体系
 
 This taxonomy is a **durable normalization layer** for the observatory. It helps different workstreams describe the same world consistently without pretending that labels are evidence.

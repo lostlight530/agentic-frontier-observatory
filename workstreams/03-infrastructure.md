@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **Compute, Chips, Data, and Infrastructure**
+> - **Authority:** Current workstream-scope authority for hardware/system/data identity, measurement basis, deployment scale, economics, availability and bottlenecks
+> - **Current meaning:** This file defines the stable analytical layer named above. Findings remain proposition-, version-, date-, system/configuration-, population- and maturity-bounded; the workstream itself is not a source or a periodic research result
+> - **Evidence boundary:** peak specification != application performance; ordered capacity != deployed capacity; cloud listing != production adoption. Multiple pages or workstreams sharing one upstream lineage do not create independent corroboration
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns source/date/status/correction discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 cannot strengthen F1–F6 evidence by synthesis alone
+> - **Update trigger:** Update only when this durable workstream responsibility, comparison layer, handoff contract or analytical boundary materially changes
+> - **Preservation rule:** Time-scoped observations belong in periodic reports. This file remains a non-periodic research contract and is not rewritten merely because a new Daily/Weekly/Monthly result appears
+
 # F3｜Compute, Chips, Data, and Infrastructure / 算力、芯片、数据与基础设施
 
 F3 tracks the physical and systems substrate that makes AI development and deployment possible: accelerators, inference/training systems, cloud and edge infrastructure, data pipelines, networking, storage, energy, cost, supply constraints, and deployment architecture.

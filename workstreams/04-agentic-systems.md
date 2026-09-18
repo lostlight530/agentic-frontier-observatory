@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **Agents, Runtimes, Harnesses, and Protocols**
+> - **Authority:** Current workstream-scope authority for model/harness/runtime/protocol/identity/authorization/task-state/recovery layers and their exact boundaries
+> - **Current meaning:** This file defines the stable analytical layer named above. Findings remain proposition-, version-, date-, system/configuration-, population- and maturity-bounded; the workstream itself is not a source or a periodic research result
+> - **Evidence boundary:** discovery != identity != credential != authority; authorization != successful invocation; runtime stop != rollback; protocol publication != operational maturity. Multiple pages or workstreams sharing one upstream lineage do not create independent corroboration
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns source/date/status/correction discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 cannot strengthen F1–F6 evidence by synthesis alone
+> - **Update trigger:** Update only when this durable workstream responsibility, comparison layer, handoff contract or analytical boundary materially changes
+> - **Preservation rule:** Time-scoped observations belong in periodic reports. This file remains a non-periodic research contract and is not rewritten merely because a new Daily/Weekly/Monthly result appears
+
 # F4｜Agents, Runtimes, Harnesses, and Protocols / 智能体、运行时、Harness 与协议
 
 F4 owns the observatory's agentic-systems surface: tool use, memory, sandboxes, computer use, orchestration, durable tasks, recovery, MCP, A2A and related protocols, discovery, identity, credentials, authorization, delegation, consent, revocation, and long-horizon execution.
