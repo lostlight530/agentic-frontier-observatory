@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
 > - **Subject class:** `WORKSTREAM DEFINITION`
-> - **Role:** Durable responsibility contract for **evaluation governance**
-> - **Authority:** Current workstream-scope authority for what this stream may observe, compare, hand off, and explicitly must not infer
-> - **Current meaning:** This file defines a stable research lens, not a periodic report and not a source by itself. Findings remain proposition-, version-, date-, population- and maturity-bounded
-> - **Evidence boundary:** Workstream assignment does not strengthen evidence. Multiple workstreams citing one lineage do not create independent corroboration. Structural similarity does not imply interoperability, deployment, safety, adoption or causal effect
-> - **Cross-document relation:** `SCOPE.md` owns repository coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 synthesis cannot manufacture stronger evidence than F1–F6 provide
-> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, or analytical boundary changes materially
-> - **Preservation rule:** Periodic findings belong to time-scoped reports. This file remains a non-periodic research contract and must not be rewritten merely because a new Daily/Weekly/Monthly result appears
+> - **Role:** Durable responsibility contract for **Evaluation, Safety, Governance, and Standards**
+> - **Authority:** Current workstream-scope authority for what property is evaluated or governed, system/configuration/population, lifecycle state, scope and limitations
+> - **Current meaning:** This file defines the stable analytical layer named above. Findings remain proposition-, version-, date-, system/configuration-, population- and maturity-bounded; the workstream itself is not a source or a periodic research result
+> - **Evidence boundary:** benchmark PASS != general correctness; standard published != adopted everywhere; compliance claim != independent certification. Multiple pages or workstreams sharing one upstream lineage do not create independent corroboration
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns normalization; `METHODOLOGY.md` owns source/date/status/correction discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; F7 cannot strengthen F1–F6 evidence by synthesis alone
+> - **Update trigger:** Update only when this durable workstream responsibility, comparison layer, handoff contract or analytical boundary materially changes
+> - **Preservation rule:** Time-scoped observations belong in periodic reports. This file remains a non-periodic research contract and is not rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # F5｜Evaluation, Safety, Governance, and Standards / 评测、安全、治理与标准
 
