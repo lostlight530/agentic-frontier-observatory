@@ -12,7 +12,13 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W37 | 7–13 Sep | FINAL — H37-1~H37-5 OPEN | Execution continues to outrun portable authority, durable-effect and recovery contracts. |
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | A2A/MCP boundaries strengthened; AWS AgentCore added product-local runtime/consent/registry evidence; portable recovery gaps remain open. |
 
-The dated `2026-W36-2026-09-07-special-event-reconciliation.md` file is an explicit non-canonical reconciliation supplement. It does not replace or duplicate canonical `2026-W36.md`.
+The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
+
+- `2026-W36-2026-09-07-special-event-reconciliation.md` supplements W36.
+- `2026-W37-2026-09-20-special-event-reconciliation.md` supplements W37.
+- `2026-W38-2026-09-20-special-event-reconciliation.md` supplements W38.
+
+Canonical authority remains with `YYYY-Www.md` weekly records.
 
 ```text
 closed historical week
