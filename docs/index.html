@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <meta name="description" content="Read-only presentation layer for the Agentic Frontier Observatory, projected from canonical repository surfaces.">
+  <title>Agentic Frontier Observatory — Research Console</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body class="global" data-observatory="global" data-repo="agentic-frontier-observatory" data-twin-repo="china-agentic-observatory">
+  <a class="skip-link" href="#main">Skip to research state</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#top" aria-label="Agentic Frontier Observatory home">
+        <span class="brand-mark" aria-hidden="true">AF/O</span>
+        <span class="brand-copy"><strong>Agentic Frontier Observatory</strong><small>Global agentic-systems research console</small></span>
+      </a>
+      <nav class="primary-nav" aria-label="Primary">
+        <a href="#state">State</a><a href="#timeline">Timeline</a><a href="#workstreams">F1–F7</a><a href="#watchlist">Watchlist</a><a href="#sources">Sources</a><a href="#twin">Twin lens</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <section id="top" class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow">Repository-grounded · read-only projection</p>
+        <h1 id="hero-title">Observe the agentic frontier without collapsing evidence into narrative.</h1>
+        <p class="hero-deck">Models, protocols, runtimes, evaluation, safety, governance, and ecosystems — projected from the repository’s current canonical research surfaces.</p>
+      </div>
+      <aside class="projection-note" aria-label="Projection boundary">
+        <span class="signal" aria-hidden="true"></span>
+        <div><strong>Projection boundary</strong><p>This interface reads current <code>main</code>. It does not create facts, maturity states, weekly closures, or evidence.</p></div>
+      </aside>
+    </section>
+    <section id="state" class="section" aria-labelledby="state-title">
+      <div class="section-heading"><p class="section-index">01 / Current state</p><h2 id="state-title">Observation boundary</h2><p id="load-status" class="load-status" aria-live="polite">Reading canonical surfaces…</p></div>
+      <div class="status-grid" id="status-grid" aria-label="Current repository state"></div>
+      <div class="two-column">
+        <article class="panel latest-panel"><div class="panel-heading"><p class="panel-kicker">Latest integrated Daily</p><a id="latest-daily-link" class="source-link" href="#">Open source ↗</a></div><h3 id="latest-title">Loading…</h3><div id="latest-judgment" class="source-excerpt"></div></article>
+        <article class="panel evidence-panel"><div class="panel-heading"><p class="panel-kicker">Evidence vocabulary</p><a class="source-link" href="https://github.com/lostlight530/agentic-frontier-observatory/blob/main/METHODOLOGY.md">Methodology ↗</a></div><div class="evidence-legend" id="evidence-legend"></div><p class="boundary-copy">Publisher identity, source existence, claim authority, maturity, corroboration, analysis, and uncertainty remain separate dimensions.</p></article>
+      </div>
+    </section>
+    <section id="timeline" class="section" aria-labelledby="timeline-title">
+      <div class="section-heading"><p class="section-index">02 / Time</p><h2 id="timeline-title">Repository observation timeline</h2><p>Observation date is not event date, publication date, effective date, or transition date.</p></div>
+      <div class="panel"><ol id="timeline-list" class="timeline-list" aria-label="Recent daily observations"></ol></div>
+      <div class="panel hypotheses-panel"><div class="panel-heading"><p class="panel-kicker">Current weekly hypotheses</p><a id="weekly-link" class="source-link" href="#">Open Weekly ↗</a></div><div id="hypothesis-list" class="hypothesis-list"></div></div>
+    </section>
+    <section id="workstreams" class="section" aria-labelledby="workstreams-title">
+      <div class="section-heading"><p class="section-index">03 / Responsibility map</p><h2 id="workstreams-title">F1–F7 workstreams</h2><p>Each card is a bounded handoff from the latest Daily pack, not a score or ranking.</p></div>
+      <div id="workstream-grid" class="workstream-grid"></div>
+    </section>
+    <section id="watchlist" class="section" aria-labelledby="watchlist-title">
+      <div class="section-heading"><p class="section-index">04 / Open pressure</p><h2 id="watchlist-title">Active watchlist</h2><p>Unresolved questions stay unresolved until the owning evidence changes.</p></div>
+      <div class="panel"><div class="panel-heading"><p class="panel-kicker">Open and strengthened items</p><a id="watchlist-link" class="source-link" href="#">Open full Watchlist ↗</a></div><div id="watchlist-table-wrap" class="table-wrap"></div></div>
+    </section>
+    <section id="sources" class="section" aria-labelledby="sources-title">
+      <div class="section-heading"><p class="section-index">05 / Evidence identity</p><h2 id="sources-title">Source Registry explorer</h2><p>Registry admission records source identity and bounded notes; it does not certify every claim made by that source.</p></div>
+      <div class="panel"><div class="source-controls"><label for="source-search">Filter admitted sources</label><input id="source-search" type="search" autocomplete="off" placeholder="ID, source, coverage, level…"></div><div id="source-table-wrap" class="table-wrap"></div></div>
+    </section>
+    <section id="twin" class="section" aria-labelledby="twin-title">
+      <div class="section-heading"><p class="section-index">06 / Twin observatory</p><h2 id="twin-title">Twin lens</h2><p>Structural comparison only. Similar terminology does not imply equivalent institutional status, maturity, or interoperability.</p></div>
+      <div id="twin-grid" class="twin-grid"></div>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div><strong>Agentic Frontier Observatory</strong><p>Presentation is derived from repository truth; canonical Markdown remains authoritative.</p></div>
+    <nav aria-label="Repository methods"><a href="https://github.com/lostlight530/agentic-frontier-observatory/blob/main/SCOPE.md">Scope</a><a href="https://github.com/lostlight530/agentic-frontier-observatory/blob/main/TAXONOMY.md">Taxonomy</a><a href="https://github.com/lostlight530/agentic-frontier-observatory/blob/main/METHODOLOGY.md">Methodology</a><a href="https://github.com/lostlight530/agentic-frontier-observatory/blob/main/TEN_REPOSITORY_CONTEXT.md">Ten-repository context</a><a href="https://github.com/lostlight530/agentic-frontier-observatory">GitHub ↗</a></nav>
+  </footer>
+</body>
+</html>
