@@ -28,6 +28,12 @@ Research outputs remain on their canonical time-ordered surfaces:
 - [Weekly research](./reports/weekly/)
 - [Monthly research](./reports/monthly/)
 
+## Web Presentation / 展示层
+
+A read-only, Pages-ready research console lives under [`docs/`](./docs/). It projects the latest repository-native Daily, canonical Weekly/Monthly state, F1–F7 handoffs, Watchlist, Source Registry, and a bounded Twin Observatory lens from current `main`.
+
+The presentation layer does **not** own research state and does not create a second evidence database. Missing source data is shown as unavailable rather than inferred. See [`docs/README.md`](./docs/README.md) for the projection boundary and deployment notes.
+
 The front page intentionally does not hard-code a current month, week, or latest conclusion. Current research state belongs to the canonical report indexes, Source Registry, and Watchlist so this README can remain a durable repository entry point.
 
 ## Evidence Model / 证据模型
