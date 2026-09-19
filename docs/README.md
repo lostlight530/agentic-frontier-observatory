@@ -26,7 +26,7 @@ If a canonical source cannot be read, the interface shows `UNAVAILABLE` rather t
 
 ## Implementation
 
-The site is dependency-free static HTML/CSS/JavaScript. It reads canonical Markdown from the current public `main` branch at page load and renders a bounded projection.
+The site is dependency-free static HTML/CSS/JavaScript. At bootstrap it resolves the current public `main` HEAD, pins every canonical Markdown read in that page session to that commit SHA, and renders one coherent bounded projection. Later `main` movement is detected with a throttled public HEAD recheck and is surfaced as a newer-snapshot notice; an already rendered snapshot is never hot-mutated across revisions.
 
 No repository-specific GitHub Actions workflow is required by this presentation layer. For GitHub Pages, the intended publishing source is `main` + `/docs`; enabling or changing Pages is a repository setting and remains separate from research truth.
 
