@@ -23,7 +23,9 @@
 | 2026-09-19 | [`2026-09-19.md`](./2026-09-19.md) | [`2026-09-19/`](./2026-09-19/) | W38 |
 | 2026-09-20 | [`2026-09-20.md`](./2026-09-20.md) | [`2026-09-20/`](./2026-09-20/) | W38 |
 | 2026-09-21 | [`2026-09-21.md`](./2026-09-21.md) | [`2026-09-21/`](./2026-09-21/) | W39 |
+| 2026-09-22 | [`2026-09-22.md`](./2026-09-22.md) | [`2026-09-22/`](./2026-09-22/) | W39 |
+| 2026-09-23 | [`2026-09-23.md`](./2026-09-23.md) | [`2026-09-23/`](./2026-09-23/) | W39 |
 
-Current September count: **21 real observation days**, indexed through **2026-09-21**.
+Current September count: **23 real observation days**, indexed through **2026-09-23**.
 
 > The index records repository-native observation coverage. It does not backdate later discoveries into earlier days.
