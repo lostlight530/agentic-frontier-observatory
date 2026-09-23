@@ -11,7 +11,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W36 | 31 Aug–6 Sep | CLOSED — Sunday settlement | Bounded references; approval/publication/implementation/conformance remain separate states. |
 | W37 | 7–13 Sep | FINAL — H37-1~H37-5 OPEN | Execution continues to outrun portable authority, durable-effect and recovery contracts. |
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | A2A/MCP boundaries strengthened; AWS AgentCore added product-local runtime/consent/registry evidence; portable recovery gaps remain open. |
-| W39 | 21–27 Sep | **OPEN — 21 Sep real Daily observed** | Recovery/authority hypotheses opened without evidence strengthening; SEP-2663 and NIST status remain unchanged. |
+| W39 | 21–27 Sep | **OPEN — 21–23 Sep real Dailies observed** | Recovery/authority hypotheses remain open without evidence strengthening; SEP-2663 and NIST status remain unchanged through 23 Sep. |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
