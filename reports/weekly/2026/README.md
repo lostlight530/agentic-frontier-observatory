@@ -31,3 +31,14 @@ later event discovery
 ```
 
 > **周日不是清空，周一不是重启。**
+
+
+## 2026-09-23 A2 calibration
+
+W39 remains OPEN with 21–23 Sep real Dailies retained. Index synchronization does not strengthen H39 hypotheses or convert repeated SEP/NIST checks into independent evidence.
+
+```text
+W39_INDEX_CURRENT
+!= W39_FINAL
+!= HYPOTHESIS_CLOSED
+```
