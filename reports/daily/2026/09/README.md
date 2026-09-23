@@ -30,3 +30,7 @@
 Current September count: **24 real observation days**, indexed through **2026-09-24**.
 
 > The index records repository-native observation coverage. It does not backdate later discoveries into earlier days.
+
+## 2026-09-23 n-1 calibration
+
+The 2026-09-22 Daily and its F1–F7 pack remain one observation-day unit. Derived index presence adds no observation, source-independence, hypothesis, runtime, or maturity credit.
