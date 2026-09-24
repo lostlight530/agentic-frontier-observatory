@@ -11,3 +11,8 @@
 ## 2026-09-23 A2 calibration
 
 The September row is a current canonical index entry only. Its `1–23 Sep observed` coverage does not imply 23 material transitions, 23 independent source lineages, or month closure.
+## 2026-09-24 A2 calibration
+
+The September current row now has 24 retained observation days through 2026-09-24.
+
+That coverage count is repository observation coverage only. It does not imply 24 maturity transitions, independent evidence lineages, deployment validations, or hypothesis upgrades. September remains OPEN.
