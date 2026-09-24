@@ -34,3 +34,9 @@ Current September count: **24 real observation days**, indexed through **2026-09
 ## 2026-09-23 n-1 calibration
 
 The 2026-09-22 Daily and its F1–F7 pack remain one observation-day unit. Derived index presence adds no observation, source-independence, hypothesis, runtime, or maturity credit.
+
+## 2026-09-24 A1 cutoff — full September review through 2026-09-23
+
+All 23 retained September integrated Dailies and corresponding observation-pack indexes through 2026-09-23 were re-read together with due Weeklies and special-event reconciliations.
+
+This index records repository-native observation coverage only. It adds no material-transition count, source-independence credit, runtime evidence, or hypothesis strengthening.
