@@ -42,3 +42,15 @@ W39_INDEX_CURRENT
 != W39_FINAL
 != HYPOTHESIS_CLOSED
 ```
+## 2026-09-24 A2 calibration
+
+W39 remains OPEN with 2026-09-21 through 2026-09-24 real Dailies retained.
+
+The 2026-09-24 `NO MATERIAL CHANGE` observation and repeated MCP/NIST source-lineage checks do not strengthen or settle W39 hypotheses by repetition alone.
+
+```text
+W39_INDEX_CURRENT
+!= W39_FINAL
+REPEATED_SOURCE_LINEAGE
+!= INDEPENDENT_HYPOTHESIS_SUPPORT
+```
