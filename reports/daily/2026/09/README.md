@@ -27,8 +27,10 @@
 | 2026-09-23 | [`2026-09-23.md`](./2026-09-23.md) | [`2026-09-23/`](./2026-09-23/) | W39 |
 | 2026-09-24 | [`2026-09-24.md`](./2026-09-24.md) | [`2026-09-24/`](./2026-09-24/) | W39 |
 | 2026-09-25 | [`2026-09-25.md`](./2026-09-25.md) | [`2026-09-25/`](./2026-09-25/) | W39 |
+| 2026-09-26 | [`2026-09-26.md`](./2026-09-26.md) | [`2026-09-26/`](./2026-09-26/) | W39 |
+| 2026-09-27 | [`2026-09-27.md`](./2026-09-27.md) | [`2026-09-27/`](./2026-09-27/) | W39 FINAL |
 
-Current September count: **25 real observation days**, indexed through **2026-09-25**.
+Current September count: **27 real observation days**, indexed through **2026-09-27**.
 
 > The index records repository-native observation coverage. It does not backdate later discoveries into earlier days.
 
@@ -41,3 +43,8 @@ The 2026-09-22 Daily and its F1–F7 pack remain one observation-day unit. Deriv
 All 23 retained September integrated Dailies and corresponding observation-pack indexes through 2026-09-23 were re-read together with due Weeklies and special-event reconciliations.
 
 This index records repository-native observation coverage only. It adds no material-transition count, source-independence credit, runtime evidence, or hypothesis strengthening.
+
+
+## 2026-09-27 Sunday closure calibration
+
+The index now reconciles repository truth through 2026-09-27, including the already-existing 2026-09-26 Daily/pack. Coverage synchronization creates no external-evidence, maturity or hypothesis credit. W39 settlement is owned by the canonical weekly file.
