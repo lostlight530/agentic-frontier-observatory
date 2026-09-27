@@ -11,13 +11,14 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W36 | 31 Aug–6 Sep | CLOSED — Sunday settlement | Bounded references; approval/publication/implementation/conformance remain separate states. |
 | W37 | 7–13 Sep | FINAL — H37-1~H37-5 OPEN | Execution continues to outrun portable authority, durable-effect and recovery contracts. |
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | A2A/MCP boundaries strengthened; AWS AgentCore added product-local runtime/consent/registry evidence; portable recovery gaps remain open. |
-| W39 | 21–27 Sep | **OPEN — 21–23 Sep real Dailies observed** | Recovery/authority hypotheses remain open without evidence strengthening; SEP-2663 and NIST status remain unchanged through 23 Sep. |
+| W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1~H39-5 `REFUTED_FOR_W39`; project/status/use-case evidence did not become independent deployability, portable authority, durable-effect recovery or operational conformance proof. |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
 - `2026-W36-2026-09-07-special-event-reconciliation.md` supplements W36.
 - `2026-W37-2026-09-20-special-event-reconciliation.md` supplements W37.
 - `2026-W38-2026-09-20-special-event-reconciliation.md` supplements W38.
+- `2026-W39-2026-09-27-special-event-reconciliation.md` supplements W39.
 
 Canonical authority remains with `YYYY-Www.md` weekly records.
 
@@ -54,3 +55,8 @@ W39_INDEX_CURRENT
 REPEATED_SOURCE_LINEAGE
 != INDEPENDENT_HYPOTHESIS_SUPPORT
 ```
+
+
+## 2026-09-27 Sunday settlement calibration
+
+W39 closes only after the real 2026-09-27 Daily. The W39 special-event reconciliation remains supplementary historical memory; it does not replace the canonical hypothesis settlement or create independent reproduction evidence.
