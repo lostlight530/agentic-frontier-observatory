@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-09-15 · W38**
+Updated: **2026-09-30 · W40**
 
 > Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current ranking. The W38 active shortlist appears after the full table.
 
@@ -8,7 +8,7 @@ Updated: **2026-09-15 · W38**
 |---|---|---|---|
 | G-W01 | How quickly do MCP implementations converge on the 2026-07-28 specification? | OPEN | SDK releases and production adoption |
 | G-W02 | Does A2A 1.x produce cross-vendor conformance evidence? | OPEN | TCK and interoperability events |
-| G-W03 | Which identity and authorization model becomes reusable across agent ecosystems? | **STRENGTHENED / open** | NIST outputs and crosswalks |
+| G-W03 | Which identity and authorization model becomes reusable across agent ecosystems? | **STRENGTHENED / open** | NIST draft project description, implementation architecture and crosswalks after the 2026-09-30 comments-summary/current-display update |
 | G-W04 | Can benchmarks measure long-horizon recovery and authority boundaries? | OPEN | Public methods |
 | G-W05 | How do DNS-AID, registries, MCP, A2A and ARD compose? | OPEN | Crosswalks and deployments |
 | G-W06 | Which harness layers become standardized versus model-native? | OPEN | Runtime and model APIs |
@@ -98,3 +98,8 @@ Task reference ≠ Task read/write authority
 Context continuity ≠ authority continuity
 Runtime stop ≠ rollback ≠ remediation completion
 ```
+
+
+## 2026-09-30 W40 identity/governance calibration
+
+NIST NCCoE now displays `Soliciting Comments` and exposes a newly observed comments-summary resource. This is a durable project/governance state update, so G-W03's next-evidence target advances to the promised draft project description and any inspectable implementation/crosswalk artifacts. The watch question remains open: feedback synthesis and project status do not establish reusable cross-ecosystem authority semantics or conformance.
