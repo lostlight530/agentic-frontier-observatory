@@ -2,7 +2,7 @@
 
 Updated: **2026-09-30 · W40**
 
-> Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current ranking. The W38 active shortlist appears after the full table.
+> Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
