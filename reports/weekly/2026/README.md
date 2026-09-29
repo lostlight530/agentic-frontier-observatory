@@ -12,7 +12,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W37 | 7–13 Sep | FINAL — H37-1~H37-5 OPEN | Execution continues to outrun portable authority, durable-effect and recovery contracts. |
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | A2A/MCP boundaries strengthened; AWS AgentCore added product-local runtime/consent/registry evidence; portable recovery gaps remain open. |
 | W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1~H39-5 `REFUTED_FOR_W39`; project/status/use-case evidence did not become independent deployability, portable authority, durable-effect recovery or operational conformance proof. |
-| W40 | 28 Sep–4 Oct | **OPEN** | First retained real Daily is 2026-09-29; 2026-09-28 same-day Daily gap is preserved by late reconciliation; repeated no-change evidence creates no hypothesis strength. |
+| W40 | 28 Sep–4 Oct | **OPEN — MATERIAL CHANGE 2026-09-30** | Real Dailies: 2026-09-29 and 2026-09-30; NIST identity/governance current display changed to `Soliciting Comments` and a comments-summary resource is newly observed; recovery/conformance gaps remain open. |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
@@ -66,3 +66,8 @@ W39 closes only after the real 2026-09-27 Daily. The W39 special-event reconcili
 ## 2026-09-29 W40 opening calibration
 
 W40 opens only from the first retained real Daily on 2026-09-29. The 2026-09-28 late reconciliation is not converted into same-day evidence, and W39 repetition is not inherited as new support.
+
+
+## 2026-09-30 material-change calibration
+
+W40 changes on real contract-defined NIST evidence, not repeated no-change checks. Current display change is preserved separately from unknown transition chronology, and the comments summary is treated as feedback synthesis rather than normative or operational maturity proof.
