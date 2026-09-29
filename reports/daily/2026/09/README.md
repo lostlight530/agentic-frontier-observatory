@@ -30,8 +30,9 @@
 | 2026-09-26 | [`2026-09-26.md`](./2026-09-26.md) | [`2026-09-26/`](./2026-09-26/) | W39 |
 | 2026-09-27 | [`2026-09-27.md`](./2026-09-27.md) | [`2026-09-27/`](./2026-09-27/) | W39 FINAL |
 | 2026-09-29 | [`2026-09-29.md`](./2026-09-29.md) | [`2026-09-29/`](./2026-09-29/) | W40 OPEN |
+| 2026-09-30 | [`2026-09-30.md`](./2026-09-30.md) | [`2026-09-30/`](./2026-09-30/) | W40 OPEN / MATERIAL CHANGE |
 
-Current September count: **28 retained real same-day observation days**, latest **2026-09-29**. `2026-09-28` has no retained same-day producer-native Daily and is preserved separately as [`2026-09-28-reconciliation.md`](./2026-09-28-reconciliation.md); it is not counted as a real 2026-09-28 Daily.
+Current September count: **29 retained real same-day observation days**, latest **2026-09-30**. `2026-09-28` has no retained same-day producer-native Daily and is preserved separately as [`2026-09-28-reconciliation.md`](./2026-09-28-reconciliation.md); it is not counted as a real 2026-09-28 Daily.
 
 > The index records repository-native observation coverage. It does not backdate later discoveries into earlier days.
 
@@ -54,3 +55,8 @@ The index now reconciles repository truth through 2026-09-27, including the alre
 ## 2026-09-29 W40 opening calibration
 
 2026-09-29 is the first retained real W40 Daily. The 2026-09-28 gap is explicitly reconciled without backdating 2026-09-29 source checks. Index synchronization creates no deployability, authority, recovery, maturity or source-independence credit.
+
+
+## 2026-09-30 material-change calibration
+
+2026-09-30 is the second retained real W40 Daily and records a real NIST identity/governance evidence update. The 2026-09-28 gap remains late reconciliation. September is on its final calendar date but remains `OPEN / DAY_IN_PROGRESS`; month-end date does not itself authorize natural-month settlement.
