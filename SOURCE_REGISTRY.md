@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-09-19**
+Updated through: **2026-10-02**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -42,7 +42,8 @@ Updated through: **2026-09-19**
 | G-GOOGLE-COMPUTER-USE | G2 | Google | Built-in computer use | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/ |
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch | https://www.anthropic.com/news/model-context-protocol |
 | G-MCP-2026-07-28 | G0 | Model Context Protocol | 2026-07-28 specification; stateless core and formal extension framework including Tasks | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
-| G-MCP-TASKS-EXTENSION | G0 | Model Context Protocol Tasks Extension | `SEP-2663` is Final on the Extensions Track; the 2026-07-28 Tasks specification remains Draft; extension finality != core-protocol maturity | https://tasks.extensions.modelcontextprotocol.io/seps/2663-tasks-extension |
+| G-MCP-TASKS-EXTENSION | G0 | Model Context Protocol Tasks Extension | `SEP-2663` is Final on the Extensions Track; official `ext-tasks` publishes an immutable Stable `2026-07-28` schema while `draft` remains the Development track; extension/schema status != core-protocol maturity | https://tasks.extensions.modelcontextprotocol.io/seps/2663-tasks-extension |
+| G-MCP-TASKS-EXT-TASKS | G0 | Model Context Protocol `ext-tasks` | Official Tasks extension schema/TypeScript SDK repository; Stable `2026-07-28` schema locked 2026-08-24; TypeScript extension SDK introduced 2026-09-23; cross-SDK implementation and operational conformance remain separate | https://github.com/modelcontextprotocol/ext-tasks |
 | G-MCP-EMA | G0 | Model Context Protocol | Enterprise-Managed Authorization | https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ |
 | G-A2A | G0 | A2A Project | Agent interoperability specification | https://a2a-protocol.org/latest/ |
 | G-A2A-DEFINITIONS | G0 | A2A Project | Normative protocol definitions; Message `referenceTaskIds` / `reference_task_ids` references Task IDs for additional context | https://a2a-protocol.org/latest/definitions/ |
@@ -65,7 +66,7 @@ Updated through: **2026-09-19**
 | G-CLOUDFLARE-WEB-BOT-AUTH | G2 | Cloudflare | Operational Web Bot Auth verification for bots and agents | https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/ |
 | G-CLOUDFLARE-VERIFIED-AGENTS | G2 | Cloudflare | Verified bots and signed-agent handling | https://developers.cloudflare.com/bots/concepts/bot/verified-bots/ |
 | G-NIST-IDENTITY | G1 | NIST NCCoE | Software and AI Agent Identity and Authorization; current site display `Soliciting Comments` observed 2026-09-30; exact transition date unverified | https://www.nccoe.nist.gov/projects/software-and-ai-agent-identity-and-authorization |
-| G-NIST-IDENTITY-COMMENTS-SUMMARY | G1 | NIST NCCoE | Summary of Comments on the Concept Paper; newly observed 2026-09-30; exact publication date unverified; feedback synthesis, not normative conformance | https://pages.nist.gov/nccoe-ai-identity/summary-of-comments.html |
+| G-NIST-IDENTITY-COMMENTS-SUMMARY | G1 | NIST NCCoE | Summary of Comments on the Concept Paper; publication_date `2026-09-29` verified by NIST publication notice; first repository observation 2026-09-30; later correction 2026-10-02; feedback synthesis, not normative conformance | https://pages.nist.gov/nccoe-ai-identity/summary-of-comments.html |
 | G-NIST-ZTA-RUNTIME | G1 | NIST | Continuous access evaluation; continue, limit or revoke active sessions | https://pages.nist.gov/zero-trust-architecture/VolumeB/architecture.html |
 | G-NIST-ZTA-207A | G1 | NIST | Identity-tier policy enforcement for cloud-native multi-cloud applications | https://csrc.nist.gov/pubs/sp/800/207/a/final |
 | G-SPIFFE-CONCEPTS | G0 | SPIFFE | Short-lived workload identity, automatic credential rotation and trust bundles | https://spiffe.io/docs/latest/spiffe/concepts/ |
@@ -75,9 +76,9 @@ Updated through: **2026-09-19**
 - F.748.93 was **Approved on 2026-08-29**; the Recommendation surface now reports **`In force (prepublished)`**, with English files available **2026-09-09**. Publication availability is standards-lifecycle evidence, not proof of implementation, conformance or deployed interoperability.
 - A2A normative definitions include generic `referenceTaskIds` for additional context. This is not typed predecessor/supersedes/repairs/compensates recovery lineage.
 - A2A Java SDK 1.2.0.Final hardened read authorization on referenced-task lookup. **Task reference ≠ Task authority.**
-- NIST NCCoE Software and AI Agent Identity and Authorization was retained historically as **Reviewing Comments** through the 2026-09-29 observation cut. On 2026-09-30 the authoritative project page displays **Soliciting Comments** and exposes a comments-summary resource hub. The exact state-transition timestamp and summary publication date remain unverified; the earlier observation is not rewritten.
+- NIST NCCoE Software and AI Agent Identity and Authorization was retained historically as **Reviewing Comments** through the 2026-09-29 observation cut. On 2026-09-30 the authoritative project page displays **Soliciting Comments** and exposes a comments-summary resource hub. The exact state-transition timestamp remains unverified. The summary publication date is now verified as 2026-09-29 by a dated NIST publication notice; this date correction was observed on 2026-10-02 and does not rewrite the earlier point-in-time observation.
 - A later 2026-09-19 independent recheck recovered AWS first-party evidence absent from the initial Daily: a Runtime announcement dated 2026-09-18, an AWS-managed end-user Consent Portal, and Agent Registry approval/discovery lifecycle documentation. These are product-local AWS surfaces. Runtime performance/adoption statements remain provider claims unless independently reproduced; consent and registry approval do not establish portable successor authority, runtime authorization or recovery completion.
-- MCP `SEP-2663` is **Final on the Extensions Track**, while the Tasks specification remains **Draft**. `SEP Final != core-protocol maturity != operational maturity`.
+- MCP `SEP-2663` is **Final on the Extensions Track**. The official `ext-tasks` repository now distinguishes an immutable **Stable `2026-07-28` schema** from a separate **Development `draft`** track; repository chronology shows the stable snapshot was locked 2026-08-24 and the TypeScript extension SDK was introduced 2026-09-23. The Python SDK still lists Tasks as not yet implemented. `EXTENSION/SCHEMA STATUS != SDK IMPLEMENTATION != CORE-PROTOCOL MATURITY != OPERATIONAL CONFORMANCE`.
 
 ## Maintenance rule / 维护规则
 
