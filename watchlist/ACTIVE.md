@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-09-30 · W40**
+Updated: **2026-10-04 · W40 special closeout**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
@@ -103,3 +103,25 @@ Runtime stop ≠ rollback ≠ remediation completion
 ## 2026-09-30 W40 identity/governance calibration
 
 NIST NCCoE now displays `Soliciting Comments` and exposes a newly observed comments-summary resource. This is a durable project/governance state update, so G-W03's next-evidence target advances to the promised draft project description and any inspectable implementation/crosswalk artifacts. The watch question remains open: feedback synthesis and project status do not establish reusable cross-ecosystem authority semantics or conformance.
+
+
+## 2026-10-04 W40 post-hoc special calibration
+The post-hoc reconciliation adds two material product/model clusters that were not represented in the settled W40 evidence chain:
+
+- Anthropic Sonnet 5.5, event date 2026-09-28;
+- OpenAI dots plus 2026-09-29 Agents API/model implementation changes.
+
+Current watch effects:
+- **G-W08 strengthened:** dots is direct first-party evidence that a long-running agent surface is being integrated into a core AI product.
+- **G-W22 strengthened:** execution-channel expansion raises the burden of proving one authority envelope across app connections, cloud-computer actions and other triggers.
+- **G-W23 strengthened:** always-on execution makes owner/sponsor continuity and autonomous-task accountability more operationally important.
+- **G-W25 strengthened:** ongoing agents increase the importance of reconstructing the exact agent definition, policy and connected-app state that executed.
+- **G-W30 remains open:** vendor product telemetry does not establish a portable agent-session evidence schema.
+
+No watch item is closed by these vendor releases.
+
+```text
+PRODUCT_MATURITY != CROSS_VENDOR_STANDARDIZATION
+ALWAYS_ON_EXECUTION != PORTABLE_ACCOUNTABILITY
+VENDOR_TELEMETRY != UNIVERSAL_EVIDENCE_SCHEMA
+```
