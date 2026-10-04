@@ -1,0 +1,3 @@
+# F7 — Synthesis
+
+**Research increment:** release/package status precision. `GITHUB_PRERELEASE_STATUS != NPM_PUBLIC_PACKAGE_AVAILABILITY != PROTOCOL_MATURITY`; `SECURITY != EXECUTION != DURABLE EFFECTS != RECOVERY`.
