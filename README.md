@@ -13,6 +13,9 @@ This repository is an observatory, not a benchmark, deployment platform, product
 
 ## Stable Research Entry Points / 长期研究入口
 
+- [Open Research / 开放科研](./OPEN_RESEARCH.md) — English-canonical open-research production method with Chinese guidance.
+- [Research Template / 科研模板](./RESEARCH_TEMPLATE.md) — prospective bounded research-record template.
+
 - [Methodology / 方法论](./METHODOLOGY.md) — source hierarchy, statement classes, date discipline, evidence independence, and analytical boundaries.
 - [Scope / 范围](./SCOPE.md) — research coverage and exclusions.
 - [Taxonomy / 分类体系](./TAXONOMY.md) — durable comparison vocabulary.
