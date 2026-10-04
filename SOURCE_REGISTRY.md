@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-10-03**
+Updated through: **2026-10-04**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -19,6 +19,9 @@ Updated through: **2026-10-03**
 | G-STANFORD-INDEX-2026 | G1 | Stanford HAI | 2026 global AI index | https://hai.stanford.edu/ai-index/2026-ai-index-report |
 | G-TRANSFORMER | G3 | Original paper | Transformer architecture | https://arxiv.org/abs/1706.03762 |
 | G-OPENAI-RELEASE-NOTES | G2 | OpenAI | ChatGPT product chronology | https://help.openai.com/en/articles/6825453-chatgpt-release-notes |
+| G-OPENAI-DOTS-2026-09-29 | G2 | OpenAI | Dots always-on ChatGPT agent surface; cloud computer + connected-app execution under product controls; product implementation != portable protocol/authority | https://help.openai.com/en/articles/6825453-chatgpt-release-notes |
+| G-OPENAI-API-CHANGELOG | G2 | OpenAI API | Dated API/model implementation chronology; 2026-09-29 includes Agents API computer use and GPT-6.1 Sol/multi-agent beta changes | https://developers.openai.com/api/docs/changelog |
+| G-ANTHROPIC-SONNET-5-5 | G2 | Anthropic | Claude Sonnet 5.5 first-party release dated 2026-09-28; model/provider evidence, not protocol or independent reproduction | https://www.anthropic.com/claude-sonnet-5-5 |
 | G-OPENAI-PRESENCE | G2 | OpenAI | Production-agent policy and escalation | https://openai.com/index/introducing-openai-presence/ |
 | G-OPENAI-AGENT-SIGNED-REQUESTS | G2 | OpenAI | ChatGPT agent signed outbound HTTP requests and allowlisting | https://help.openai.com/en/articles/11845367 |
 | G-OPENAI-WORKSPACE-AGENTS | G2 | OpenAI | Workspace Agent publishing, RBAC, connections, schedules, API triggers, approvals and constraints | https://help.openai.com/en/articles/20001143-chatgpt-workspace-agents-for-enterprise-and-business |
@@ -90,3 +93,17 @@ A source enters this registry only when its identity, ownership, and relevance a
 ## 2026-09-30 NIST identity/governance current-state update
 
 The newly observed NIST comments summary synthesizes stakeholder feedback around existing identity foundations, stable trust anchors with ephemeral/scoped credentials, task/context-aware authorization, delegation/accountability, signed intent and logically separate governance/control layers. It is admitted as a G1 project/governance source, not as a normative standard, cross-provider implementation, operational conformance result or recovery-completion proof.
+
+
+## 2026-10-04 W40 post-hoc special-event admission
+A post-settlement special reconciliation admitted three durable first-party source identities relevant to the W40 omission review: OpenAI dots, the dated OpenAI API changelog, and Anthropic Sonnet 5.5.
+
+The events retain original external dates while repository observation/reconciliation remains 2026-10-04.
+
+```text
+EXTERNAL_EVENT_DATE != REPOSITORY_OBSERVATION_DATE
+SOURCE_REGISTRY_ADMISSION != INDEPENDENT_CORROBORATION
+PRODUCT_IMPLEMENTATION != PROTOCOL_CONFORMANCE
+```
+
+See `reports/weekly/2026/2026-W40-special-reconciliation-2026-10-04.md`.
