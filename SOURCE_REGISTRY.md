@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-10-04**
+Updated through: **2026-10-05**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ Updated through: **2026-10-04**
 | G-ANTHROPIC-MCP | G2 | Anthropic | MCP launch | https://www.anthropic.com/news/model-context-protocol |
 | G-MCP-2026-07-28 | G0 | Model Context Protocol | 2026-07-28 specification; stateless core and formal extension framework including Tasks | https://blog.modelcontextprotocol.io/posts/2026-07-28/ |
 | G-MCP-TASKS-EXTENSION | G0 | Model Context Protocol Tasks Extension | `SEP-2663` is Final on the Extensions Track; official `ext-tasks` publishes an immutable Stable `2026-07-28` schema while `draft` remains the Development track; extension/schema status != core-protocol maturity | https://tasks.extensions.modelcontextprotocol.io/seps/2663-tasks-extension |
-| G-MCP-TASKS-EXT-TASKS | G0 | Model Context Protocol `ext-tasks` | Official Tasks extension schema/TypeScript SDK repository; Stable `2026-07-28` schema locked 2026-08-24; TypeScript extension SDK introduced 2026-09-23; cross-SDK implementation and operational conformance remain separate | https://github.com/modelcontextprotocol/ext-tasks |
+| G-MCP-TASKS-EXT-TASKS | G0 | Model Context Protocol `ext-tasks` | Official Tasks extension schema/TypeScript SDK repository; Stable `2026-07-28` schema locked 2026-08-24; TypeScript extension SDK introduced 2026-09-23; GitHub `v0.2.2` published 2026-09-30T22:23:51Z and marked prerelease while npm exposes public package `0.2.2`; release label, package availability, extension status, cross-SDK implementation and operational conformance remain separate | https://github.com/modelcontextprotocol/ext-tasks |
 | G-MCP-EMA | G0 | Model Context Protocol | Enterprise-Managed Authorization | https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ |
 | G-A2A | G0 | A2A Project | Agent interoperability specification | https://a2a-protocol.org/latest/ |
 | G-A2A-DEFINITIONS | G0 | A2A Project | Normative protocol definitions; Message `referenceTaskIds` / `reference_task_ids` references Task IDs for additional context | https://a2a-protocol.org/latest/definitions/ |
