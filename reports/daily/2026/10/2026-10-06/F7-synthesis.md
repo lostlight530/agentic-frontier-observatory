@@ -1,3 +1,3 @@
-# F7 Synthesis
+# F7 — Synthesis
 
-Material late reconciliation; protocol, authority and recovery boundaries remain unchanged.
+**MATERIAL SDK/RUNTIME IMPLEMENTATION UPDATE.** H41-1 strengthens within A2A lineage only. `SECURITY != EXECUTION != DURABLE EFFECTS != RECOVERY`; graceful shutdown behavior is not rollback or recovery-completion proof.

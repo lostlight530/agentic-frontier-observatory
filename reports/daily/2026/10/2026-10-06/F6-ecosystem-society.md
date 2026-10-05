@@ -1,3 +1,3 @@
-# F6 Ecosystem Society
+# F6 — Ecosystem / Society
 
-SDK distribution advances implementation surface without proving cross-provider interoperability.
+The A2A Python implementation surface advances to `v1.2.2`; A2A protocol latest remains `v1.0.1`. Same-project implementation evidence does not create independent cross-provider support.

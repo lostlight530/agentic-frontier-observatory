@@ -1,3 +1,3 @@
-# F4 Agentic Systems
+# F4 — Agentic Systems
 
-A2A Python SDK v1.2.2 is an SDK/runtime release, not a protocol or conformance transition.
+Material SDK update: A2A Python `v1.2.2` changes runtime behavior and compatibility paths. `SDK_RELEASE != PROTOCOL_RELEASE != CROSS_SDK_CONFORMANCE`; no portable authority or recovery completion follows from this release.

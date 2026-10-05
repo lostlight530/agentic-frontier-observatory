@@ -1,3 +1,3 @@
-# F5 Evaluation Governance
+# F5 — Evaluation / Governance
 
-No independent conformance or governance transition admitted.
+NIST remains `Software and SI Agent Identity and Authorization` / `Soliciting Comments`; exact transition chronology remains UNVERIFIED. No independent TCK/conformance or governance transition is established.

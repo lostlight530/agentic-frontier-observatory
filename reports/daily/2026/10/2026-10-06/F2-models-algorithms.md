@@ -1,3 +1,3 @@
-# F2 Models Algorithms
+# F2 — Models / Algorithms
 
-No material model or algorithm transition.
+No material model/algorithm transition established at this cut. The A2A Python change is SDK/runtime implementation evidence.

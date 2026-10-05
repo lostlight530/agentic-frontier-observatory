@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-10-05**
+Updated through: **2026-10-06**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -52,6 +52,7 @@ Updated through: **2026-10-05**
 | G-A2A-DEFINITIONS | G0 | A2A Project | Normative protocol definitions; Message `referenceTaskIds` / `reference_task_ids` references Task IDs for additional context | https://a2a-protocol.org/latest/definitions/ |
 | G-A2A-TASK-LIFECYCLE | G0 | A2A Project | Stateful task IDs, terminal task states, artifacts/history and context continuity across related tasks | https://a2aproject.github.io/A2A/latest/topics/life-of-a-task/ |
 | G-A2A-CLI | G2 | A2A Project | Official A2A command-line client; v0.3.0 released 2026-09-24; official A2A main docs/home integration observed 2026-10-03 Asia/Shanghai; tooling implementation != protocol transition/conformance | https://github.com/a2aproject/a2a-cli |
+| G-A2A-PYTHON-1-2-2 | G2 | A2A Project Python SDK | `v1.2.2`; release-note version date 2026-10-03; GitHub published 2026-10-05T09:50:04Z; SSE shutdown grace-period configuration plus REST/compatibility/terminal-state/push-config fixes; SDK/runtime implementation != protocol release != cross-SDK conformance | https://github.com/a2aproject/a2a-python/releases/tag/v1.2.2 |
 | G-A2A-JAVA-1.2-AUTH | G2 | A2A Project Java SDK | 1.2.0.Final released 2026-08-07; read-authorization hardening for referenced-task lookups; first observed by this repository 2026-08-31 | https://a2aproject.github.io/a2a-java/posts/a2a-java-sdk-1-2-0-final-released/ |
 | G-A2A-JAVA-TASK-AUTH | G2 | A2A Project Java SDK | Per-user Task read/write/create authorization model across Task operations | https://a2aproject.github.io/a2a-java/1_2_0_Final/authorization/ |
 | G-ITU-F74893 | G0 | ITU-T SG21 | F.748.93 Framework and Requirements for AI Agent Interoperability; Approved 2026-08-29; current status `In force (prepublished)`; English files available 2026-09-09; implementation/conformance unverified | https://www.itu.int/rec/T-REC-F.748.93-202608-P/en |
@@ -85,6 +86,8 @@ Updated through: **2026-10-05**
 - A later 2026-10-03 authoritative recheck observes the current NCCoE project surface under **Software and SI Agent Identity and Authorization**, while the lifecycle display remains **Soliciting Comments**. NIST's CSRC concept-paper page separately states that, per the 2026-09-29 Executive Order on Inaugurating the Era of Super Intelligence, NIST is updating communications to use the term `super intelligence`. Preserve the historical AI-titled concept paper and earlier point-in-time observations; the exact project-page naming/display transition timestamp remains **UNVERIFIED**. These NIST surfaces share one institutional lineage and do not add independent-evidence credit.
 - A later 2026-09-19 independent recheck recovered AWS first-party evidence absent from the initial Daily: a Runtime announcement dated 2026-09-18, an AWS-managed end-user Consent Portal, and Agent Registry approval/discovery lifecycle documentation. These are product-local AWS surfaces. Runtime performance/adoption statements remain provider claims unless independently reproduced; consent and registry approval do not establish portable successor authority, runtime authorization or recovery completion.
 - MCP `SEP-2663` is **Final on the Extensions Track**. The official `ext-tasks` repository now distinguishes an immutable **Stable `2026-07-28` schema** from a separate **Development `draft`** track; repository chronology shows the stable snapshot was locked 2026-08-24 and the TypeScript extension SDK was introduced 2026-09-23. The Python SDK still lists Tasks as not yet implemented. `EXTENSION/SCHEMA STATUS != SDK IMPLEMENTATION != CORE-PROTOCOL MATURITY != OPERATIONAL CONFORMANCE`.
+
+- A2A Python SDK `v1.2.2` is a durable G2 implementation/runtime source. Preserve its release-note version date (`2026-10-03`), GitHub publication timestamp (`2026-10-05T09:50:04Z`) and observatory observation (`2026-10-06`) separately. SSE shutdown grace-period configuration and compatibility/error-handling fixes are SDK evidence only; they do not establish a new A2A protocol release, cross-SDK conformance, portable authority, durable-effect rollback or recovery completion.
 
 ## Maintenance rule / 维护规则
 
