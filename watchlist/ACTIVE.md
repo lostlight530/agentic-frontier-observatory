@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-10-04 · W40 special closeout**
+Updated: **2026-10-07 · W41 late-reconciliation calibration**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
@@ -8,7 +8,7 @@ Updated: **2026-10-04 · W40 special closeout**
 |---|---|---|---|
 | G-W01 | How quickly do MCP implementations converge on the 2026-07-28 specification? | OPEN | SDK releases and production adoption |
 | G-W02 | Does A2A 1.x produce cross-vendor conformance evidence? | OPEN | TCK and interoperability events |
-| G-W03 | Which identity and authorization model becomes reusable across agent ecosystems? | **STRENGTHENED / open** | NIST draft project description, implementation architecture and crosswalks after the 2026-09-30 comments-summary/current-display update |
+| G-W03 | Which identity and authorization model becomes reusable across agent ecosystems? | **STRENGTHENED / implementation-use-case planned / open** | Inspectable NIST Build 3 implementation artifacts, draft project description, identity/authorization architecture, reusable crosswalks and demonstration results |
 | G-W04 | Can benchmarks measure long-horizon recovery and authority boundaries? | OPEN | Public methods |
 | G-W05 | How do DNS-AID, registries, MCP, A2A and ARD compose? | OPEN | Crosswalks and deployments |
 | G-W06 | Which harness layers become standardized versus model-native? | OPEN | Runtime and model APIs |
@@ -124,4 +124,16 @@ No watch item is closed by these vendor releases.
 PRODUCT_MATURITY != CROSS_VENDOR_STANDARDIZATION
 ALWAYS_ON_EXECUTION != PORTABLE_ACCOUNTABILITY
 VENDOR_TELEMETRY != UNIVERSAL_EVIDENCE_SCHEMA
+```
+
+## 2026-10-07 W41 NIST/A2A calibration
+- **G-W03 strengthened in project specificity:** NIST's 2026-09-24 DevSecOps update names Build 3 as an agentic-SI demonstration scope and the DevSecOps environment as the first implementation use case for the SI Agent Identity and Authorization project.
+- G-W03 remains OPEN: planned single implementation != completed demonstration != reusable cross-ecosystem authority semantics != conformance.
+- A2A Java `v1.4.0.Final` and Python `v1.2.2` increase inspectable SDK implementation breadth inside the A2A Project lineage.
+- G-W02 remains OPEN: SDK ACTS/SUT behavior and multiple SDK releases do not by themselves prove cross-vendor conformance or interoperability results.
+
+```text
+IMPLEMENTATION_USE_CASE_PLANNED != IMPLEMENTATION_COMPLETED
+SDK_TEST_HARNESS_BEHAVIOR != CONFORMANCE_RESULT
+SAME_PROJECT_LINEAGE != INDEPENDENT_SUPPORT
 ```
