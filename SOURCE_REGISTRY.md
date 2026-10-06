@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-10-06**
+Updated through: **2026-10-07**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@ Updated through: **2026-10-06**
 | G-A2A-TASK-LIFECYCLE | G0 | A2A Project | Stateful task IDs, terminal task states, artifacts/history and context continuity across related tasks | https://a2aproject.github.io/A2A/latest/topics/life-of-a-task/ |
 | G-A2A-CLI | G2 | A2A Project | Official A2A command-line client; v0.3.0 released 2026-09-24; official A2A main docs/home integration observed 2026-10-03 Asia/Shanghai; tooling implementation != protocol transition/conformance | https://github.com/a2aproject/a2a-cli |
 | G-A2A-PYTHON-1-2-2 | G2 | A2A Project Python SDK | `v1.2.2`; release-note version date 2026-10-03; GitHub published 2026-10-05T09:50:04Z; SSE shutdown grace-period configuration plus REST/compatibility/terminal-state/push-config fixes; SDK/runtime implementation != protocol release != cross-SDK conformance | https://github.com/a2aproject/a2a-python/releases/tag/v1.2.2 |
+| G-A2A-JAVA-1-4-0 | G2 | A2A Project Java SDK | `v1.4.0.Final`; GitHub published 2026-09-28T17:07:49Z; includes ACTS SUT behavior for ITK, SSE parser/runtime changes, TaskAuthorizationProvider documentation and terminal-enqueue recovery fixes; SDK/test implementation != protocol release != passed conformance | https://github.com/a2aproject/a2a-java/releases/tag/v1.4.0.Final |
 | G-A2A-JAVA-1.2-AUTH | G2 | A2A Project Java SDK | 1.2.0.Final released 2026-08-07; read-authorization hardening for referenced-task lookups; first observed by this repository 2026-08-31 | https://a2aproject.github.io/a2a-java/posts/a2a-java-sdk-1-2-0-final-released/ |
 | G-A2A-JAVA-TASK-AUTH | G2 | A2A Project Java SDK | Per-user Task read/write/create authorization model across Task operations | https://a2aproject.github.io/a2a-java/1_2_0_Final/authorization/ |
 | G-ITU-F74893 | G0 | ITU-T SG21 | F.748.93 Framework and Requirements for AI Agent Interoperability; Approved 2026-08-29; current status `In force (prepublished)`; English files available 2026-09-09; implementation/conformance unverified | https://www.itu.int/rec/T-REC-F.748.93-202608-P/en |
@@ -72,6 +73,7 @@ Updated through: **2026-10-06**
 | G-CLOUDFLARE-VERIFIED-AGENTS | G2 | Cloudflare | Verified bots and signed-agent handling | https://developers.cloudflare.com/bots/concepts/bot/verified-bots/ |
 | G-NIST-IDENTITY | G1 | NIST NCCoE | Historical concept-paper identity remains Software and AI Agent Identity and Authorization; current NCCoE project surface observed 2026-10-03 displays Software and SI Agent Identity and Authorization with status `Soliciting Comments`; exact naming-display transition timestamp and project status-transition timestamp remain unverified | https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization |
 | G-NIST-IDENTITY-COMMENTS-SUMMARY | G1 | NIST NCCoE | Summary of Comments on the Concept Paper; publication_date `2026-09-29` verified by NIST publication notice; first repository observation 2026-09-30; later correction 2026-10-02; feedback synthesis, not normative conformance | https://pages.nist.gov/nccoe-ai-identity/summary-of-comments.html |
+| G-NIST-DEVSECOPS-BUILD3 | G1 | NIST NCCoE DevSecOps + SI Agent Identity and Authorization | 2026-09-24 announcement: Build 3 is being scoped for agentic SI; teams plan a single implementation and DevSecOps is named the first implementation use case for the SI Agent Identity and Authorization project; planning != deployed demonstration/conformance | https://www.nccoe.nist.gov/news-insights/new-nist-nccoe-resources-devsecops-and-october-28-webinar-agentic-si |
 | G-NIST-ZTA-RUNTIME | G1 | NIST | Continuous access evaluation; continue, limit or revoke active sessions | https://pages.nist.gov/zero-trust-architecture/VolumeB/architecture.html |
 | G-NIST-ZTA-207A | G1 | NIST | Identity-tier policy enforcement for cloud-native multi-cloud applications | https://csrc.nist.gov/pubs/sp/800/207/a/final |
 | G-SPIFFE-CONCEPTS | G0 | SPIFFE | Short-lived workload identity, automatic credential rotation and trust bundles | https://spiffe.io/docs/latest/spiffe/concepts/ |
@@ -88,6 +90,9 @@ Updated through: **2026-10-06**
 - MCP `SEP-2663` is **Final on the Extensions Track**. The official `ext-tasks` repository now distinguishes an immutable **Stable `2026-07-28` schema** from a separate **Development `draft`** track; repository chronology shows the stable snapshot was locked 2026-08-24 and the TypeScript extension SDK was introduced 2026-09-23. The Python SDK still lists Tasks as not yet implemented. `EXTENSION/SCHEMA STATUS != SDK IMPLEMENTATION != CORE-PROTOCOL MATURITY != OPERATIONAL CONFORMANCE`.
 
 - A2A Python SDK `v1.2.2` is a durable G2 implementation/runtime source. Preserve its release-note version date (`2026-10-03`), GitHub publication timestamp (`2026-10-05T09:50:04Z`) and observatory observation (`2026-10-06`) separately. SSE shutdown grace-period configuration and compatibility/error-handling fixes are SDK evidence only; they do not establish a new A2A protocol release, cross-SDK conformance, portable authority, durable-effect rollback or recovery completion.
+
+- A2A Java SDK `v1.4.0.Final` is a durable G2 SDK/runtime/test-harness source. Preserve `published_at=2026-09-28T17:07:49Z` and repository observation `2026-10-07` separately. ACTS SUT behavior in one SDK does not establish a passed cross-SDK/cross-vendor conformance result.
+- NIST DevSecOps Build 3 planning is durable G1 project-direction evidence: the 2026-09-24 announcement names the DevSecOps environment as the first implementation use case for the SI Agent Identity and Authorization project. This is planning/scoping evidence, not proof that the demonstration is built, deployed, validated or that the identity project's lifecycle transition date is known.
 
 ## Maintenance rule / 维护规则
 
