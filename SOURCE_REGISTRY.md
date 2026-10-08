@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-10-07**
+Updated through: **2026-10-09**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -53,6 +53,7 @@ Updated through: **2026-10-07**
 | G-A2A-TASK-LIFECYCLE | G0 | A2A Project | Stateful task IDs, terminal task states, artifacts/history and context continuity across related tasks | https://a2aproject.github.io/A2A/latest/topics/life-of-a-task/ |
 | G-A2A-CLI | G2 | A2A Project | Official A2A command-line client; v0.3.0 released 2026-09-24; official A2A main docs/home integration observed 2026-10-03 Asia/Shanghai; tooling implementation != protocol transition/conformance | https://github.com/a2aproject/a2a-cli |
 | G-A2A-PYTHON-1-2-2 | G2 | A2A Project Python SDK | `v1.2.2`; release-note version date 2026-10-03; GitHub published 2026-10-05T09:50:04Z; SSE shutdown grace-period configuration plus REST/compatibility/terminal-state/push-config fixes; SDK/runtime implementation != protocol release != cross-SDK conformance | https://github.com/a2aproject/a2a-python/releases/tag/v1.2.2 |
+| G-A2A-JS-1-3-0 | G2 | A2A Project JavaScript SDK | `v1.3.0` published 2026-09-29T10:40:16Z; database-backed Task and push-notification config stores; current 2026-10-09 docs describe task-state persistence, operator migrations, ownerResolver scoping, plaintext webhook credentials and config retention; SDK storage != worker resumption != external-effect recovery/conformance | https://github.com/a2aproject/a2a-js/releases/tag/v1.3.0 |
 | G-A2A-JAVA-1-4-0 | G2 | A2A Project Java SDK | `v1.4.0.Final`; GitHub published 2026-09-28T17:07:49Z; includes ACTS SUT behavior for ITK, SSE parser/runtime changes, TaskAuthorizationProvider documentation and terminal-enqueue recovery fixes; SDK/test implementation != protocol release != passed conformance | https://github.com/a2aproject/a2a-java/releases/tag/v1.4.0.Final |
 | G-A2A-JAVA-1.2-AUTH | G2 | A2A Project Java SDK | 1.2.0.Final released 2026-08-07; read-authorization hardening for referenced-task lookups; first observed by this repository 2026-08-31 | https://a2aproject.github.io/a2a-java/posts/a2a-java-sdk-1-2-0-final-released/ |
 | G-A2A-JAVA-TASK-AUTH | G2 | A2A Project Java SDK | Per-user Task read/write/create authorization model across Task operations | https://a2aproject.github.io/a2a-java/1_2_0_Final/authorization/ |
