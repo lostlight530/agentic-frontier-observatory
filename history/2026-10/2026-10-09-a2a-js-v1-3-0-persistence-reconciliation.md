@@ -31,5 +31,6 @@ A database can retain a task record while an external side effect has already co
 - H41-1: further implementation breadth **within the A2A lineage**, remains `STRENGTHENED_WITHIN_A2A_LINEAGE / OPEN`.
 - H41-2/H41-3: unchanged.
 - Source Registry: add exact recurring source identity `G-A2A-JS-1-3-0`.
-- Watchlist and ledger: unchanged; no verified lifecycle/conformance/accepted recovery transition.
+- Ledger: append durable SDK release event `G-2026-A2A-JS-1-3-0`, preserving 2026-09-29 release time and 2026-10-09 observation separately.
+- Watchlist: unchanged; no verified watch-state closure, protocol transition, conformance result or accepted recovery transition.
 - External deployment/conformance/security tests: `NOT_EXECUTED`.
