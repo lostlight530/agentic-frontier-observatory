@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-10-07 · W41 late-reconciliation calibration**
+Updated: **2026-10-11 · W41 Poppy draft reconciliation**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
@@ -78,6 +78,7 @@ Updated: **2026-10-07 · W41 late-reconciliation calibration**
 | G-W70 | Can task-state evidence distinguish cancellation intent, observed terminal state and the exact external effects that committed during the race window? | **NEW / W35 PRIORITY** | Task/event logs, idempotency and effect-ledger implementations |
 | G-W71 | Does F.748.93 approval/publication produce inspectable implementation, conformance and cross-vendor interoperability evidence? | **OPEN / W38 MONITOR** | Conformance methods, implementations and interoperability results |
 | G-W72 | Can recovery/remediation completion be expressed as portable machine-readable proof accepted by the required authority? | **NEW / W38 PRIORITY** | Normative completion evidence, acceptance semantics and interoperable implementations |
+| G-W73 | Can Poppy Draft 0.1's identity, authorization, revocation and optional operations become independently tested cross-company effect/recovery contracts? | **NEW / W41 / OPEN** | Stable revisions, interoperable implementations, authorization tests, effect ledger and recovery acceptance |
 
 ## W38 Active Shortlist / W38 当前优先清单
 
@@ -137,3 +138,6 @@ IMPLEMENTATION_USE_CASE_PLANNED != IMPLEMENTATION_COMPLETED
 SDK_TEST_HARNESS_BEHAVIOR != CONFORMANCE_RESULT
 SAME_PROJECT_LINEAGE != INDEPENDENT_SUPPORT
 ```
+
+## 2026-10-11 Poppy draft calibration
+G-W73 OPEN after first-party Poppy Draft 0.1 observed 2026-10-11. Sierra announcement 2026-10-06, site update label 2026-10-09, draft first-publication date UNVERIFIED. Draft at-most-once and scoped authorization are not operational conformance. No prior recovery watch closed. W41 FINAL; October Monthly OPEN.
