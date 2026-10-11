@@ -11,6 +11,11 @@
 | 2026-10-06 | [`2026-10-06.md`](./2026-10-06.md) | [`2026-10-06/`](./2026-10-06/) | W41 OPEN / MATERIAL SDK UPDATE |
 | 2026-10-07 | [`2026-10-07.md`](./2026-10-07.md) | [`2026-10-07/`](./2026-10-07/) | W41 OPEN / MATERIAL LATE RECONCILIATION |
 
-Current October count: **7 retained real same-day observation days**, through **2026-10-07**.
+| 2026-10-08 | [`2026-10-08.md`](./2026-10-08.md) | [`2026-10-08/`](./2026-10-08/) | W41 OPEN / NO MATERIAL CHANGE |
+| 2026-10-09 | [`2026-10-09.md`](./2026-10-09.md) | [`2026-10-09/`](./2026-10-09/) | W41 OPEN / MATERIAL SDK LATE RECONCILIATION |
+| 2026-10-10 | [`2026-10-10.md`](./2026-10-10.md) | [`2026-10-10/`](./2026-10-10/) | W41 OPEN / NO MATERIAL CHANGE |
+| 2026-10-11 | [`2026-10-11.md`](./2026-10-11.md) | [`2026-10-11/`](./2026-10-11/) | W41 FINAL / CLOSED / POPPY DRAFT LATE RECONCILIATION |
 
-> October remains OPEN. Future dates 2026-10-08 → 2026-10-31 are NOT_YET_OCCURRED / NOT_MISSING. Late reconciliation preserves original external event/publication dates and does not create a same-day protocol transition.
+Current October count: **11 retained real same-day observation days**, through **2026-10-11**.
+
+> October remains OPEN. At the early 2026-10-12 maintenance cut, 2026-10-12 native Daily is NOT_YET_RECORDED, not a missing day. Future 2026-10-13 → 2026-10-31 NOT_DUE. W41 FINAL / CLOSED; W42 awaits a Monday native Daily. The 2026-10-12 Poppy publisher-date correction is later reconciliation, not a backfilled 2026-10-09 Daily.
