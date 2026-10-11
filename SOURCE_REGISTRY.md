@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-10-11**
+Updated through: **2026-10-12**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -23,7 +23,8 @@ Updated through: **2026-10-11**
 | G-OPENAI-API-CHANGELOG | G2 | OpenAI API | Dated API/model implementation chronology; 2026-09-29 includes Agents API computer use and GPT-6.1 Sol/multi-agent beta changes | https://developers.openai.com/api/docs/changelog |
 | G-ANTHROPIC-SONNET-5-5 | G2 | Anthropic | Claude Sonnet 5.5 first-party release dated 2026-09-28; model/provider evidence, not protocol or independent reproduction | https://www.anthropic.com/claude-sonnet-5-5 |
 | G-PAP-ANNOUNCEMENT-2026-10-06 | G2 | Sierra | Poppy initiative announcement published 2026-10-06; proposed protocol != deployed system | https://sierra.ai/blog/introducing-personal-agent-protocol |
-| G-PAP-0-1-DRAFT | G2 | Poppy first-party project | Draft 0.1 site Updated 2026-10-09, observed 2026-10-11; initial draft publication UNVERIFIED; design != conformance | https://personalagentprotocol.org/docs/spec |
+| G-PAP-0-1-DRAFT | G2 | Poppy first-party project | Draft 0.1 site Updated 2026-10-09, observed 2026-10-11; publisher declares draft publication 2026-10-09; exact initial public-access timestamp UNVERIFIED; design != conformance | https://personalagentprotocol.org/docs/spec |
+| G-PAP-DRAFT-PUBLISHER-2026-10-09 | G2 | Sierra | Dated 2026-10-09 first-party statement publishing Poppy draft; publisher claim, not independent availability timestamp or conformance | https://sierra.ai/blog/poppy |
 | G-OPENAI-PRESENCE | G2 | OpenAI | Production-agent policy and escalation | https://openai.com/index/introducing-openai-presence/ |
 | G-OPENAI-AGENT-SIGNED-REQUESTS | G2 | OpenAI | ChatGPT agent signed outbound HTTP requests and allowlisting | https://help.openai.com/en/articles/11845367 |
 | G-OPENAI-WORKSPACE-AGENTS | G2 | OpenAI | Workspace Agent publishing, RBAC, connections, schedules, API triggers, approvals and constraints | https://help.openai.com/en/articles/20001143-chatgpt-workspace-agents-for-enterprise-and-business |
@@ -121,3 +122,7 @@ See `reports/weekly/2026/2026-W40-special-reconciliation-2026-10-04.md`.
 
 ## 2026-10-11 Poppy late reconciliation
 The 2026-10-06 Sierra announcement and current Poppy Draft 0.1 site Updated 2026-10-09 are distinct chronological objects; initial draft publication UNVERIFIED, observed 2026-10-11. Draft discovery/session/authorization and optional operations are not implemented conformance or durable recovery. Both source entries share one initiative lineage, not two independent operational proof sources.
+
+
+## 2026-10-12 Poppy publisher-date forward correction
+Sierra's dated 2026-10-09 first-party post states it is publishing the Poppy draft that day. Record publisher_declared_draft_publication_date=2026-10-09, observed/reconciled 2026-10-12. The 2026-10-11 earlier initial-publication UNVERIFIED observation remains historically preserved; exact first public-access timestamp and prior availability remain UNVERIFIED. This is a date-precision correction, not a stable release, deployed conformance, once-only effect or recovery transition. Sierra and Poppy site share one initiative lineage, zero independent conformance corroboration. See history/2026-10/2026-10-12-poppy-draft-publication-date-reconciliation.md.
