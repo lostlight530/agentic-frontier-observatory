@@ -16,6 +16,12 @@
 | 2026-10-10 | [`2026-10-10.md`](./2026-10-10.md) | [`2026-10-10/`](./2026-10-10/) | W41 OPEN / NO MATERIAL CHANGE |
 | 2026-10-11 | [`2026-10-11.md`](./2026-10-11.md) | [`2026-10-11/`](./2026-10-11/) | W41 FINAL / CLOSED / POPPY DRAFT LATE RECONCILIATION |
 
-Current October count: **11 retained real same-day observation days**, through **2026-10-11**.
+| 2026-10-12 | **NO NATIVE DAILY** | — | W42 Monday past-date gap as of 2026-10-13 early cut; no backfill |
+| 2026-10-13 | [`2026-10-13.md`](./2026-10-13.md) | [`2026-10-13/`](./2026-10-13/) | W42 TUESDAY_LATE_OPEN / NO MATERIAL CHANGE |
+
+Current October count: **12 retained real same-day observation days** (1–11 and 13 October); **2026-10-12 past-date native gap** at this cut.
 
 > October remains OPEN. At the early 2026-10-12 maintenance cut, 2026-10-12 native Daily is NOT_YET_RECORDED, not a missing day. Future 2026-10-13 → 2026-10-31 NOT_DUE. W41 FINAL / CLOSED; W42 awaits a Monday native Daily. The 2026-10-12 Poppy publisher-date correction is later reconciliation, not a backfilled 2026-10-09 Daily.
+
+
+> **2026-10-13 current-cut correction:** Earlier 2026-10-12 early-cut NOT_MISSING wording above remains a dated historical observation. As of 2026-10-13 early cut, 2026-10-12 is past without a native F1–F7 Daily, hence an explicit gap. A real 2026-10-13 Daily exists; 2026-10-14..31 NOT_DUE. W42 is Tuesday late-opened, not retroactively Monday. October Monthly OPEN.
