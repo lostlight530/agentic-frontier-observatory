@@ -1,7 +1,7 @@
 # F1｜History / Theory — 2026-10-14
 
 Observation cutoff 2026-10-14 05:00 Asia/Shanghai
-Evidence class PROJECT_FACT / EXTERNAL_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
+Evidence class FACT / ATTRIBUTED_EXTERNAL_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
 Procedure fresh main, 2026-10-13 Daily, W42, October OPEN checkpoint and bounded first-party publisher/release/status recheck，no external project execution
 
 ## Raw observation
