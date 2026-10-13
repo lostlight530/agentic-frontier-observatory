@@ -5,7 +5,7 @@ Evidence class FACT / ATTRIBUTED_EXTERNAL_CLAIM / OBSERVATORY_ANALYSIS / UNCERTA
 Procedure fresh main, 2026-10-13 Daily, W42, October OPEN checkpoint and bounded first-party publisher/release/status recheck，no external project execution
 
 ## Raw observation
-Poppy spec Draft 0.1 now displays Updated Oct 13，Path to 1.0 displays Updated Oct 12，previous Daily recorded Oct 9，no versioned text diff verified，A2A protocol v1.0.1 and four SDK versions unchanged
+Poppy spec Draft 0.1 now displays Updated Oct 13，Path to 1.0 displays Updated Oct 13 on later same-day review, earlier reported Oct 12 UNVERIFIED，previous Daily recorded Oct 9，no versioned text diff verified，A2A protocol v1.0.1 and four SDK versions unchanged
 
 ## Counterexample and limitations
 Publisher update metadata does not reveal the actual normative text delta，multiple pages of the same publisher are not independent corroboration，a published SDK or draft requirement does not establish accepted cross-provider recovery
