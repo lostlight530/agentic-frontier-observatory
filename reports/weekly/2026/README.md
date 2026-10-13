@@ -14,7 +14,8 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1~H39-5 `REFUTED_FOR_W39`; project/status/use-case evidence did not become independent deployability, portable authority, durable-effect recovery or operational conformance proof. |
 | W40 | 28 Sep–4 Oct | **CLOSED_WITH_GAP / BOUNDED_IMPLEMENTATION_UPDATE** | 9/30 NIST governance change, later MCP/A2A reconciliations and the 10/04 package observation remain bounded; the 2026-09-28 producer-native gap is preserved. Post-hoc Special records 9/28–29 events without reopening W40. |
 
-| W41 | 5–11 Oct | **OPEN — MATERIAL LATE RECONCILIATION 2026-10-07** | 10/06 A2A Python `v1.2.2` is joined by late-reconciled A2A Java `v1.4.0.Final` implementation evidence and NIST DevSecOps Build 3 identity/authorization implementation-use-case planning. H41-1 strengthens in implementation breadth; G-W03 advances in project specificity; no protocol-release, deployed-demonstration, independent-source, conformance or recovery-completion credit. |
+| W41 | 5–11 Oct | **FINAL / CLOSED** | 7/7 real Dailies; canonical 2026-W41.md governs H41 settlement; earlier OPEN index paragraphs remain dated historical checkpoints. |
+| W42 | 12–18 Oct | **OPEN / TUESDAY_LATE_OPEN_WITH_MONDAY_GAP** | First real Daily 13 Oct; 12 Oct native gap as of early 13 Oct; no retroactive Monday H or independent strengthening; 14–18 Oct NOT_DUE. |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
