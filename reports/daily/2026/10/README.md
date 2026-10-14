@@ -19,8 +19,9 @@
 | 2026-10-12 | **NO NATIVE DAILY** | — | W42 Monday past-date gap as of 2026-10-13 early cut; no backfill |
 | 2026-10-13 | [`2026-10-13.md`](./2026-10-13.md) | [`2026-10-13/`](./2026-10-13/) | W42 TUESDAY_LATE_OPEN / NO MATERIAL CHANGE |
 | 2026-10-14 | [`2026-10-14.md`](./2026-10-14.md) | [`2026-10-14/`](./2026-10-14/) | W42 OPEN / POPPY DRAFT UPDATE METADATA |
+| 2026-10-15 | [`2026-10-15.md`](./2026-10-15.md) | [`2026-10-15/`](./2026-10-15/) | W42 OPEN / NO VERIFIED MATURITY CHANGE |
 
-Current October count at 2026-10-14 05:00 Asia/Shanghai: **13 retained real same-day observation days** (1–11, 13–14 October), **2026-10-12 past-date native gap** retained
+Current October count at 2026-10-15 05:00 Asia/Shanghai: **14 retained real same-day observation days** (1–11, 13–15 October), **2026-10-12 past-date native gap** retained
 
 > October remains OPEN. At the early 2026-10-12 maintenance cut, 2026-10-12 native Daily is NOT_YET_RECORDED, not a missing day. Future 2026-10-13 → 2026-10-31 NOT_DUE. W41 FINAL / CLOSED; W42 awaits a Monday native Daily. The 2026-10-12 Poppy publisher-date correction is later reconciliation, not a backfilled 2026-10-09 Daily.
 
@@ -28,3 +29,5 @@ Current October count at 2026-10-14 05:00 Asia/Shanghai: **13 retained real same
 > **2026-10-13 current-cut correction:** Earlier 2026-10-12 early-cut NOT_MISSING wording above remains a dated historical observation. As of 2026-10-13 early cut, 2026-10-12 is past without a native F1–F7 Daily, hence an explicit gap. A real 2026-10-13 Daily exists; 2026-10-14..31 NOT_DUE. W42 is Tuesday late-opened, not retroactively Monday. October Monthly OPEN.
 
 > **2026-10-14 current cut:** Native F1–F7 Daily added，Poppy Draft 0.1 spec page now displays Updated Oct 13 without verified normative diff，W42 OPEN，October Monthly OPEN at prior dated checkpoint，2026-10-12 native gap preserved，2026-10-15..31 NOT_DUE
+
+> **2026-10-15 current cut:** Native F1–F7 Daily added，Poppy Draft 0.1 and NIST current display plus A2A/MCP release metadata rechecked with no verified new operational maturity，W42 OPEN unchanged，October Monthly OPEN，2026-10-12 native gap preserved，2026-10-16..31 NOT_DUE
