@@ -190,3 +190,19 @@ metadata consistency != scientific correctness
 
 This template complements repository-native METHOD, METHODOLOGY, SOP, evidence contracts, and executable checks
 When a repository-specific contract is stricter, the stricter repository-specific rule wins
+
+## Reproduction and artifact handoff / 复验与产物交接
+
+Complete when this record produces a reusable artifact or reports a rerun; otherwise use `NOT_APPLICABLE`. Keep the comparison criterion explicit before interpreting a rerun.
+
+- Object and resolved revision:
+- Archival anchor, when available: software-family concept DOI and exact version DOI recorded separately
+- Input and environment references:
+- Procedure or command actually executed:
+- Comparison criterion and expected observable:
+- Produced artifact references and byte hashes, where applicable:
+- Observed comparison result and unresolved differences:
+
+Source-grounded research artifacts: identify canonical source/version, observation cutoff and the supported bounded interpretation.
+
+Link the supporting record or artifact for any reported rerun. A prepared command or matching metadata alone is not an executed reproduction. Preserve earlier observations when recording a later comparison.
