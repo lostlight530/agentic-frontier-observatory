@@ -112,3 +112,7 @@ Structural similarity between the two observatories supports comparison; it does
 ## License
 
 MIT License
+
+## Archived checkpoint — 2026-10-14
+
+[v2026.10-fourteen-day-evidence-checkpoint](https://github.com/lostlight530/agentic-frontier-observatory/releases/tag/v2026.10-fourteen-day-evidence-checkpoint) is archived as [10.5281/zenodo.23365543](https://doi.org/10.5281/zenodo.23365543). For the software-family concept DOI, earlier versions and exact-checkpoint citation, see [Release and Archival Policy](RELEASE_POLICY.md).
