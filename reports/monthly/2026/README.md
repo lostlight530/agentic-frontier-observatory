@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 2026-08 | CLOSED; post-closure correction recorded 2026-09-01 | 7–31 Aug, 25 real days | F.748.93 approval occurred 29 Aug and was observed after closure. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
-| 2026-10 | OPEN | 14 real Dailies: 1–11, 13–15 Oct; 12 Oct past-date native gap | W40 CLOSED_WITH_GAP; W41 FINAL/CLOSED; W42 TUESDAY_LATE_OPEN with Monday gap; 16–31 Oct NOT_DUE as of 15 Oct 05:00 |
+| 2026-10 | OPEN | 16 real native Dailies: 1–11, 13–17 Oct; 12 Oct native gap | W40 CLOSED_WITH_GAP; W41 FINAL/CLOSED; W42 OPEN with Monday gap; 18–31 NOT_DUE as of 17 Oct 05:03 CST |
 
 > Closed history may receive an explicit correction; it is never silently rewritten.
 
@@ -39,3 +39,8 @@ Twelve native F1–F7 Daily packs are present for 2026-10-01..11 and 2026-10-13.
 
 ## 2026-10-15 current-index checkpoint
 14 native F1–F7 Daily packs exist on the proposed branch for 2026-10-01..11 and 2026-10-13..15，2026-10-12 remains a past-date gap，W42 OPEN，October Monthly OPEN，no independent strengthening or cross-provider recovery proof，this checkpoint becomes merged-main truth only after branch merge
+
+
+## 2026-10-17 current-index checkpoint
+本轮拟交付 2026-10-17 native Daily 后，十月 1–11、13–17 共 16 个真实原生日期，10-12 缺口仍在，W42 H42-1~3 OPEN，October Monthly OPEN，18–31 NOT_DUE
+该检查点在 Draft PR 合并前仅属于提案分支，不冒充已合并 main
