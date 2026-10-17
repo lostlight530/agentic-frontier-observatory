@@ -1,5 +1,7 @@
 # October 2026 Daily Index
 
+**Current native coverage as of 2026-10-18 06:50:25 Asia/Shanghai：17 dates (1–11, 13–18 Oct)，12 Oct gap，19–31 NOT_DUE，W42 FINAL / CLOSED_WITH_GAP，Monthly OPEN**
+
 | Date | Daily | Pack | Weekly context |
 |---|---|---|---|
 | 2026-10-01 | [`2026-10-01.md`](./2026-10-01.md) | [`2026-10-01/`](./2026-10-01/) | W40 OPEN / CROSS_MONTH |
@@ -22,8 +24,9 @@
 | 2026-10-15 | [`2026-10-15.md`](./2026-10-15.md) | [`2026-10-15/`](./2026-10-15/) | W42 OPEN / NO VERIFIED MATURITY CHANGE |
 | 2026-10-16 | [`2026-10-16.md`](./2026-10-16.md) | [`2026-10-16/`](./2026-10-16/) | W42 OPEN / LATE NATIVE RECHECK |
 | 2026-10-17 | [`2026-10-17.md`](./2026-10-17.md) | [`2026-10-17/`](./2026-10-17/) | W42 OPEN / PARTIAL BOUNDED RECHECK |
+| 2026-10-18 | [`2026-10-18.md`](./2026-10-18.md) | [`2026-10-18/`](./2026-10-18/) | W42 FINAL / CLOSED_WITH_GAP / NO VERIFIED NEW MATURITY TRANSITION |
 
-Current October count at 2026-10-17 05:03:09 Asia/Shanghai: **16 real native Daily dates** (1–11, 13–17 October), 2026-10-12 past-date native gap，18–31 NOT_DUE
+Historical 2026-10-17 checkpoint at 05:03:09 Asia/Shanghai: **16 real native Daily dates** (1–11, 13–17 October), 2026-10-12 past-date native gap，18–31 NOT_DUE
 
 > October remains OPEN. At the early 2026-10-12 maintenance cut, 2026-10-12 native Daily is NOT_YET_RECORDED, not a missing day. Future 2026-10-13 → 2026-10-31 NOT_DUE. W41 FINAL / CLOSED; W42 awaits a Monday native Daily. The 2026-10-12 Poppy publisher-date correction is later reconciliation, not a backfilled 2026-10-09 Daily.
 

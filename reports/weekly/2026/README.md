@@ -15,7 +15,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W40 | 28 Sep–4 Oct | **CLOSED_WITH_GAP / BOUNDED_IMPLEMENTATION_UPDATE** | 9/30 NIST governance change, later MCP/A2A reconciliations and the 10/04 package observation remain bounded; the 2026-09-28 producer-native gap is preserved. Post-hoc Special records 9/28–29 events without reopening W40. |
 
 | W41 | 5–11 Oct | **FINAL / CLOSED** | 7/7 real Dailies; canonical 2026-W41.md governs H41 settlement; earlier OPEN index paragraphs remain dated historical checkpoints. |
-| W42 | 12–18 Oct | **OPEN / TUESDAY_LATE_OPEN_WITH_MONDAY_GAP** | First real Daily 13 Oct; 12 Oct native gap as of early 13 Oct; no retroactive Monday H or independent strengthening; 14–18 Oct NOT_DUE. |
+| W42 | 12–18 Oct | **FINAL / CLOSED_WITH_GAP** | Six real native F1–F7 Dailies 13–18 Oct; 12 Oct original gap maintained; H42-1~3 OPEN, no independent conformance/recovery proof |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
