@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 2026-08 | CLOSED; post-closure correction recorded 2026-09-01 | 7–31 Aug, 25 real days | F.748.93 approval occurred 29 Aug and was observed after closure. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
-| 2026-10 | OPEN | 16 real native Dailies: 1–11, 13–17 Oct; 12 Oct native gap | W40 CLOSED_WITH_GAP; W41 FINAL/CLOSED; W42 OPEN with Monday gap; 18–31 NOT_DUE as of 17 Oct 05:03 CST |
+| 2026-10 | OPEN | 17 real native Dailies: 1–11, 13–18 Oct; 12 Oct gap | W40 CLOSED_WITH_GAP; W41 FINAL/CLOSED; W42 FINAL/CLOSED_WITH_GAP with H42-1~3 OPEN; 19–31 NOT_DUE as of 2026-10-18 06:50:25 CST |
 
 > Closed history may receive an explicit correction; it is never silently rewritten.
 
