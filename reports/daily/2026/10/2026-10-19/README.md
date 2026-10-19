@@ -1,0 +1,16 @@
+# F1–F7 native Daily pack — 2026-10-19
+- logical_date: 2026-10-19 Asia/Shanghai
+- observed_at_cutoff: 2026-10-19 05:10:08 Asia/Shanghai
+- status: NATIVE_DAILY_RESEARCH / MATERIAL_DRAFT_VERSIONING_CHANGE / PARTIAL_BOUNDED_COVERAGE
+- integrated: [2026-10-19.md](../2026-10-19.md)
+- [F1 历史理论](./F1-history-theory.md)
+- [F2 模型算法](./F2-models-algorithms.md)
+- [F3 基础设施](./F3-infrastructure.md)
+- [F4 智能体协议运行时](./F4-agentic-systems.md)
+- [F5 评测治理](./F5-evaluation-governance.md)
+- [F6 生态社会](./F6-ecosystem-society.md)
+- [F7 综合判断](./F7-synthesis.md)
+- 7 workstreams are one native research unit
+- W43 OPEN 1/7；W42 FINAL / CLOSED_WITH_GAP；Monthly OPEN
+- 2026-10-12 native gap unchanged, 20–31 NOT_DUE
+- external runtime, TCK and benchmark NOT_EXECUTED

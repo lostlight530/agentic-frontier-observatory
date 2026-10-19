@@ -1,6 +1,6 @@
 # October 2026 Daily Index
 
-**Current native coverage as of 2026-10-18 06:50:25 Asia/Shanghai：17 dates (1–11, 13–18 Oct)，12 Oct gap，19–31 NOT_DUE，W42 FINAL / CLOSED_WITH_GAP，Monthly OPEN**
+**Current native coverage as of 2026-10-19 05:10:08 Asia/Shanghai：18 dates (1–11, 13–19 Oct)，12 Oct gap，20–31 NOT_DUE，W42 FINAL / CLOSED_WITH_GAP，W43 OPEN，Monthly OPEN**
 
 | Date | Daily | Pack | Weekly context |
 |---|---|---|---|
@@ -25,6 +25,7 @@
 | 2026-10-16 | [`2026-10-16.md`](./2026-10-16.md) | [`2026-10-16/`](./2026-10-16/) | W42 OPEN / LATE NATIVE RECHECK |
 | 2026-10-17 | [`2026-10-17.md`](./2026-10-17.md) | [`2026-10-17/`](./2026-10-17/) | W42 OPEN / PARTIAL BOUNDED RECHECK |
 | 2026-10-18 | [`2026-10-18.md`](./2026-10-18.md) | [`2026-10-18/`](./2026-10-18/) | W42 FINAL / CLOSED_WITH_GAP / NO VERIFIED NEW MATURITY TRANSITION |
+| 2026-10-19 | [2026-10-19.md](./2026-10-19.md) | [2026-10-19/](./2026-10-19/) | W43 OPEN / MATERIAL POPPY 0.2 WIP VERSIONING |
 
 Historical 2026-10-17 checkpoint at 05:03:09 Asia/Shanghai: **16 real native Daily dates** (1–11, 13–17 October), 2026-10-12 past-date native gap，18–31 NOT_DUE
 
