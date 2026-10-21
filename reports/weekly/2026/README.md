@@ -16,7 +16,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 
 | W41 | 5–11 Oct | **FINAL / CLOSED** | 7/7 real Dailies; canonical 2026-W41.md governs H41 settlement; earlier OPEN index paragraphs remain dated historical checkpoints. |
 | W42 | 12–18 Oct | **FINAL / CLOSED_WITH_GAP** | Six real native F1–F7 Dailies 13–18 Oct; 12 Oct original gap maintained; H42-1~3 OPEN, no independent conformance/recovery proof |
-| W43 | 19–25 Oct | **OPEN / 3 of 7** | Poppy Draft 0.2 WIP current display unchanged，H43-1~3 OPEN / UNCHANGED，19–21 Oct native Dailies，22–25 NOT_DUE as of 2026-10-21 04:57:30 Asia/Shanghai，canonical W43 prior checkpoint remains 20 Oct |
+| W43 | 19–25 Oct | **OPEN / 4 of 7** | A2A Python SDK v1.2.3 late release reconciliation，H43-1~3 OPEN / UNCHANGED，19–22 Oct native Dailies，23–25 NOT_DUE as of 2026-10-22 05:03:12 Asia/Shanghai |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
