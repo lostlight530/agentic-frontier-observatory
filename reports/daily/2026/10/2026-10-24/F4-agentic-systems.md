@@ -4,7 +4,6 @@
 - logical_date: 2026-10-24 Asia/Shanghai
 - observation_cutoff: 2026-10-24 05:00:32 Asia/Shanghai
 - research_base_main: 4d1e92906970f9e1e6ddea59a8b445af439039ba
-- record_class: NATIVE_DAILY_RESEARCH
 - evidence_scope: Poppy Draft 0.2 文档、changelog 与 manifest，NIST NCCoE SI 项目展示，A2A Python SDK v1.2.3 发行元数据
 - statement_classes: FIRST_PARTY_PROJECT_FACT / ATTRIBUTED_ISSUER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
 - Poppy_0_2_publication_date: UNVERIFIED
