@@ -1,0 +1,21 @@
+# Global native F1–F7 pack — 2026-10-23
+
+- logical_date: 2026-10-23 Asia/Shanghai
+- observation_cutoff: 2026-10-23 06:43:50 Asia/Shanghai
+- base_main: 113b2471a23cee567a53b96f05d9e4f54545cac3
+- delivery: ATOMIC_NATIVE_PACK / SHARED_SURFACES_COORDINATE
+- result: PARTIAL_BOUNDED_COVERAGE / NO_VERIFIED_NEW_LIFECYCLE_TRANSITION
+- [Integrated Daily](../2026-10-23.md)
+- [F1 历史理论](./F1-history-theory.md)
+- [F2 模型算法](./F2-models-algorithms.md)
+- [F3 基础设施实现](./F3-infrastructure.md)
+- [F4 智能体运行时协议](./F4-agentic-systems.md)
+- [F5 评测与治理](./F5-evaluation-governance.md)
+- [F6 生态与社会](./F6-ecosystem-society.md)
+- [F7 综合与判断](./F7-synthesis.md)
+- 1 integrated + 7 workstreams + README = 9 files
+- predecessor: https://github.com/lostlight530/agentic-frontier-observatory/pull/179
+- W43 main OPEN 3/7, Oct22 pending, Oct23 atomic pack not yet indexed
+- October Monthly OPEN, 10-12 historical native gap
+- shared weekly/monthly/index and SOURCE_REGISTRY: NOT_MODIFIED / COORDINATE PR #179
+- runtime/TCK/CI/benchmark: NOT_EXECUTED
