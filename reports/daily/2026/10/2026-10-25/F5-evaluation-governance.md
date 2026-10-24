@@ -5,7 +5,6 @@
 - logical_date: 2026-10-25 Asia/Shanghai
 - observation_cutoff: 2026-10-25 05:04:20 Asia/Shanghai
 - research_base_main: d399cb909bee906bbda4e7e10c4d50893c93af93
-- record_class: NATIVE_DAILY_RESEARCH
 - evidence_scope: Poppy website changelog / 0.2 / 0.3 version surfaces, Poppy GitHub main snapshot changelog / manifest, NIST NCCoE SI, A2A Python SDK release
 - statement_classes: FIRST_PARTY_SURFACE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
 - Poppy_0_2_publisher_declared_publication_date: 2026-10-24
