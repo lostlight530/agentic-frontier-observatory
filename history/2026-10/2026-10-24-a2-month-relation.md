@@ -1,0 +1,273 @@
+# A2 | agentic-frontier-observatory | October 01–24 current-month relation
+
+- Repository: `lostlight530/agentic-frontier-observatory`
+- Exact fresh post-A1 main: `c89248bc6019f658abc2e9dc1e9e2c951f74963d`
+- Merged A1 input: `history/2026-10/2026-10-24-a1-native-evidence-custody.md`
+- Fixed month identity: `2026-10`
+- A2 range: `2026-10-01 -> 2026-10-24`
+- This relation inherits A1 and admits only observed N-day state
+- Native research/execution, maintenance, Periodic Audit and governance remain separate planes
+- October remains OPEN
+
+## A2 evidence invariants
+
+- A1 merge is present on the exact A2 base
+- Current main is authoritative for current path/content
+- Historical task-time evidence is not overwritten
+- No later success rewrites earlier failure/block/unknown
+- No file presence becomes execution proof
+- No merged PR becomes scientific validation proof
+- No repeated source lineage becomes independent verification
+- No Periodic Audit credit is created
+- No natural-month close is performed
+- No governance doctrine is promoted
+
+## MonthStart -> N observation relation ledger
+
+- 2026-10-01 | Daily owner | `reports/daily/2026/10/2026-10-01.md` | A1_INHERITED_RELATION
+- 2026-10-01 | F1-history-theory | `reports/daily/2026/10/2026-10-01/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-01 | F2-models-algorithms | `reports/daily/2026/10/2026-10-01/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-01 | F3-infrastructure | `reports/daily/2026/10/2026-10-01/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-01 | F4-agentic-systems | `reports/daily/2026/10/2026-10-01/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-01 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-01/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-01 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-01/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-01 | F7-synthesis | `reports/daily/2026/10/2026-10-01/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-02 | Daily owner | `reports/daily/2026/10/2026-10-02.md` | A1_INHERITED_RELATION
+- 2026-10-02 | F1-history-theory | `reports/daily/2026/10/2026-10-02/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-02 | F2-models-algorithms | `reports/daily/2026/10/2026-10-02/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-02 | F3-infrastructure | `reports/daily/2026/10/2026-10-02/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-02 | F4-agentic-systems | `reports/daily/2026/10/2026-10-02/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-02 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-02/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-02 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-02/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-02 | F7-synthesis | `reports/daily/2026/10/2026-10-02/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-03 | Daily owner | `reports/daily/2026/10/2026-10-03.md` | A1_INHERITED_RELATION
+- 2026-10-03 | F1-history-theory | `reports/daily/2026/10/2026-10-03/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-03 | F2-models-algorithms | `reports/daily/2026/10/2026-10-03/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-03 | F3-infrastructure | `reports/daily/2026/10/2026-10-03/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-03 | F4-agentic-systems | `reports/daily/2026/10/2026-10-03/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-03 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-03/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-03 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-03/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-03 | F7-synthesis | `reports/daily/2026/10/2026-10-03/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-04 | Daily owner | `reports/daily/2026/10/2026-10-04.md` | A1_INHERITED_RELATION
+- 2026-10-04 | F1-history-theory | `reports/daily/2026/10/2026-10-04/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-04 | F2-models-algorithms | `reports/daily/2026/10/2026-10-04/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-04 | F3-infrastructure | `reports/daily/2026/10/2026-10-04/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-04 | F4-agentic-systems | `reports/daily/2026/10/2026-10-04/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-04 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-04/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-04 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-04/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-04 | F7-synthesis | `reports/daily/2026/10/2026-10-04/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-05 | Daily owner | `reports/daily/2026/10/2026-10-05.md` | A1_INHERITED_RELATION
+- 2026-10-05 | F1-history-theory | `reports/daily/2026/10/2026-10-05/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-05 | F2-models-algorithms | `reports/daily/2026/10/2026-10-05/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-05 | F3-infrastructure | `reports/daily/2026/10/2026-10-05/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-05 | F4-agentic-systems | `reports/daily/2026/10/2026-10-05/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-05 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-05/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-05 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-05/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-05 | F7-synthesis | `reports/daily/2026/10/2026-10-05/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-06 | Daily owner | `reports/daily/2026/10/2026-10-06.md` | A1_INHERITED_RELATION
+- 2026-10-06 | F1-history-theory | `reports/daily/2026/10/2026-10-06/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-06 | F2-models-algorithms | `reports/daily/2026/10/2026-10-06/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-06 | F3-infrastructure | `reports/daily/2026/10/2026-10-06/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-06 | F4-agentic-systems | `reports/daily/2026/10/2026-10-06/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-06 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-06/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-06 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-06/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-06 | F7-synthesis | `reports/daily/2026/10/2026-10-06/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-07 | Daily owner | `reports/daily/2026/10/2026-10-07.md` | A1_INHERITED_RELATION
+- 2026-10-07 | F1-history-theory | `reports/daily/2026/10/2026-10-07/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-07 | F2-models-algorithms | `reports/daily/2026/10/2026-10-07/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-07 | F3-infrastructure | `reports/daily/2026/10/2026-10-07/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-07 | F4-agentic-systems | `reports/daily/2026/10/2026-10-07/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-07 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-07/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-07 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-07/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-07 | F7-synthesis | `reports/daily/2026/10/2026-10-07/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-08 | Daily owner | `reports/daily/2026/10/2026-10-08.md` | A1_INHERITED_RELATION
+- 2026-10-08 | F1-history-theory | `reports/daily/2026/10/2026-10-08/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-08 | F2-models-algorithms | `reports/daily/2026/10/2026-10-08/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-08 | F3-infrastructure | `reports/daily/2026/10/2026-10-08/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-08 | F4-agentic-systems | `reports/daily/2026/10/2026-10-08/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-08 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-08/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-08 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-08/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-08 | F7-synthesis | `reports/daily/2026/10/2026-10-08/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-09 | Daily owner | `reports/daily/2026/10/2026-10-09.md` | A1_INHERITED_RELATION
+- 2026-10-09 | F1-history-theory | `reports/daily/2026/10/2026-10-09/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-09 | F2-models-algorithms | `reports/daily/2026/10/2026-10-09/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-09 | F3-infrastructure | `reports/daily/2026/10/2026-10-09/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-09 | F4-agentic-systems | `reports/daily/2026/10/2026-10-09/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-09 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-09/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-09 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-09/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-09 | F7-synthesis | `reports/daily/2026/10/2026-10-09/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-10 | Daily owner | `reports/daily/2026/10/2026-10-10.md` | A1_INHERITED_RELATION
+- 2026-10-10 | F1-history-theory | `reports/daily/2026/10/2026-10-10/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-10 | F2-models-algorithms | `reports/daily/2026/10/2026-10-10/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-10 | F3-infrastructure | `reports/daily/2026/10/2026-10-10/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-10 | F4-agentic-systems | `reports/daily/2026/10/2026-10-10/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-10 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-10/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-10 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-10/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-10 | F7-synthesis | `reports/daily/2026/10/2026-10-10/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-11 | Daily owner | `reports/daily/2026/10/2026-10-11.md` | A1_INHERITED_RELATION
+- 2026-10-11 | F1-history-theory | `reports/daily/2026/10/2026-10-11/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-11 | F2-models-algorithms | `reports/daily/2026/10/2026-10-11/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-11 | F3-infrastructure | `reports/daily/2026/10/2026-10-11/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-11 | F4-agentic-systems | `reports/daily/2026/10/2026-10-11/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-11 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-11/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-11 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-11/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-11 | F7-synthesis | `reports/daily/2026/10/2026-10-11/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-12 | Daily owner | `reports/daily/2026/10/2026-10-12.md` | A1_INHERITED_RELATION
+- 2026-10-12 | F1-history-theory | `reports/daily/2026/10/2026-10-12/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-12 | F2-models-algorithms | `reports/daily/2026/10/2026-10-12/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-12 | F3-infrastructure | `reports/daily/2026/10/2026-10-12/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-12 | F4-agentic-systems | `reports/daily/2026/10/2026-10-12/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-12 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-12/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-12 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-12/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-12 | F7-synthesis | `reports/daily/2026/10/2026-10-12/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-13 | Daily owner | `reports/daily/2026/10/2026-10-13.md` | A1_INHERITED_RELATION
+- 2026-10-13 | F1-history-theory | `reports/daily/2026/10/2026-10-13/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-13 | F2-models-algorithms | `reports/daily/2026/10/2026-10-13/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-13 | F3-infrastructure | `reports/daily/2026/10/2026-10-13/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-13 | F4-agentic-systems | `reports/daily/2026/10/2026-10-13/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-13 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-13/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-13 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-13/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-13 | F7-synthesis | `reports/daily/2026/10/2026-10-13/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-14 | Daily owner | `reports/daily/2026/10/2026-10-14.md` | A1_INHERITED_RELATION
+- 2026-10-14 | F1-history-theory | `reports/daily/2026/10/2026-10-14/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-14 | F2-models-algorithms | `reports/daily/2026/10/2026-10-14/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-14 | F3-infrastructure | `reports/daily/2026/10/2026-10-14/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-14 | F4-agentic-systems | `reports/daily/2026/10/2026-10-14/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-14 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-14/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-14 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-14/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-14 | F7-synthesis | `reports/daily/2026/10/2026-10-14/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-15 | Daily owner | `reports/daily/2026/10/2026-10-15.md` | A1_INHERITED_RELATION
+- 2026-10-15 | F1-history-theory | `reports/daily/2026/10/2026-10-15/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-15 | F2-models-algorithms | `reports/daily/2026/10/2026-10-15/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-15 | F3-infrastructure | `reports/daily/2026/10/2026-10-15/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-15 | F4-agentic-systems | `reports/daily/2026/10/2026-10-15/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-15 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-15/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-15 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-15/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-15 | F7-synthesis | `reports/daily/2026/10/2026-10-15/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-16 | Daily owner | `reports/daily/2026/10/2026-10-16.md` | A1_INHERITED_RELATION
+- 2026-10-16 | F1-history-theory | `reports/daily/2026/10/2026-10-16/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-16 | F2-models-algorithms | `reports/daily/2026/10/2026-10-16/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-16 | F3-infrastructure | `reports/daily/2026/10/2026-10-16/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-16 | F4-agentic-systems | `reports/daily/2026/10/2026-10-16/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-16 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-16/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-16 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-16/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-16 | F7-synthesis | `reports/daily/2026/10/2026-10-16/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-17 | Daily owner | `reports/daily/2026/10/2026-10-17.md` | A1_INHERITED_RELATION
+- 2026-10-17 | F1-history-theory | `reports/daily/2026/10/2026-10-17/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-17 | F2-models-algorithms | `reports/daily/2026/10/2026-10-17/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-17 | F3-infrastructure | `reports/daily/2026/10/2026-10-17/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-17 | F4-agentic-systems | `reports/daily/2026/10/2026-10-17/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-17 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-17/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-17 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-17/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-17 | F7-synthesis | `reports/daily/2026/10/2026-10-17/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-18 | Daily owner | `reports/daily/2026/10/2026-10-18.md` | A1_INHERITED_RELATION
+- 2026-10-18 | F1-history-theory | `reports/daily/2026/10/2026-10-18/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-18 | F2-models-algorithms | `reports/daily/2026/10/2026-10-18/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-18 | F3-infrastructure | `reports/daily/2026/10/2026-10-18/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-18 | F4-agentic-systems | `reports/daily/2026/10/2026-10-18/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-18 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-18/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-18 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-18/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-18 | F7-synthesis | `reports/daily/2026/10/2026-10-18/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-19 | Daily owner | `reports/daily/2026/10/2026-10-19.md` | A1_INHERITED_RELATION
+- 2026-10-19 | F1-history-theory | `reports/daily/2026/10/2026-10-19/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-19 | F2-models-algorithms | `reports/daily/2026/10/2026-10-19/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-19 | F3-infrastructure | `reports/daily/2026/10/2026-10-19/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-19 | F4-agentic-systems | `reports/daily/2026/10/2026-10-19/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-19 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-19/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-19 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-19/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-19 | F7-synthesis | `reports/daily/2026/10/2026-10-19/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-20 | Daily owner | `reports/daily/2026/10/2026-10-20.md` | A1_INHERITED_RELATION
+- 2026-10-20 | F1-history-theory | `reports/daily/2026/10/2026-10-20/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-20 | F2-models-algorithms | `reports/daily/2026/10/2026-10-20/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-20 | F3-infrastructure | `reports/daily/2026/10/2026-10-20/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-20 | F4-agentic-systems | `reports/daily/2026/10/2026-10-20/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-20 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-20/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-20 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-20/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-20 | F7-synthesis | `reports/daily/2026/10/2026-10-20/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-21 | Daily owner | `reports/daily/2026/10/2026-10-21.md` | A1_INHERITED_RELATION
+- 2026-10-21 | F1-history-theory | `reports/daily/2026/10/2026-10-21/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-21 | F2-models-algorithms | `reports/daily/2026/10/2026-10-21/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-21 | F3-infrastructure | `reports/daily/2026/10/2026-10-21/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-21 | F4-agentic-systems | `reports/daily/2026/10/2026-10-21/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-21 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-21/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-21 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-21/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-21 | F7-synthesis | `reports/daily/2026/10/2026-10-21/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-22 | Daily owner | `reports/daily/2026/10/2026-10-22.md` | A1_INHERITED_RELATION
+- 2026-10-22 | F1-history-theory | `reports/daily/2026/10/2026-10-22/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-22 | F2-models-algorithms | `reports/daily/2026/10/2026-10-22/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-22 | F3-infrastructure | `reports/daily/2026/10/2026-10-22/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-22 | F4-agentic-systems | `reports/daily/2026/10/2026-10-22/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-22 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-22/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-22 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-22/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-22 | F7-synthesis | `reports/daily/2026/10/2026-10-22/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-23 | Daily owner | `reports/daily/2026/10/2026-10-23.md` | A1_INHERITED_RELATION
+- 2026-10-23 | F1-history-theory | `reports/daily/2026/10/2026-10-23/F1-history-theory.md` | A1_INHERITED_RELATION
+- 2026-10-23 | F2-models-algorithms | `reports/daily/2026/10/2026-10-23/F2-models-algorithms.md` | A1_INHERITED_RELATION
+- 2026-10-23 | F3-infrastructure | `reports/daily/2026/10/2026-10-23/F3-infrastructure.md` | A1_INHERITED_RELATION
+- 2026-10-23 | F4-agentic-systems | `reports/daily/2026/10/2026-10-23/F4-agentic-systems.md` | A1_INHERITED_RELATION
+- 2026-10-23 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-23/F5-evaluation-governance.md` | A1_INHERITED_RELATION
+- 2026-10-23 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-23/F6-ecosystem-society.md` | A1_INHERITED_RELATION
+- 2026-10-23 | F7-synthesis | `reports/daily/2026/10/2026-10-23/F7-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-24 | Daily owner | `reports/daily/2026/10/2026-10-24.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | F1-history-theory | `reports/daily/2026/10/2026-10-24/F1-history-theory.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | F2-models-algorithms | `reports/daily/2026/10/2026-10-24/F2-models-algorithms.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | F3-infrastructure | `reports/daily/2026/10/2026-10-24/F3-infrastructure.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | F4-agentic-systems | `reports/daily/2026/10/2026-10-24/F4-agentic-systems.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-24/F5-evaluation-governance.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-24/F6-ecosystem-society.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | F7-synthesis | `reports/daily/2026/10/2026-10-24/F7-synthesis.md` | N_DAY_NATIVE_ADMITTED
+
+## 2026-10-24 N-day evidence delta
+
+- PR #183 merged the bounded 2026-10-24 Global native Daily
+- The N-day delivery includes the Daily owner, F1-F7 component records, Daily index, W43 owner and October Monthly owner updates
+- The native title explicitly keeps W43 and October OPEN
+- A Daily observation does not by itself trigger a Special Event
+- No separate Special artifact is admitted by this A2 without an explicit qualifying native Special deliverable
+- Current observation and external claims remain source-bounded; no runtime/conformance claim is inferred
+
+## Repository-specific interpretation boundary
+
+- Capability != Deployability
+- Protocol Publication != Operational Maturity
+- Discovery != Authorization != Invocation
+- Identity != Credential != Authority
+- Admission != Continuous Authorization
+- Runtime Stop != Rollback
+- repeated source lineage != independent evidence
+
+## Weekly / Monthly / Special / Open Research relation
+
+- W40 historical relation preserved
+- W41 historical relation preserved
+- W42 historical relation preserved
+- W43 remains current/open unless native settlement evidence says otherwise
+- October Monthly remains OPEN
+- Special work remains trigger-only
+- Stage work remains state-triggered
+- Open Research is checked for drift but is not native authority
+- Publication != validation
+- Citation != reproduction
+- External classifier != repository identity
+- No earlier Daily/Stage body is rewritten by this A2
+- No closed-unmerged history is promoted to success
+- No final month seal is created
+
+## Validation checklist
+
+- [x] Exact post-A1 main recorded
+- [x] Merged A1 file present on base
+- [x] MonthStart -> N relation compiled
+- [x] N-day facts admitted only when actually observed
+- [x] Historical negative states preserved
+- [x] No fake native unit created
+- [x] No fake Stage/Special created
+- [x] No independent-source inflation
+- [x] No runtime/conformance inference from document presence
+- [x] October remains OPEN
+- [x] Only this dated A2 relation file is changed
+- [x] Final fresh refresh required after merge
+
+## Result
+
+`A2_MONTH_VERSION_2026-10 / N_DAY_ADMITTED_AS_OBSERVED / HISTORY_PRESERVED / MONTH_OPEN / READY_FOR_A2_MERGE`
