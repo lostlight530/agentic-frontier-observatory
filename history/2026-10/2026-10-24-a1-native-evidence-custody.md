@@ -1,0 +1,267 @@
+# A1 | agentic-frontier-observatory | October 01–23 full-coverage custody
+
+- Repository: `lostlight530/agentic-frontier-observatory`
+- Fresh current main at A1 start: `a725b7933d52273a572ac9d061771066e9a7d69d`
+- Logical maintenance date: `2026-10-24`
+- A1 cutoff: `2026-10-01 -> 2026-10-23`
+- N-day boundary: `2026-10-24`
+- Current main may contain N-day native/non-Stage facts; A1 does not consume them
+- Prior 2026-10-23 A2 relation remains the inherited current-month relation for the cutoff
+- Correct native/Stage/observation artifacts remain unchanged; this pass records coverage and decisions
+- Historical task-time state is preserved; later delivery does not create earlier availability
+
+## Evidence discipline
+
+- Repository truth is read from current merged main
+- History != Current State
+- Current Path != Historical Execution
+- Later Success != Earlier Success
+- Later Delivery != Earlier Availability
+- Execution != Correctness
+- File Presence != Observation Validity
+- Repetition != Independence
+- Unknown remains Unknown
+- No research, runtime, Stage, Special, Weekly, Monthly, or conformance credit is manufactured by this A1
+
+## MonthStart -> N-1 native observation coverage ledger
+
+- 2026-10-01 | Daily owner | `reports/daily/2026/10/2026-10-01.md` | REVIEWED / preserve task-time observation
+- 2026-10-01 | F1-history-theory | `reports/daily/2026/10/2026-10-01/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | F2-models-algorithms | `reports/daily/2026/10/2026-10-01/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | F3-infrastructure | `reports/daily/2026/10/2026-10-01/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | F4-agentic-systems | `reports/daily/2026/10/2026-10-01/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-01/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-01/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | F7-synthesis | `reports/daily/2026/10/2026-10-01/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | Daily owner | `reports/daily/2026/10/2026-10-02.md` | REVIEWED / preserve task-time observation
+- 2026-10-02 | F1-history-theory | `reports/daily/2026/10/2026-10-02/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | F2-models-algorithms | `reports/daily/2026/10/2026-10-02/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | F3-infrastructure | `reports/daily/2026/10/2026-10-02/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | F4-agentic-systems | `reports/daily/2026/10/2026-10-02/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-02/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-02/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | F7-synthesis | `reports/daily/2026/10/2026-10-02/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | Daily owner | `reports/daily/2026/10/2026-10-03.md` | REVIEWED / preserve task-time observation
+- 2026-10-03 | F1-history-theory | `reports/daily/2026/10/2026-10-03/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | F2-models-algorithms | `reports/daily/2026/10/2026-10-03/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | F3-infrastructure | `reports/daily/2026/10/2026-10-03/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | F4-agentic-systems | `reports/daily/2026/10/2026-10-03/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-03/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-03/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | F7-synthesis | `reports/daily/2026/10/2026-10-03/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | Daily owner | `reports/daily/2026/10/2026-10-04.md` | REVIEWED / preserve task-time observation
+- 2026-10-04 | F1-history-theory | `reports/daily/2026/10/2026-10-04/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | F2-models-algorithms | `reports/daily/2026/10/2026-10-04/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | F3-infrastructure | `reports/daily/2026/10/2026-10-04/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | F4-agentic-systems | `reports/daily/2026/10/2026-10-04/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-04/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-04/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | F7-synthesis | `reports/daily/2026/10/2026-10-04/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | Daily owner | `reports/daily/2026/10/2026-10-05.md` | REVIEWED / preserve task-time observation
+- 2026-10-05 | F1-history-theory | `reports/daily/2026/10/2026-10-05/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | F2-models-algorithms | `reports/daily/2026/10/2026-10-05/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | F3-infrastructure | `reports/daily/2026/10/2026-10-05/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | F4-agentic-systems | `reports/daily/2026/10/2026-10-05/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-05/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-05/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | F7-synthesis | `reports/daily/2026/10/2026-10-05/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | Daily owner | `reports/daily/2026/10/2026-10-06.md` | REVIEWED / preserve task-time observation
+- 2026-10-06 | F1-history-theory | `reports/daily/2026/10/2026-10-06/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | F2-models-algorithms | `reports/daily/2026/10/2026-10-06/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | F3-infrastructure | `reports/daily/2026/10/2026-10-06/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | F4-agentic-systems | `reports/daily/2026/10/2026-10-06/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-06/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-06/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | F7-synthesis | `reports/daily/2026/10/2026-10-06/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | Daily owner | `reports/daily/2026/10/2026-10-07.md` | REVIEWED / preserve task-time observation
+- 2026-10-07 | F1-history-theory | `reports/daily/2026/10/2026-10-07/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | F2-models-algorithms | `reports/daily/2026/10/2026-10-07/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | F3-infrastructure | `reports/daily/2026/10/2026-10-07/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | F4-agentic-systems | `reports/daily/2026/10/2026-10-07/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-07/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-07/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | F7-synthesis | `reports/daily/2026/10/2026-10-07/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | Daily owner | `reports/daily/2026/10/2026-10-08.md` | REVIEWED / preserve task-time observation
+- 2026-10-08 | F1-history-theory | `reports/daily/2026/10/2026-10-08/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | F2-models-algorithms | `reports/daily/2026/10/2026-10-08/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | F3-infrastructure | `reports/daily/2026/10/2026-10-08/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | F4-agentic-systems | `reports/daily/2026/10/2026-10-08/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-08/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-08/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | F7-synthesis | `reports/daily/2026/10/2026-10-08/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | Daily owner | `reports/daily/2026/10/2026-10-09.md` | REVIEWED / preserve task-time observation
+- 2026-10-09 | F1-history-theory | `reports/daily/2026/10/2026-10-09/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | F2-models-algorithms | `reports/daily/2026/10/2026-10-09/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | F3-infrastructure | `reports/daily/2026/10/2026-10-09/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | F4-agentic-systems | `reports/daily/2026/10/2026-10-09/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-09/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-09/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | F7-synthesis | `reports/daily/2026/10/2026-10-09/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | Daily owner | `reports/daily/2026/10/2026-10-10.md` | REVIEWED / preserve task-time observation
+- 2026-10-10 | F1-history-theory | `reports/daily/2026/10/2026-10-10/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | F2-models-algorithms | `reports/daily/2026/10/2026-10-10/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | F3-infrastructure | `reports/daily/2026/10/2026-10-10/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | F4-agentic-systems | `reports/daily/2026/10/2026-10-10/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-10/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-10/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | F7-synthesis | `reports/daily/2026/10/2026-10-10/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | Daily owner | `reports/daily/2026/10/2026-10-11.md` | REVIEWED / preserve task-time observation
+- 2026-10-11 | F1-history-theory | `reports/daily/2026/10/2026-10-11/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | F2-models-algorithms | `reports/daily/2026/10/2026-10-11/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | F3-infrastructure | `reports/daily/2026/10/2026-10-11/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | F4-agentic-systems | `reports/daily/2026/10/2026-10-11/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-11/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-11/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | F7-synthesis | `reports/daily/2026/10/2026-10-11/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | Daily owner | `reports/daily/2026/10/2026-10-12.md` | REVIEWED / preserve task-time observation
+- 2026-10-12 | F1-history-theory | `reports/daily/2026/10/2026-10-12/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | F2-models-algorithms | `reports/daily/2026/10/2026-10-12/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | F3-infrastructure | `reports/daily/2026/10/2026-10-12/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | F4-agentic-systems | `reports/daily/2026/10/2026-10-12/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-12/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-12/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | F7-synthesis | `reports/daily/2026/10/2026-10-12/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | Daily owner | `reports/daily/2026/10/2026-10-13.md` | REVIEWED / preserve task-time observation
+- 2026-10-13 | F1-history-theory | `reports/daily/2026/10/2026-10-13/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | F2-models-algorithms | `reports/daily/2026/10/2026-10-13/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | F3-infrastructure | `reports/daily/2026/10/2026-10-13/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | F4-agentic-systems | `reports/daily/2026/10/2026-10-13/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-13/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-13/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | F7-synthesis | `reports/daily/2026/10/2026-10-13/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | Daily owner | `reports/daily/2026/10/2026-10-14.md` | REVIEWED / preserve task-time observation
+- 2026-10-14 | F1-history-theory | `reports/daily/2026/10/2026-10-14/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | F2-models-algorithms | `reports/daily/2026/10/2026-10-14/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | F3-infrastructure | `reports/daily/2026/10/2026-10-14/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | F4-agentic-systems | `reports/daily/2026/10/2026-10-14/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-14/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-14/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | F7-synthesis | `reports/daily/2026/10/2026-10-14/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | Daily owner | `reports/daily/2026/10/2026-10-15.md` | REVIEWED / preserve task-time observation
+- 2026-10-15 | F1-history-theory | `reports/daily/2026/10/2026-10-15/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | F2-models-algorithms | `reports/daily/2026/10/2026-10-15/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | F3-infrastructure | `reports/daily/2026/10/2026-10-15/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | F4-agentic-systems | `reports/daily/2026/10/2026-10-15/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-15/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-15/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | F7-synthesis | `reports/daily/2026/10/2026-10-15/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | Daily owner | `reports/daily/2026/10/2026-10-16.md` | REVIEWED / preserve task-time observation
+- 2026-10-16 | F1-history-theory | `reports/daily/2026/10/2026-10-16/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | F2-models-algorithms | `reports/daily/2026/10/2026-10-16/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | F3-infrastructure | `reports/daily/2026/10/2026-10-16/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | F4-agentic-systems | `reports/daily/2026/10/2026-10-16/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-16/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-16/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | F7-synthesis | `reports/daily/2026/10/2026-10-16/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | Daily owner | `reports/daily/2026/10/2026-10-17.md` | REVIEWED / preserve task-time observation
+- 2026-10-17 | F1-history-theory | `reports/daily/2026/10/2026-10-17/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | F2-models-algorithms | `reports/daily/2026/10/2026-10-17/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | F3-infrastructure | `reports/daily/2026/10/2026-10-17/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | F4-agentic-systems | `reports/daily/2026/10/2026-10-17/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-17/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-17/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | F7-synthesis | `reports/daily/2026/10/2026-10-17/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | Daily owner | `reports/daily/2026/10/2026-10-18.md` | REVIEWED / preserve task-time observation
+- 2026-10-18 | F1-history-theory | `reports/daily/2026/10/2026-10-18/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | F2-models-algorithms | `reports/daily/2026/10/2026-10-18/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | F3-infrastructure | `reports/daily/2026/10/2026-10-18/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | F4-agentic-systems | `reports/daily/2026/10/2026-10-18/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-18/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-18/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | F7-synthesis | `reports/daily/2026/10/2026-10-18/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | Daily owner | `reports/daily/2026/10/2026-10-19.md` | REVIEWED / preserve task-time observation
+- 2026-10-19 | F1-history-theory | `reports/daily/2026/10/2026-10-19/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | F2-models-algorithms | `reports/daily/2026/10/2026-10-19/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | F3-infrastructure | `reports/daily/2026/10/2026-10-19/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | F4-agentic-systems | `reports/daily/2026/10/2026-10-19/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-19/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-19/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | F7-synthesis | `reports/daily/2026/10/2026-10-19/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | Daily owner | `reports/daily/2026/10/2026-10-20.md` | REVIEWED / preserve task-time observation
+- 2026-10-20 | F1-history-theory | `reports/daily/2026/10/2026-10-20/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | F2-models-algorithms | `reports/daily/2026/10/2026-10-20/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | F3-infrastructure | `reports/daily/2026/10/2026-10-20/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | F4-agentic-systems | `reports/daily/2026/10/2026-10-20/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-20/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-20/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | F7-synthesis | `reports/daily/2026/10/2026-10-20/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | Daily owner | `reports/daily/2026/10/2026-10-21.md` | REVIEWED / preserve task-time observation
+- 2026-10-21 | F1-history-theory | `reports/daily/2026/10/2026-10-21/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | F2-models-algorithms | `reports/daily/2026/10/2026-10-21/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | F3-infrastructure | `reports/daily/2026/10/2026-10-21/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | F4-agentic-systems | `reports/daily/2026/10/2026-10-21/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-21/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-21/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | F7-synthesis | `reports/daily/2026/10/2026-10-21/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | Daily owner | `reports/daily/2026/10/2026-10-22.md` | REVIEWED / preserve task-time observation
+- 2026-10-22 | F1-history-theory | `reports/daily/2026/10/2026-10-22/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | F2-models-algorithms | `reports/daily/2026/10/2026-10-22/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | F3-infrastructure | `reports/daily/2026/10/2026-10-22/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | F4-agentic-systems | `reports/daily/2026/10/2026-10-22/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-22/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-22/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | F7-synthesis | `reports/daily/2026/10/2026-10-22/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | Daily owner | `reports/daily/2026/10/2026-10-23.md` | REVIEWED / preserve task-time observation
+- 2026-10-23 | F1-history-theory | `reports/daily/2026/10/2026-10-23/F1-history-theory.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | F2-models-algorithms | `reports/daily/2026/10/2026-10-23/F2-models-algorithms.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | F3-infrastructure | `reports/daily/2026/10/2026-10-23/F3-infrastructure.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | F4-agentic-systems | `reports/daily/2026/10/2026-10-23/F4-agentic-systems.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | F5-evaluation-governance | `reports/daily/2026/10/2026-10-23/F5-evaluation-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | F6-ecosystem-society | `reports/daily/2026/10/2026-10-23/F6-ecosystem-society.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | F7-synthesis | `reports/daily/2026/10/2026-10-23/F7-synthesis.md` | REVIEWED / preserve bounded native component evidence
+
+## Cross-period owner and due-state review
+
+- 2026-W40 relation preserved as historical weekly evidence
+- 2026-W41 relation preserved as historical weekly evidence
+- 2026-W42 relation preserved as historical weekly evidence
+- 2026-W43 is evaluated only through the 2026-10-23 cutoff and remains open until its native settlement condition is met
+- October Monthly remains OPEN before natural-month closure
+- Special work is triggered only by a qualifying material event
+- Post-hoc Special reconciliation remains distinct from original Daily observation
+- Open Research / publication metadata remains downstream of native repository truth
+- No final natural-month seal is created by A1
+- No Periodic Audit credit is created by A1
+
+## Repository-specific scientific boundary
+
+- Capability != Deployability
+- Protocol Publication != Operational Maturity
+- Discovery != Authorization != Invocation
+- Identity != Credential != Authority
+- Admission != Continuous Authorization
+- Runtime Stop != Rollback
+- same-source recheck does not create independent evidence
+- Current main already contains the bounded 2026-10-24 F1-F7 native observation; it is visible as N-day boundary context and NOT_CONSUMED_BY_A1
+
+## A1 decision summary
+
+- Reviewed scope is complete for the repository-specific MonthStart -> N-1 denominator represented by the existing owner and prior A2 mapping
+- No correct historical artifact is mechanically rewritten
+- Existing corrections remain forward corrections; their predecessor wording stays in Git history
+- Closed-unmerged history, when present, remains provenance rather than success
+- Late delivery is related prospectively rather than backdated
+- No new independent source is credited from repeated use of one lineage
+- No external recertification is claimed by this maintenance pass
+- No full runtime/conformance reproduction is claimed by this maintenance pass
+- N-day facts are excluded from A1 consumption
+- Natural month remains OPEN
+
+## Validation checklist
+
+- [x] Fresh main SHA recorded
+- [x] Open PR overlap checked at preflight
+- [x] A1 cutoff enforced
+- [x] N-day boundary explicit
+- [x] Historical negative states preserved
+- [x] Correct source artifacts unchanged
+- [x] Derived maintenance record kept separate from native producer identity
+- [x] No fake execution
+- [x] No fake scientific validation
+- [x] No fake Stage / Special
+- [x] No fake month close
+- [x] Only this dated A1 custody file is changed
+
+## Result
+
+`A1_FULL_COVERAGE_REVIEWED / N_MINUS_1_CUTOFF_ENFORCED / HISTORY_PRESERVED / MONTH_OPEN / READY_FOR_A1_MERGE`
