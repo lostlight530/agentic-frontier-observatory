@@ -1,0 +1,366 @@
+# A2 | agentic-frontier-observatory | 2026-10 current hypothesis and native evidence relation through Oct25
+
+- Exact fresh post-ten-A1 main: `f48366469b75b6375e9e4c5bbfa409ccafd7bd43`
+- Own merged A1: `history/2026-10/2026-10-25-a1-native-evidence-custody.md` @ blob `ef681d564765b5f8522bb91d233a4ff5685d216f`
+- Prior merged Oct24 A2: `d399cb909bee906bbda4e7e10c4d50893c93af93`
+- MONTH_VERSION: 2026-10; current inclusive range 2026-10-01…2026-10-25
+- Original native producer: Web GPT. Independent GPT only updates current-month evidence relationship.
+- Daily slot denominator: 25 dates × 9 objects = 225; exact path missing 0.
+- Real original Native Daily date denominator through Oct25: 24/25, with Oct12 1 BACKFILL_GAP_REGISTER zero-credit date.
+- Current W43 Sunday native settlement: `FINAL / CLOSED 7/7`; H43 hypotheses may simultaneously remain OPEN.
+- Current monthly owner: `reports/monthly/2026/2026-10.md` @ `a84d302932e5e5cc519a26dbbff4be07ba1871e4`, October `OPEN`.
+- Current weekly owner: `reports/weekly/2026/2026-W43.md` @ `e41c5932fbdacb46bcee911689497f11f661274b`.
+- Exact source blob rows 272; changed paths since last A2 16.
+
+## Current-source and Native Sunday evidence interpretation
+- Current Global Sunday native pack #186 yields 1 integrated + F1–F7 + README, true W43 7/7 native days 10-19..25; #187 is a later first-party source maturity calibration, not extra Daily.
+- W43 H43-1 remains OPEN / SOURCE_CONFLICT because publisher Poppy website declares 0.2 Published and current GitHub source snapshot still says 0.2 Draft; exact synchronization/deployment time UNKNOWN.
+- W43 H43-2~3 remain OPEN/UNCHANGED; current NIST comments/SDK data do not prove adoption, real authorization or cross-vendor conformance.
+- The 2026-10-25 Poppy website observation is attributed issuer status, not an exact confirmed GitHub release/deployment timestamp.
+- Additional model, chips, safety, industry and society claims outside F1–F7 narrow source scope were NOT_ASSESSED.
+- Existing October 12 integrated/worksream/README files describe retrospective missing-execution registers only; path existing does not create original Native credit.
+- October 10-26..31 NOT_DUE. Monthly OPEN at current cut, cannot naturally seal early.
+- D7/D10/D14/D30 Periodic Audits remain independent and are NOT credited by this current month rollup.
+- A1 MonthStart→Oct24 sealed after merge; A2 inherits it, then adds actual 25th Native pack and the exact W43 Sunday settlement.
+- W43 settles real coverage only, not truth of all three hypotheses or runtime reproducibility.
+
+## All dates — integrated, workstream and inventory relationship
+- 2026-10-01 | integrated `2df8aebe6651`, 7 workstreams [a9b5d9c4,1e715123,fd518bca,fb2a89b6,cadaff09,d90a4cc2,009707d7], inventory `20d65af060d7` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-02 | integrated `02610260d0ff`, 7 workstreams [3895806b,97fd4404,a8daa54c,857f4be0,10348747,19eab630,e0a3919d], inventory `d47baa0f15b3` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-03 | integrated `68284b25f2ec`, 7 workstreams [12c56601,84e237ad,80b11d5f,ac962b82,cf6bc447,02f73c6c,668531b0], inventory `68a4b69ff052` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-04 | integrated `1c56aa8fed0b`, 7 workstreams [a597215d,686aa69e,1f7261c2,abd820b0,fff02524,0d79234c,118faa85], inventory `5e9d9c48b8c1` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-05 | integrated `4fcd6bf640ea`, 7 workstreams [fe5faed9,d8332828,5602e3c8,b8cc81b9,9b928e1d,b4c79620,13eb51f3], inventory `496f8669dba9` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-06 | integrated `a15a6e63cf05`, 7 workstreams [5e538e01,ee83ec42,40c6f502,44eea7fa,80b8b559,e8c1b911,4908db58], inventory `44b1d12ce2d2` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-07 | integrated `71a2f3b54855`, 7 workstreams [582cd8ee,5d76101c,40f0f5b0,ad90b76a,278a8572,439961b4,667acfd0], inventory `9331121d90fe` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-08 | integrated `f553bb891ca8`, 7 workstreams [f1b1c018,70f9b9dd,5e900bf1,8abdf8d8,00e99371,413b4908,41c1ebfa], inventory `cd2963d39fca` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-09 | integrated `db6380342846`, 7 workstreams [3db3d757,a22b85ce,46755e32,cbeba7ca,687b970e,8fa63b9d,05a6a498], inventory `b59d4d2b289f` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-10 | integrated `1a00d7a098ac`, 7 workstreams [15658f54,1c13ffd0,43cc2e23,4819adc1,2ce3c0de,eaa88506,88d63270], inventory `1405c24f1cec` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-11 | integrated `6aba36b38ba8`, 7 workstreams [3753330f,70af2919,7eb8eeb2,ba59a1d6,c2a4041d,a60d01c9,620ca387], inventory `41efdf78c902` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-12 | integrated `808ef9d138b7`, 7 workstreams [f2406bd9,44e151e6,a0a98fa7,a9f1cfdf,acb08bdc,543f283b,ba39ffe2], inventory `b6c156f45ab1` | BACKFILL_GAP_REGISTER / NATIVE_0 | W43 and monthly credit separate
+- 2026-10-13 | integrated `73cdf0145a29`, 7 workstreams [b476adc4,5eb62f32,31c448e1,6105505b,c9708a89,b2da8da2,31edaa80], inventory `ac62e8671cff` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-14 | integrated `1bbb56ae76a7`, 7 workstreams [4f935489,b50f6a59,ac14fc28,e40f6e5f,0dc55682,63436450,5756ad01], inventory `befa940fbd58` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-15 | integrated `252130757e88`, 7 workstreams [c3504462,5470dad4,5def344d,361407eb,fbc4eb76,4d9d388f,cadd78ee], inventory `f899151ba123` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-16 | integrated `2fb4ccfbeb9e`, 7 workstreams [3a73cbd2,4f930977,86c9b65e,6300e3bd,bf1cb208,3b491d73,b9db8b2c], inventory `2f106b50d6fd` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-17 | integrated `3b6fc091161b`, 7 workstreams [53b1373b,da2c9337,215ba13d,63a97654,43789595,a30d0477,d080297c], inventory `10603074a154` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-18 | integrated `a623d05d01ae`, 7 workstreams [18d877b9,d423a9b8,a8ccc2b9,fd36e8f6,4be78f89,ce95408e,534c1a6f], inventory `5526b20306d0` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-19 | integrated `e2d331559d95`, 7 workstreams [ee31a9b8,39fc16df,d2eca4c5,ce72f719,e07090e1,6461b3d3,669be870], inventory `a41c253ad84f` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-20 | integrated `66e3f524fddf`, 7 workstreams [239c28f4,383863fc,02693551,88353301,6900ba46,bed59944,0734d7b7], inventory `3551f6d47c33` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-21 | integrated `af9b711030e2`, 7 workstreams [c1459efe,3a3ce246,cab9c858,9fa83d36,3e1205a2,f54fc59f,522496c6], inventory `b1e74f8d897a` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-22 | integrated `a5f31d3070a3`, 7 workstreams [758784d4,8eb1f657,9cd9ee0f,5a4fe105,bf47c976,86d2fcfb,d67bfe39], inventory `7d797d6f1888` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-23 | integrated `1cc8bccff3dd`, 7 workstreams [d9fbf352,611bc202,14e99fe2,9d18f02f,618cd544,38f04f50,42632e4e], inventory `5dd7538ec1d1` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-24 | integrated `450b573807e4`, 7 workstreams [84d7b8c0,0f2988ac,fa35c314,c1706fc9,a32b56e2,be40fef3,7b59682b], inventory `7534ce0acc2f` | A1_INHERITED_NATIVE_SOURCE | W43 and monthly credit separate
+- 2026-10-25 | integrated `91db00a65510`, 7 workstreams [bab0ec96,5cc02a81,5d4b3940,3372331c,12e6fd0b,331626ec,f4d61909], inventory `6d99d8755dd9` | N_DAY_NATIVE_NEW_AFTER_A1 | W43 and monthly credit separate
+
+## Current N-day original publication and downstream owners
+- N-day `reports/daily/2026/10/2026-10-25.md` = `91db00a65510ce48f07b3b1ec9a0dab37d9b6bda` | original Native PR 186 | BOUNDED_INTEGRATED_OBSERVATION
+- N-day `reports/daily/2026/10/2026-10-25/F1-history-theory.md` = `bab0ec96997ecd9c0c403c622b32d78a71ba652a` | original Native PR 186 | PER_WORKSTREAM_SOURCE_SCOPE
+- N-day `reports/daily/2026/10/2026-10-25/F2-models-algorithms.md` = `5cc02a81149cb4b4040aecfb9a78dda466c8411c` | original Native PR 186 | PER_WORKSTREAM_SOURCE_SCOPE
+- N-day `reports/daily/2026/10/2026-10-25/F3-infrastructure.md` = `5d4b39409bc86c28b44caf7fde1b7e02723f87ec` | original Native PR 186 | PER_WORKSTREAM_SOURCE_SCOPE
+- N-day `reports/daily/2026/10/2026-10-25/F4-agentic-systems.md` = `3372331cfb160866d4942a42b928af0aa536e393` | original Native PR 186 | PER_WORKSTREAM_SOURCE_SCOPE
+- N-day `reports/daily/2026/10/2026-10-25/F5-evaluation-governance.md` = `12e6fd0bfbf294621cd3a165b127ecc98d1d9ba1` | original Native PR 186 | PER_WORKSTREAM_SOURCE_SCOPE
+- N-day `reports/daily/2026/10/2026-10-25/F6-ecosystem-society.md` = `331626ec474fc29b480729295a7ac1f3b7169d4a` | original Native PR 186 | PER_WORKSTREAM_SOURCE_SCOPE
+- N-day `reports/daily/2026/10/2026-10-25/F7-synthesis.md` = `f4d619093623bfb85c75a3697500a8dddd6f7583` | original Native PR 186 | PER_WORKSTREAM_SOURCE_SCOPE
+- N-day `reports/daily/2026/10/2026-10-25/README.md` = `6d99d8755dd92ed134914b59dfc20f5bdbc45ffb` | original Native PR 186 | INVENTORY_ONLY
+- W43 `reports/weekly/2026/2026-W43.md` = `e41c5932fbdacb46bcee911689497f11f661274b` | FINAL/CLOSED 7/7, H OPEN
+- October Monthly `reports/monthly/2026/2026-10.md` = `a84d302932e5e5cc519a26dbbff4be07ba1871e4` | OPEN / 24 real Native dates
+
+## Entire October Native / Weekly / Monthly source identity relation matrix
+- 001 | `history/2026-10/2026-10-01-external-independent-gpt-review.md` | Git blob `baaa63228cd20c3525c1932e29cc948a35e2527a` | 12195 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 002 | `history/2026-10/2026-10-02-nist-mcp-reconciliation.md` | Git blob `ae8d273c9397bd367d84ff5b43fd5ea4e9ba1eaf` | 4046 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 003 | `history/2026-10/2026-10-02-september-d30-independent-gpt-audit.md` | Git blob `2bb74b61d4e9aad7c0864aa8260c559f201ccb09` | 8113 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 004 | `history/2026-10/2026-10-03-a2a-cli-reconciliation.md` | Git blob `fe6900cc398e5a039dbf83fe45a9be9d22335cde` | 4537 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 005 | `history/2026-10/2026-10-03-nist-si-display-reconciliation.md` | Git blob `486f5cba752c45c21594a85ee933ff8a2ac651a5` | 3071 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 006 | `history/2026-10/2026-10-05-mcp-v0-2-2-release-status-reconciliation.md` | Git blob `36b0c8e0504512f4e744c5d6ab860615aebe0bed` | 1497 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 007 | `history/2026-10/2026-10-06-a2a-python-v1-2-2-reconciliation.md` | Git blob `2de4faa56901ff8f72073ec95e1be6ab2f0dc40b` | 1622 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 008 | `history/2026-10/2026-10-07-a2a-java-v1-4-0-reconciliation.md` | Git blob `6d367a08e4582d44854fc09defb33ae2f1fe3c64` | 1290 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 009 | `history/2026-10/2026-10-07-nist-devsecops-build3-reconciliation.md` | Git blob `81ee40e93be79f8ac6e8ad31884ba03d68d50d86` | 1431 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 010 | `history/2026-10/2026-10-09-a2a-js-v1-3-0-persistence-reconciliation.md` | Git blob `483dd358e398cbe72f4abe08e151899e59f4f06e` | 2811 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 011 | `history/2026-10/2026-10-11-poppy-draft-0-1-reconciliation.md` | Git blob `e6a6ebb3f1e49cdf1e64963c055c6879ae8bb3b2` | 1798 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 012 | `history/2026-10/2026-10-12-poppy-draft-publication-date-reconciliation.md` | Git blob `f8c87e87ecad482b7dcb6cf4a49107a5b714fb87` | 2534 B | RECONCILIATION_AUDIT | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 013 | `history/2026-10/2026-10-14-d14-pattern-formation-audit.md` | Git blob `63ec7313204b77123a30a3437ddf4ba763a77914` | 4364 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 014 | `history/2026-10/2026-10-20-a1-native-evidence-custody.md` | Git blob `8165218a16f4f7dd0416d4d208220d8a21f7f24e` | 44939 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 015 | `history/2026-10/2026-10-20-a2-month-relation.md` | Git blob `53011c83203a6289edb0198a7518a8d2089af97a` | 41563 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 016 | `history/2026-10/2026-10-21-a1-native-evidence-custody.md` | Git blob `358747623dacf8f3a5b725b25b3bf04f3b40b9cd` | 37499 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 017 | `history/2026-10/2026-10-21-a2-month-relation.md` | Git blob `37af20efeb100f6ad3053b03d104b171a40ccc1a` | 31587 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 018 | `history/2026-10/2026-10-23-a1-native-evidence-custody.md` | Git blob `e1840bf767e02237ab85a7094f6150261158a72f` | 47519 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 019 | `history/2026-10/2026-10-23-a2-month-relation.md` | Git blob `f4f1b81b38f09e472bfc44247a47d940ab720861` | 32332 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 020 | `history/2026-10/2026-10-24-a1-native-evidence-custody.md` | Git blob `8707acb47e6079c0187b4b63287ac0e3ed0820b9` | 30400 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 021 | `history/2026-10/2026-10-24-a2-month-relation.md` | Git blob `8e3a2b854f99c8b7ad468b128cba9f8bdc706bc1` | 25222 B | RECONCILIATION_AUDIT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 022 | `history/2026-10/2026-10-25-a1-native-evidence-custody.md` | Git blob `ef681d564765b5f8522bb91d233a4ff5685d216f` | 58134 B | RECONCILIATION_AUDIT | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 023 | `reports/daily/2026/10/2026-10-01.md` | Git blob `2df8aebe66516de08176b854cb7dc1611a5ea388` | 4856 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 024 | `reports/daily/2026/10/2026-10-01/F1-history-theory.md` | Git blob `a9b5d9c4fff05daef87f55bb8fdfec496f639229` | 230 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 025 | `reports/daily/2026/10/2026-10-01/F2-models-algorithms.md` | Git blob `1e7151237b9a06d582eed0eca7411b1ea19ed0bd` | 210 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 026 | `reports/daily/2026/10/2026-10-01/F3-infrastructure.md` | Git blob `fd518bca69b2ee35f16d25921f86ce149734cfc6` | 176 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 027 | `reports/daily/2026/10/2026-10-01/F4-agentic-systems.md` | Git blob `fb2a89b6dffb8a04a4fb9239536627b454d450b0` | 301 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 028 | `reports/daily/2026/10/2026-10-01/F5-evaluation-governance.md` | Git blob `cadaff09c5040b6595eca2c17cbc69f185c1d75b` | 351 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 029 | `reports/daily/2026/10/2026-10-01/F6-ecosystem-society.md` | Git blob `d90a4cc2fc578913e2dff7c681b802dc462d2104` | 205 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 030 | `reports/daily/2026/10/2026-10-01/F7-synthesis.md` | Git blob `009707d7be463f4fb224ac09095d6cd1d964b86a` | 374 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 031 | `reports/daily/2026/10/2026-10-01/README.md` | Git blob `20d65af060d747f7aad2b852d8f97a7823bfe4e2` | 452 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 032 | `reports/daily/2026/10/2026-10-02.md` | Git blob `02610260d0ff2c00208ae7e5038829bedab6fa37` | 6185 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 033 | `reports/daily/2026/10/2026-10-02/F1-history-theory.md` | Git blob `3895806bcbbead493df65b8f226c2f49eadea372` | 258 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 034 | `reports/daily/2026/10/2026-10-02/F2-models-algorithms.md` | Git blob `97fd440480de66df3155cb9e8fd919bb8f16f7e1` | 229 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 035 | `reports/daily/2026/10/2026-10-02/F3-infrastructure.md` | Git blob `a8daa54c41ed9f7cb402e367c5e6d5aebb1d30fa` | 240 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 036 | `reports/daily/2026/10/2026-10-02/F4-agentic-systems.md` | Git blob `857f4be064480485969ca63bca27d58dda89a1e5` | 813 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 037 | `reports/daily/2026/10/2026-10-02/F5-evaluation-governance.md` | Git blob `10348747fe29eed1fd09705af186cded81001699` | 528 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 038 | `reports/daily/2026/10/2026-10-02/F6-ecosystem-society.md` | Git blob `19eab6306ecc4808162b01f8d2e7cc11a431b156` | 308 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 039 | `reports/daily/2026/10/2026-10-02/F7-synthesis.md` | Git blob `e0a3919db372f6353a29a23dcf4ddde3b19bcef7` | 646 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 040 | `reports/daily/2026/10/2026-10-02/README.md` | Git blob `d47baa0f15b3842486ea9438a216ce0c098c985d` | 652 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 041 | `reports/daily/2026/10/2026-10-03.md` | Git blob `68284b25f2eca29957d22b7899a06035986dd5d7` | 11118 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 042 | `reports/daily/2026/10/2026-10-03/F1-history-theory.md` | Git blob `12c56601410a45f01c3abf62e2a76f070d9e1a32` | 478 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 043 | `reports/daily/2026/10/2026-10-03/F2-models-algorithms.md` | Git blob `84e237ad634b0a4f91ce69fa95ac33fed0b547ed` | 177 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 044 | `reports/daily/2026/10/2026-10-03/F3-infrastructure.md` | Git blob `80b11d5fdcfb594b4d42cb5d8709b56e24678cfe` | 176 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 045 | `reports/daily/2026/10/2026-10-03/F4-agentic-systems.md` | Git blob `ac962b820b3f03aeb21545960b745e1294618f5b` | 325 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 046 | `reports/daily/2026/10/2026-10-03/F5-evaluation-governance.md` | Git blob `cf6bc44731df649d2e217846604fc26968f01286` | 963 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 047 | `reports/daily/2026/10/2026-10-03/F6-ecosystem-society.md` | Git blob `02f73c6cd19f2ac509ddb38e00ab994677f84715` | 884 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 048 | `reports/daily/2026/10/2026-10-03/F7-synthesis.md` | Git blob `668531b07a1a89acdd3fb0983c38b0944290cf78` | 1054 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 049 | `reports/daily/2026/10/2026-10-03/README.md` | Git blob `68a4b69ff0529d70e7785e9ce8d5a5f7e2cf7b5c` | 900 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 050 | `reports/daily/2026/10/2026-10-04.md` | Git blob `1c56aa8fed0bb82e6f3c0424d6741d9e49a1fc5f` | 2609 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 051 | `reports/daily/2026/10/2026-10-04/F1-history-theory.md` | Git blob `a597215d299c4aa2b6cd517c220ddf30fb43abb0` | 162 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 052 | `reports/daily/2026/10/2026-10-04/F2-models-algorithms.md` | Git blob `686aa69e8d91e435bc21edd2de3d170cdd9aa5fd` | 114 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 053 | `reports/daily/2026/10/2026-10-04/F3-infrastructure.md` | Git blob `1f7261c2ff8d98e06db57a816808eff072b82a22` | 141 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 054 | `reports/daily/2026/10/2026-10-04/F4-agentic-systems.md` | Git blob `abd820b0a6d0f587922566747e3adff07856b314` | 218 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 055 | `reports/daily/2026/10/2026-10-04/F5-evaluation-governance.md` | Git blob `fff02524932adbba644abc48799245787c95163a` | 201 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 056 | `reports/daily/2026/10/2026-10-04/F6-ecosystem-society.md` | Git blob `0d79234c160d55ed6f9a07453888bceb0710d2a8` | 185 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 057 | `reports/daily/2026/10/2026-10-04/F7-synthesis.md` | Git blob `118faa85ba90c295e78cc3b8a39a7c61631b390a` | 213 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 058 | `reports/daily/2026/10/2026-10-04/README.md` | Git blob `5e9d9c48b8c159c7074d4b54192d7b4eb0c238db` | 178 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 059 | `reports/daily/2026/10/2026-10-05.md` | Git blob `4fcd6bf640ead4128f56a41c6c1c2e3e537c1fe1` | 5365 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 060 | `reports/daily/2026/10/2026-10-05/F1-history-theory.md` | Git blob `fe5faed92d1b48be5da5efa84b702c37c35ef6d6` | 221 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 061 | `reports/daily/2026/10/2026-10-05/F2-models-algorithms.md` | Git blob `d83328284d2db1b7e200edef5e1f631d00f08ad4` | 181 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 062 | `reports/daily/2026/10/2026-10-05/F3-infrastructure.md` | Git blob `5602e3c888098cb82ff2a2f23900b1aaab627ce1` | 176 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 063 | `reports/daily/2026/10/2026-10-05/F4-agentic-systems.md` | Git blob `b8cc81b93fd0de4e9dc3770f2d2dc55ca04cdea4` | 246 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 064 | `reports/daily/2026/10/2026-10-05/F5-evaluation-governance.md` | Git blob `9b928e1d59fa3e05a4629ef23d349fe3dacaccea` | 223 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 065 | `reports/daily/2026/10/2026-10-05/F6-ecosystem-society.md` | Git blob `b4c796201f7f40f4e71b33e6a39771bf862ad926` | 187 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 066 | `reports/daily/2026/10/2026-10-05/F7-synthesis.md` | Git blob `13eb51f3280a59cf72800b3bb0bec56e4befa6e2` | 218 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 067 | `reports/daily/2026/10/2026-10-05/README.md` | Git blob `496f8669dba991bbf075a1251b6419ecec390353` | 326 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 068 | `reports/daily/2026/10/2026-10-06.md` | Git blob `a15a6e63cf0576c5e64a375884e35b988899b767` | 5077 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 069 | `reports/daily/2026/10/2026-10-06/F1-history-theory.md` | Git blob `5e538e01b2869d16c8ba3f97041045cbdfae6f03` | 209 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 070 | `reports/daily/2026/10/2026-10-06/F2-models-algorithms.md` | Git blob `ee83ec42b6491519eefa589eefe7bade7de36579` | 156 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 071 | `reports/daily/2026/10/2026-10-06/F3-infrastructure.md` | Git blob `40c6f502eb4a0ba0d21ec8073c5a8bfa09a87dbb` | 251 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 072 | `reports/daily/2026/10/2026-10-06/F4-agentic-systems.md` | Git blob `44eea7fa722e6f60a45a264fd7194f0bf722a662` | 249 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 073 | `reports/daily/2026/10/2026-10-06/F5-evaluation-governance.md` | Git blob `80b8b5592d7048d49118dc120bcd4de6cbf960fd` | 243 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 074 | `reports/daily/2026/10/2026-10-06/F6-ecosystem-society.md` | Git blob `e8c1b9114146eb8beff21ddf8d549c248a8072db` | 217 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 075 | `reports/daily/2026/10/2026-10-06/F7-synthesis.md` | Git blob `4908db5857e2f53a4044b7a2eb6fe204e00ad92a` | 240 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 076 | `reports/daily/2026/10/2026-10-06/README.md` | Git blob `44b1d12ce2d2c60f5ba1a6844c7c40264331d857` | 349 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 077 | `reports/daily/2026/10/2026-10-07.md` | Git blob `71a2f3b54855da84aef9559b4f8e231e19d8195b` | 6411 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 078 | `reports/daily/2026/10/2026-10-07/F1-history-theory.md` | Git blob `582cd8eefff44493edb3a87db706d595bf3f078c` | 226 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 079 | `reports/daily/2026/10/2026-10-07/F2-models-algorithms.md` | Git blob `5d76101c0daf4ca0c495b5d8ef11e23ccfd17621` | 201 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 080 | `reports/daily/2026/10/2026-10-07/F3-infrastructure.md` | Git blob `40f0f5b08ed6f9ac33988b49ea1c384dcd1730bd` | 211 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 081 | `reports/daily/2026/10/2026-10-07/F4-agentic-systems.md` | Git blob `ad90b76a97494810222c68c353f5b35036bc782e` | 276 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 082 | `reports/daily/2026/10/2026-10-07/F5-evaluation-governance.md` | Git blob `278a8572728896e16b56c5816f031aa867de06ff` | 249 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 083 | `reports/daily/2026/10/2026-10-07/F6-ecosystem-society.md` | Git blob `439961b45298f44798f4ff3cd2448e5add96d34b` | 218 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 084 | `reports/daily/2026/10/2026-10-07/F7-synthesis.md` | Git blob `667acfd04f3ace4e84615962c2bb280422fc3759` | 308 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 085 | `reports/daily/2026/10/2026-10-07/README.md` | Git blob `9331121d90fec4872aeb840f83afc6c7bf7ff3ed` | 363 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 086 | `reports/daily/2026/10/2026-10-08.md` | Git blob `f553bb891ca8a17305ad7cf6b350ce114a438691` | 67 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 087 | `reports/daily/2026/10/2026-10-08/F1-history-theory.md` | Git blob `f1b1c0186d081e221a0a4bcae64541af3409fdad` | 95 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 088 | `reports/daily/2026/10/2026-10-08/F2-models-algorithms.md` | Git blob `70f9b9dd651c1846877101a4552b0ef9c28abf8b` | 5 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 089 | `reports/daily/2026/10/2026-10-08/F3-infrastructure.md` | Git blob `5e900bf178ea42d282c0ab31dc3594339a07fd5a` | 74 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 090 | `reports/daily/2026/10/2026-10-08/F4-agentic-systems.md` | Git blob `8abdf8d89830cce8b4f2d3b1b2316f7571fed268` | 5 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 091 | `reports/daily/2026/10/2026-10-08/F5-evaluation-governance.md` | Git blob `00e99371fedde6e11cf56ab1c863a62944ac3d73` | 5 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 092 | `reports/daily/2026/10/2026-10-08/F6-ecosystem-society.md` | Git blob `413b4908c29a3bc7232ae48726d725987720fa89` | 5 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 093 | `reports/daily/2026/10/2026-10-08/F7-synthesis.md` | Git blob `41c1ebfa5ac04630e1d2ed1a38f2d83315960afc` | 65 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 094 | `reports/daily/2026/10/2026-10-08/README.md` | Git blob `cd2963d39fca0298030dc37cc139c05e39b8c141` | 390 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 095 | `reports/daily/2026/10/2026-10-09.md` | Git blob `db6380342846635ee946a358004e5c8167165832` | 6947 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 096 | `reports/daily/2026/10/2026-10-09/F1-history-theory.md` | Git blob `3db3d7571243996e234a5e4c1952856925fcb9fe` | 586 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 097 | `reports/daily/2026/10/2026-10-09/F2-models-algorithms.md` | Git blob `a22b85ce76f0ca8c76ffcbc2afd4daff5556b655` | 569 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 098 | `reports/daily/2026/10/2026-10-09/F3-infrastructure.md` | Git blob `46755e323ba1c2b9ec0e2489178383d3716f0a52` | 651 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 099 | `reports/daily/2026/10/2026-10-09/F4-agentic-systems.md` | Git blob `cbeba7cae76f3b3a90fd2ac30136aa4d17fc59cf` | 684 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 100 | `reports/daily/2026/10/2026-10-09/F5-evaluation-governance.md` | Git blob `687b970e7a07a92ab3b16c33b94628f4c25f99ef` | 701 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 101 | `reports/daily/2026/10/2026-10-09/F6-ecosystem-society.md` | Git blob `8fa63b9dcaa6f1d4a3444a909b420e3b88f4cae6` | 619 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 102 | `reports/daily/2026/10/2026-10-09/F7-synthesis.md` | Git blob `05a6a4985e91752ea06430016474a07e286b2be1` | 674 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 103 | `reports/daily/2026/10/2026-10-09/README.md` | Git blob `b59d4d2b289f0b372fbc3ca007f53a2b710da16b` | 605 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 104 | `reports/daily/2026/10/2026-10-10.md` | Git blob `1a00d7a098ac15486a2a9650e9b91be509298127` | 6386 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 105 | `reports/daily/2026/10/2026-10-10/F1-history-theory.md` | Git blob `15658f54a68b197fed6ef967fb3914c231237dcd` | 494 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 106 | `reports/daily/2026/10/2026-10-10/F2-models-algorithms.md` | Git blob `1c13ffd06bcecdb5826efaef1bc5b8a423685cdc` | 497 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 107 | `reports/daily/2026/10/2026-10-10/F3-infrastructure.md` | Git blob `43cc2e23f88c272e4f86ea42434e92cf10cb5e99` | 491 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 108 | `reports/daily/2026/10/2026-10-10/F4-agentic-systems.md` | Git blob `4819adc1e01472a8f23dbb777393124443bfcccb` | 641 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 109 | `reports/daily/2026/10/2026-10-10/F5-evaluation-governance.md` | Git blob `2ce3c0de47fd4318b063155ae29b9402164d7b7d` | 612 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 110 | `reports/daily/2026/10/2026-10-10/F6-ecosystem-society.md` | Git blob `eaa885065afba7e860ce05718de8ea0d194a8ddd` | 534 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 111 | `reports/daily/2026/10/2026-10-10/F7-synthesis.md` | Git blob `88d632701960cf357adf61db2c90a1c7324472f0` | 711 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 112 | `reports/daily/2026/10/2026-10-10/README.md` | Git blob `1405c24f1cec75429e3735bc09f748fa396404db` | 638 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 113 | `reports/daily/2026/10/2026-10-11.md` | Git blob `6aba36b38ba8eccda57da53faa08584f93a5505b` | 6991 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 114 | `reports/daily/2026/10/2026-10-11/F1-history-theory.md` | Git blob `3753330f90a76e3888fd74f222ea2802684acf19` | 563 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 115 | `reports/daily/2026/10/2026-10-11/F2-models-algorithms.md` | Git blob `70af2919ebece49b9608a70001ddcc63fe1d113d` | 527 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 116 | `reports/daily/2026/10/2026-10-11/F3-infrastructure.md` | Git blob `7eb8eeb2f7100e8fb96252c774dc445be037bd72` | 499 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 117 | `reports/daily/2026/10/2026-10-11/F4-agentic-systems.md` | Git blob `ba59a1d6f90d62f6d2ccefe478b4525bed649265` | 623 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 118 | `reports/daily/2026/10/2026-10-11/F5-evaluation-governance.md` | Git blob `c2a4041d57f0dd3fa77a992466c2df47e49a8fae` | 589 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 119 | `reports/daily/2026/10/2026-10-11/F6-ecosystem-society.md` | Git blob `a60d01c92a337f75e3523445ae3f7a26dbf32bbe` | 545 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 120 | `reports/daily/2026/10/2026-10-11/F7-synthesis.md` | Git blob `620ca387bdf383b6368ef7810812eeea8dbe9071` | 609 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 121 | `reports/daily/2026/10/2026-10-11/README.md` | Git blob `41efdf78c9022a963de1a4a1ebc8e4e9098dd72e` | 598 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 122 | `reports/daily/2026/10/2026-10-12.md` | Git blob `808ef9d138b72f19f89ac658ff817039a7b89c32` | 2875 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 123 | `reports/daily/2026/10/2026-10-12/F1-history-theory.md` | Git blob `f2406bd972b2825e56df52046503b72ff2f95720` | 914 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 124 | `reports/daily/2026/10/2026-10-12/F2-models-algorithms.md` | Git blob `44e151e6028b42d7a96ff423962831c6636f8b54` | 914 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 125 | `reports/daily/2026/10/2026-10-12/F3-infrastructure.md` | Git blob `a0a98fa7cad603a3ebea625dd1e25aa0f49c3ef4` | 914 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 126 | `reports/daily/2026/10/2026-10-12/F4-agentic-systems.md` | Git blob `a9f1cfdfcb8bc09f115f30f9e671a1e67e61c688` | 914 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 127 | `reports/daily/2026/10/2026-10-12/F5-evaluation-governance.md` | Git blob `acb08bdc04c3874570cad9cf190f2754bedaefd7` | 914 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 128 | `reports/daily/2026/10/2026-10-12/F6-ecosystem-society.md` | Git blob `543f283b04eb0e1a57961cd3c00e3ac8e4bad0b7` | 914 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 129 | `reports/daily/2026/10/2026-10-12/F7-synthesis.md` | Git blob `ba39ffe245e7e3d857b29069f856f1380bdc4feb` | 914 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 130 | `reports/daily/2026/10/2026-10-12/README.md` | Git blob `b6c156f45ab1b44d6674cfddf1bf374e964f3334` | 633 B | DAILY_PACK | BACKFILL_GAP_REGISTER_ZERO_NATIVE_CREDIT | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 131 | `reports/daily/2026/10/2026-10-13.md` | Git blob `73cdf0145a294a6088fe678fc6084ed4a90630e1` | 8044 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 132 | `reports/daily/2026/10/2026-10-13/F1-history-theory.md` | Git blob `b476adc4a4a9c3ea495ef8b500a42a93c5dd014f` | 1542 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 133 | `reports/daily/2026/10/2026-10-13/F2-models-algorithms.md` | Git blob `5eb62f3237e51dd6aeb536f1706c9a60fc9ec3d5` | 1544 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 134 | `reports/daily/2026/10/2026-10-13/F3-infrastructure.md` | Git blob `31c448e1d12cba536bbfc0a48128a9412063fa62` | 1558 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 135 | `reports/daily/2026/10/2026-10-13/F4-agentic-systems.md` | Git blob `6105505b1d2805190012b0a3fea6326b92cdac54` | 1709 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 136 | `reports/daily/2026/10/2026-10-13/F5-evaluation-governance.md` | Git blob `c9708a89f722bc06950904e18ca6aaf6cb11ef0b` | 1593 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 137 | `reports/daily/2026/10/2026-10-13/F6-ecosystem-society.md` | Git blob `b2da8da2d6feabba6915a0998ca72bf36fb651d0` | 1638 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 138 | `reports/daily/2026/10/2026-10-13/F7-synthesis.md` | Git blob `31edaa801c93364f298da3d7380211c0fb3caf7b` | 1618 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 139 | `reports/daily/2026/10/2026-10-13/README.md` | Git blob `ac62e8671cffe23a8eb388dfce5f4e5b8dffadd6` | 746 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 140 | `reports/daily/2026/10/2026-10-14.md` | Git blob `1bbb56ae76a78b450518812f313f7ec934ca3f40` | 7946 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 141 | `reports/daily/2026/10/2026-10-14/F1-history-theory.md` | Git blob `4f9354898825506181b806cc7f74a51cfe4c6fd6` | 1815 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 142 | `reports/daily/2026/10/2026-10-14/F2-models-algorithms.md` | Git blob `b50f6a597e731039b20fc15bacfff1c3af21a2b0` | 1816 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 143 | `reports/daily/2026/10/2026-10-14/F3-infrastructure.md` | Git blob `ac14fc289b0ea4519ed7a84fed112efa4d460f18` | 1811 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 144 | `reports/daily/2026/10/2026-10-14/F4-agentic-systems.md` | Git blob `e40f6e5fc96e1e83274256f27537ac7a3fb274b3` | 1978 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 145 | `reports/daily/2026/10/2026-10-14/F5-evaluation-governance.md` | Git blob `0dc5568259e7300eb9b410293e30d15ca566e9d4` | 1900 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 146 | `reports/daily/2026/10/2026-10-14/F6-ecosystem-society.md` | Git blob `63436450d8291ea1806bf05e7e3c1d753f5fd818` | 1856 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 147 | `reports/daily/2026/10/2026-10-14/F7-synthesis.md` | Git blob `5756ad01439c9c48de91cd7ec6b5a47c90aef3f6` | 1879 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 148 | `reports/daily/2026/10/2026-10-14/README.md` | Git blob `befa940fbd5847e22b41cf41b383045f62a24200` | 671 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 149 | `reports/daily/2026/10/2026-10-15.md` | Git blob `252130757e8848f2c75c95aab489d2e7eb42016a` | 6992 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 150 | `reports/daily/2026/10/2026-10-15/F1-history-theory.md` | Git blob `c350446281b900d820982941e38627edb091a7a5` | 2136 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 151 | `reports/daily/2026/10/2026-10-15/F2-models-algorithms.md` | Git blob `5470dad446b6b686fad92f89e0ef8442aeba434c` | 2092 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 152 | `reports/daily/2026/10/2026-10-15/F3-infrastructure.md` | Git blob `5def344d503e07370ad3606916b9f1f522759305` | 2135 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 153 | `reports/daily/2026/10/2026-10-15/F4-agentic-systems.md` | Git blob `361407ebf09aec262592d771a7b7d3256e7f5361` | 2221 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 154 | `reports/daily/2026/10/2026-10-15/F5-evaluation-governance.md` | Git blob `fbc4eb7630007cde8e63c1aaeb6bc88037e96ae6` | 2106 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 155 | `reports/daily/2026/10/2026-10-15/F6-ecosystem-society.md` | Git blob `4d9d388f589754381866a6f0a8fa79bc15320531` | 2145 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 156 | `reports/daily/2026/10/2026-10-15/F7-synthesis.md` | Git blob `cadd78eedb2cb72b65fd4c03149e0a1becc1cdbb` | 2094 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 157 | `reports/daily/2026/10/2026-10-15/README.md` | Git blob `f899151ba1238d0804c0a58ae421a00805bf0c64` | 936 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 158 | `reports/daily/2026/10/2026-10-16.md` | Git blob `2fb4ccfbeb9e59ee03b119661aa188d9e2495198` | 7218 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 159 | `reports/daily/2026/10/2026-10-16/F1-history-theory.md` | Git blob `3a73cbd249bf90e303e078011dab17b05c2ea39a` | 2902 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 160 | `reports/daily/2026/10/2026-10-16/F2-models-algorithms.md` | Git blob `4f9309777b86013827fe0564d959ad71f4066e59` | 2848 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 161 | `reports/daily/2026/10/2026-10-16/F3-infrastructure.md` | Git blob `86c9b65e086442cd1ac90617e662577b69ad3f4d` | 2821 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 162 | `reports/daily/2026/10/2026-10-16/F4-agentic-systems.md` | Git blob `6300e3bd90ee4179bc2f8f65a7c49085fe34f7fb` | 2898 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 163 | `reports/daily/2026/10/2026-10-16/F5-evaluation-governance.md` | Git blob `bf1cb20842a715576885a0441249fff4c68c0660` | 2815 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 164 | `reports/daily/2026/10/2026-10-16/F6-ecosystem-society.md` | Git blob `3b491d73d383eb783f9c48989cdc954d9c1a3db4` | 2840 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 165 | `reports/daily/2026/10/2026-10-16/F7-synthesis.md` | Git blob `b9db8b2c7a4250c6ec9ab344ff8115becf74f02c` | 2913 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 166 | `reports/daily/2026/10/2026-10-16/README.md` | Git blob `2f106b50d6fda1c0aec6fe9aa3d6cf8ca3462d6c` | 874 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 167 | `reports/daily/2026/10/2026-10-17.md` | Git blob `3b6fc091161b1b893c98298f329f9c780af15a76` | 5769 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 168 | `reports/daily/2026/10/2026-10-17/F1-history-theory.md` | Git blob `53b1373b30c39dd6de3f20b67a0259c17eb16c9b` | 1298 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 169 | `reports/daily/2026/10/2026-10-17/F2-models-algorithms.md` | Git blob `da2c93371c0a0c76fcd8f8436ac3c9568a3bcb30` | 1160 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 170 | `reports/daily/2026/10/2026-10-17/F3-infrastructure.md` | Git blob `215ba13d2d9bc318087d299a33918a89c8a38e2b` | 1337 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 171 | `reports/daily/2026/10/2026-10-17/F4-agentic-systems.md` | Git blob `63a97654d77a32aa90bbff22080f739f1200bd4c` | 1594 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 172 | `reports/daily/2026/10/2026-10-17/F5-evaluation-governance.md` | Git blob `43789595053c47fb417c268014faadcb9f1969ee` | 1384 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 173 | `reports/daily/2026/10/2026-10-17/F6-ecosystem-society.md` | Git blob `a30d0477f688cc3b7697d30f947c66d32b8a64d1` | 1321 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 174 | `reports/daily/2026/10/2026-10-17/F7-synthesis.md` | Git blob `d080297c9b7d72a5a7b3d466c49cf01702e82ab3` | 1717 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 175 | `reports/daily/2026/10/2026-10-17/README.md` | Git blob `10603074a154e733562b6f474872f25f74847e24` | 1055 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 176 | `reports/daily/2026/10/2026-10-18.md` | Git blob `a623d05d01aedf880a9594f4f90de0eaecf2b1b0` | 6900 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 177 | `reports/daily/2026/10/2026-10-18/F1-history-theory.md` | Git blob `18d877b98b30f5aed02f300b866c60ef56c60505` | 1546 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 178 | `reports/daily/2026/10/2026-10-18/F2-models-algorithms.md` | Git blob `d423a9b80e80bede885157bf27318a0e2e585ac8` | 1506 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 179 | `reports/daily/2026/10/2026-10-18/F3-infrastructure.md` | Git blob `a8ccc2b9d7c689d2298e499211fca8fcdbc12895` | 1447 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 180 | `reports/daily/2026/10/2026-10-18/F4-agentic-systems.md` | Git blob `fd36e8f6b3ac71e234492ae96bfa49e2ceb2dd5e` | 1700 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 181 | `reports/daily/2026/10/2026-10-18/F5-evaluation-governance.md` | Git blob `4be78f898305e5464ab709af7c15d6011c96e456` | 1412 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 182 | `reports/daily/2026/10/2026-10-18/F6-ecosystem-society.md` | Git blob `ce95408e59dbf6803ec90dec0d0841b3d77ad326` | 1520 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 183 | `reports/daily/2026/10/2026-10-18/F7-synthesis.md` | Git blob `534c1a6f79a8622dbe99f18df159848b3120a400` | 1735 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 184 | `reports/daily/2026/10/2026-10-18/README.md` | Git blob `5526b20306d0aff3669854831f5f369bd7245258` | 1094 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 185 | `reports/daily/2026/10/2026-10-19.md` | Git blob `e2d331559d950f83916088cde964e83628dd653b` | 6970 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 186 | `reports/daily/2026/10/2026-10-19/F1-history-theory.md` | Git blob `ee31a9b8f402ed258caac43a21900c020f4d5e48` | 2544 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 187 | `reports/daily/2026/10/2026-10-19/F2-models-algorithms.md` | Git blob `39fc16df3d7408deff45e6e646429ddc531ed199` | 2513 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 188 | `reports/daily/2026/10/2026-10-19/F3-infrastructure.md` | Git blob `d2eca4c517b3232e855d660052ed9d6e0ea0b954` | 2588 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 189 | `reports/daily/2026/10/2026-10-19/F4-agentic-systems.md` | Git blob `ce72f71918412d9b0cb0a9314db60137a013e3e7` | 2664 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 190 | `reports/daily/2026/10/2026-10-19/F5-evaluation-governance.md` | Git blob `e07090e1b65ad094638ff613f7e182f53288f6f3` | 2574 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 191 | `reports/daily/2026/10/2026-10-19/F6-ecosystem-society.md` | Git blob `6461b3d304963b203f3804662ead6dea72fcce31` | 2583 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 192 | `reports/daily/2026/10/2026-10-19/F7-synthesis.md` | Git blob `669be870f387b105a6f4895f498a01b08df24976` | 2679 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 193 | `reports/daily/2026/10/2026-10-19/README.md` | Git blob `a41c253ad84fb507ce00baedade2ca6a6d4f075c` | 818 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 194 | `reports/daily/2026/10/2026-10-20.md` | Git blob `66e3f524fddfe14200b31fc5705ebd84224ea34e` | 7985 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 195 | `reports/daily/2026/10/2026-10-20/F1-history-theory.md` | Git blob `239c28f4532bec24938e062accdbb9af5e28db7e` | 2740 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 196 | `reports/daily/2026/10/2026-10-20/F2-models-algorithms.md` | Git blob `383863fc88f0ed89ce0b6690f55e06ed2680dbed` | 2740 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 197 | `reports/daily/2026/10/2026-10-20/F3-infrastructure.md` | Git blob `02693551b46ac0292aecc0d0f0760a2ef0771181` | 2729 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 198 | `reports/daily/2026/10/2026-10-20/F4-agentic-systems.md` | Git blob `88353301109e04231b1cbc7ae3fa0ac593c8e10d` | 2806 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 199 | `reports/daily/2026/10/2026-10-20/F5-evaluation-governance.md` | Git blob `6900ba46979edc0935bc22c0e8c301e942e82bc6` | 2771 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 200 | `reports/daily/2026/10/2026-10-20/F6-ecosystem-society.md` | Git blob `bed59944edbe580a950bbe5ac7552dfe1ad31395` | 2755 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 201 | `reports/daily/2026/10/2026-10-20/F7-synthesis.md` | Git blob `0734d7b7ac0a31702c6f604d57137af4402cee17` | 2815 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 202 | `reports/daily/2026/10/2026-10-20/README.md` | Git blob `3551f6d47c3365d4c3a3899ba37db4344ee0320b` | 836 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 203 | `reports/daily/2026/10/2026-10-21.md` | Git blob `af9b711030e2ab1d4297c824f883da3a31414ad8` | 4417 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 204 | `reports/daily/2026/10/2026-10-21/F1-history-theory.md` | Git blob `c1459efe8663cd8cb416fb6caaf609a38faf4c0f` | 1918 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 205 | `reports/daily/2026/10/2026-10-21/F2-models-algorithms.md` | Git blob `3a3ce246986dd9679e9e8778bfd2884a83e3637a` | 1952 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 206 | `reports/daily/2026/10/2026-10-21/F3-infrastructure.md` | Git blob `cab9c8582f9396e7ea0e520c2a74518f64c446f3` | 1930 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 207 | `reports/daily/2026/10/2026-10-21/F4-agentic-systems.md` | Git blob `9fa83d360e51147733a68f139c37b6eaf6764148` | 1967 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 208 | `reports/daily/2026/10/2026-10-21/F5-evaluation-governance.md` | Git blob `3e1205a26cf640b6aa1b21b51a34095dd8878407` | 1915 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 209 | `reports/daily/2026/10/2026-10-21/F6-ecosystem-society.md` | Git blob `f54fc59fe43f2b7d3f72ab6f462e9abd1315f91c` | 1898 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 210 | `reports/daily/2026/10/2026-10-21/F7-synthesis.md` | Git blob `522496c628e0b23512421cac269cb33db5770da2` | 1968 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 211 | `reports/daily/2026/10/2026-10-21/README.md` | Git blob `b1e74f8d897ac4e13503f195d52e34054d88ab0d` | 806 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 212 | `reports/daily/2026/10/2026-10-22.md` | Git blob `a5f31d3070a3a3fd6798db367645648ff95230a4` | 5446 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 213 | `reports/daily/2026/10/2026-10-22/F1-history-theory.md` | Git blob `758784d44f773cfddf1ef056b36d57d24a397094` | 1458 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 214 | `reports/daily/2026/10/2026-10-22/F2-models-algorithms.md` | Git blob `8eb1f657c095802f544102d2df718f189b5aa306` | 1430 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 215 | `reports/daily/2026/10/2026-10-22/F3-infrastructure.md` | Git blob `9cd9ee0f53325164640b8bdcd03356e9b2ddeb81` | 1167 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 216 | `reports/daily/2026/10/2026-10-22/F4-agentic-systems.md` | Git blob `5a4fe10530f382977b812d93050721165851299c` | 1210 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 217 | `reports/daily/2026/10/2026-10-22/F5-evaluation-governance.md` | Git blob `bf47c9762af86c518bc1895802b9f919c19e82bf` | 944 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 218 | `reports/daily/2026/10/2026-10-22/F6-ecosystem-society.md` | Git blob `86d2fcfb9989da07a7b51fa08db4b68dcffa1e54` | 889 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 219 | `reports/daily/2026/10/2026-10-22/F7-synthesis.md` | Git blob `d67bfe396bac23748a904bf84799c05eb42d04b9` | 887 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 220 | `reports/daily/2026/10/2026-10-22/README.md` | Git blob `7d797d6f1888172687124af4e732c05f9e4ee6b2` | 792 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 221 | `reports/daily/2026/10/2026-10-23.md` | Git blob `1cc8bccff3ddaa59aa632cb4ad7b79c1c392cdc3` | 6933 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 222 | `reports/daily/2026/10/2026-10-23/F1-history-theory.md` | Git blob `d9fbf35242d99df72b5129b3c48bcedb67fc1de4` | 2574 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 223 | `reports/daily/2026/10/2026-10-23/F2-models-algorithms.md` | Git blob `611bc2021afaff0e53e4aa9d595819f049b622cc` | 2549 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 224 | `reports/daily/2026/10/2026-10-23/F3-infrastructure.md` | Git blob `14e99fe2ae8a91921ca0c45b2e1faf457a8996db` | 2667 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 225 | `reports/daily/2026/10/2026-10-23/F4-agentic-systems.md` | Git blob `9d18f02f1d0d160d979f9b4592ae3f879ca309f8` | 2644 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 226 | `reports/daily/2026/10/2026-10-23/F5-evaluation-governance.md` | Git blob `618cd5447772c3915d9ab8581068d61efaba1f3f` | 2611 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 227 | `reports/daily/2026/10/2026-10-23/F6-ecosystem-society.md` | Git blob `38f04f50a461365a94712f91e2b2da395a49b058` | 2593 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 228 | `reports/daily/2026/10/2026-10-23/F7-synthesis.md` | Git blob `42632e4e0c93394a4c8f933e03544055722a0048` | 2601 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 229 | `reports/daily/2026/10/2026-10-23/README.md` | Git blob `5dd7538ec1d17c73b2ff2f20cada0e1d48ad2db6` | 1096 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 230 | `reports/daily/2026/10/2026-10-24.md` | Git blob `450b573807e41f5bb568267acd08b5a931a6129e` | 6606 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 231 | `reports/daily/2026/10/2026-10-24/F1-history-theory.md` | Git blob `84d7b8c04ac6281922e4877af9c5a4c90517d16b` | 2367 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 232 | `reports/daily/2026/10/2026-10-24/F2-models-algorithms.md` | Git blob `0f2988ac9ff88d6b12f7d90ad6ed3222a0ed9c82` | 2395 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 233 | `reports/daily/2026/10/2026-10-24/F3-infrastructure.md` | Git blob `fa35c314756e88edc4aa2b55996bafa293be309d` | 2436 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 234 | `reports/daily/2026/10/2026-10-24/F4-agentic-systems.md` | Git blob `c1706fc909c8c44dd5367cb88638c9d7ed002e70` | 2490 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 235 | `reports/daily/2026/10/2026-10-24/F5-evaluation-governance.md` | Git blob `a32b56e248f70dc244fd54e804c7b4bfcbec2fcf` | 2422 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 236 | `reports/daily/2026/10/2026-10-24/F6-ecosystem-society.md` | Git blob `be40fef35c409d40958a914d2632f03309c2cf9a` | 2383 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 237 | `reports/daily/2026/10/2026-10-24/F7-synthesis.md` | Git blob `7b59682bd846422dd9d8e06b7f460de5bd60b0a1` | 2453 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 238 | `reports/daily/2026/10/2026-10-24/README.md` | Git blob `7534ce0acc2fd0751a601c9c0fe89eace06eefba` | 970 B | DAILY_PACK | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 239 | `reports/daily/2026/10/2026-10-25.md` | Git blob `91db00a65510ce48f07b3b1ec9a0dab37d9b6bda` | 8692 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 240 | `reports/daily/2026/10/2026-10-25/F1-history-theory.md` | Git blob `bab0ec96997ecd9c0c403c622b32d78a71ba652a` | 3241 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 241 | `reports/daily/2026/10/2026-10-25/F2-models-algorithms.md` | Git blob `5cc02a81149cb4b4040aecfb9a78dda466c8411c` | 3236 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 242 | `reports/daily/2026/10/2026-10-25/F3-infrastructure.md` | Git blob `5d4b39409bc86c28b44caf7fde1b7e02723f87ec` | 3280 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 243 | `reports/daily/2026/10/2026-10-25/F4-agentic-systems.md` | Git blob `3372331cfb160866d4942a42b928af0aa536e393` | 3357 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 244 | `reports/daily/2026/10/2026-10-25/F5-evaluation-governance.md` | Git blob `12e6fd0bfbf294621cd3a165b127ecc98d1d9ba1` | 3259 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 245 | `reports/daily/2026/10/2026-10-25/F6-ecosystem-society.md` | Git blob `331626ec474fc29b480729295a7ac1f3b7169d4a` | 3273 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 246 | `reports/daily/2026/10/2026-10-25/F7-synthesis.md` | Git blob `f4d619093623bfb85c75a3697500a8dddd6f7583` | 3284 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 247 | `reports/daily/2026/10/2026-10-25/README.md` | Git blob `6d99d8755dd92ed134914b59dfc20f5bdbc45ffb` | 999 B | DAILY_PACK | N_DAY_NATIVE_ACTUAL_DELIVERY | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 248 | `reports/monthly/2026/2026-08.md` | Git blob `023524eae7c36336c03413aa3a43fcfdb664fc06` | 10275 B | MONTH_OPEN_CURRENT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 249 | `reports/monthly/2026/2026-09.md` | Git blob `12b4d079b498bebac203c63a3b02f7d752ff7797` | 61161 B | MONTH_OPEN_CURRENT | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 250 | `reports/monthly/2026/2026-10.md` | Git blob `a84d302932e5e5cc519a26dbbff4be07ba1871e4` | 724958 B | MONTH_OPEN_CURRENT | PRE_N_SOURCE_UPDATED_FORWARD_METADATA | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 251 | `reports/monthly/2026/README.md` | Git blob `6eff7b987d777b9305e2120c2ed900a5cb00d5b5` | 3667 B | MONTH_OPEN_CURRENT | PRE_N_SOURCE_UPDATED_FORWARD_METADATA | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 252 | `reports/weekly/2026/2026-W32.md` | Git blob `e72d663a972afaf4e6e6982db074ca09c6e11b49` | 4409 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 253 | `reports/weekly/2026/2026-W33-2026-08-14-progress.md` | Git blob `77700d8c40a61aed8d4a4f834273af77ba60cd73` | 2018 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 254 | `reports/weekly/2026/2026-W33-2026-08-15-progress.md` | Git blob `77c038fdabfd56426865f03cc9e3c8a9290afa39` | 2583 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 255 | `reports/weekly/2026/2026-W33.md` | Git blob `9adb8e7ca1e1e52ae236ee8d9c7d3bb280cc896d` | 7491 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 256 | `reports/weekly/2026/2026-W34.md` | Git blob `fd6f0c52dcc92048184b0318c4c1c291d896bea0` | 8358 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 257 | `reports/weekly/2026/2026-W35.md` | Git blob `7dfe311411dcfc7e5c781d44e7547770b5051d25` | 10107 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 258 | `reports/weekly/2026/2026-W36-2026-09-07-special-event-reconciliation.md` | Git blob `6147938079173ba7ef52090d7670c0f884e9aed7` | 12477 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 259 | `reports/weekly/2026/2026-W36.md` | Git blob `44027ac84181acf658aeee0fa6abb8475800ce02` | 6695 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 260 | `reports/weekly/2026/2026-W37-2026-09-20-special-event-reconciliation.md` | Git blob `1e93c51d403ccb3d6dead1b08abbe8866862bdeb` | 9937 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 261 | `reports/weekly/2026/2026-W37.md` | Git blob `d74e6d177518e9dda7083d99251bb1f09d7ed543` | 5685 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 262 | `reports/weekly/2026/2026-W38-2026-09-20-special-event-reconciliation.md` | Git blob `9114274154f3df9544793de8338ed9aeb78d31c8` | 13488 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 263 | `reports/weekly/2026/2026-W38.md` | Git blob `492dac6738e18d1f2af22c6ee255506f0db9dbab` | 2907 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 264 | `reports/weekly/2026/2026-W39-2026-09-27-special-event-reconciliation.md` | Git blob `b00b4505708c42ebb4e4cda77a2fb0e6e974b06d` | 6013 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 265 | `reports/weekly/2026/2026-W39.md` | Git blob `a7ae35a5027bf1c69143ddf99c08b2f8266ba4d5` | 4210 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 266 | `reports/weekly/2026/2026-W40-special-reconciliation-2026-10-04.md` | Git blob `bd79f6245b182606e69758e23591e1677bc3bd3e` | 6960 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 267 | `reports/weekly/2026/2026-W40.md` | Git blob `3a09d9042fbe780698c9545b5b04a956c367fd10` | 7750 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 268 | `reports/weekly/2026/2026-W41.md` | Git blob `ef5baed5b5077e47aacffef6344e7da881f02bce` | 9497 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 269 | `reports/weekly/2026/2026-W42.md` | Git blob `bb3522e344cb4a288bab0180a869efd05dd716b5` | 8681 B | WEEKLY_HYPOTHESIS | A1_INHERITED_NONMODIFIED | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 270 | `reports/weekly/2026/2026-W43.md` | Git blob `e41c5932fbdacb46bcee911689497f11f661274b` | 11198 B | WEEKLY_HYPOTHESIS | PRE_N_SOURCE_UPDATED_FORWARD_METADATA | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 271 | `reports/weekly/2026/README.md` | Git blob `a346df6a2f1ba065218a9580f5d3cd79ac28ff49` | 4873 B | WEEKLY_HYPOTHESIS | PRE_N_SOURCE_UPDATED_FORWARD_METADATA | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+- 272 | `SOURCE_REGISTRY.md` | Git blob `9b3cd5a6e46d2e3e0b5676fa67ea85e724940e44` | 26907 B | PUBLISHER_REGISTRY_OR_INDEX | PRE_N_SOURCE_UPDATED_FORWARD_METADATA | NO_NEW_SCIENTIFIC_EXECUTION_CREDIT
+
+## Exact source-level deltas since previous Oct24 A2
+- `SOURCE_REGISTRY.md` | modified, +3/-2 | MONTH_CURRENT_SOURCE_UPDATE | current change not retroactive producer evidence
+- `history/2026-10/2026-10-25-a1-native-evidence-custody.md` | added, +326/-0 | TEN_A1_MERGE_INPUT | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25.md` | added, +114/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25/F1-history-theory.md` | added, +50/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25/F2-models-algorithms.md` | added, +50/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25/F3-infrastructure.md` | added, +50/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25/F4-agentic-systems.md` | added, +50/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25/F5-evaluation-governance.md` | added, +50/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25/F6-ecosystem-society.md` | added, +50/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25/F7-synthesis.md` | added, +50/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/2026-10-25/README.md` | added, +18/-0 | OCT25_NATIVE_NEW | current change not retroactive producer evidence
+- `reports/daily/2026/10/README.md` | modified, +2/-1 | MONTH_CURRENT_SOURCE_UPDATE | current change not retroactive producer evidence
+- `reports/monthly/2026/2026-10.md` | modified, +11/-4 | MONTH_CURRENT_SOURCE_UPDATE | current change not retroactive producer evidence
+- `reports/monthly/2026/README.md` | modified, +1/-1 | MONTH_CURRENT_SOURCE_UPDATE | current change not retroactive producer evidence
+- `reports/weekly/2026/2026-W43.md` | modified, +45/-1 | SUNDAY_WEEKLY_SETTLEMENT | current change not retroactive producer evidence
+- `reports/weekly/2026/README.md` | modified, +1/-1 | MONTH_CURRENT_SOURCE_UPDATE | current change not retroactive producer evidence
+
+## Final A2 month current state
+- N-day original source pack is distinct from later error correction and current derived maintenance A1/A2.
+- Oct12 remains one genuine Native execution gap; 24/25 monthly original-day count does not become 25/25 from placeholders.
+- All W43 hypotheses explicitly retain their OPEN/CONFLICT states despite 7/7 real dates.
+- No original workstream, Weekly, Monthly, Special, Source Registry, runtime or D7/D10/D14/D30 archive altered by this maintenance relation.
+- A2_CURRENT_VERSION_2026-10 / W43_NATIVE_CLOSED_WITH_OPEN_HYPOTHESES / MONTH_OPEN / OCT12_GAP_PRESERVED
+- Final gate requires GitHub A2 PR merged, current owner file main-visible and all ten open PRs zero.
+
