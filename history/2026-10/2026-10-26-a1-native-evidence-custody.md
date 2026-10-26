@@ -1,0 +1,290 @@
+# A1 | agentic-frontier-observatory | 2026-10-26 N−1 original-source custody
+
+- Main: `7d582321be34e693b9bbc38b28664d11f720ef46`; prior merged Oct25 A2: `3296a85657593d905346aeb9a786883521eb4cba`; previous owner blob: `5951ede2dbbdc08e10a9001351603990d4e62bb7`.
+- Original native producer Web GPT; this file Independent GPT source-custody review only.
+- MonthStart=2026-10-01 through 2026-10-25; 2026-10-26 N-day files are excluded from A1 source promotion.
+- Tree objects=903; nontruncated=true; current N−1 source objects=225; expected 25 dates × 9 files=225; missing day/path slots=0.
+- Prior A2→current source changed paths: 13; Oct26 new Native content appears in that comparison but is OUT_OF_SCOPE_N−1.
+- Explicit historical October 12 original producer gap: BACKFILL_GAP_REGISTER, ORIGINAL_NATIVE_DAILY_CREDIT=0 despite 9 visible placeholders.
+- Real Native daily date credit through Oct25: 24/25 if all other 24 original records valid as previously established; this A1 did not replay publisher evidence.
+- W43 2026-10-19…25 weekly CLOSED 7/7 in prior native weekly report; open hypothesis status remains independent.
+- Current W44 (opening on Oct26) is excluded from A1; 2026-10 Monthly remains OPEN.
+- D7/D10/D14/D30 separate periodic audit tasks; current GitHub path visibility is not a new execution receipt.
+- Runtime, source recertification, paper review and author-claim replay NOT_EXECUTED by this maintainer.
+
+## Day-by-day original Native source custody: exact denominator versus credit
+- 2026-10-01 | 9/9 exact source path(s) | integrated blob `2df8aebe66516de08176b854cb7dc1611a5ea388` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-02 | 9/9 exact source path(s) | integrated blob `02610260d0ff2c00208ae7e5038829bedab6fa37` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-03 | 9/9 exact source path(s) | integrated blob `68284b25f2eca29957d22b7899a06035986dd5d7` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-04 | 9/9 exact source path(s) | integrated blob `1c56aa8fed0bb82e6f3c0424d6741d9e49a1fc5f` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-05 | 9/9 exact source path(s) | integrated blob `4fcd6bf640ead4128f56a41c6c1c2e3e537c1fe1` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-06 | 9/9 exact source path(s) | integrated blob `a15a6e63cf0576c5e64a375884e35b988899b767` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-07 | 9/9 exact source path(s) | integrated blob `71a2f3b54855da84aef9559b4f8e231e19d8195b` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-08 | 9/9 exact source path(s) | integrated blob `f553bb891ca8a17305ad7cf6b350ce114a438691` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-09 | 9/9 exact source path(s) | integrated blob `db6380342846635ee946a358004e5c8167165832` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-10 | 9/9 exact source path(s) | integrated blob `1a00d7a098ac15486a2a9650e9b91be509298127` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-11 | 9/9 exact source path(s) | integrated blob `6aba36b38ba8eccda57da53faa08584f93a5505b` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-12 | 9/9 exact source path(s) | integrated blob `808ef9d138b72f19f89ac658ff817039a7b89c32` | BACKFILL_GAP_REGISTER; ORIGINAL_NATIVE_CREDIT_0
+- 2026-10-13 | 9/9 exact source path(s) | integrated blob `73cdf0145a294a6088fe678fc6084ed4a90630e1` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-14 | 9/9 exact source path(s) | integrated blob `1bbb56ae76a78b450518812f313f7ec934ca3f40` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-15 | 9/9 exact source path(s) | integrated blob `252130757e8848f2c75c95aab489d2e7eb42016a` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-16 | 9/9 exact source path(s) | integrated blob `2fb4ccfbeb9e59ee03b119661aa188d9e2495198` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-17 | 9/9 exact source path(s) | integrated blob `3b6fc091161b1b893c98298f329f9c780af15a76` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-18 | 9/9 exact source path(s) | integrated blob `a623d05d01aedf880a9594f4f90de0eaecf2b1b0` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-19 | 9/9 exact source path(s) | integrated blob `e2d331559d950f83916088cde964e83628dd653b` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-20 | 9/9 exact source path(s) | integrated blob `66e3f524fddfe14200b31fc5705ebd84224ea34e` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-21 | 9/9 exact source path(s) | integrated blob `af9b711030e2ab1d4297c824f883da3a31414ad8` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-22 | 9/9 exact source path(s) | integrated blob `a5f31d3070a3a3fd6798db367645648ff95230a4` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-23 | 9/9 exact source path(s) | integrated blob `1cc8bccff3ddaa59aa632cb4ad7b79c1c392cdc3` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-24 | 9/9 exact source path(s) | integrated blob `450b573807e41f5bb568267acd08b5a931a6129e` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-25 | 9/9 exact source path(s) | integrated blob `91db00a65510ce48f07b3b1ec9a0dab37d9b6bda` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+
+## Exact native workstream/README/integrated objects (immutable Git blob identities, not truth)
+- 001 | `reports/daily/2026/10/2026-10-01.md` | blob `2df8aebe66516de08176b854cb7dc1611a5ea388` | 4856 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 002 | `reports/daily/2026/10/2026-10-01/F1-history-theory.md` | blob `a9b5d9c4fff05daef87f55bb8fdfec496f639229` | 230 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 003 | `reports/daily/2026/10/2026-10-01/F2-models-algorithms.md` | blob `1e7151237b9a06d582eed0eca7411b1ea19ed0bd` | 210 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 004 | `reports/daily/2026/10/2026-10-01/F3-infrastructure.md` | blob `fd518bca69b2ee35f16d25921f86ce149734cfc6` | 176 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 005 | `reports/daily/2026/10/2026-10-01/F4-agentic-systems.md` | blob `fb2a89b6dffb8a04a4fb9239536627b454d450b0` | 301 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 006 | `reports/daily/2026/10/2026-10-01/F5-evaluation-governance.md` | blob `cadaff09c5040b6595eca2c17cbc69f185c1d75b` | 351 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 007 | `reports/daily/2026/10/2026-10-01/F6-ecosystem-society.md` | blob `d90a4cc2fc578913e2dff7c681b802dc462d2104` | 205 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 008 | `reports/daily/2026/10/2026-10-01/F7-synthesis.md` | blob `009707d7be463f4fb224ac09095d6cd1d964b86a` | 374 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 009 | `reports/daily/2026/10/2026-10-01/README.md` | blob `20d65af060d747f7aad2b852d8f97a7823bfe4e2` | 452 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 010 | `reports/daily/2026/10/2026-10-02.md` | blob `02610260d0ff2c00208ae7e5038829bedab6fa37` | 6185 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 011 | `reports/daily/2026/10/2026-10-02/F1-history-theory.md` | blob `3895806bcbbead493df65b8f226c2f49eadea372` | 258 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 012 | `reports/daily/2026/10/2026-10-02/F2-models-algorithms.md` | blob `97fd440480de66df3155cb9e8fd919bb8f16f7e1` | 229 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 013 | `reports/daily/2026/10/2026-10-02/F3-infrastructure.md` | blob `a8daa54c41ed9f7cb402e367c5e6d5aebb1d30fa` | 240 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 014 | `reports/daily/2026/10/2026-10-02/F4-agentic-systems.md` | blob `857f4be064480485969ca63bca27d58dda89a1e5` | 813 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 015 | `reports/daily/2026/10/2026-10-02/F5-evaluation-governance.md` | blob `10348747fe29eed1fd09705af186cded81001699` | 528 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 016 | `reports/daily/2026/10/2026-10-02/F6-ecosystem-society.md` | blob `19eab6306ecc4808162b01f8d2e7cc11a431b156` | 308 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 017 | `reports/daily/2026/10/2026-10-02/F7-synthesis.md` | blob `e0a3919db372f6353a29a23dcf4ddde3b19bcef7` | 646 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 018 | `reports/daily/2026/10/2026-10-02/README.md` | blob `d47baa0f15b3842486ea9438a216ce0c098c985d` | 652 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 019 | `reports/daily/2026/10/2026-10-03.md` | blob `68284b25f2eca29957d22b7899a06035986dd5d7` | 11118 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 020 | `reports/daily/2026/10/2026-10-03/F1-history-theory.md` | blob `12c56601410a45f01c3abf62e2a76f070d9e1a32` | 478 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 021 | `reports/daily/2026/10/2026-10-03/F2-models-algorithms.md` | blob `84e237ad634b0a4f91ce69fa95ac33fed0b547ed` | 177 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 022 | `reports/daily/2026/10/2026-10-03/F3-infrastructure.md` | blob `80b11d5fdcfb594b4d42cb5d8709b56e24678cfe` | 176 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 023 | `reports/daily/2026/10/2026-10-03/F4-agentic-systems.md` | blob `ac962b820b3f03aeb21545960b745e1294618f5b` | 325 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 024 | `reports/daily/2026/10/2026-10-03/F5-evaluation-governance.md` | blob `cf6bc44731df649d2e217846604fc26968f01286` | 963 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 025 | `reports/daily/2026/10/2026-10-03/F6-ecosystem-society.md` | blob `02f73c6cd19f2ac509ddb38e00ab994677f84715` | 884 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 026 | `reports/daily/2026/10/2026-10-03/F7-synthesis.md` | blob `668531b07a1a89acdd3fb0983c38b0944290cf78` | 1054 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 027 | `reports/daily/2026/10/2026-10-03/README.md` | blob `68a4b69ff0529d70e7785e9ce8d5a5f7e2cf7b5c` | 900 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 028 | `reports/daily/2026/10/2026-10-04.md` | blob `1c56aa8fed0bb82e6f3c0424d6741d9e49a1fc5f` | 2609 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 029 | `reports/daily/2026/10/2026-10-04/F1-history-theory.md` | blob `a597215d299c4aa2b6cd517c220ddf30fb43abb0` | 162 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 030 | `reports/daily/2026/10/2026-10-04/F2-models-algorithms.md` | blob `686aa69e8d91e435bc21edd2de3d170cdd9aa5fd` | 114 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 031 | `reports/daily/2026/10/2026-10-04/F3-infrastructure.md` | blob `1f7261c2ff8d98e06db57a816808eff072b82a22` | 141 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 032 | `reports/daily/2026/10/2026-10-04/F4-agentic-systems.md` | blob `abd820b0a6d0f587922566747e3adff07856b314` | 218 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 033 | `reports/daily/2026/10/2026-10-04/F5-evaluation-governance.md` | blob `fff02524932adbba644abc48799245787c95163a` | 201 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 034 | `reports/daily/2026/10/2026-10-04/F6-ecosystem-society.md` | blob `0d79234c160d55ed6f9a07453888bceb0710d2a8` | 185 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 035 | `reports/daily/2026/10/2026-10-04/F7-synthesis.md` | blob `118faa85ba90c295e78cc3b8a39a7c61631b390a` | 213 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 036 | `reports/daily/2026/10/2026-10-04/README.md` | blob `5e9d9c48b8c159c7074d4b54192d7b4eb0c238db` | 178 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 037 | `reports/daily/2026/10/2026-10-05.md` | blob `4fcd6bf640ead4128f56a41c6c1c2e3e537c1fe1` | 5365 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 038 | `reports/daily/2026/10/2026-10-05/F1-history-theory.md` | blob `fe5faed92d1b48be5da5efa84b702c37c35ef6d6` | 221 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 039 | `reports/daily/2026/10/2026-10-05/F2-models-algorithms.md` | blob `d83328284d2db1b7e200edef5e1f631d00f08ad4` | 181 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 040 | `reports/daily/2026/10/2026-10-05/F3-infrastructure.md` | blob `5602e3c888098cb82ff2a2f23900b1aaab627ce1` | 176 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 041 | `reports/daily/2026/10/2026-10-05/F4-agentic-systems.md` | blob `b8cc81b93fd0de4e9dc3770f2d2dc55ca04cdea4` | 246 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 042 | `reports/daily/2026/10/2026-10-05/F5-evaluation-governance.md` | blob `9b928e1d59fa3e05a4629ef23d349fe3dacaccea` | 223 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 043 | `reports/daily/2026/10/2026-10-05/F6-ecosystem-society.md` | blob `b4c796201f7f40f4e71b33e6a39771bf862ad926` | 187 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 044 | `reports/daily/2026/10/2026-10-05/F7-synthesis.md` | blob `13eb51f3280a59cf72800b3bb0bec56e4befa6e2` | 218 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 045 | `reports/daily/2026/10/2026-10-05/README.md` | blob `496f8669dba991bbf075a1251b6419ecec390353` | 326 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 046 | `reports/daily/2026/10/2026-10-06.md` | blob `a15a6e63cf0576c5e64a375884e35b988899b767` | 5077 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 047 | `reports/daily/2026/10/2026-10-06/F1-history-theory.md` | blob `5e538e01b2869d16c8ba3f97041045cbdfae6f03` | 209 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 048 | `reports/daily/2026/10/2026-10-06/F2-models-algorithms.md` | blob `ee83ec42b6491519eefa589eefe7bade7de36579` | 156 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 049 | `reports/daily/2026/10/2026-10-06/F3-infrastructure.md` | blob `40c6f502eb4a0ba0d21ec8073c5a8bfa09a87dbb` | 251 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 050 | `reports/daily/2026/10/2026-10-06/F4-agentic-systems.md` | blob `44eea7fa722e6f60a45a264fd7194f0bf722a662` | 249 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 051 | `reports/daily/2026/10/2026-10-06/F5-evaluation-governance.md` | blob `80b8b5592d7048d49118dc120bcd4de6cbf960fd` | 243 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 052 | `reports/daily/2026/10/2026-10-06/F6-ecosystem-society.md` | blob `e8c1b9114146eb8beff21ddf8d549c248a8072db` | 217 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 053 | `reports/daily/2026/10/2026-10-06/F7-synthesis.md` | blob `4908db5857e2f53a4044b7a2eb6fe204e00ad92a` | 240 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 054 | `reports/daily/2026/10/2026-10-06/README.md` | blob `44b1d12ce2d2c60f5ba1a6844c7c40264331d857` | 349 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 055 | `reports/daily/2026/10/2026-10-07.md` | blob `71a2f3b54855da84aef9559b4f8e231e19d8195b` | 6411 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 056 | `reports/daily/2026/10/2026-10-07/F1-history-theory.md` | blob `582cd8eefff44493edb3a87db706d595bf3f078c` | 226 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 057 | `reports/daily/2026/10/2026-10-07/F2-models-algorithms.md` | blob `5d76101c0daf4ca0c495b5d8ef11e23ccfd17621` | 201 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 058 | `reports/daily/2026/10/2026-10-07/F3-infrastructure.md` | blob `40f0f5b08ed6f9ac33988b49ea1c384dcd1730bd` | 211 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 059 | `reports/daily/2026/10/2026-10-07/F4-agentic-systems.md` | blob `ad90b76a97494810222c68c353f5b35036bc782e` | 276 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 060 | `reports/daily/2026/10/2026-10-07/F5-evaluation-governance.md` | blob `278a8572728896e16b56c5816f031aa867de06ff` | 249 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 061 | `reports/daily/2026/10/2026-10-07/F6-ecosystem-society.md` | blob `439961b45298f44798f4ff3cd2448e5add96d34b` | 218 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 062 | `reports/daily/2026/10/2026-10-07/F7-synthesis.md` | blob `667acfd04f3ace4e84615962c2bb280422fc3759` | 308 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 063 | `reports/daily/2026/10/2026-10-07/README.md` | blob `9331121d90fec4872aeb840f83afc6c7bf7ff3ed` | 363 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 064 | `reports/daily/2026/10/2026-10-08.md` | blob `f553bb891ca8a17305ad7cf6b350ce114a438691` | 67 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 065 | `reports/daily/2026/10/2026-10-08/F1-history-theory.md` | blob `f1b1c0186d081e221a0a4bcae64541af3409fdad` | 95 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 066 | `reports/daily/2026/10/2026-10-08/F2-models-algorithms.md` | blob `70f9b9dd651c1846877101a4552b0ef9c28abf8b` | 5 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 067 | `reports/daily/2026/10/2026-10-08/F3-infrastructure.md` | blob `5e900bf178ea42d282c0ab31dc3594339a07fd5a` | 74 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 068 | `reports/daily/2026/10/2026-10-08/F4-agentic-systems.md` | blob `8abdf8d89830cce8b4f2d3b1b2316f7571fed268` | 5 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 069 | `reports/daily/2026/10/2026-10-08/F5-evaluation-governance.md` | blob `00e99371fedde6e11cf56ab1c863a62944ac3d73` | 5 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 070 | `reports/daily/2026/10/2026-10-08/F6-ecosystem-society.md` | blob `413b4908c29a3bc7232ae48726d725987720fa89` | 5 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 071 | `reports/daily/2026/10/2026-10-08/F7-synthesis.md` | blob `41c1ebfa5ac04630e1d2ed1a38f2d83315960afc` | 65 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 072 | `reports/daily/2026/10/2026-10-08/README.md` | blob `cd2963d39fca0298030dc37cc139c05e39b8c141` | 390 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 073 | `reports/daily/2026/10/2026-10-09.md` | blob `db6380342846635ee946a358004e5c8167165832` | 6947 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 074 | `reports/daily/2026/10/2026-10-09/F1-history-theory.md` | blob `3db3d7571243996e234a5e4c1952856925fcb9fe` | 586 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 075 | `reports/daily/2026/10/2026-10-09/F2-models-algorithms.md` | blob `a22b85ce76f0ca8c76ffcbc2afd4daff5556b655` | 569 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 076 | `reports/daily/2026/10/2026-10-09/F3-infrastructure.md` | blob `46755e323ba1c2b9ec0e2489178383d3716f0a52` | 651 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 077 | `reports/daily/2026/10/2026-10-09/F4-agentic-systems.md` | blob `cbeba7cae76f3b3a90fd2ac30136aa4d17fc59cf` | 684 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 078 | `reports/daily/2026/10/2026-10-09/F5-evaluation-governance.md` | blob `687b970e7a07a92ab3b16c33b94628f4c25f99ef` | 701 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 079 | `reports/daily/2026/10/2026-10-09/F6-ecosystem-society.md` | blob `8fa63b9dcaa6f1d4a3444a909b420e3b88f4cae6` | 619 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 080 | `reports/daily/2026/10/2026-10-09/F7-synthesis.md` | blob `05a6a4985e91752ea06430016474a07e286b2be1` | 674 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 081 | `reports/daily/2026/10/2026-10-09/README.md` | blob `b59d4d2b289f0b372fbc3ca007f53a2b710da16b` | 605 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 082 | `reports/daily/2026/10/2026-10-10.md` | blob `1a00d7a098ac15486a2a9650e9b91be509298127` | 6386 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 083 | `reports/daily/2026/10/2026-10-10/F1-history-theory.md` | blob `15658f54a68b197fed6ef967fb3914c231237dcd` | 494 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 084 | `reports/daily/2026/10/2026-10-10/F2-models-algorithms.md` | blob `1c13ffd06bcecdb5826efaef1bc5b8a423685cdc` | 497 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 085 | `reports/daily/2026/10/2026-10-10/F3-infrastructure.md` | blob `43cc2e23f88c272e4f86ea42434e92cf10cb5e99` | 491 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 086 | `reports/daily/2026/10/2026-10-10/F4-agentic-systems.md` | blob `4819adc1e01472a8f23dbb777393124443bfcccb` | 641 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 087 | `reports/daily/2026/10/2026-10-10/F5-evaluation-governance.md` | blob `2ce3c0de47fd4318b063155ae29b9402164d7b7d` | 612 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 088 | `reports/daily/2026/10/2026-10-10/F6-ecosystem-society.md` | blob `eaa885065afba7e860ce05718de8ea0d194a8ddd` | 534 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 089 | `reports/daily/2026/10/2026-10-10/F7-synthesis.md` | blob `88d632701960cf357adf61db2c90a1c7324472f0` | 711 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 090 | `reports/daily/2026/10/2026-10-10/README.md` | blob `1405c24f1cec75429e3735bc09f748fa396404db` | 638 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 091 | `reports/daily/2026/10/2026-10-11.md` | blob `6aba36b38ba8eccda57da53faa08584f93a5505b` | 6991 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 092 | `reports/daily/2026/10/2026-10-11/F1-history-theory.md` | blob `3753330f90a76e3888fd74f222ea2802684acf19` | 563 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 093 | `reports/daily/2026/10/2026-10-11/F2-models-algorithms.md` | blob `70af2919ebece49b9608a70001ddcc63fe1d113d` | 527 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 094 | `reports/daily/2026/10/2026-10-11/F3-infrastructure.md` | blob `7eb8eeb2f7100e8fb96252c774dc445be037bd72` | 499 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 095 | `reports/daily/2026/10/2026-10-11/F4-agentic-systems.md` | blob `ba59a1d6f90d62f6d2ccefe478b4525bed649265` | 623 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 096 | `reports/daily/2026/10/2026-10-11/F5-evaluation-governance.md` | blob `c2a4041d57f0dd3fa77a992466c2df47e49a8fae` | 589 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 097 | `reports/daily/2026/10/2026-10-11/F6-ecosystem-society.md` | blob `a60d01c92a337f75e3523445ae3f7a26dbf32bbe` | 545 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 098 | `reports/daily/2026/10/2026-10-11/F7-synthesis.md` | blob `620ca387bdf383b6368ef7810812eeea8dbe9071` | 609 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 099 | `reports/daily/2026/10/2026-10-11/README.md` | blob `41efdf78c9022a963de1a4a1ebc8e4e9098dd72e` | 598 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 100 | `reports/daily/2026/10/2026-10-12.md` | blob `808ef9d138b72f19f89ac658ff817039a7b89c32` | 2875 B | INTEGRATED | GAP_PLACEHOLDER_0_CREDIT
+- 101 | `reports/daily/2026/10/2026-10-12/F1-history-theory.md` | blob `f2406bd972b2825e56df52046503b72ff2f95720` | 914 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 102 | `reports/daily/2026/10/2026-10-12/F2-models-algorithms.md` | blob `44e151e6028b42d7a96ff423962831c6636f8b54` | 914 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 103 | `reports/daily/2026/10/2026-10-12/F3-infrastructure.md` | blob `a0a98fa7cad603a3ebea625dd1e25aa0f49c3ef4` | 914 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 104 | `reports/daily/2026/10/2026-10-12/F4-agentic-systems.md` | blob `a9f1cfdfcb8bc09f115f30f9e671a1e67e61c688` | 914 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 105 | `reports/daily/2026/10/2026-10-12/F5-evaluation-governance.md` | blob `acb08bdc04c3874570cad9cf190f2754bedaefd7` | 914 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 106 | `reports/daily/2026/10/2026-10-12/F6-ecosystem-society.md` | blob `543f283b04eb0e1a57961cd3c00e3ac8e4bad0b7` | 914 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 107 | `reports/daily/2026/10/2026-10-12/F7-synthesis.md` | blob `ba39ffe245e7e3d857b29069f856f1380bdc4feb` | 914 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 108 | `reports/daily/2026/10/2026-10-12/README.md` | blob `b6c156f45ab1b44d6674cfddf1bf374e964f3334` | 633 B | PACKAGE_BOUNDARY | GAP_PLACEHOLDER_0_CREDIT
+- 109 | `reports/daily/2026/10/2026-10-13.md` | blob `73cdf0145a294a6088fe678fc6084ed4a90630e1` | 8044 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 110 | `reports/daily/2026/10/2026-10-13/F1-history-theory.md` | blob `b476adc4a4a9c3ea495ef8b500a42a93c5dd014f` | 1542 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 111 | `reports/daily/2026/10/2026-10-13/F2-models-algorithms.md` | blob `5eb62f3237e51dd6aeb536f1706c9a60fc9ec3d5` | 1544 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 112 | `reports/daily/2026/10/2026-10-13/F3-infrastructure.md` | blob `31c448e1d12cba536bbfc0a48128a9412063fa62` | 1558 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 113 | `reports/daily/2026/10/2026-10-13/F4-agentic-systems.md` | blob `6105505b1d2805190012b0a3fea6326b92cdac54` | 1709 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 114 | `reports/daily/2026/10/2026-10-13/F5-evaluation-governance.md` | blob `c9708a89f722bc06950904e18ca6aaf6cb11ef0b` | 1593 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 115 | `reports/daily/2026/10/2026-10-13/F6-ecosystem-society.md` | blob `b2da8da2d6feabba6915a0998ca72bf36fb651d0` | 1638 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 116 | `reports/daily/2026/10/2026-10-13/F7-synthesis.md` | blob `31edaa801c93364f298da3d7380211c0fb3caf7b` | 1618 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 117 | `reports/daily/2026/10/2026-10-13/README.md` | blob `ac62e8671cffe23a8eb388dfce5f4e5b8dffadd6` | 746 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 118 | `reports/daily/2026/10/2026-10-14.md` | blob `1bbb56ae76a78b450518812f313f7ec934ca3f40` | 7946 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 119 | `reports/daily/2026/10/2026-10-14/F1-history-theory.md` | blob `4f9354898825506181b806cc7f74a51cfe4c6fd6` | 1815 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 120 | `reports/daily/2026/10/2026-10-14/F2-models-algorithms.md` | blob `b50f6a597e731039b20fc15bacfff1c3af21a2b0` | 1816 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 121 | `reports/daily/2026/10/2026-10-14/F3-infrastructure.md` | blob `ac14fc289b0ea4519ed7a84fed112efa4d460f18` | 1811 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 122 | `reports/daily/2026/10/2026-10-14/F4-agentic-systems.md` | blob `e40f6e5fc96e1e83274256f27537ac7a3fb274b3` | 1978 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 123 | `reports/daily/2026/10/2026-10-14/F5-evaluation-governance.md` | blob `0dc5568259e7300eb9b410293e30d15ca566e9d4` | 1900 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 124 | `reports/daily/2026/10/2026-10-14/F6-ecosystem-society.md` | blob `63436450d8291ea1806bf05e7e3c1d753f5fd818` | 1856 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 125 | `reports/daily/2026/10/2026-10-14/F7-synthesis.md` | blob `5756ad01439c9c48de91cd7ec6b5a47c90aef3f6` | 1879 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 126 | `reports/daily/2026/10/2026-10-14/README.md` | blob `befa940fbd5847e22b41cf41b383045f62a24200` | 671 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 127 | `reports/daily/2026/10/2026-10-15.md` | blob `252130757e8848f2c75c95aab489d2e7eb42016a` | 6992 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 128 | `reports/daily/2026/10/2026-10-15/F1-history-theory.md` | blob `c350446281b900d820982941e38627edb091a7a5` | 2136 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 129 | `reports/daily/2026/10/2026-10-15/F2-models-algorithms.md` | blob `5470dad446b6b686fad92f89e0ef8442aeba434c` | 2092 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 130 | `reports/daily/2026/10/2026-10-15/F3-infrastructure.md` | blob `5def344d503e07370ad3606916b9f1f522759305` | 2135 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 131 | `reports/daily/2026/10/2026-10-15/F4-agentic-systems.md` | blob `361407ebf09aec262592d771a7b7d3256e7f5361` | 2221 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 132 | `reports/daily/2026/10/2026-10-15/F5-evaluation-governance.md` | blob `fbc4eb7630007cde8e63c1aaeb6bc88037e96ae6` | 2106 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 133 | `reports/daily/2026/10/2026-10-15/F6-ecosystem-society.md` | blob `4d9d388f589754381866a6f0a8fa79bc15320531` | 2145 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 134 | `reports/daily/2026/10/2026-10-15/F7-synthesis.md` | blob `cadd78eedb2cb72b65fd4c03149e0a1becc1cdbb` | 2094 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 135 | `reports/daily/2026/10/2026-10-15/README.md` | blob `f899151ba1238d0804c0a58ae421a00805bf0c64` | 936 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 136 | `reports/daily/2026/10/2026-10-16.md` | blob `2fb4ccfbeb9e59ee03b119661aa188d9e2495198` | 7218 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 137 | `reports/daily/2026/10/2026-10-16/F1-history-theory.md` | blob `3a73cbd249bf90e303e078011dab17b05c2ea39a` | 2902 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 138 | `reports/daily/2026/10/2026-10-16/F2-models-algorithms.md` | blob `4f9309777b86013827fe0564d959ad71f4066e59` | 2848 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 139 | `reports/daily/2026/10/2026-10-16/F3-infrastructure.md` | blob `86c9b65e086442cd1ac90617e662577b69ad3f4d` | 2821 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 140 | `reports/daily/2026/10/2026-10-16/F4-agentic-systems.md` | blob `6300e3bd90ee4179bc2f8f65a7c49085fe34f7fb` | 2898 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 141 | `reports/daily/2026/10/2026-10-16/F5-evaluation-governance.md` | blob `bf1cb20842a715576885a0441249fff4c68c0660` | 2815 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 142 | `reports/daily/2026/10/2026-10-16/F6-ecosystem-society.md` | blob `3b491d73d383eb783f9c48989cdc954d9c1a3db4` | 2840 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 143 | `reports/daily/2026/10/2026-10-16/F7-synthesis.md` | blob `b9db8b2c7a4250c6ec9ab344ff8115becf74f02c` | 2913 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 144 | `reports/daily/2026/10/2026-10-16/README.md` | blob `2f106b50d6fda1c0aec6fe9aa3d6cf8ca3462d6c` | 874 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 145 | `reports/daily/2026/10/2026-10-17.md` | blob `3b6fc091161b1b893c98298f329f9c780af15a76` | 5769 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 146 | `reports/daily/2026/10/2026-10-17/F1-history-theory.md` | blob `53b1373b30c39dd6de3f20b67a0259c17eb16c9b` | 1298 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 147 | `reports/daily/2026/10/2026-10-17/F2-models-algorithms.md` | blob `da2c93371c0a0c76fcd8f8436ac3c9568a3bcb30` | 1160 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 148 | `reports/daily/2026/10/2026-10-17/F3-infrastructure.md` | blob `215ba13d2d9bc318087d299a33918a89c8a38e2b` | 1337 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 149 | `reports/daily/2026/10/2026-10-17/F4-agentic-systems.md` | blob `63a97654d77a32aa90bbff22080f739f1200bd4c` | 1594 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 150 | `reports/daily/2026/10/2026-10-17/F5-evaluation-governance.md` | blob `43789595053c47fb417c268014faadcb9f1969ee` | 1384 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 151 | `reports/daily/2026/10/2026-10-17/F6-ecosystem-society.md` | blob `a30d0477f688cc3b7697d30f947c66d32b8a64d1` | 1321 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 152 | `reports/daily/2026/10/2026-10-17/F7-synthesis.md` | blob `d080297c9b7d72a5a7b3d466c49cf01702e82ab3` | 1717 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 153 | `reports/daily/2026/10/2026-10-17/README.md` | blob `10603074a154e733562b6f474872f25f74847e24` | 1055 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 154 | `reports/daily/2026/10/2026-10-18.md` | blob `a623d05d01aedf880a9594f4f90de0eaecf2b1b0` | 6900 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 155 | `reports/daily/2026/10/2026-10-18/F1-history-theory.md` | blob `18d877b98b30f5aed02f300b866c60ef56c60505` | 1546 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 156 | `reports/daily/2026/10/2026-10-18/F2-models-algorithms.md` | blob `d423a9b80e80bede885157bf27318a0e2e585ac8` | 1506 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 157 | `reports/daily/2026/10/2026-10-18/F3-infrastructure.md` | blob `a8ccc2b9d7c689d2298e499211fca8fcdbc12895` | 1447 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 158 | `reports/daily/2026/10/2026-10-18/F4-agentic-systems.md` | blob `fd36e8f6b3ac71e234492ae96bfa49e2ceb2dd5e` | 1700 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 159 | `reports/daily/2026/10/2026-10-18/F5-evaluation-governance.md` | blob `4be78f898305e5464ab709af7c15d6011c96e456` | 1412 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 160 | `reports/daily/2026/10/2026-10-18/F6-ecosystem-society.md` | blob `ce95408e59dbf6803ec90dec0d0841b3d77ad326` | 1520 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 161 | `reports/daily/2026/10/2026-10-18/F7-synthesis.md` | blob `534c1a6f79a8622dbe99f18df159848b3120a400` | 1735 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 162 | `reports/daily/2026/10/2026-10-18/README.md` | blob `5526b20306d0aff3669854831f5f369bd7245258` | 1094 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 163 | `reports/daily/2026/10/2026-10-19.md` | blob `e2d331559d950f83916088cde964e83628dd653b` | 6970 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 164 | `reports/daily/2026/10/2026-10-19/F1-history-theory.md` | blob `ee31a9b8f402ed258caac43a21900c020f4d5e48` | 2544 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 165 | `reports/daily/2026/10/2026-10-19/F2-models-algorithms.md` | blob `39fc16df3d7408deff45e6e646429ddc531ed199` | 2513 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 166 | `reports/daily/2026/10/2026-10-19/F3-infrastructure.md` | blob `d2eca4c517b3232e855d660052ed9d6e0ea0b954` | 2588 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 167 | `reports/daily/2026/10/2026-10-19/F4-agentic-systems.md` | blob `ce72f71918412d9b0cb0a9314db60137a013e3e7` | 2664 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 168 | `reports/daily/2026/10/2026-10-19/F5-evaluation-governance.md` | blob `e07090e1b65ad094638ff613f7e182f53288f6f3` | 2574 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 169 | `reports/daily/2026/10/2026-10-19/F6-ecosystem-society.md` | blob `6461b3d304963b203f3804662ead6dea72fcce31` | 2583 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 170 | `reports/daily/2026/10/2026-10-19/F7-synthesis.md` | blob `669be870f387b105a6f4895f498a01b08df24976` | 2679 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 171 | `reports/daily/2026/10/2026-10-19/README.md` | blob `a41c253ad84fb507ce00baedade2ca6a6d4f075c` | 818 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 172 | `reports/daily/2026/10/2026-10-20.md` | blob `66e3f524fddfe14200b31fc5705ebd84224ea34e` | 7985 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 173 | `reports/daily/2026/10/2026-10-20/F1-history-theory.md` | blob `239c28f4532bec24938e062accdbb9af5e28db7e` | 2740 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 174 | `reports/daily/2026/10/2026-10-20/F2-models-algorithms.md` | blob `383863fc88f0ed89ce0b6690f55e06ed2680dbed` | 2740 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 175 | `reports/daily/2026/10/2026-10-20/F3-infrastructure.md` | blob `02693551b46ac0292aecc0d0f0760a2ef0771181` | 2729 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 176 | `reports/daily/2026/10/2026-10-20/F4-agentic-systems.md` | blob `88353301109e04231b1cbc7ae3fa0ac593c8e10d` | 2806 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 177 | `reports/daily/2026/10/2026-10-20/F5-evaluation-governance.md` | blob `6900ba46979edc0935bc22c0e8c301e942e82bc6` | 2771 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 178 | `reports/daily/2026/10/2026-10-20/F6-ecosystem-society.md` | blob `bed59944edbe580a950bbe5ac7552dfe1ad31395` | 2755 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 179 | `reports/daily/2026/10/2026-10-20/F7-synthesis.md` | blob `0734d7b7ac0a31702c6f604d57137af4402cee17` | 2815 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 180 | `reports/daily/2026/10/2026-10-20/README.md` | blob `3551f6d47c3365d4c3a3899ba37db4344ee0320b` | 836 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 181 | `reports/daily/2026/10/2026-10-21.md` | blob `af9b711030e2ab1d4297c824f883da3a31414ad8` | 4417 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 182 | `reports/daily/2026/10/2026-10-21/F1-history-theory.md` | blob `c1459efe8663cd8cb416fb6caaf609a38faf4c0f` | 1918 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 183 | `reports/daily/2026/10/2026-10-21/F2-models-algorithms.md` | blob `3a3ce246986dd9679e9e8778bfd2884a83e3637a` | 1952 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 184 | `reports/daily/2026/10/2026-10-21/F3-infrastructure.md` | blob `cab9c8582f9396e7ea0e520c2a74518f64c446f3` | 1930 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 185 | `reports/daily/2026/10/2026-10-21/F4-agentic-systems.md` | blob `9fa83d360e51147733a68f139c37b6eaf6764148` | 1967 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 186 | `reports/daily/2026/10/2026-10-21/F5-evaluation-governance.md` | blob `3e1205a26cf640b6aa1b21b51a34095dd8878407` | 1915 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 187 | `reports/daily/2026/10/2026-10-21/F6-ecosystem-society.md` | blob `f54fc59fe43f2b7d3f72ab6f462e9abd1315f91c` | 1898 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 188 | `reports/daily/2026/10/2026-10-21/F7-synthesis.md` | blob `522496c628e0b23512421cac269cb33db5770da2` | 1968 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 189 | `reports/daily/2026/10/2026-10-21/README.md` | blob `b1e74f8d897ac4e13503f195d52e34054d88ab0d` | 806 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 190 | `reports/daily/2026/10/2026-10-22.md` | blob `a5f31d3070a3a3fd6798db367645648ff95230a4` | 5446 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 191 | `reports/daily/2026/10/2026-10-22/F1-history-theory.md` | blob `758784d44f773cfddf1ef056b36d57d24a397094` | 1458 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 192 | `reports/daily/2026/10/2026-10-22/F2-models-algorithms.md` | blob `8eb1f657c095802f544102d2df718f189b5aa306` | 1430 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 193 | `reports/daily/2026/10/2026-10-22/F3-infrastructure.md` | blob `9cd9ee0f53325164640b8bdcd03356e9b2ddeb81` | 1167 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 194 | `reports/daily/2026/10/2026-10-22/F4-agentic-systems.md` | blob `5a4fe10530f382977b812d93050721165851299c` | 1210 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 195 | `reports/daily/2026/10/2026-10-22/F5-evaluation-governance.md` | blob `bf47c9762af86c518bc1895802b9f919c19e82bf` | 944 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 196 | `reports/daily/2026/10/2026-10-22/F6-ecosystem-society.md` | blob `86d2fcfb9989da07a7b51fa08db4b68dcffa1e54` | 889 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 197 | `reports/daily/2026/10/2026-10-22/F7-synthesis.md` | blob `d67bfe396bac23748a904bf84799c05eb42d04b9` | 887 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 198 | `reports/daily/2026/10/2026-10-22/README.md` | blob `7d797d6f1888172687124af4e732c05f9e4ee6b2` | 792 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 199 | `reports/daily/2026/10/2026-10-23.md` | blob `1cc8bccff3ddaa59aa632cb4ad7b79c1c392cdc3` | 6933 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 200 | `reports/daily/2026/10/2026-10-23/F1-history-theory.md` | blob `d9fbf35242d99df72b5129b3c48bcedb67fc1de4` | 2574 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 201 | `reports/daily/2026/10/2026-10-23/F2-models-algorithms.md` | blob `611bc2021afaff0e53e4aa9d595819f049b622cc` | 2549 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 202 | `reports/daily/2026/10/2026-10-23/F3-infrastructure.md` | blob `14e99fe2ae8a91921ca0c45b2e1faf457a8996db` | 2667 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 203 | `reports/daily/2026/10/2026-10-23/F4-agentic-systems.md` | blob `9d18f02f1d0d160d979f9b4592ae3f879ca309f8` | 2644 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 204 | `reports/daily/2026/10/2026-10-23/F5-evaluation-governance.md` | blob `618cd5447772c3915d9ab8581068d61efaba1f3f` | 2611 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 205 | `reports/daily/2026/10/2026-10-23/F6-ecosystem-society.md` | blob `38f04f50a461365a94712f91e2b2da395a49b058` | 2593 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 206 | `reports/daily/2026/10/2026-10-23/F7-synthesis.md` | blob `42632e4e0c93394a4c8f933e03544055722a0048` | 2601 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 207 | `reports/daily/2026/10/2026-10-23/README.md` | blob `5dd7538ec1d17c73b2ff2f20cada0e1d48ad2db6` | 1096 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 208 | `reports/daily/2026/10/2026-10-24.md` | blob `450b573807e41f5bb568267acd08b5a931a6129e` | 6606 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 209 | `reports/daily/2026/10/2026-10-24/F1-history-theory.md` | blob `84d7b8c04ac6281922e4877af9c5a4c90517d16b` | 2367 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 210 | `reports/daily/2026/10/2026-10-24/F2-models-algorithms.md` | blob `0f2988ac9ff88d6b12f7d90ad6ed3222a0ed9c82` | 2395 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 211 | `reports/daily/2026/10/2026-10-24/F3-infrastructure.md` | blob `fa35c314756e88edc4aa2b55996bafa293be309d` | 2436 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 212 | `reports/daily/2026/10/2026-10-24/F4-agentic-systems.md` | blob `c1706fc909c8c44dd5367cb88638c9d7ed002e70` | 2490 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 213 | `reports/daily/2026/10/2026-10-24/F5-evaluation-governance.md` | blob `a32b56e248f70dc244fd54e804c7b4bfcbec2fcf` | 2422 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 214 | `reports/daily/2026/10/2026-10-24/F6-ecosystem-society.md` | blob `be40fef35c409d40958a914d2632f03309c2cf9a` | 2383 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 215 | `reports/daily/2026/10/2026-10-24/F7-synthesis.md` | blob `7b59682bd846422dd9d8e06b7f460de5bd60b0a1` | 2453 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 216 | `reports/daily/2026/10/2026-10-24/README.md` | blob `7534ce0acc2fd0751a601c9c0fe89eace06eefba` | 970 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 217 | `reports/daily/2026/10/2026-10-25.md` | blob `91db00a65510ce48f07b3b1ec9a0dab37d9b6bda` | 8692 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 218 | `reports/daily/2026/10/2026-10-25/F1-history-theory.md` | blob `bab0ec96997ecd9c0c403c622b32d78a71ba652a` | 3241 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 219 | `reports/daily/2026/10/2026-10-25/F2-models-algorithms.md` | blob `5cc02a81149cb4b4040aecfb9a78dda466c8411c` | 3236 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 220 | `reports/daily/2026/10/2026-10-25/F3-infrastructure.md` | blob `5d4b39409bc86c28b44caf7fde1b7e02723f87ec` | 3280 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 221 | `reports/daily/2026/10/2026-10-25/F4-agentic-systems.md` | blob `3372331cfb160866d4942a42b928af0aa536e393` | 3357 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 222 | `reports/daily/2026/10/2026-10-25/F5-evaluation-governance.md` | blob `12e6fd0bfbf294621cd3a165b127ecc98d1d9ba1` | 3259 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 223 | `reports/daily/2026/10/2026-10-25/F6-ecosystem-society.md` | blob `331626ec474fc29b480729295a7ac1f3b7169d4a` | 3273 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 224 | `reports/daily/2026/10/2026-10-25/F7-synthesis.md` | blob `f4d619093623bfb85c75a3697500a8dddd6f7583` | 3284 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 225 | `reports/daily/2026/10/2026-10-25/README.md` | blob `6d99d8755dd92ed134914b59dfc20f5bdbc45ffb` | 999 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+
+## Compare prior Oct25 A2 to live main (26th changes excluded from A1 credit)
+- Δ01 `reports/daily/2026/10/2026-10-26.md` | added +108/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ02 `reports/daily/2026/10/2026-10-26/F1-history-theory.md` | added +49/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ03 `reports/daily/2026/10/2026-10-26/F2-models-algorithms.md` | added +48/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ04 `reports/daily/2026/10/2026-10-26/F3-infrastructure.md` | added +47/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ05 `reports/daily/2026/10/2026-10-26/F4-agentic-systems.md` | added +50/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ06 `reports/daily/2026/10/2026-10-26/F5-evaluation-governance.md` | added +48/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ07 `reports/daily/2026/10/2026-10-26/F6-ecosystem-society.md` | added +48/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ08 `reports/daily/2026/10/2026-10-26/F7-synthesis.md` | added +52/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ09 `reports/daily/2026/10/2026-10-26/README.md` | added +36/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ10 `reports/daily/2026/10/README.md` | modified +3/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ11 `reports/monthly/2026/README.md` | modified +1/-1 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ12 `reports/weekly/2026/2026-W44.md` | added +66/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ13 `reports/weekly/2026/README.md` | modified +1/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+
+## Reconciliation rules
+- Native workstreams are not independent confirmations merely because there are seven/eight files; they are subordinate to a single day's publisher provenance.
+- Oct12 gap placeholders cannot acquire original Daily credit via backfilled index, monthly relation, or this A1 audit.
+- W43 closed task coverage must not imply the week’s science/standards hypotheses were independently closed.
+- GitHub merge time, logical date, source first seen, official lifecycle and deployment time are separate clocks.
+- A2 must begin after ten A1 merges, read a newly frozen ten-repo main and include actual Oct26 source and W44 OPEN without sealing month.
+- Original source/historical documents are not mutated here.
