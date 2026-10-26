@@ -1,0 +1,36 @@
+# Global native F1–F7 pack — 2026-10-27
+
+- logical_date: 2026-10-27 Asia/Shanghai
+- observation_cutoff: 2026-10-27 05:00:11 Asia/Shanghai
+- observation_utc: 2026-10-26T21:00:11Z
+- research_base_main: cde27977bc6e727a9d959de5b634c39a32eec209
+- record_class: NATIVE_DAILY_RESEARCH
+- evidence_scope: Poppy publisher website + versioned spec + GitHub main / manifest / commit provenance，NIST NCCoE current project display，其他全球 AI 事件 NOT_ASSESSED
+- statement_classes: FIRST_PARTY_SOURCE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
+- Poppy_0_2_publisher_declared_publication_date: 2026-10-24
+- Poppy_0_2_first_public_availability_timestamp: UNVERIFIED
+- Poppy_0_3_state: Draft / In progress
+- Poppy_GitHub_main_observed: a95b757872533a6ef1e1a9bcf29802857d2e5ff4
+- Poppy_GitHub_publish_commit: 2da94ae4ce8bb7588440c9ce932a728ebfa16580
+- Poppy_GitHub_commit_committer_date: 2026-10-26T03:26:23Z
+- Poppy_current_surface_relation: RECONCILED_AT_THIS_CUT / DEPLOYMENT_CHRONOLOGY_UNVERIFIED
+- NIST_current_display: Soliciting Comments
+- NIST_state_transition_date: UNVERIFIED
+- external_runtime_TCK_benchmark_conformance: NOT_EXECUTED
+- prior_native_main: reports/daily/2026/10/2026-10-26.md + F1–F7
+- W43: FINAL / CLOSED 7/7，H43-1 SOURCE_CONFLICT at prior cut，H43-2~3 OPEN
+- W44: OPEN / 2 of 7 native dates，H44-1 OPEN / CURRENT_SURFACES_RECONCILED / PROVENANCE_UNVERIFIED，H44-2~3 OPEN / UNCHANGED
+- October: OPEN，拟议合并后 26 native dates 10-01..11 and 10-13..27，10-12 historical native gap
+- future_dates: 2026-10-28..31 NOT_DUE
+- result: MATERIAL_FIRST_PARTY_CROSS_SURFACE_RECONCILIATION / PROVENANCE_OPEN / EXTERNAL_RUNTIME_NOT_EXECUTED
+- [Integrated Daily](../2026-10-27.md)
+- [历史、理论与范式](./F1-history-theory.md)
+- [模型、算法与多模态](./F2-models-algorithms.md)
+- [算力、芯片、数据与基础设施](./F3-infrastructure.md)
+- [Agent、Runtime、Harness 与协议](./F4-agentic-systems.md)
+- [评测、安全、治理与标准](./F5-evaluation-governance.md)
+- [开源、产业、经济与社会](./F6-ecosystem-society.md)
+- [综合与判断修正](./F7-synthesis.md)
+- 1 integrated + 7 workstreams + README = 9 files
+- W44 OPEN 2/7，H44-1 OPEN / CURRENT_SURFACES_RECONCILED，H44-2~3 OPEN / UNCHANGED
+- October Monthly OPEN，26 native dates，10-12 historical gap，28–31 NOT_DUE
