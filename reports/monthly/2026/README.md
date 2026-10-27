@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 2026-08 | CLOSED; post-closure correction recorded 2026-09-01 | 7–31 Aug, 25 real days | F.748.93 approval occurred 29 Aug and was observed after closure. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
-| 2026-10 | **OPEN** |  26 native Dailies: 1–11, 13–27 Oct; 12 Oct gap | W43 FINAL/CLOSED 7/7，W44 OPEN 2/7，28–31 NOT_DUE at 2026-10-27 05:00:11 Asia/Shanghai，Poppy current website–GitHub version surfaces reconciled，deployment chronology and conformance UNVERIFIED，monthly body retains dated 10-25 checkpoint |
+| 2026-10 | **OPEN** | 27 native Dailies: 1–11, 13–28 Oct; 12 Oct gap | W43 FINAL/CLOSED 7/7，W44 OPEN 3/7，29–31 NOT_DUE at 2026-10-28 05:01:01 Asia/Shanghai，Poppy current version surfaces reconciled，deployment chronology and conformance UNVERIFIED |
 
 > Closed history may receive an explicit correction; it is never silently rewritten.
 
