@@ -1,5 +1,12 @@
 # September 2026 Daily Index
 
+## 2026-10-29 forward correction: 2026-09-28 Global integrated report identity
+
+**Read [the dated cross-repository correction](../../../../history/2026-10/2026-10-29-global-2026-09-28-cross-repository-daily-identity-correction.md) before relying on the [2026-09-28 integrated path](./2026-09-28.md).** The original integrated file mistakenly contains the *China* Observatory's `C1–C8` retrospective text (identical Git blob in both repositories), whereas the seven existing [Global F1–F7 retrospective workstreams](./2026-09-28/README.md) are a separate, correctly scoped documentary reconstruction. The original 2026-09-28 Global Web GPT native observation remains `NOT_RETAINED / NOT_OBSERVED`, with **zero native research credit**. W40 remains `CLOSED_WITH_GAP`. The original wrong file and historical index entries are retained for provenance rather than silently overwritten.
+
+The [2026-09-26 F1–F7 pack index](./2026-09-26/README.md) was added on 2026-10-29 as a **navigation-only structural correction**; its Daily and original F1–F7 research content are unchanged. This index change gives zero extra observation or research credit.
+
+
 | Date | Daily | Pack | Weekly context |
 |---|---|---|---|
 | 2026-09-01 | [`2026-09-01.md`](./2026-09-01.md) | [`2026-09-01/`](./2026-09-01/) | W36 |
