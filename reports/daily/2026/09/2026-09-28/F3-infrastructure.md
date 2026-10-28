@@ -22,8 +22,8 @@ No independently established infrastructure or durable-effect transition is admi
 A model release or product positioning cannot serve as an infrastructure execution receipt.
 
 ## Sources and custody
-- [W40 post-hoc Special](../../../weekly/2026/2026-W40-special-reconciliation-2026-10-04.md), authored 2026-10-04, its own source-access state (not re-verified as original 2026-09-28 access)
-- [W40 canonical settlement](../../../weekly/2026/2026-W40.md), retaining the missing original Daily
+- [W40 post-hoc Special](../../../../weekly/2026/2026-W40-special-reconciliation-2026-10-04.md), authored 2026-10-04, its own source-access state (not re-verified as original 2026-09-28 access)
+- [W40 canonical settlement](../../../../weekly/2026/2026-W40.md), retaining the missing original Daily
 - [Retrospective integrated 2026-09-28](../2026-09-28.md)
 
 No runtime, benchmark, external-conformance, cross-vendor authority or original source-time observation is claimed by this October 28 reconstruction.
