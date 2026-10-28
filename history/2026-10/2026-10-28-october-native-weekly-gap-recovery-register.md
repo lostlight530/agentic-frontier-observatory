@@ -72,7 +72,7 @@ F1–F7 and Daily paths alone cannot establish independent source identities, pu
 2. **RESTORE only truly missing work**: if task-time evidence is unavailable, a new author may produce a date-of-repair *source-bounded follow-on* under the existing correction/reconciliation namespace. Preserve the missing original canonical object; do not impersonate a 2026-10-27 scheduler run or backdate external search. If a genuine original file is recoverable with provenance, propose it by separate reviewed PR according to its canonical contract.
 3. **A1 full-month content decision coverage**: for every material Daily, Weekly, Monthly, Special, Stage, archive transition and later corrected object in scope, record exact path/blob/source version, decision `NO_FOLLOW_UP`, `CORRECT_IN_PLACE` (only legal unmerged work), `APPEND_RELATION`, `BOUNDARY_UPDATE`, `BLOCKED`, `NOT_DUE` or `COORDINATE` and justification. Start day 1, end N−1; *not* a count of Git identities.
 4. **A2 whole-month current relation**: only after verified merged A1, reread current main; reconcile Daily→Weekly→Monthly and Special/Stage source-custody, supersession, explicit conflict, undelivered upstream and open-week/month boundaries through N. Do not replace the existing month owner with a parallel authority document.
-5. **Independent audits**: D7 Oct 07 and D10 Oct 10 = `UNVERIFIED` until original dedicated-run receipt establishes a stronger state; D14 Oct 14 = dated independent audit record exists, no new replay from this register; D30 Oct 30 = `NOT_DUE` as of Oct 28. Never derive an independent audit PASS from A1/A2 or current-week paths.
+5. **Audit checkpoints, not required filenames**: D7 (Oct 07) and D10 (Oct 10) are the cross-window review dates; whether their audit-log entries and underlying evidence satisfy the event requirements remains NOT_FULLY_ATTESTED by this inventory. The absence of a dedicated D7/D10 Markdown file is not a missing-task finding. D14 (Oct 14) has a historical audit record; D30 (Oct 30) is NOT_DUE as of Oct 28. Never derive checkpoint PASS from A1/A2.
 6. **Validate and deliver**: confirm author/source claims, tests and same-runtime invariants where applicable, PR file list, branch-head/main rebase safety, GitHub check conclusions, then human review. This Draft PR provides only a provenance/coverage corrective index; it does **not** close work items 1–5.
 
 ## Gate status and authority
@@ -83,10 +83,18 @@ F1–F7 and Daily paths alone cannot establish independent source identities, pu
 | Historical native scheduler and semantic evidence | PARTIAL / UNKNOWN per item |
 | A1 completeness of typed per-object decisions | PARTIAL / NOT_FULLY_ATTESTED |
 | A2 month-wide cross-artifact relation | PARTIAL / NOT_FULLY_ATTESTED |
-| D7, D10 | UNVERIFIED; original receipts not re-established in this inventory |
+| D7, D10 | CHECKPOINTS / NOT_REQUIRED_FILENAMES; audit-log and underlying evidence NOT_FULLY_ATTESTED |
 | D14 | HISTORICAL_RECORD_PRESENT; no repeat execution |
 | D30 / October final | NOT_DUE at 2026-10-28 |
 | Runtime / research reproduction | NOT_EXECUTED_BY_THIS_REGISTER |
 | Long-term governance promotion | NONE |
 
 **Source priority:** repo current `main` and canonical contracts → native source-time records → dated corrections → this derived inventory. Existing October A1/A2 and the 2026-10-28 minimal acceptance audit remain intact. All historical discrepancies are retained, and any subsequent completion requires a newer dated delta with exact proof, not silently changing this record.
+
+
+## 2026-10-28 SOP reconciliation: audit checkpoint is not file identity
+
+- **D7, D10, D14 and D30 define audit checkpoint dates/windows, not mandatory per-checkpoint Markdown filenames or a replacement daily research task.** The audit contract requires append-only, traceable findings within the owning audit log/record.
+- The unmerged PR previously carried a separate Oct28 `retrospective-d7-d10` draft artifact; it was withdrawn from the current PR diff after correction of this interpretation. Historical Git commits on the draft branch remain traceable. Its temporary existence is not credit for Oct07/Oct10 execution.
+- A missing file named for D7 or D10, by itself, is **not** a missing audit. A missing or insufficient dated *audit-log entry/runner evidence* may be reported only after inspecting the owning log/authority and its genuine due contract. This inventory has not established all that evidence; checkpoint outcome is `NOT_FULLY_ATTESTED`, not `NOT_EXECUTED`.
+- Existing October A1/A2 per-object semantic verification remains `PARTIAL`. This reconciliation does not silently change earlier A1/A2 or D14 records and does not assert a full October closure.
