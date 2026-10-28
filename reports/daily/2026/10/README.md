@@ -1,5 +1,7 @@
 # October 2026 Daily Index
 
+**Current checkpoint 2026-10-28 05:01:01 Asia/Shanghai**：27 native F1–F7 Daily dates（10-01..11、10-13..28），10-12 historical gap，W44 OPEN 3/7，October OPEN，29–31 NOT_DUE
+
 **Current native coverage as of 2026-10-27 05:00:11 Asia/Shanghai：26 dates (1–11, 13–27 Oct)，12 Oct gap，28–31 NOT_DUE，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，Monthly OPEN**
 
 | Date | Daily | Pack | Weekly context |
@@ -37,8 +39,9 @@
 **Historical 2026-10-26 checkpoint**：25 native dates，W44 OPEN 1/7，Poppy website–GitHub source conflict at that cut
 
 | 2026-10-27 | [2026-10-27.md](./2026-10-27.md) | [2026-10-27/](./2026-10-27/) | W44 OPEN 2/7 / Poppy CURRENT_SURFACES_RECONCILED / PROVENANCE_OPEN |
+| 2026-10-28 | [2026-10-28.md](./2026-10-28.md) | [2026-10-28/](./2026-10-28/) | W44 OPEN 3/7 / PARTIAL BOUNDED / NO VERIFIED NEW TRANSITION |
 
-**Current 2026-10-27 05:00:11 Asia/Shanghai checkpoint**：26 native F1–F7 Daily dates（10-01..11、10-13..27），10-12 past-date native gap，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，October Monthly OPEN，28–31 NOT_DUE，Poppy site–GitHub current version surfaces reconciled，deployment chronology and independent conformance still UNVERIFIED
+**Historical 2026-10-27 05:00:11 Asia/Shanghai checkpoint**：26 native F1–F7 Daily dates（10-01..11、10-13..27），10-12 past-date native gap，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，October Monthly OPEN，28–31 NOT_DUE，Poppy site–GitHub current version surfaces reconciled，deployment chronology and independent conformance still UNVERIFIED
 
 Historical 2026-10-17 checkpoint at 05:03:09 Asia/Shanghai: **16 real native Daily dates** (1–11, 13–17 October), 2026-10-12 past-date native gap，18–31 NOT_DUE
 
