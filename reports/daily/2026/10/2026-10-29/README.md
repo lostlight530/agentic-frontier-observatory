@@ -1,0 +1,24 @@
+# Global native F1–F7 pack — 2026-10-29
+
+- logical_date: 2026-10-29 Asia/Shanghai
+- observation_cutoff: 2026-10-29 05:02:50 Asia/Shanghai
+- observation_utc: 2026-10-28T21:02:50Z
+- research_base_main: 8989bf3095f533e0651f3ea56940a14a26f3261d
+- record_class: NATIVE_DAILY_RESEARCH
+- evidence_scope: Poppy first-party version surfaces + NIST NCCoE，其他全球 AI 事件 NOT_ASSESSED
+- result: PARTIAL_BOUNDED / NO_VERIFIED_SAME_DAY_TRANSITION
+- Poppy_GitHub_main: a95b757872533a6ef1e1a9bcf29802857d2e5ff4
+- Poppy_current_surface_relation: RECONCILED_AT_THIS_CUT / DEPLOYMENT_CHRONOLOGY_UNVERIFIED
+- NIST_current_display: Soliciting Comments
+- W44: OPEN / proposed 4/7，H44-1 OPEN / PROVENANCE_UNVERIFIED，H44-2~3 OPEN / UNCHANGED
+- October: OPEN / proposed 28 native dates，10-12 historical gap，30–31 NOT_DUE
+- external_runtime_TCK_CI_benchmark_conformance: NOT_EXECUTED
+- [Integrated Daily](../2026-10-29.md)
+- [F1 历史、理论与范式](./F1-history-theory.md)
+- [F2 模型、算法与多模态](./F2-models-algorithms.md)
+- [F3 算力、芯片、数据与基础设施](./F3-infrastructure.md)
+- [F4 Agent、Runtime、Harness 与协议](./F4-agentic-systems.md)
+- [F5 评测、安全、治理与标准](./F5-evaluation-governance.md)
+- [F6 开源、产业、经济与社会](./F6-ecosystem-society.md)
+- [F7 综合与判断修正](./F7-synthesis.md)
+- 1 integrated + 7 workstreams + README = 9 files
