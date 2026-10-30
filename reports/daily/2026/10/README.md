@@ -1,6 +1,6 @@
 # October 2026 Daily Index
 
-**Proposed checkpoint 2026-10-29 05:02:50 Asia/Shanghai**：28 native F1–F7 Daily dates（10-01..11、10-13..29）upon merge，base main has 27 through 10-28，10-12 historical gap，W44 OPEN proposed 4/7，October OPEN，30–31 NOT_DUE
+**Proposed checkpoint 2026-10-30 05:04:00 Asia/Shanghai**：29 native F1–F7 Daily dates（10-01..11、10-13..30）upon merge，base main has 28 through 10-29，10-12 historical gap，W44 OPEN proposed 5/7，October OPEN，31 Oct NOT_DUE
 
 **Current native coverage as of 2026-10-27 05:00:11 Asia/Shanghai：26 dates (1–11, 13–27 Oct)，12 Oct gap，28–31 NOT_DUE，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，Monthly OPEN**
 
@@ -40,7 +40,8 @@
 
 | 2026-10-27 | [2026-10-27.md](./2026-10-27.md) | [2026-10-27/](./2026-10-27/) | W44 OPEN 2/7 / Poppy CURRENT_SURFACES_RECONCILED / PROVENANCE_OPEN |
 | 2026-10-28 | [2026-10-28.md](./2026-10-28.md) | [2026-10-28/](./2026-10-28/) | W44 OPEN 3/7 / PARTIAL BOUNDED / NO VERIFIED NEW TRANSITION |
-| 2026-10-29 | [2026-10-29.md](./2026-10-29.md) | [2026-10-29/](./2026-10-29/) | W44 OPEN proposed 4/7 / PARTIAL BOUNDED / NO VERIFIED SAME-DAY TRANSITION |
+| 2026-10-29 | [2026-10-29.md](./2026-10-29.md) | [2026-10-29/](./2026-10-29/) | W44 OPEN 4/7 / PARTIAL BOUNDED / NO VERIFIED SAME-DAY TRANSITION |
+| 2026-10-30 | [2026-10-30.md](./2026-10-30.md) | [2026-10-30/](./2026-10-30/) | W44 OPEN proposed 5/7 / MATERIAL FIRST-PARTY DRAFT REVISION |
 
 **Historical 2026-10-27 05:00:11 Asia/Shanghai checkpoint**：26 native F1–F7 Daily dates（10-01..11、10-13..27），10-12 past-date native gap，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，October Monthly OPEN，28–31 NOT_DUE，Poppy site–GitHub current version surfaces reconciled，deployment chronology and independent conformance still UNVERIFIED
 
