@@ -1,6 +1,6 @@
 # October 2026 Daily Index
 
-**Proposed checkpoint 2026-10-30 05:04:00 Asia/Shanghai**：29 native F1–F7 Daily dates（10-01..11、10-13..30）upon merge，base main has 28 through 10-29，10-12 historical gap，W44 OPEN proposed 5/7，October OPEN，31 Oct NOT_DUE
+**Current merged checkpoint 2026-10-30 05:04:00 Asia/Shanghai**：29 native F1–F7 Daily dates（10-01..11、10-13..30），10-12 historical gap，W44 OPEN 5/7，October OPEN，31 Oct NOT_DUE
 
 **Current native coverage as of 2026-10-27 05:00:11 Asia/Shanghai：26 dates (1–11, 13–27 Oct)，12 Oct gap，28–31 NOT_DUE，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，Monthly OPEN**
 
