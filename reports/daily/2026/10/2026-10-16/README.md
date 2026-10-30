@@ -9,3 +9,15 @@
 - Scientific/operational limitation: release status is not conformance, broad adoption or durable effect recovery
 - W42 OPEN / October Monthly OPEN; no weekend or month-end finalization
 - Outcome: LATE_SAME_DAY_BOUNDARY_RECHECK / NO_NEW_MATURITY_EVENT_VERIFIED
+
+
+## 2026-10-30 forward navigation correction / 事后目录校准
+- [Integrated Daily](../2026-10-16.md)
+- [F1](./F1-history-theory.md)
+- [F2](./F2-models-algorithms.md)
+- [F3](./F3-infrastructure.md)
+- [F4](./F4-agentic-systems.md)
+- [F5](./F5-evaluation-governance.md)
+- [F6](./F6-ecosystem-society.md)
+- [F7](./F7-synthesis.md)
+- 原始 F1–F7 已存在文件仅增加可导航性，不替代 10-16 原定早间运行或增加日度信用
