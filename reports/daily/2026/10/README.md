@@ -1,11 +1,11 @@
 # October 2026 Daily Index
 
-**2026-10-31 05:04:36 Asia/Shanghai producer checkpoint**：30 native F1–F7 dates proposed，base main 29 merged，10-12 historical gap，W44 OPEN 6/7 proposed，October OPEN，11-01 NOT_DUE
+**2026-10-31 05:04:36 Asia/Shanghai coverage checkpoint**：30 native F1–F7 dates present in this repository tree (10-01..11，10-13..31)，10-12 historical native gap，W44 OPEN 6/7，October OPEN，11-01 NOT_DUE
 
 
-**Current merged checkpoint 2026-10-30 05:04:00 Asia/Shanghai**：29 native F1–F7 Daily dates（10-01..11、10-13..30），10-12 historical gap，W44 OPEN 5/7，October OPEN，31 Oct NOT_DUE
+**Historical merged checkpoint 2026-10-30 05:04:00 Asia/Shanghai**：29 native F1–F7 Daily dates（10-01..11、10-13..30），10-12 historical gap，W44 OPEN 5/7，October OPEN，31 Oct NOT_DUE
 
-**Current native coverage as of 2026-10-27 05:00:11 Asia/Shanghai：26 dates (1–11, 13–27 Oct)，12 Oct gap，28–31 NOT_DUE，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，Monthly OPEN**
+**Historical native coverage as of 2026-10-27 05:00:11 Asia/Shanghai：26 dates (1–11, 13–27 Oct)，12 Oct gap，28–31 NOT_DUE，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，Monthly OPEN**
 
 | Date | Daily | Pack | Weekly context |
 |---|---|---|---|
@@ -46,7 +46,7 @@
 | 2026-10-29 | [2026-10-29.md](./2026-10-29.md) | [2026-10-29/](./2026-10-29/) | W44 OPEN 4/7 / PARTIAL BOUNDED / NO VERIFIED SAME-DAY TRANSITION |
 | 2026-10-30 | [2026-10-30.md](./2026-10-30.md) | [2026-10-30/](./2026-10-30/) | W44 OPEN proposed 5/7 / MATERIAL FIRST-PARTY DRAFT REVISION |
 
-| 2026-10-31 | [2026-10-31.md](./2026-10-31.md) | [2026-10-31/](./2026-10-31/) | W44 OPEN 6/7 proposed / MATERIAL FIRST-PARTY DRAFT REVISION |
+| 2026-10-31 | [2026-10-31.md](./2026-10-31.md) | [2026-10-31/](./2026-10-31/) | W44 OPEN 6/7 / MATERIAL FIRST-PARTY DRAFT REVISION |
 
 **Historical 2026-10-27 05:00:11 Asia/Shanghai checkpoint**：26 native F1–F7 Daily dates（10-01..11、10-13..27），10-12 past-date native gap，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，October Monthly OPEN，28–31 NOT_DUE，Poppy site–GitHub current version surfaces reconciled，deployment chronology and independent conformance still UNVERIFIED
 
