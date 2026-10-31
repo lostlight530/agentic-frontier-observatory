@@ -53,3 +53,26 @@
 - GitHub proof actually available: source original/earlier A1, Git object paths/OIDs, current main and this branch diff
 - NOT_EXECUTED_BY_THIS_A2: full local checkout/test, new third-party publisher recertification, scientific experiment, runtime acceptance, D30 audit
 - FINAL_A2_STATUS: BOUNDED_MONTH_TO_DATE_RELATION / OPEN_NOT_FINAL
+
+## Post-merge correction — A1 successor admission is not automatic PASS
+
+- Scope: correction to merged maintenance A2 PR #224; preserve the prior document as its author-time claim, without rewriting any old paragraph.
+- Confirmed delivery: this repository's 2026-10-31 A2 PR is merged and A2 artifact readable from `main`; Git delivery is not strict A1 validation.
+- All ten original A1 PRs have merged source artifacts. Eight original A1 audit bodies passed the new >=100 substantive-lines-per-PR gate.
+- Original Axiom #446: 92 total added/77 A1 audit body lines; original Foundations #361: 72 added/57 A1 audit body lines. Both remain below threshold in original immutable PR diffs.
+- Separate Axiom #447 and Foundations #362 successor PRs each added one 209-line source review/0 deleted; these are independently dated new evidence artifacts, not retroactive diff fixes.
+- Both successors include repeated generalized guard language alongside date-specific original-source decisions; physical line count does not independently prove 100 nonrepetitive substantive lines.
+- **Correction:** the earlier A2 term `8 qualifying original + 2 qualifying successors` has to mean `8 original line-gate passes + 2 delivered successor admission candidates`; it is NOT an automatically recorded Human Maintainer acceptance mapping.
+- Continued user authorization to merge maintenance is an execution instruction; it does not in itself amend the original per-PR acceptance definition, award independent human PR review, or verify science.
+- Acceptance status: `A1_ORIGINAL_8_OF_10_LINE_PASS / SUCCESSOR_2_OF_2_DELIVERED / HUMAN_MAPPING_NOT_EVIDENCED_HERE / A2_GITHUB_DELIVERED_10_OF_10`.
+- The new minimum 100 substantive lines explicitly concerned A1 PRs. This evidence does not establish a separate minimum of 100 lines for A2 PRs; do not retrospectively invent that rule.
+- For this repository, A2 PR #224 has 0 GitHub submitted review records returned during this reconciliation. Merge does not equal separate independently evidenced human code review.
+- Head-sha Check Runs: 0 GitHub Check Runs returned for A2 PR head; no CI status inferred.
+- An empty Check Runs API result is an observed absence on this surface, not a comprehensive denial of all testing; Check Run presence is not full research validation either.
+- Repo-specific native/semantic boundary unchanged: Poppy 0.3 remained first-party Draft/In progress at original observation; Oct12 remains a retrospective gap register with ZERO native credit, not a healed run.
+- Existing historical Monthly remains OPEN/MONTH_TO_DATE/NOT_FINAL at original review, W44 remains OPEN/NOT_DUE; native task outputs, gap/negative evidence and quarter cutoffs remain unchanged.
+- A2 maintenance review is not original Stage/Daily production, D7/D10/D14/D30 periodic audit, scientific reproduction or independent external deployment validation.
+- Final strict mapping would require an explicit documented maintainer acceptance decision after substantive successor review, without altering original #446/#361 failure-to-meet-new-threshold facts.
+- This correction changes neither the official original monthly owner nor A1 history/registry/CI files/code. It is a forward-dated evidentiary reconciliation.
+- Verification actually used: GitHub A1 original/successor metadata and source review, A2 source/read-back from main, review submissions and commit-head Check Runs. External source sites/native runtime tests were not re-executed.
+- Disposition: `POSTMERGE_GITHUB_COMPLETE / STRICT_A1_ADMISSION_CONDITIONAL / ORIGINAL_HISTORY_PRESERVED`.
