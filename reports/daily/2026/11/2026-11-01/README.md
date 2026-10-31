@@ -1,0 +1,29 @@
+# Global native F1–F7 pack — 2026-11-01
+- logical_date: 2026-11-01 Asia/Shanghai
+- execution_started_at: 2026-11-01 04:55:59 Asia/Shanghai
+- observation_cutoff: 2026-11-01 04:59:41 Asia/Shanghai
+- observation_utc: 2026-10-31T20:59:41.994Z
+- research_base_main: 8ee2f56f20b0933b56ac2aa3593d5d5a96eb486e
+- record_class: NATIVE_DAILY_RESEARCH
+- evidence_scope: Poppy public GitHub main, publisher changelog and version manifest, NIST NCCoE current project page; other global AI domains NOT_ASSESSED
+- result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION
+- evidence_class: FIRST_PARTY_SOURCE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
+- external_previous_observed_main: 1de1990e4978b42179fe0e3e0ae554271808c308
+- external_current_observed_main: 1de1990e4978b42179fe0e3e0ae554271808c308
+- external_compare: ahead_by=0 behind_by=0, identical to 2026-10-31 anchor
+- independent_conformance: NOT_OBSERVED
+- external_runtime_TCK_CI_benchmark: NOT_EXECUTED
+- same_issuer_multi_surface: NOT_INDEPENDENT_CORROBORATION
+- W44: FINAL / CLOSED 7/7 proposed in this branch; H44-1 OPEN / REVISION_BOUND_PROVENANCE_PARTIAL, H44-2~3 OPEN
+- October: CLOSED_WITH_GAPS proposed; 30 native dates, 2026-10-12 ZERO_NATIVE_DAILY_CREDIT
+- November: OPEN / 1 native date proposed; 2026-11-02..30 NOT_DUE
+
+- [Integrated Daily](../2026-11-01.md)
+- [F1｜历史、理论与范式](./F1-history-theory.md)
+- [F2｜模型、算法与多模态](./F2-models-algorithms.md)
+- [F3｜算力、芯片、数据与基础设施](./F3-infrastructure.md)
+- [F4｜Agent、Runtime、Harness 与协议](./F4-agentic-systems.md)
+- [F5｜评测、安全、治理与标准](./F5-evaluation-governance.md)
+- [F6｜开源、产业、经济与社会](./F6-ecosystem-society.md)
+- [F7｜综合与判断修正](./F7-synthesis.md)
+- 1 integrated + 7 workstreams + README = 9 files
