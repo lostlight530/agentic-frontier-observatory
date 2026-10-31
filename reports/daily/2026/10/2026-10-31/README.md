@@ -1,0 +1,27 @@
+# Global native F1–F7 pack — 2026-10-31
+- logical_date: 2026-10-31 Asia/Shanghai
+- execution_started_at: 2026-10-31 05:02:51 Asia/Shanghai
+- observation_cutoff: 2026-10-31 05:04:36 Asia/Shanghai
+- observation_utc: 2026-10-30T21:04:36Z
+- research_base_main: f17cafe548635b1670d5e60a446eff590b58183d
+- record_class: NATIVE_DAILY_RESEARCH
+- evidence_scope: Poppy 0.3 first-party GitHub revision/issuer changelog + NIST NCCoE，other global AI domains NOT_ASSESSED
+- result: MATERIAL_FIRST_PARTY_DRAFT_REVISION / BOUNDED_INTERPRETATION
+- evidence_class: FIRST_PARTY_SOURCE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
+- external_previous_observed_main: 3e9bada9ec8f66777b43e429d49574131dc2f67e
+- external_current_observed_main: 1de1990e4978b42179fe0e3e0ae554271808c308
+- external_compare: ahead_by=6 behind_by=0 from previous observed anchor
+- independent_conformance: NOT_OBSERVED
+- external_runtime_TCK_CI_benchmark: NOT_EXECUTED
+- same_issuer_multi_surface: NOT_INDEPENDENT_CORROBORATION
+- W44: OPEN / 6/7 proposed，H44-1 OPEN / REVISION_BOUND_PROVENANCE_PARTIAL，H44-2~3 OPEN
+- October: OPEN / 30 native dates proposed，10-12 historical gap，11-01 NOT_DUE
+- [Integrated Daily](../2026-10-31.md)
+- [F1｜历史、理论与范式](./F1-history-theory.md)
+- [F2｜模型、算法与多模态](./F2-models-algorithms.md)
+- [F3｜算力、芯片、数据与基础设施](./F3-infrastructure.md)
+- [F4｜Agent、Runtime、Harness 与协议](./F4-agentic-systems.md)
+- [F5｜评测、安全、治理与标准](./F5-evaluation-governance.md)
+- [F6｜开源、产业、经济与社会](./F6-ecosystem-society.md)
+- [F7｜综合与判断修正](./F7-synthesis.md)
+- 1 integrated + 7 workstreams + README = 9 files

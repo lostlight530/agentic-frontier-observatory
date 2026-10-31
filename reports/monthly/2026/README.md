@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 2026-08 | CLOSED; post-closure correction recorded 2026-09-01 | 7–31 Aug, 25 real days | F.748.93 approval occurred 29 Aug and was observed after closure. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
-| 2026-10 | **OPEN** | 29 merged native Dailies: 1–11, 13–30 Oct; 12 Oct native gap | W43 FINAL 7/7，W44 OPEN 5/7，31 Oct NOT_DUE，Poppy 0.3 substantive Draft revision，not monthly final |
+| 2026-10 | **OPEN** | 30 native Daily dates present in this repository tree: 1–11, 13–31 Oct; 12 Oct historical gap | W43 FINAL 7/7，W44 OPEN 6/7 through 31 Oct，1 Nov NOT_DUE，Poppy 0.3 substantive Draft revision observed by 10-31 05:04:36 Asia/Shanghai，not monthly FINAL |
 
 > Closed history may receive an explicit correction; it is never silently rewritten.
 
