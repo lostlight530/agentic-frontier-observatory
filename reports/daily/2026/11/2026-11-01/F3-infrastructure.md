@@ -29,7 +29,7 @@ workflow 配置和版本 manifest 是可检查源码，不是 CI 运行、部署
 
 ## Primary sources / 一手来源
 - Poppy public GitHub main｜1de1990e4978b42179fe0e3e0ae554271808c308｜last observed committer 2026-10-30T20:43:43Z｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/1de1990e4978b42179fe0e3e0ae554271808c308
-- Poppy 2026-10-31→2026-11-01 main comparison｜ahead 0 behind 0｜https://github.com/personal-agent-protocol/personal-agent-protocol/compare/1de1990e4978b42179fe0e3e0ae554271808c308...main
+- Poppy 2026-10-31→2026-11-01 main comparison｜ahead 0 behind 0｜https://github.com/personal-agent-protocol/personal-agent-protocol/compare/1de1990e4978b42179fe0e3e0ae554271808c308...1de1990e4978b42179fe0e3e0ae554271808c308
 - Poppy publisher changelog｜0.3 Draft / In progress; 0.2 Published publisher-declared 2026-10-24｜https://personalagentprotocol.org/docs/changelog
 - Poppy 0.3 versioned draft specification｜https://personalagentprotocol.org/docs/0.3/spec
 - Poppy version manifest｜0.3 lacks published field; 0.2 published=2026-10-24｜https://github.com/personal-agent-protocol/personal-agent-protocol/blob/1de1990e4978b42179fe0e3e0ae554271808c308/content/versions/versions.json
