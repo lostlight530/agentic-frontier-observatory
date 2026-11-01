@@ -18,6 +18,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W42 | 12–18 Oct | **FINAL / CLOSED_WITH_GAP** | Six real native F1–F7 Dailies 13–18 Oct; 12 Oct original gap maintained; H42-1~3 OPEN, no independent conformance/recovery proof |
 | W43 | 19–25 Oct | **FINAL / CLOSED / 7 of 7** | 19–25 Oct native F1–F7 Dailies，H43-1 OPEN / SOURCE_CONFLICT on Poppy website vs GitHub main，H43-2~3 OPEN / UNCHANGED，2026-10-25 05:04:20 Asia/Shanghai settlement |
 | W44 | 26 Oct–1 Nov | **FINAL / CLOSED / 7 of 7** | 26–31 Oct + 1 Nov native F1–F7 Dailies，H44-1 OPEN / REVISION_BOUND_PROVENANCE_PARTIAL，H44-2~3 OPEN，Sunday settlement 2026-11-01 04:59:41 Asia/Shanghai |
+| W45 | 2–8 Nov | **OPEN / 1 of 7 proposed** | 2 Nov native F1–F7 Daily，H45-1~3 OPEN / UNCHANGED，3–8 Nov NOT_DUE，2026-11-02 05:03:18 Asia/Shanghai |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
