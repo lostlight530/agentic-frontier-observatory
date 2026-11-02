@@ -28,6 +28,12 @@ The dated special-event reconciliation files are explicit non-canonical suppleme
 - `2026-W39-2026-09-27-special-event-reconciliation.md` supplements W39.
 - `2026-W40-special-reconciliation-2026-10-04.md` supplements W40.
 
+### 2026-11-02 post-hoc September–October Special research (non-canonical)
+- [September external Special](./2026-09-special-event-reconciliation-2026-11-02.md) — source-typed retrospectively verified external events, not a September Daily replay or a replacement for W36–W40 canonical settlement.
+- [October external Special](./2026-10-special-event-reconciliation-2026-11-02.md) — dated external event research, not a new October Daily, month closure or Periodic Audit.
+- Both were read and reconciled on 2026-11-02, preserving publication/event time, producer-time knowledge and original native gaps. Neither creates extra native days, proves external tests, or reopens closed weeks.
+
+
 Canonical authority remains with `YYYY-Www.md` weekly records.
 
 ```text
