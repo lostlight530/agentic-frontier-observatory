@@ -141,3 +141,11 @@ SAME_PROJECT_LINEAGE != INDEPENDENT_SUPPORT
 
 ## 2026-10-11 Poppy draft calibration
 G-W73 OPEN after first-party Poppy Draft 0.1 observed 2026-10-11. Sierra announcement 2026-10-06, site update label 2026-10-09, draft first-publication date UNVERIFIED. Draft at-most-once and scoped authorization are not operational conformance. No prior recovery watch closed. W41 FINAL; October Monthly OPEN.
+
+
+## 2026-11-02 September–October Special — source-specific follow-up (no new canonical ID assigned)
+- **Model economics:** obtain matched full-run token/cache/tool/retry accounting for Opus 5.5 and Haiku 5.5, not just publisher price comparisons; no independent benchmark was run by the Special.
+- **AI-assisted scientific discovery:** trace the Anthropic ART enzyme report to disclosed experimental protocols and independent biochemical replication; biological mechanism and generalization remain OPEN.
+- **Enterprise Agent control:** obtain exact Google Gemini agent resource scopes, human approvals, revocation/stop/rollback and durable effect trace for a comparable multi-app run; product documentation is not a tested trust contract.
+- **OSS Scanner:** request a public, revision-bound finding→triage→patch→regression→accepted-deployment path and rejected false positives; a provider program launch is not measured vulnerability reduction.
+- September [Special](../reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md); October [Special](../reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md). No original hypothesis `CLOSED`, `STRENGTHENED` or independent conformance state is retroactively changed.
