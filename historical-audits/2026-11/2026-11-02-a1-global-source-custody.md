@@ -1,0 +1,140 @@
+# 2026-11-02 A1 | agentic-frontier-observatory November 1 source and W44 custody
+
+- Repository: lostlight530/agentic-frontier-observatory
+- Evidence main: 0beb970588cc899bae7118eb11322500d13a45ce
+- Logical cutoff: 2026-11-01 Asia/Shanghai
+- System: independent maintenance/A1, not native research
+- Review disposition: SOURCE_REVIEW / ORIGINAL_ARTIFACTS_UNCHANGED
+- Validation: GitHub sources only, no official external recertification or runtime test
+
+## Cross-period and evidence gates
+- G01: Maintenance task identity is 2026-11-02 A1 at Asia/Shanghai date, distinct from native Daily identity
+- G02: Source cutoff includes November 1 and excludes November 2 native production
+- G03: November 2026 is OPEN and not eligible for a natural-month final
+- G04: Current GitHub main is a repository truth source rather than proof of external platform behavior
+- G05: A1 checks source and decision completeness, not only whether an expected date has a path
+- G06: An N-day 2026-11-02 Daily observed at review time belongs to the later A2 phase
+- G07: W44 spans 2026-10-26 through 2026-11-01 and is a cross-month ISO week
+- G08: October W44 intersection is October 26–31 with six native logical dates
+- G09: November W44 intersection consists only of November 1
+- G10: W44 FINAL 7/7 is distinct from a naturally closed November
+- G11: W45 begins with November 2 and is excluded from A1
+- G12: A weekly hypothesis may remain OPEN after weekly date coverage is FINAL
+- G13: Daily source observation and Weekly evidence inheritance are different record classes
+- G14: Later correction or repository merge cannot rewrite a previous observation timestamp
+- G15: Primary files are retained as author-time statements even when their Draft proposal later merges
+- G16: Current main presence is not evidence of original task-time file availability
+- G17: Source rechecking is not independent evidence from a second institution
+- G18: Claims about runtime tests require actual command, runner, revision, outputs and observed effects
+- G19: An external status page's current value is not itself a dated transition event
+- G20: Published event date and research observation date must remain separate
+- G21: Current version or object state must not be upgraded beyond directly quoted evidence
+- G22: No independent conformance test is credited to documentary maintenance
+- G23: Existing registry and watchlist require a material identity/status change to mutate
+- G24: Maintenance review is not one new source study, Trial or execution window
+- G25: One Daily report with several workstream files is one logical Daily research unit
+- G26: Workstream files are components of a research pack rather than independent daily runs
+- G27: The previous October Monthly owner is historical carryover, not November final
+- G28: October 12 retains a missing native research-day credit in the existing monthly owner
+- G29: October CLOSED_WITH_GAPS is not promoted to fully completed by later November maintenance
+- G30: No re-ingestion, code modification, workflow rewrite or historical archive overwrite is authorized
+- G31: Original A1/A2 October 31 acceptance remains a separate immutable PR-level observation
+- G32: A successor PR does not retroactively alter an original PR addition count
+- G33: An exact past SHA cited in a source report belongs to that past observation
+- G34: GitHub Pages success is publication transport evidence, not research/semantic correctness
+- G35: An unassessed domain remains NOT_ASSESSED, not verified unchanged
+- G36: No false ZERO_FAILURE or all-green claim follows from absence of tests
+- G37: Only direct source-level decisions and maintained negative evidence are eligible for this audit
+- G38: No external official page was independently re-opened or re-certified by this maintenance author
+- G39: A2 must start only after its own repository A1 is merged and the new main SHA is re-read
+- G40: A2 must preserve November month version identity 2026-11 as one OPEN relational state
+- G41: A2 must relate November 1 and November 2 without double-counting W44 Sunday closure
+- G42: Human Maintainer review and merge remain separate from this Draft PR delivery
+
+## Source-specific verified repository interpretations
+- S01: November 1 canonical native Global Daily was merged through PR #229
+- S02: November 1 Daily observation cutoff is 04:59:41 Asia/Shanghai
+- S03: The report compares Poppy main to the October 31 source revision anchor
+- S04: Poppy source revision recorded on November 1 is 1de1990e4978b42179fe0e3e0ae554271808c308
+- S05: The prior October 31 Poppy anchor is the same exact commit
+- S06: The recorded Git comparison had ahead_by 0 and behind_by 0
+- S07: The repeated revision is not a new November 1 Poppy source-code change
+- S08: The issuer labels Poppy 0.3 Draft / In progress
+- S09: The issuer's 0.2 Published date was October 24
+- S10: The date of 0.2 publication does not establish 0.3 release completion
+- S11: The NIST NCCoE project remains described as Soliciting Comments in the original Daily
+- S12: The NIST observation does not provide a dated November 1 phase transition
+- S13: The Daily result is PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION
+- S14: The Daily's other global AI subjects are expressly NOT_ASSESSED
+- S15: F1 preserves history and version chronology without asserting a new paradigm
+- S16: F2 records models/algorithms and benchmark as NOT_ASSESSED
+- S17: F3 separates versioned Poppy repository artifacts from executed infrastructure
+- S18: F4 separates discovery, operator identity, OAuth scopes and task execution
+- S19: F5 distinguishes draft normative MUST/SHOULD from independent conformance
+- S20: F6 treats publisher website and GitHub as one initiative lineage
+- S21: F7 keeps H44-1 OPEN with revision-bound provenance only
+- S22: F7 does not promote H44-2 or H44-3 from repeated issuer observations
+- S23: W44 Global final covers seven authentic native F1–F7 dates
+- S24: W44 material Poppy Draft changes occurred on October 30 and October 31, not November 1
+- S25: W44 H44-1 is OPEN / REVISION_BOUND_PROVENANCE_PARTIAL
+- S26: W44 H44-2 remains OPEN / UNCHANGED pending NIST dated state evidence
+- S27: W44 H44-3 remains OPEN / UNCHANGED pending delegated-authority and recovery evidence
+- S28: W44 identifies no verified falsifier for hypotheses from the November 1 recheck
+- S29: Global October Monthly current closure is CLOSED_WITH_GAPS 30/31
+- S30: The Global October 12 native gap is ZERO_NATIVE_DAILY_CREDIT
+- S31: The October monthly count adds W40 4, W41 7, W42 6, W43 7 and October W44 6
+- S32: Those five intersections total 30 days and do not include November 1
+- S33: The November Monthly original OPEN state after native Nov1 is one source day
+- S34: The November 2 native PR #231 and later owner reconciliation are beyond A1 input cutoff
+- S35: The native November 2 report is PARTIAL_BOUNDED and not an independently proven release transition
+- S36: Source code visibility cannot prove the mirrored workflow executed
+- S37: The draft’s persistent task store cannot be equated with durable effect recovery
+- S38: Version manifest existence cannot prove website deployment timestamp
+- S39: Unsigned or unaudited cross-provider conformance remains UNKNOWN
+- S40: Revocation and external side-effect recovery are NOT_OBSERVED
+- S41: One 0.3 draft family is not evidence of universal interoperable production maturity
+- S42: The underlying 0.3 draft is mutable; no compatibility matrix PASS was executed
+- S43: No source registry addition is justified by same-source unchanged rechecking
+- S44: The owner’s post-merge correction must not be confused with original research observation
+
+## Per-workstream November 1 content decisions
+- W01: Opened source: reports/daily/2026/11/2026-11-01/F1-history-theory.md
+- W02: Factual source decision: Poppy version lineage is bounded to dated source commits
+- W03: Negative-space decision: No new paradigm claim
+- W04: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in F1-history-theory.md
+- W05: Opened source: reports/daily/2026/11/2026-11-01/F2-models-algorithms.md
+- W06: Factual source decision: Models and algorithms remain outside this narrow observation
+- W07: Negative-space decision: No benchmark PASS
+- W08: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in F2-models-algorithms.md
+- W09: Opened source: reports/daily/2026/11/2026-11-01/F3-infrastructure.md
+- W10: Factual source decision: Source repo and manifest are visible but not an executed mirror
+- W11: Negative-space decision: No runtime deployment assertion
+- W12: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in F3-infrastructure.md
+- W13: Opened source: reports/daily/2026/11/2026-11-01/F4-agentic-systems.md
+- W14: Factual source decision: Discovery, Session, identity and authority must stay separate
+- W15: Negative-space decision: No portable recovery claim
+- W16: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in F4-agentic-systems.md
+- W17: Opened source: reports/daily/2026/11/2026-11-01/F5-evaluation-governance.md
+- W18: Factual source decision: NIST current state is a research observation
+- W19: Negative-space decision: No formal maturity promotion
+- W20: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in F5-evaluation-governance.md
+- W21: Opened source: reports/daily/2026/11/2026-11-01/F6-ecosystem-society.md
+- W22: Factual source decision: Publisher-controlled pages belong to one lineage
+- W23: Negative-space decision: No industry adoption inference
+- W24: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in F6-ecosystem-society.md
+- W25: Opened source: reports/daily/2026/11/2026-11-01/F7-synthesis.md
+- W26: Factual source decision: H44-1 through H44-3 retain bounded hypothesis states
+- W27: Negative-space decision: No duplicated source strengthening
+- W28: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in F7-synthesis.md
+
+## Final evidence and handoff
+- Startup open PR census at this repository: none
+- Source data read: November 1 native Daily and each November 1 workstream, W44 Weekly, October and November Monthly
+- A1 decision coverage: native November 1 pack and W44/previous-month owner
+- N-day November 2 native data: excluded here and retained for fresh-main A2
+- No original source, registry, watchlist, history or executable code changed
+- No native Actions execution or conformance evidence attributed to this maintenance
+- Date-specific external content is attributed to source Daily; not independently revalidated now
+- A1 must merge under human review before an A2 can use it as main-visible input
+- If a new main or conflicting PR arrives, refresh the optimistic lock and re-evaluate
+- Rollback scope: close Draft or revert this new documentary file only
