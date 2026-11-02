@@ -5,7 +5,7 @@
 - record_type: `POST_HOC_SPECIAL_EVENT_RECONCILIATION / NON_CANONICAL_RESEARCH`
 - original_event_window: `2026-10-07..2026-10-08`; source re-read `2026-11-02`
 - mapped_week: [W41](./2026-W41.md), 2026-10-05..11, historical FINAL remains unchanged
-- mapped_month: [October canonical](../monthly/2026/2026-10.md), now `CLOSED_WITH_GAPS / 30/31`; 10-12 native gap preserved
+- mapped_month: [October canonical](../../monthly/2026/2026-10.md), now `CLOSED_WITH_GAPS / 30/31`; 10-12 native gap preserved
 - earlier W40/Poppy/NIST Special objects are not counted again; November follow-up is source review, not October execution
 - scope: three **distinct** first-party product/research announcements; not a census of October global AI activity
 - tests, production environment, independent vendor comparison, third-party penetration testing: `NOT_EXECUTED`
@@ -13,7 +13,7 @@
 ## 1｜Why these events belong together, and where they do not
 Three October objects illuminate distinct transitions often mislabeled as “agents became production ready”: a cheaper model tier advertised for subagents, a workspace agent with tools/skills and enterprise context, and a defensive scanning initiative. They are not the same product, issuer, deployment population or proof standard. The useful relation is a **design pressure on cost, agency, trust and operational response**, not a fabricated single platform.
 
-The original 10/07–08 Daily records and W41 Sunday judgment are historical snapshots. This Special adds retrospective first-party object-specific research without writing new same-day Dailies or changing their original source observation windows.
+The original 10/07–08 Daily records and W41 Sunday judgment are historical snapshots. This Special explicitly sets `DAILY_BACKFILL=NO` and does not add original native execution credit. This Special adds retrospective first-party object-specific research without writing new same-day Dailies or changing their original source observation windows.
 
 ## 2｜2026-10-07 — Claude Haiku 5.5, cost-sensitive subagent tier
 ### Verified first-party page identity
