@@ -129,3 +129,17 @@ The 2026-10-06 Sierra announcement and current Poppy Draft 0.1 site Updated 2026
 
 ## 2026-10-12 Poppy publisher-date forward correction
 Sierra's dated 2026-10-09 first-party post states it is publishing the Poppy draft that day. Record publisher_declared_draft_publication_date=2026-10-09, observed/reconciled 2026-10-12. The 2026-10-11 earlier initial-publication UNVERIFIED observation remains historically preserved; exact first public-access timestamp and prior availability remain UNVERIFIED. This is a date-precision correction, not a stable release, deployed conformance, once-only effect or recovery transition. Sierra and Poppy site share one initiative lineage, zero independent conformance corroboration. See history/2026-10/2026-10-12-poppy-draft-publication-date-reconciliation.md.
+
+
+## 2026-11-02 post-hoc external Special source route — September/October 2026
+The following first-party URLs were actually inspected on 2026-11-02 as dated source objects for two **non-canonical** post-hoc Specials. These are publisher/institutional sources, **not new independent scientific validations**. Existing source identifiers are not reassigned and no third-party corroboration is claimed.
+
+| External dated object | Publisher identity and URL | Evidence class and boundary |
+|---|---|---|
+| 2026-09-22 Claude Opus 5.5 | Anthropic, https://www.anthropic.com/claude-opus-5-5 | Publisher model-release/economic claims; matched agent workload NOT_RERUN |
+| 2026-09-23 ART enzyme research account | Anthropic, https://www.anthropic.com/research/claude-discovers-novel-enzyme-system | Publisher-reported laboratory discovery workflow; mechanism and independent lab replication OPEN |
+| 2026-10-07 Claude Haiku 5.5 | Anthropic, https://www.anthropic.com/claude-haiku-5-5 | Vendor model/economic report; benchmark NOT_RERUN |
+| 2026-10-08 Gemini agent | Google Cloud, https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/ | Product architecture and availability claim; multi-app action trace NOT_OBSERVED |
+| 2026-10-08 Cyber Mission | Anthropic, https://www.anthropic.com/news/anthropic-cyber-mission | Program/OSS Scanner announcement; actual patch correctness NOT_VERIFIED |
+
+Special records: [September](reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md) and [October](reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md). Original W39/W41 and all original Native Dailies remain unchanged. Multiple Anthropic pages share the same publisher family and cannot count as independent confirmations of each other's effects.
