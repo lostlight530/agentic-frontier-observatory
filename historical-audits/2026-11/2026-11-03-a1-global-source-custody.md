@@ -1,0 +1,193 @@
+# 2026-11-03 A1 | Global observatory Nov 1–2 audit
+- Exact source main 5a65251ddc373efbc9f1b20ac5cade611c44d6c6; independent maintenance A1 (not Global F1–F7 native producer)
+- Time window Nov 1..2 Shanghai; W44 closed, W45 OPEN; November OPEN
+- Current file presence is not original execution proof and no new external event is inferred
+## Actually fetched current-main source blobs
+- reports/daily/2026/11/2026-11-01.md | blob 4456fb37ad022729c1205f1e9baa8772224fbaee | 107 source lines
+- reports/daily/2026/11/2026-11-02.md | blob 009e3ededb2075f29d424e80f973278d7c5deb18 | 87 source lines
+- reports/daily/2026/11/2026-11-02/F1-history-theory.md | blob 60d3b08bb244d0b59fb2f82b91a63dfaf664c073 | 45 source lines
+- reports/daily/2026/11/2026-11-02/F3-infrastructure.md | blob b3f455017b9a6af5c16e01b900fec499d6604ed3 | 45 source lines
+- reports/daily/2026/11/2026-11-02/F4-agentic-systems.md | blob 12dfd9250a2578d2c121384c439510efe7988d35 | 45 source lines
+- reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md | blob dd4d99c7a71e1f72ce401506d898467f1af8fa2f | 45 source lines
+- reports/daily/2026/11/2026-11-02/F7-synthesis.md | blob 419c82edbcb6f3cff581b0f0177e8f0ce17492e8 | 45 source lines
+- historical-audits/2026-11/2026-11-02-a1-global-source-custody.md | blob c5be6290c3e0cfaadfa051c9c77802fb1289e381 | 141 source lines
+- reports/weekly/2026/2026-W44.md | blob bf765c7e679cf7240f92aea466237bf181286b9b | 129 source lines
+## Per-source located evidence judgments
+- R001 | reports/daily/2026/11/2026-11-01.md#L6 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION** | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R002 | reports/daily/2026/11/2026-11-01.md#L15 | - execution_started_at: 2026-11-01 04:55:59 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R003 | reports/daily/2026/11/2026-11-01.md#L20 | - evidence_scope: Poppy public GitHub main, publisher changelog and version manifest, NIST NCCoE current project page; other global AI domains NOT_ASSESSED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R004 | reports/daily/2026/11/2026-11-01.md#L23 | - external_previous_observed_main: 1de1990e4978b42179fe0e3e0ae554271808c308 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R005 | reports/daily/2026/11/2026-11-01.md#L27 | - external_runtime_TCK_CI_benchmark: NOT_EXECUTED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R006 | reports/daily/2026/11/2026-11-01.md#L30 | - October: CLOSED_WITH_GAPS proposed; 30 native dates, 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R007 | reports/daily/2026/11/2026-11-01.md#L34 | - publication_date: Poppy 0.2 publisher-declared 2026-10-24; 0.3 formal publication UNVERIFIED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R008 | reports/daily/2026/11/2026-11-01.md#L37 | - state_transition_date: no new source revision; NIST transition chronology UNVERIFIED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R009 | reports/daily/2026/11/2026-11-01.md#L43 | - 2026-10-12 仍是十月原生缺口，后续 A1/A2 文档维护和历史占位不构成当日执行 | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R010 | reports/daily/2026/11/2026-11-01.md#L59 | - F4：discovery、operator recognition、Session identity、OAuth credential、authority、invocation、execution 是不同层次，draft normative text 不能自动变成 runtime contract | Decision: BOUNDED_NATIVE_OBSERVATION
+- R011 | reports/daily/2026/11/2026-11-01.md#L62 | - F7：H44-1 OPEN / REVISION_BOUND_PROVENANCE_PARTIAL，H44-2~3 OPEN，Sunday settlement 不制造新 hypothesis strengthening | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R012 | reports/daily/2026/11/2026-11-01.md#L74 | - NO_NEW_PUBLICATION_PROOF：0.3 仍 Draft / In progress | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R013 | reports/daily/2026/11/2026-11-01.md#L79 | - 0.2 publisher-declared Published 不自动保证 0.3 稳定或 1.0 兼容 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R014 | reports/daily/2026/11/2026-11-01.md#L85 | - Poppy 网站部署时间、0.3 正式发布时间、镜像 workflow 真实运行和版本兼容矩阵 UNVERIFIED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R015 | reports/daily/2026/11/2026-11-01.md#L93 | - W45 从 2026-11-02 真实 Daily 开始，不能把 W44 的无变化检查包装成新假设 | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R016 | reports/daily/2026/11/2026-11-01.md#L98 | - Poppy publisher changelog｜0.3 Draft / In progress; 0.2 Published publisher-declared 2026-10-24｜https://personalagentprotocol.org/docs/changelog | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R017 | reports/daily/2026/11/2026-11-01.md#L102 | - NIST NCCoE 2026-09-29 comments summary｜original dated governance feedback not 11-01 transition｜https://www.nccoe.nist.gov/news-insights/comments-software-and-agentic-si-identity-concept-paper | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R018 | reports/daily/2026/11/2026-11-02.md#L6 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION** | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R019 | reports/daily/2026/11/2026-11-02.md#L14 | - research_base_main: 5430096d42e4fc40de0457d7ec2a274c2fe2eb2b | Decision: BOUNDED_NATIVE_OBSERVATION
+- R020 | reports/daily/2026/11/2026-11-02.md#L17 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R021 | reports/daily/2026/11/2026-11-02.md#L20 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R022 | reports/daily/2026/11/2026-11-02.md#L25 | - independent_runtime_TCK_CI_conformance: NOT_EXECUTED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R023 | reports/daily/2026/11/2026-11-02.md#L27 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R024 | reports/daily/2026/11/2026-11-02.md#L32 | - 当前 main 已有 2026-11-01 原生 F1–F7 Daily 与 W44 FINAL / CLOSED 7/7，不能把上周结算当成本周新证据 | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R025 | reports/daily/2026/11/2026-11-02.md#L34 | - October CLOSED_WITH_GAPS 30/31，10 月 12 日真实原生缺口不回填 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R026 | reports/daily/2026/11/2026-11-02.md#L39 | - Poppy versions.json｜0.3 无 published；0.2 published=2026-10-24｜https://github.com/personal-agent-protocol/personal-agent-protocol/blob/1de1990e4978b42179fe0e3e0ae554271808c308/content/versions/versions.json | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R027 | reports/daily/2026/11/2026-11-02.md#L44 | - F1 历史、理论与范式：Poppy 0.2 发行方声明 Published 2026-10-24，0.3 仍 Draft / In progress，公开 Git main 与昨日相同；发行方发布日期不证明网站部署先后、0.3 正式发行或跨版本兼容 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R028 | reports/daily/2026/11/2026-11-02.md#L46 | - F3 算力、芯片、数据与基础设施：Poppy 公开 GitHub main 1de1990e4978b42179fe0e3e0ae554271808c308，版本 manifest 0.3 无 published 字段；GitHub 源码、workflow 配置与 SDK 文档不是已运行 CI、持久化或生产可用性证明 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R029 | reports/daily/2026/11/2026-11-02.md#L49 | - F6 开源、产业、经济与社会：Poppy 网站和 GitHub 版本表面同属一个发行方 initiative；两种展示不构成独立发行方支持，更不能外推采用规模或跨厂商互操作 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R030 | reports/daily/2026/11/2026-11-02.md#L59 | - NEW_OBSERVATION：2026-11-02 05:03:18 Asia/Shanghai 一手页面当前状态 | Decision: BOUNDED_NATIVE_OBSERVATION
+- R031 | reports/daily/2026/11/2026-11-02.md#L61 | - NO_NEW_GIT_REVISION：Poppy public main 与 11-01 锚点相同 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R032 | reports/daily/2026/11/2026-11-02.md#L72 | - H45-2：NIST 身份授权治理状态的日期化转换与正式交付，需要新日期化、可复核且对象精确的证据 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R033 | reports/daily/2026/11/2026-11-02.md#L79 | - Poppy GitHub main｜1de1990e4978b42179fe0e3e0ae554271808c308｜与 11-01 观察锚点相同｜last committer 2026-10-30T20:43:43Z｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/1de1990e4978b42179fe0e3e0ae554271808c308 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R034 | reports/daily/2026/11/2026-11-02.md#L82 | - NIST NCCoE｜Software and SI Agent Identity and Authorization｜Soliciting Comments｜https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R035 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L5 | - observation_cutoff: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R036 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L7 | - research_base_main: 5430096d42e4fc40de0457d7ec2a274c2fe2eb2b | Decision: BOUNDED_NATIVE_OBSERVATION
+- R037 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L9 | - evidence_scope: Poppy 公开 Git main、发行方 changelog 与 manifest、NIST NCCoE 当前项目页面；其他领域 NOT_ASSESSED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R038 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R039 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L11 | - evidence_class: FIRST_PARTY_SOURCE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: BOUNDED_NATIVE_OBSERVATION
+- R040 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R041 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R042 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L15 | - observed_at: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R043 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L18 | - independent_runtime_TCK_CI_conformance: NOT_EXECUTED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R044 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: BOUNDED_NATIVE_OBSERVATION
+- R045 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R046 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R047 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R048 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION** | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R049 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L38 | - Poppy GitHub main｜1de1990e4978b42179fe0e3e0ae554271808c308｜与 11-01 观察锚点相同｜last committer 2026-10-30T20:43:43Z｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/1de1990e4978b42179fe0e3e0ae554271808c308 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R050 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L39 | - Poppy publisher changelog｜0.3 Draft / In progress；0.2 Published 2026-10-24 为发行方日期｜https://personalagentprotocol.org/docs/changelog | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R051 | reports/daily/2026/11/2026-11-02/F1-history-theory.md#L41 | - NIST NCCoE｜Software and SI Agent Identity and Authorization｜Soliciting Comments｜https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R052 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L5 | - observation_cutoff: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R053 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L7 | - research_base_main: 5430096d42e4fc40de0457d7ec2a274c2fe2eb2b | Decision: BOUNDED_NATIVE_OBSERVATION
+- R054 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L9 | - evidence_scope: Poppy 公开 Git main、发行方 changelog 与 manifest、NIST NCCoE 当前项目页面；其他领域 NOT_ASSESSED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R055 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R056 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L11 | - evidence_class: FIRST_PARTY_SOURCE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: BOUNDED_NATIVE_OBSERVATION
+- R057 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R058 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R059 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L15 | - observed_at: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R060 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L18 | - independent_runtime_TCK_CI_conformance: NOT_EXECUTED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R061 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: BOUNDED_NATIVE_OBSERVATION
+- R062 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R063 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R064 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R065 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION** | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R066 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L38 | - Poppy GitHub main｜1de1990e4978b42179fe0e3e0ae554271808c308｜与 11-01 观察锚点相同｜last committer 2026-10-30T20:43:43Z｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/1de1990e4978b42179fe0e3e0ae554271808c308 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R067 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L39 | - Poppy publisher changelog｜0.3 Draft / In progress；0.2 Published 2026-10-24 为发行方日期｜https://personalagentprotocol.org/docs/changelog | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R068 | reports/daily/2026/11/2026-11-02/F3-infrastructure.md#L41 | - NIST NCCoE｜Software and SI Agent Identity and Authorization｜Soliciting Comments｜https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R069 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L5 | - observation_cutoff: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R070 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L7 | - research_base_main: 5430096d42e4fc40de0457d7ec2a274c2fe2eb2b | Decision: BOUNDED_NATIVE_OBSERVATION
+- R071 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L9 | - evidence_scope: Poppy 公开 Git main、发行方 changelog 与 manifest、NIST NCCoE 当前项目页面；其他领域 NOT_ASSESSED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R072 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R073 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L11 | - evidence_class: FIRST_PARTY_SOURCE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: BOUNDED_NATIVE_OBSERVATION
+- R074 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R075 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R076 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L15 | - observed_at: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R077 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L18 | - independent_runtime_TCK_CI_conformance: NOT_EXECUTED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R078 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: BOUNDED_NATIVE_OBSERVATION
+- R079 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R080 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R081 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R082 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION** | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R083 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L38 | - Poppy GitHub main｜1de1990e4978b42179fe0e3e0ae554271808c308｜与 11-01 观察锚点相同｜last committer 2026-10-30T20:43:43Z｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/1de1990e4978b42179fe0e3e0ae554271808c308 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R084 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L39 | - Poppy publisher changelog｜0.3 Draft / In progress；0.2 Published 2026-10-24 为发行方日期｜https://personalagentprotocol.org/docs/changelog | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R085 | reports/daily/2026/11/2026-11-02/F4-agentic-systems.md#L41 | - NIST NCCoE｜Software and SI Agent Identity and Authorization｜Soliciting Comments｜https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R086 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L5 | - observation_cutoff: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R087 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L7 | - research_base_main: 5430096d42e4fc40de0457d7ec2a274c2fe2eb2b | Decision: BOUNDED_NATIVE_OBSERVATION
+- R088 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L9 | - evidence_scope: Poppy 公开 Git main、发行方 changelog 与 manifest、NIST NCCoE 当前项目页面；其他领域 NOT_ASSESSED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R089 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R090 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L11 | - evidence_class: FIRST_PARTY_SOURCE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: BOUNDED_NATIVE_OBSERVATION
+- R091 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R092 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R093 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L15 | - observed_at: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R094 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L18 | - independent_runtime_TCK_CI_conformance: NOT_EXECUTED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R095 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: BOUNDED_NATIVE_OBSERVATION
+- R096 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R097 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R098 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R099 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION** | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R100 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L38 | - Poppy GitHub main｜1de1990e4978b42179fe0e3e0ae554271808c308｜与 11-01 观察锚点相同｜last committer 2026-10-30T20:43:43Z｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/1de1990e4978b42179fe0e3e0ae554271808c308 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R101 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L39 | - Poppy publisher changelog｜0.3 Draft / In progress；0.2 Published 2026-10-24 为发行方日期｜https://personalagentprotocol.org/docs/changelog | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R102 | reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md#L41 | - NIST NCCoE｜Software and SI Agent Identity and Authorization｜Soliciting Comments｜https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R103 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L5 | - observation_cutoff: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R104 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L7 | - research_base_main: 5430096d42e4fc40de0457d7ec2a274c2fe2eb2b | Decision: BOUNDED_NATIVE_OBSERVATION
+- R105 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L9 | - evidence_scope: Poppy 公开 Git main、发行方 changelog 与 manifest、NIST NCCoE 当前项目页面；其他领域 NOT_ASSESSED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R106 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R107 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L11 | - evidence_class: FIRST_PARTY_SOURCE_FACT / ATTRIBUTED_PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: BOUNDED_NATIVE_OBSERVATION
+- R108 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R109 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R110 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L15 | - observed_at: 2026-11-02 05:03:18 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R111 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: BOUNDED_NATIVE_OBSERVATION
+- R112 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R113 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R114 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R115 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_REVISION_OR_MATURITY_TRANSITION** | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R116 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L32 | H45-1~3 OPEN，SECURITY != EXECUTION != DURABLE EFFECTS != RECOVERY | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R117 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L38 | - Poppy GitHub main｜1de1990e4978b42179fe0e3e0ae554271808c308｜与 11-01 观察锚点相同｜last committer 2026-10-30T20:43:43Z｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/1de1990e4978b42179fe0e3e0ae554271808c308 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R118 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L39 | - Poppy publisher changelog｜0.3 Draft / In progress；0.2 Published 2026-10-24 为发行方日期｜https://personalagentprotocol.org/docs/changelog | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R119 | reports/daily/2026/11/2026-11-02/F7-synthesis.md#L41 | - NIST NCCoE｜Software and SI Agent Identity and Authorization｜Soliciting Comments｜https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R120 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L3 | - Repository: lostlight530/agentic-frontier-observatory | Decision: BOUNDED_NATIVE_OBSERVATION
+- R121 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L14 | - G04: Current GitHub main is a repository truth source rather than proof of external platform behavior | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R122 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L22 | - G12: A weekly hypothesis may remain OPEN after weekly date coverage is FINAL | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R123 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L30 | - G20: Published event date and research observation date must remain separate | Decision: BOUNDED_NATIVE_OBSERVATION
+- R124 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L38 | - G28: October 12 retains a missing native research-day credit in the existing monthly owner | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R125 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L46 | - G36: No false ZERO_FAILURE or all-green claim follows from absence of tests | Decision: BOUNDED_NATIVE_OBSERVATION
+- R126 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L56 | - S02: November 1 Daily observation cutoff is 04:59:41 Asia/Shanghai | Decision: BOUNDED_NATIVE_OBSERVATION
+- R127 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L64 | - S10: The date of 0.2 publication does not establish 0.3 release completion | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R128 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L72 | - S18: F4 separates discovery, operator identity, OAuth scopes and task execution | Decision: BOUNDED_NATIVE_OBSERVATION
+- R129 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L80 | - S26: W44 H44-2 remains OPEN / UNCHANGED pending NIST dated state evidence | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R130 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L88 | - S34: The November 2 native PR #231 and later owner reconciliation are beyond A1 input cutoff | Decision: BOUNDED_NATIVE_OBSERVATION
+- R131 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L96 | - S42: The underlying 0.3 draft is mutable; no compatibility matrix PASS was executed | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R132 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L106 | - W06: Factual source decision: Models and algorithms remain outside this narrow observation | Decision: BOUNDED_NATIVE_OBSERVATION
+- R133 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L114 | - W14: Factual source decision: Discovery, Session, identity and authority must stay separate | Decision: BOUNDED_NATIVE_OBSERVATION
+- R134 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L122 | - W22: Factual source decision: Publisher-controlled pages belong to one lineage | Decision: BOUNDED_NATIVE_OBSERVATION
+- R135 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L132 | - Source data read: November 1 native Daily and each November 1 workstream, W44 Weekly, October and November Monthly | Decision: CROSS_MONTH_PERIOD_BOUNDARY
+- R136 | historical-audits/2026-11/2026-11-02-a1-global-source-custody.md#L140 | - Rollback scope: close Draft or revert this new documentary file only | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R137 | reports/weekly/2026/2026-W44.md#L6 | - logical_week: 2026-10-26..2026-11-01 Asia/Shanghai | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R138 | reports/weekly/2026/2026-W44.md#L8 | - state: FINAL / CLOSED / 7_OF_7_NATIVE_F1_F7_DAILIES，revision-scoped canonical settlement，delivery/merge state由实际 GitHub main 与 PR 决定 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R139 | reports/weekly/2026/2026-W44.md#L11 | - material_weekly_evidence: Poppy Draft 0.3 revisions observed 10-30 and 10-31 with exact commit chronology, not an 11-01 release | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R140 | reports/weekly/2026/2026-W44.md#L14 | - H44-3: OPEN / UNCHANGED，授权草案未提供独立 durable-effect inventory、revocation、recovery trace | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R141 | reports/weekly/2026/2026-W44.md#L18 | - correction_and_counterevidence: 10-26 source conflict is historical, 10-27 current-surface reconciliation is forward only, 10-12 historical native gap preserved | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R142 | reports/weekly/2026/2026-W44.md#L20 | - next_week: W45 opens only after real 2026-11-02 Daily, carry H44-1~3 without false strengthening | Decision: BOUNDED_NATIVE_OBSERVATION
+- R143 | reports/weekly/2026/2026-W44.md#L30 | **2026-10-31 05:04:36 Asia/Shanghai canonical research checkpoint：W44 OPEN / 6/7 native F1–F7 Daily dates present，H44-1 OPEN / REVISION_BOUND_PROVENANCE_PARTIAL，H44-2~3 OPEN / UNCHANGED，October OPEN，2026-11-01 NOT_DUE** | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R144 | reports/weekly/2026/2026-W44.md#L37 | - 2026-10-28: reports/daily/2026/10/2026-10-28.md + F1–F7，PARTIAL BOUNDED / NO VERIFIED NEW TRANSITION | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R145 | reports/weekly/2026/2026-W44.md#L41 | - prior_week: W43 FINAL / CLOSED 7/7，H43-1 SOURCE_CONFLICT，H43-2~3 OPEN | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R146 | reports/weekly/2026/2026-W44.md#L53 | - state: OPEN / CURRENT_SURFACES_RECONCILED / PROVENANCE_UNVERIFIED | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R147 | reports/weekly/2026/2026-W44.md#L68 | - strengthening: 独立跨提供者 authority、revocation、effect-inventory、recovery trace | Decision: BOUNDED_NATIVE_OBSERVATION
+- R148 | reports/weekly/2026/2026-W44.md#L83 | 2026-10-28 05:01:01 Asia/Shanghai Poppy 网站、GitHub main a95b757872533a6ef1e1a9bcf29802857d2e5ff4 与 NIST 项目页面重复核验，0.2 Published 发行方日期和 0.3 Draft 序列仍一致，NIST Soliciting Comments，未发现 10-28 日期化转换，H44-1 OPEN / PROVENANCE_UNVERIFIED，H44-2~3 OPEN / UNCHANGED，同源重复不独立增强 | Decision: EXPLICIT_NEGATIVE_SCOPE
+- R149 | reports/weekly/2026/2026-W44.md#L114 | - Poppy 0.3 GitHub draft revision｜3e9bada9ec8f66777b43e429d49574131dc2f67e｜committer 2026-10-29T14:36:58Z｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/3e9bada9ec8f66777b43e429d49574131dc2f67e | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R150 | reports/weekly/2026/2026-W44.md#L116 | - Poppy publish commit｜2da94ae4ce8bb7588440c9ce932a728ebfa16580｜https://github.com/personal-agent-protocol/personal-agent-protocol/commit/2da94ae4ce8bb7588440c9ce932a728ebfa16580 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R151 | reports/weekly/2026/2026-W44.md#L119 | - Poppy GitHub main changelog｜main 39b35bdf240fc07f157d6ca4e29b5a41d4b36b5d，仍称 Draft 0.2 In progress｜https://github.com/personal-agent-protocol/personal-agent-protocol/blob/39b35bdf240fc07f157d6ca4e29b5a41d4b36b5d/content/shared/changelog.mdx | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R152 | reports/weekly/2026/2026-W44.md#L122 | - A2A Python SDK v1.2.3｜GitHub published_at=2026-10-19T10:10:57Z，first repository observation 2026-10-22｜https://github.com/a2aproject/a2a-python/releases/tag/v1.2.3 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+- R153 | reports/weekly/2026/2026-W44.md#L128 | - source: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/3e9bada9ec8f66777b43e429d49574131dc2f67e...1de1990e4978b42179fe0e3e0ae554271808c308 | Decision: FIRST_PARTY_SOURCE_NOT_CONFORMANCE
+## Distinct cross-source dated assessments
+- J01 | Nov 1 and Nov 2 Poppy main was the same exact 1de1990e commit, not two source revision transitions
+- J02 | Poppy issuer 0.3 remains Draft / In progress through Nov 2; 0.2 published Oct 24 is different version state
+- J03 | NIST NCCoE project Soliciting Comments is a scoped status observation, not a dated transition
+- J04 | Poppy GitHub, changelog and version manifest are one publisher-controlled initiative lineage
+- J05 | No independent TCK/conformance test ran for this observer's Nov 1/2 native Daily
+- J06 | One Daily F1–F7 workstream pack is one logical source study, not seven independent research days
+- J07 | F2/F6 NOT_ASSESSED remain unknown rather than zero progress or false verified coverage
+- J08 | 2026-W44 includes Oct26–Nov1; W44 FINAL 7/7 is weekly temporal coverage, not November monthly final
+- J09 | W45 began Nov2 and remained OPEN, not final seven-day aggregate
+- J10 | October research 30/31 CLOSED_WITH_GAPS, exact Oct 12 gap cannot be retroactively credited
+- J11 | Nov 2 Daily is a same-state source recheck, not evidence of a new maturity release
+- J12 | The Nov 3 changed Poppy revision is outside this A1 cutoff and must be assessed by A2
+- J13 | Authoritative source event dates, Git commit time and observer cutoff are different clocks
+- J14 | Source-publisher claim and formal protocol MUST/SHOULD conformance have different validators
+- J15 | Original October A2 strict 0/10 NOT_MET cannot be overwritten by later deliverable
+- J16 | This maintenance reviewer did not rerun Poppy tests, GitHub CodeQL or any outside TCK
+- J17 | Registry/watchlist mutations require actual identity or material status change, not an audit-only rewrite
+- J18 | The current November month relation remains OPEN until natural month end
+## Review denominator and delivery boundary
+- Daily owner paths Nov1 and Nov2 both retained; 2 native logical days, not sum of F1-F7 file counts
+- W44 week CLOSED 7/7; W45 OPEN; October 30/31 gap explicit; November final NOT_DUE
+- Nov1/2 native scope was Poppy/NIST, other areas NOT_ASSESSED; no false independence or conformance
+- Only this new audit file changes, no original research, registry, hypothesis or monthly owner modified
+- New A2 gated on this original A1 merged and freshly read from main plus Nov3 Daily material
