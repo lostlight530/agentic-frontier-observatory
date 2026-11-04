@@ -1,0 +1,36 @@
+# Global native F1–F7 pack — 2026-11-04
+
+- logical_date: 2026-11-04 Asia/Shanghai
+- observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai
+- observation_utc: 2026-11-04T04:51:11Z
+- repository_base_main: 549dfd9d60d403acef69f26e16913ffa6506d7b5
+- record_class: NATIVE_DAILY_RESEARCH
+- result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED
+- evidence_class: FIRST_PARTY_GIT_FACT / PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
+- source_previous_revision: cf1434d7d2ac38484842b1f938cc4b066ed49400
+- source_current_revision: 7205250c6fb7d4a181707898fa418911ccbcb163
+- exact_compare: ahead_by=3, behind_by=0, changed_files=20
+- event_date: Git committer timestamps 2026-11-02T22:03:02Z..2026-11-03T00:21:12Z
+- publication_date: Draft 0.3 NOT_PUBLISHED, 0.2 issuer-declared 2026-10-24
+- effective_date: NOT_ESTABLISHED
+- observed_at: 2026-11-04 12:51:11 Asia/Shanghai
+- state_transition_date: Git commit metadata known; protocol publication and NIST display transition UNVERIFIED
+- later_correction_date: NOT_APPLICABLE
+- delivery_merge_date: NOT_YET_VERIFIED_AT_PRODUCTION
+- release_TCK_runtime_conformance: NOT_EXECUTED
+- same_publisher_commits: NOT_INDEPENDENT_ECOSYSTEM_SUPPORT
+- assessed_scope: Poppy Git revision, publisher changelog, NIST status; other AI sectors NOT_ASSESSED
+- W45: OPEN 3/7 merged, 2026-11-04 is fourth original native day proposed, H45-1 REVISION_BOUND_PROVENANCE_PARTIAL
+- November: OPEN 2026-11-01..04 original native dates, 2026-11-05..30 NOT_DUE
+- October: CLOSED_WITH_GAPS 30/31, October 12 ZERO_NATIVE_DAILY_CREDIT
+
+- [Integrated Daily](../2026-11-04.md)
+- [F1｜历史、理论与范式](./F1-history-theory.md)
+- [F2｜模型、算法与多模态](./F2-models-algorithms.md)
+- [F3｜算力、芯片、数据与基础设施](./F3-infrastructure.md)
+- [F4｜Agent、Runtime、Harness 与协议](./F4-agentic-systems.md)
+- [F5｜评测、安全、治理与标准](./F5-evaluation-governance.md)
+- [F6｜开源、产业、经济与社会](./F6-ecosystem-society.md)
+- [F7｜跨系统综合与判断修正](./F7-synthesis.md)
+- pack_count: 1 integrated + F1–F7 + README = 9
+- source_contract: one exact revision lineage is not multiple independent implementations
