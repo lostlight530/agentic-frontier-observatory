@@ -1,6 +1,8 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-10-11 · W41 Poppy draft reconciliation**
+- 2026-11-05 current-state successor: Poppy 0.3 发行方版本元数据已标记 published=2026-11-04，Git 证据提交于 2026-11-05T00:09:43Z，0.4 Draft；G-W73 的跨提供者 conformance、effect/recovery 仍 OPEN
+
+Updated: **2026-11-05 · G-W73 publisher 0.3 release without independent conformance**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
@@ -78,7 +80,7 @@ Updated: **2026-10-11 · W41 Poppy draft reconciliation**
 | G-W70 | Can task-state evidence distinguish cancellation intent, observed terminal state and the exact external effects that committed during the race window? | **NEW / W35 PRIORITY** | Task/event logs, idempotency and effect-ledger implementations |
 | G-W71 | Does F.748.93 approval/publication produce inspectable implementation, conformance and cross-vendor interoperability evidence? | **OPEN / W38 MONITOR** | Conformance methods, implementations and interoperability results |
 | G-W72 | Can recovery/remediation completion be expressed as portable machine-readable proof accepted by the required authority? | **NEW / W38 PRIORITY** | Normative completion evidence, acceptance semantics and interoperable implementations |
-| G-W73 | Can Poppy Draft 0.1's identity, authorization, revocation and optional operations become independently tested cross-company effect/recovery contracts? | **NEW / W41 / OPEN** | Stable revisions, interoperable implementations, authorization tests, effect ledger and recovery acceptance |
+| G-W73 | Can Poppy publisher version releases lead to independently tested cross-company identity, authorization, revocation and durable effect/recovery contracts? | **OPEN / ISSUER_0_3_PUBLICATION_CONFIRMED / CONFORMANCE_OPEN** | Versioned 0.3 evidence and 0.4 Draft tracked; require separate implementation, cross-provider authorization tests, effect ledger, recovery acceptance and stable-version guarantees |
 
 ## W38 Active Shortlist / W38 当前优先清单
 
