@@ -68,3 +68,59 @@
 - O15 reports/daily/2026/11/2026-11-04.md#L30: - release_TCK_runtime_conformance: NOT_EXECUTED | UNKNOWN_RETAINED
 
 ## Nov4 F1–F7 component-level source review appended next
+
+
+## Nov4 F1–F7 and README content judgments, original sources actually fetched
+### reports/daily/2026/11/2026-11-04/README.md | blob 37592bfceb6b69ca3ed2f77e2492c20aa4be10b5 | opened 37 lines
+- N001 reports/daily/2026/11/2026-11-04/README.md#L8: - result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED | SOURCE_CHANGE_ONLY, no runtime proof
+- N002 reports/daily/2026/11/2026-11-04/README.md#L10: - source_previous_revision: cf1434d7d2ac38484842b1f938cc4b066ed49400 | SOURCE_CHANGE_ONLY, no runtime proof
+- N003 reports/daily/2026/11/2026-11-04/README.md#L11: - source_current_revision: 7205250c6fb7d4a181707898fa418911ccbcb163 | SOURCE_CHANGE_ONLY, no runtime proof
+- N004 reports/daily/2026/11/2026-11-04/README.md#L12: - exact_compare: ahead_by=3, behind_by=0, changed_files=20 | BOUNDED, no runtime proof
+- N005 reports/daily/2026/11/2026-11-04/README.md#L13: - event_date: Git committer timestamps 2026-11-02T22:03:02Z..2026-11-03T00:21:12Z | SOURCE_CHANGE_ONLY, no runtime proof
+- N006 reports/daily/2026/11/2026-11-04/README.md#L14: - publication_date: Draft 0.3 NOT_PUBLISHED, 0.2 issuer-declared 2026-10-24 | DRAFT_VERSION_ONLY, no runtime proof
+### reports/daily/2026/11/2026-11-04/F1-history-theory.md | blob d60e1c6ad7e305c05985a1a8292cfc933829cbfa | opened 23 lines
+- N007 reports/daily/2026/11/2026-11-04/F1-history-theory.md#L7: - result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED | SOURCE_CHANGE_ONLY, no runtime proof
+- N008 reports/daily/2026/11/2026-11-04/F1-history-theory.md#L11: Poppy 0.3 仍处发行方 Draft / In progress，3 个源码提交只构成 draft provenance，不是正式稳定的协议范式转换 | DRAFT_VERSION_ONLY, no runtime proof
+- N009 reports/daily/2026/11/2026-11-04/F1-history-theory.md#L18: - 相关工作流、真实 Runtime、跨提供者 TCK/conformance 未执行，其他范围 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+### reports/daily/2026/11/2026-11-04/F2-models-algorithms.md | blob 5196a6a00bbe0f95cb2acec1ec1f4fd1b7e09575 | opened 22 lines
+- N010 reports/daily/2026/11/2026-11-04/F2-models-algorithms.md#L7: - result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED | SOURCE_CHANGE_ONLY, no runtime proof
+- N011 reports/daily/2026/11/2026-11-04/F2-models-algorithms.md#L11: 此次精确 Git 比较涉及 UCP、Company OAuth scopes、文档示例，未取得模型能力或多模态性能评测变化证据 | BOUNDED, no runtime proof
+- N012 reports/daily/2026/11/2026-11-04/F2-models-algorithms.md#L14: 模型与算法领域 NOT_ASSESSED，不因协议草案 Git 提交宣布模型能力提升 | NEGATIVE_RETAINED, no runtime proof
+- N013 reports/daily/2026/11/2026-11-04/F2-models-algorithms.md#L18: - 相关工作流、真实 Runtime、跨提供者 TCK/conformance 未执行，其他范围 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+### reports/daily/2026/11/2026-11-04/F3-infrastructure.md | blob 149f7269cc3388eb06b4af25a6a08cdd0d32cee6 | opened 22 lines
+- N014 reports/daily/2026/11/2026-11-04/F3-infrastructure.md#L7: - result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED | SOURCE_CHANGE_ONLY, no runtime proof
+- N015 reports/daily/2026/11/2026-11-04/F3-infrastructure.md#L14: Source revision != environment deployment，运行、CI 与系统基础设施领域 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+- N016 reports/daily/2026/11/2026-11-04/F3-infrastructure.md#L18: - 相关工作流、真实 Runtime、跨提供者 TCK/conformance 未执行，其他范围 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+- N017 reports/daily/2026/11/2026-11-04/F3-infrastructure.md#L21: - https://github.com/personal-agent-protocol/personal-agent-protocol/commit/7205250c6fb7d4a181707898fa418911ccbcb163 | SOURCE_CHANGE_ONLY, no runtime proof
+### reports/daily/2026/11/2026-11-04/F4-agentic-systems.md | blob 257a7bce35740987489ec64598d6fdec14dc34e2 | opened 23 lines
+- N018 reports/daily/2026/11/2026-11-04/F4-agentic-systems.md#L7: - result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED | SOURCE_CHANGE_ONLY, no runtime proof
+- N019 reports/daily/2026/11/2026-11-04/F4-agentic-systems.md#L11: Poppy main 相对昨日锚点新增 3 个提交、20 个 changed files，包括 UCP 扩展、OAuth 授权范围处理和版本演示条目 | BOUNDED, no runtime proof
+- N020 reports/daily/2026/11/2026-11-04/F4-agentic-systems.md#L14: 新 source revision 仅支持 repository provenance，UCP 扩展文档不自动证明交易执行、authority delegation、runtime effects 或 recovery acceptance | SOURCE_CHANGE_ONLY, no runtime proof
+- N021 reports/daily/2026/11/2026-11-04/F4-agentic-systems.md#L18: - 相关工作流、真实 Runtime、跨提供者 TCK/conformance 未执行，其他范围 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+- N022 reports/daily/2026/11/2026-11-04/F4-agentic-systems.md#L22: - https://github.com/personal-agent-protocol/personal-agent-protocol/blob/7205250c6fb7d4a181707898fa418911ccbcb163/content/versions/versions.json | BOUNDED, no runtime proof
+### reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md | blob 373a2ce5fde94848197f6dd25746b174c880e223 | opened 23 lines
+- N023 reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md#L7: - result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED | SOURCE_CHANGE_ONLY, no runtime proof
+- N024 reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md#L11: NIST NCCoE 当前项目页面仍为 Soliciting Comments，概念文档及评论总结不等于正式通用的 agent identity/authorization 合格评定标准 | BOUNDED, no runtime proof
+- N025 reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md#L14: Poppy 的测试代码和 validator 文件改变只是源码存在或文档化实现，未运行独立 TCK/conformance 与跨提供者撤销测试 | BOUNDED, no runtime proof
+- N026 reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md#L18: - 相关工作流、真实 Runtime、跨提供者 TCK/conformance 未执行，其他范围 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+- N027 reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md#L21: - https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization | BOUNDED, no runtime proof
+### reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md | blob 6add8450d54fc756f2821bdc36609151e58044fe | opened 22 lines
+- N028 reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md#L7: - result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED | SOURCE_CHANGE_ONLY, no runtime proof
+- N029 reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md#L14: 0.3 demos 的标识和文档属于项目元数据，生产部署、真实用户采用与产业影响 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+- N030 reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md#L18: - 相关工作流、真实 Runtime、跨提供者 TCK/conformance 未执行，其他范围 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+- N031 reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md#L21: - https://github.com/personal-agent-protocol/personal-agent-protocol/commit/7205250c6fb7d4a181707898fa418911ccbcb163 | SOURCE_CHANGE_ONLY, no runtime proof
+### reports/daily/2026/11/2026-11-04/F7-synthesis.md | blob 31276502ec6ee1c7f947ca2bcbcf8088547e3a19 | opened 24 lines
+- N032 reports/daily/2026/11/2026-11-04/F7-synthesis.md#L7: - result: VERIFIED_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED | SOURCE_CHANGE_ONLY, no runtime proof
+- N033 reports/daily/2026/11/2026-11-04/F7-synthesis.md#L11: H45-1 继续 OPEN / REVISION_BOUND_PROVENANCE_PARTIAL，新增3个来源修订在既有 provenance 研究线上，未提升到正式 0.3 发行或独立 conformance | DRAFT_VERSION_ONLY, no runtime proof
+- N034 reports/daily/2026/11/2026-11-04/F7-synthesis.md#L14: SECURITY != EXECUTION != DURABLE EFFECTS != RECOVERY；PERSISTENT_TASK_STORE != DURABLE_EFFECT_RECOVERY；H45-2~3 OPEN / UNCHANGED | OPEN_HYPOTHESIS, no runtime proof
+- N035 reports/daily/2026/11/2026-11-04/F7-synthesis.md#L18: - 相关工作流、真实 Runtime、跨提供者 TCK/conformance 未执行，其他范围 NOT_ASSESSED | NEGATIVE_RETAINED, no runtime proof
+- N036 reports/daily/2026/11/2026-11-04/F7-synthesis.md#L23: - https://www.nccoe.nist.gov/projects/software-and-si-agent-identity-and-authorization | BOUNDED, no runtime proof
+
+## Complete A1 decision and A2 dependency
+- Nov1–4 source coverage 4 distinct native F1–F7 Daily identities, 32 full component files (including README), with 24 prior exact blobs revalidated and 8 Nov4 components reopened
+- Original Nov4 0.3 draft state is a correct as-of source statement; no retrospective 0.3 release claim is admissible for this A1
+- All observed Poppy publisher files belong to one source family even across multiple Git commits; NIST is independent publisher but not Poppy conformance test
+- W44 CLOSED 7/7 and W45 OPEN/NOT_DUE; month November OPEN, old October 12 missing remains a historical gap
+- No native source file or monthly owner altered here; original Oct31 strict maintenance acceptance remains 0/10 NOT_MET
+- Actual GitHub data read validates content and historical relationships only; independent runtime TCK / CI / deployed agent effects NOT_EXECUTED
+- A2 Nov5 must start only after this A1 merged and fresh-read, then integrate publisher 0.3 publication and 0.4 Draft evidence with precise event/commit clocks
