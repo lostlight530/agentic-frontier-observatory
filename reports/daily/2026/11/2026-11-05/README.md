@@ -1,0 +1,36 @@
+# Global native F1–F7 pack — 2026-11-05
+
+- logical_date: 2026-11-05 Asia/Shanghai
+- observation_cutoff: 2026-11-05 12:48:22 Asia/Shanghai
+- observation_utc: 2026-11-05T04:48:22Z
+- repository_base_main: c3d1ee284c689187357869f5c6dd2d88dc4fa36e
+- record_class: NATIVE_DAILY_RESEARCH
+- result: PUBLISHER_VERSION_STATUS_CHANGE / PARTIAL_BOUNDED
+- evidence_class: FIRST_PARTY_GIT_FACT / PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
+- observed_at: 2026-11-05 12:48:22 Asia/Shanghai
+- source_previous_revision: 7205250c6fb7d4a181707898fa418911ccbcb163
+- source_current_revision: 2a7009c9aad24542076c08b6c2467f3566dd5eec
+- exact_source_compare: ahead_by=7, behind_by=0, changed_files=100
+- publication_date: Poppy 0.3 publisher-declared 2026-11-04 in version manifest, not first-observed date
+- source_commit_date: 2289293d7af2e0df2a82bce89d60c1b40443750d committer 2026-11-05T00:09:43Z
+- effective_date: NOT_ESTABLISHED
+- state_transition_date: Git commit known; publisher website deployment and first public availability UNVERIFIED
+- later_correction_date: 2026-11-05 forward successor to 11-04 draft observation, not backdating
+- delivery_merge_date: NOT_YET_VERIFIED_AT_PRODUCTION
+- release_TCK_runtime_conformance: NOT_EXECUTED_BY_THIS_RESEARCH
+- issuer_independence: seven Git commits from one publisher lineage, NOT_SEVEN_INDEPENDENT_IMPLEMENTATIONS
+- assessed_scope: Poppy publisher version manifest, Git compare and changelog, NIST project status; other global sectors PARTIAL / NOT_ASSESSED
+- W45: OPEN / 4 of 7 on initial main, fifth native date proposed; H45-1 OPEN / ISSUER_0_3_PUBLICATION_CONFIRMED / CONFORMANCE_OPEN
+- November: OPEN / 1–4 native dates merged, fifth proposed; 6–30 NOT_DUE
+- October: CLOSED_WITH_GAPS / 30 of 31, 2026-10-12 ZERO_NATIVE_DAILY_CREDIT
+
+- [Integrated Daily](../2026-11-05.md)
+- [历史、理论与范式](./F1-history-theory.md)
+- [模型、算法与多模态](./F2-models-algorithms.md)
+- [算力、芯片、数据与基础设施](./F3-infrastructure.md)
+- [Agent、Runtime、Harness 与协议](./F4-agentic-systems.md)
+- [评测、安全、治理与标准](./F5-evaluation-governance.md)
+- [开源、产业、经济与社会](./F6-ecosystem-society.md)
+- [跨系统综合与判断修正](./F7-synthesis.md)
+- pack_count: 1 integrated + F1–F7 + README = 9
+- release metadata is first-party version evidence, not independent conformance
