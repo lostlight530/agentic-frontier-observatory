@@ -1,0 +1,36 @@
+# Global native F1–F7 pack — 2026-11-06
+
+- logical_date: 2026-11-06 Asia/Shanghai
+- observation_cutoff: 2026-11-06 07:37:18 Asia/Shanghai
+- observation_utc: 2026-11-05T23:37:18.620Z
+- repository_base_main: 6dcd1112673dd29fef1760a6034829255a0837ed
+- record_class: NATIVE_DAILY_RESEARCH
+- result: VERIFIED_0_4_DRAFT_SOURCE_REVISION / PARTIAL_BOUNDED
+- evidence_class: FIRST_PARTY_GIT_FACT / PUBLISHER_CLAIM / OBSERVATORY_ANALYSIS / UNCERTAIN
+- observed_at: 2026-11-06 07:37:18 Asia/Shanghai
+- source_event_date: 2026-11-05T13:24:29Z (Git committer) / 2026-11-05 21:24:29 Asia/Shanghai
+- publication_date: Poppy 0.3 issuer-declared 2026-11-04; 0.4 NOT_PUBLISHED
+- effective_date: NOT_ESTABLISHED_FOR_DRAFT
+- state_transition_date: source Git commit timestamp known; website deployment date UNVERIFIED
+- later_correction_date: NOT_APPLICABLE_TO_HISTORICAL_DAILY
+- delivery_merge_date: NOT_YET_VERIFIED_AT_PRODUCTION
+- upstream_old: 2a7009c9aad24542076c08b6c2467f3566dd5eec
+- upstream_new: 77e01796bfffa0176ec5b2c17822570ee0386303
+- exact_upstream_compare: ahead=1 / behind=0 / changed_files=7
+- issuer_independence: same publisher lineage; NOT_INDEPENDENT_CROSS_PROVIDER_SUPPORT
+- W45: OPEN / Nov 2–5 4 MERGED W45 native dates, Nov 6 fifth proposed, Nov 7–8 NOT_DUE
+- November: OPEN / Nov 1–5 5 MERGED native dates, Nov 6 sixth proposed, Nov 7–30 NOT_DUE
+- October: CLOSED_WITH_GAPS 30/31; Oct 12 ZERO_NATIVE_DAILY_CREDIT
+- checker/CI/Runtime/TCK/independent conformance: NOT_EXECUTED_BY_THIS_RESEARCH
+- assessed_scope: Poppy first-party repo and NIST project status; other global AI domains PARTIAL / NOT_ASSESSED
+
+- [Integrated Daily](../2026-11-06.md)
+- [历史、理论与范式](./F1-history-theory.md)
+- [模型、算法与多模态](./F2-models-algorithms.md)
+- [算力、芯片、数据与基础设施](./F3-infrastructure.md)
+- [Agent、Runtime、Harness 与协议](./F4-agentic-systems.md)
+- [评测、安全、治理与标准](./F5-evaluation-governance.md)
+- [开源、产业、经济与社会](./F6-ecosystem-society.md)
+- [跨系统综合与判断修正](./F7-synthesis.md)
+- pack_count: 1 integrated + F1–F7 + README = 9
+- evidence_boundary: one 0.4 draft revision is not a published version nor independent conformance
