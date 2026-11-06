@@ -231,3 +231,11 @@
 - Month source availability is not an independent TCK/SDK test or real-world authorization result
 - A1 / A2 strict numeric and semantic line checks are independent of native research completeness
 - Source ledger objects 53; reopened full texts 8; line-indexed citations 108
+
+
+## Native 2026-11-06 Draft ownership and merge-status reconciliation
+- The original native Global F1–F7 Day6 research is **authored** on [PR #246](https://github.com/lostlight530/agentic-frontier-observatory/pull/246), Draft, branch `research/2026-11-06-native-global-f1-f7`, head `1dd423cdd13202dd6ad2c8546841c8d59b9a150e`, current `mergeable=false` after main advanced. The original integrated Daily blob `be450996fc75dcb0dd397b5cba321bcc7f6663a0` exists **on its unmerged PR branch**, not on current `main` at this A2 observation cut.
+- The researched Day6 source change is a Poppy **0.4 Draft** refinement: 0.4 DPoP key-per-User-ID normative requirement and supporting token/rotation guidance, anchored to issuer commit `77e01796bfffa0176ec5b2c17822570ee0386303` after the Nov05 native observation cutoff. This is first-party source evidence, not a new stable 0.4 publication, vendor conformance or deployed credential-bound effect.
+- The branch contains the 9-file integrated F1–F7 Daily pack and proposed updates to `reports/monthly/2026/2026-11.md` and `reports/weekly/2026/2026-W45.md`. Those edits are native-owner scope, not ours. Its current main visibility remains **5 native dates** while branch proposed visibility is **6**, subject to owner resolution and actual postmerge main readback.
+- This independent A2 explicitly avoids editing the **same monthly owner file** to prevent a competing current-month state and merge conflict with #246. The earlier draft of this PR temporarily appended an independent monthly index note, which was subsequently withdrawn on its unmerged branch for coordination; the independent dated A2 report remains, and original native monthly content remains untouched.
+- Interpretation: `NATIVE_PR_EXISTS / NATIVE_MAIN_NOT_YET / OWNER_CONFLICT_COORDINATION`. A statement that Nov06 native content was not observed on a pinned current `main` is a point-in-time main-visibility assertion, not evidence that the native daily was not produced.
