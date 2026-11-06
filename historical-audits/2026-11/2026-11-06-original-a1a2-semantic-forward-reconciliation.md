@@ -67,3 +67,22 @@
 - The November 6 0.4 Draft adds per-User-ID DPoP key normative wording, but source code/guide text cannot verify device custody, token rotation or effect-time authorization
 - TCK, cross-implementation conformance, independent operational trial, runtime recovery receipt: NOT_EXECUTED in this reconciliation
 - No original line count is upgraded; no new source publication is claimed merely from this post-merge delivery reconciliation
+
+## Strict original A1/A2 acceptance adjudication — 2026-11-06
+- Basis: each named original GitHub PR patch and its original merged delivery; this is a later independent *documentary* evaluation, not a replacement or recomputation of original additions.
+- Gate 1 (GitHub original PR >=100 additions and merged): PASS for every original below. Gate 2 (>=100 non-repeated, original, independently substantive maintenance lines per original): outcomes below. NOT_CERTIFIED is a non-PASS state.
+- Exclude from Gate 2: blank lines, headings, administrative metadata, file/blob indexes, source-body quotations, unchanged inherited upstream rows, repeated boilerplate suffixes, and historical evidence that was not newly assessed. A numbered row is not automatically a distinct substantive decision.
+- No native execution, external source recertification or GitHub Actions run is performed by this documentary review. No later correction is backdated into an original GitHub PR.
+
+| Original PR | Original additions | Strict substantive result | Specific acceptance reason / unresolved test |
+|---|---:|---|---|
+| [#234](https://github.com/lostlight530/agentic-frontier-observatory/pull/234) | 140 | NOT_CERTIFIED | Nov2 A1 mixes Gxx general temporal controls and Sxx F1–F7 bounded source coverage; need original source-specific substantive count |
+| [#235](https://github.com/lostlight530/agentic-frontier-observatory/pull/235) | 134 | NOT_CERTIFIED | Nov2 A2 Txx general guard statements and Rxx source restatements must be separated from genuine current-month relation transitions |
+| [#241](https://github.com/lostlight530/agentic-frontier-observatory/pull/241) | 282 | NOT_CERTIFIED | Nov4 A1 copies many F1–F7 native source lines as E001+ with repeated DAILY_COMPONENT_BOUND/UNKNOWN_RETAINED suffixes; 24 component files are not 24 independent research executions or source judgments |
+| [#242](https://github.com/lostlight530/agentic-frontier-observatory/pull/242) | 144 | NOT_CERTIFIED | Nov4 A2 includes component quote appendix, repeated inherited source clocks and month state; those are not automatically novel A2 decisions |
+| [#243](https://github.com/lostlight530/agentic-frontier-observatory/pull/243) | 126 | NOT_CERTIFIED | Nov5 A1 Oxx quotes Nov4 Daily fields with repeated UNKNOWN_RETAINED; distinguish source custody from new publisher/version analysis |
+| [#244](https://github.com/lostlight530/agentic-frontier-observatory/pull/244) | 148 | NOT_CERTIFIED | Nov5 A2 largely reiterates prior Poppy 0.3 publisher state and Nov5 source components; review exact new 0.3 status relationship versus copied lines |
+
+- Certification rule: no original is marked semantic PASS without an independently checked exact-line inclusion/exclusion ledger achieving 100 eligible, different source-specific judgments for *that original*, with citation to its original diff. Higher GitHub additions alone cannot supply that ledger.
+- Next legal action: review and adjudicate each specific row; where the strict criterion is actually unmet, a separately scoped successor may be proposed, but must not be retroactively counted toward the original. Stop at Draft until maintainer decision.
+- Current status: ORIGINAL_NUMERIC_GATE_VERIFIED / ORIGINAL_STRICT_SUBSTANTIVE_NOT_CLOSED / FORWARD_CORRECTION_DELIVERED.
