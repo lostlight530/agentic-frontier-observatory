@@ -8,7 +8,7 @@
 - Nov7 source changes and month owner rolling updates are **excluded** from this A1 cutoff although already on Nov7 main; they belong to A2
 - October prior month CLOSED_WITH_GAPS, Nov OPEN, W44 closed, W45 OPEN and not yet eligible for final synthesis
 - Current status PARTIAL_SOURCE_CUSTODY_AND_SOURCE_SPECIFIC_DECISIONS; STRICT_100_SUBSTANTIVE_INDEPENDENCE_GATE_NOT_CERTIFIED
-- Source review: predecessor source coverage plus directly opened Nov6 main Daily overview and current Git tree; entire F/C component text was not all independently reopened in this pass
+- Source review: predecessor source coverage, Nov6 Daily overview, all seven F1–F7 Nov6 component full texts, the Daily pack README, and current Git tree were directly reopened in this pass
 - No TCK, external runtime, cross-provider conformance or published-source state audit was newly executed
 
 ## Scoped whole-month-to-cutoff source inventory
@@ -115,3 +115,16 @@
 - Full scientific reproduction NOT_EXECUTED; source-file identity rows not counted as independent decisions
 - The 19 authored interpretation bullets do not establish independently checked >=100 original novel substantive A1 lines
 - A2 from merged A1 may retain PARTIAL but must not report complete/strict-PASS if unresolved source or semantic gate remains
+
+## Full-text Nov6 component audit — 2026-11-07 forward review
+- These are newly reopened repository source documents, not new official-issuer publications or independent scientific runtime checks
+- **F1:** F1 keeps 0.3 issuer published versus 0.4 Draft separate; one issuer spec edit does not establish paradigm adoption
+- **F2:** F2 explicitly reports no independently measured model or multimodal capability change; seven protocol files cannot supply a model benchmark denominator
+- **F3:** F3 lists private-key isolation suggestions (key service/HSM and refresh-token separation); no hardware security execution evidence
+- **F4:** F4 pins DPoP one-key/one-User-ID MUST in Draft §4.5; its wording does not prove credential binding or authorization at runtime
+- **F5:** F5 names NIST NCCoE Soliciting Comments while retaining missing TCK, token revocation and cross-vendor recovery tests
+- **F6:** F6 records exactly one upstream commit with seven changed files; changed-file count is not an implementation or adoption count
+- **F7:** F7 keeps H45-1 open/conformance open; H45-2 and H45-3 open unchanged; explicit security/execution/durable-effect boundaries remain
+- **Pack README:** Source event timestamp 2026-11-05T13:24:29Z and observer cutoff 2026-11-06 07:37:18 Shanghai refer to different clocks; no first website deployment proof
+- Explicit result: all relevant Nov6 component text and pack README now reopened; earlier Nov1–5 content remains eligible through exact-blob prior-A1 reuse, not a fabricated full re-reading in this execution
+- Source-specific new judgments in this subsection: 8; no automatic >=100 line acceptance promotion
