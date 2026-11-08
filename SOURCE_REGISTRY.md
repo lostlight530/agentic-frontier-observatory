@@ -11,10 +11,14 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-11-05** (Poppy 0.3 publisher release metadata and new 0.4 draft status, observed at 12:48:22 Asia/Shanghai)
+Updated through: **2026-11-08** (new first-party draft anchor and bounded source identities observed 2026-11-08 15:27:56 Asia/Shanghai)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
+| G-PAP-0-4-DRAFT-REVISION-2026-11-08 | G2 | Poppy first-party GitHub | 0.4 DRAFT at a2ca25ab43eccc045bc7f2b86d3b579088da9af1 compared with 46beb2139417ad7b990dbf9b2dc84ddc3dd494d9 ahead 9 behind 0 changed_files 45 on 2026-11-08, no released 0.4 or independent conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/a2ca25ab43eccc045bc7f2b86d3b579088da9af1/content/versions/versions.json |
+| G-NIST-AGENT-IAM-TENETS-2026-10-27 | G1 | NIST official authors | 10 initial design tenets published 2026-10-27 and first observed here 2026-11-08; not final NIST SP standard or deployed NCCoE implementation | https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems |
+| G-TENCENT-HY4-ANNOUNCEMENT-2026-11-04 | G2 | Tencent Hy | Hy4 issuer product/model publication 2026-11-04, weights/card future-facing, internal benchmark claims not independently rerun, preview is separate object | https://www.tencent.com/zh-cn/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/ |
+| G-XINHUA-MEDIA-AI-COBUILD-2026-11-07 | G1 | Xinhua | 22 organizations launch 2026-11-07, approximately two years intended to co-develop AI media application rules, initiative not final internationally normative standard | https://www.news.cn/tech/20261107/21e47a63f43740e5a4f91f2400435c32/c.html |
 | G-DARTMOUTH-STORY | G1 | Dartmouth AI | 1956 field formation | https://ai.dartmouth.edu/our-story |
 | G-STANFORD-INDEX-2026 | G1 | Stanford HAI | 2026 global AI index | https://hai.stanford.edu/ai-index/2026-ai-index-report |
 | G-TRANSFORMER | G3 | Original paper | Transformer architecture | https://arxiv.org/abs/1706.03762 |
