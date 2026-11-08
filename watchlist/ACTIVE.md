@@ -1,8 +1,10 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-08 current successor: Poppy 0.4 remains draft with fresh source updates; NIST older tenets, Tencent Hy4 and Xinhua media co-build first observed today, none establish portable conformance
+
 - 2026-11-05 current-state successor: Poppy 0.3 发行方版本元数据已标记 published=2026-11-04，Git 证据提交于 2026-11-05T00:09:43Z，0.4 Draft；G-W73 的跨提供者 conformance、effect/recovery 仍 OPEN
 
-Updated: **2026-11-05 · G-W73 publisher 0.3 release without independent conformance**
+Updated: **2026-11-08 · G-W73 source revision and new G-W74–76 trigger objects**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
@@ -81,6 +83,9 @@ Updated: **2026-11-05 · G-W73 publisher 0.3 release without independent conform
 | G-W71 | Does F.748.93 approval/publication produce inspectable implementation, conformance and cross-vendor interoperability evidence? | **OPEN / W38 MONITOR** | Conformance methods, implementations and interoperability results |
 | G-W72 | Can recovery/remediation completion be expressed as portable machine-readable proof accepted by the required authority? | **NEW / W38 PRIORITY** | Normative completion evidence, acceptance semantics and interoperable implementations |
 | G-W73 | Can Poppy publisher version releases lead to independently tested cross-company identity, authorization, revocation and durable effect/recovery contracts? | **OPEN / ISSUER_0_3_PUBLICATION_CONFIRMED / CONFORMANCE_OPEN** | Versioned 0.3 evidence and 0.4 Draft tracked; require separate implementation, cross-provider authorization tests, effect ledger, recovery acceptance and stable-version guarantees |
+| G-W74 | Can NIST agent identity tenets be implemented as testable audit and approval contracts for independent Build 3 demonstrations? | **NEW / W45 OPEN** | Published testable artifacts and verified agent authority/action traces |
+| G-W75 | Does Tencent Hy4 release its exact full-version weights, system card, license and matched independent agentic evaluation beyond Hy4-preview? | **NEW / W45 OPEN** | Revision-bound model artifacts and independent evaluations |
+| G-W76 | Will the 2026-11-07 media AI standard co-build generate formal multi-party verified standards and deployable governance evidence? | **NEW / W45 OPEN** | Signed governance/standard deliverables and independent implementation traces |
 
 ## W38 Active Shortlist / W38 当前优先清单
 

@@ -15,3 +15,4 @@
 | 2026-11-05 | [2026-11-05.md](./2026-11-05.md) | [2026-11-05/](./2026-11-05/) | W45 OPEN 4/7 (11-06 correction, Nov 1 belongs W44) / H45-1 ISSUER_0_3_PUBLICATION_CONFIRMED / H45-2~3 OPEN |
 | 2026-11-06 | [2026-11-06.md](./2026-11-06.md) | [2026-11-06/](./2026-11-06/) | W45 OPEN 5/7 (4 merged + fifth proposed) / H45-1 PUBLISHED_0_3_AND_DRAFT_0_4_REVISION / CONFORMANCE_OPEN |
 | 2026-11-07 | [2026-11-07.md](./2026-11-07.md) | [2026-11-07/](./2026-11-07/) | W45 OPEN 6/7 (5 merged + sixth proposed) / H45-1 OPEN DRAFT_0_4_SOURCE_UPDATED / H45-2~3 OPEN |
+| 2026-11-08 | [2026-11-08.md](./2026-11-08.md) | [2026-11-08/](./2026-11-08/) | W45 FINAL 7/7 (6 merged + seventh Draft PR proposed) / H45-1~3 OPEN |
