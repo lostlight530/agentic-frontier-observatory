@@ -1,10 +1,12 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-09 current successor: Poppy 0.4 source main advanced three commits and 46 files while remaining Draft; Agent Substrate v1.0.0 is released and CNCF currently lists Sandbox; BioBasicsBench and Arete-27B add issuer-side research artifacts; no independent conformance or external-effect recovery observed
+
 - 2026-11-08 current successor: Poppy 0.4 remains draft with fresh source updates; NIST older tenets, Tencent Hy4 and Xinhua media co-build first observed today, none establish portable conformance
 
 - 2026-11-05 current-state successor: Poppy 0.3 发行方版本元数据已标记 published=2026-11-04，Git 证据提交于 2026-11-05T00:09:43Z，0.4 Draft；G-W73 的跨提供者 conformance、effect/recovery 仍 OPEN
 
-Updated: **2026-11-08 · G-W73 source revision and new G-W74–76 trigger objects**
+Updated: **2026-11-09 · Poppy 0.4 source revision, Agent Substrate 1.0 and scientific-agent evidence**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
@@ -69,11 +71,11 @@ Updated: **2026-11-08 · G-W73 source revision and new G-W74–76 trigger object
 | G-W57 | Can CAE-style claims challenges preserve user delegation and Agent identity semantics across MCP, A2A and third-party SaaS resources? | **NEW / W35 PRIORITY** | Cross-protocol claims / authorization mappings and pilots |
 | G-W58 | What happens to unsupported resources when the issuer revokes trust but no continuous-evaluation channel exists? | **NEW / W35 PRIORITY** | Mixed-resource incident evidence, token-lifetime and fallback policies |
 | G-W59 | Can identity-risk, policy or CAE events automatically invoke a runtime `stop` / `cancel` primitive with an auditable reason and correlation ID? | **STRENGTHENED / open** | Need automated policy bridge |
-| G-W60 | What durable side effects remain after Agent session stop, and how are they rolled back, superseded or remediated? | **OPEN / W38 PRIORITY** | Portable committed-effect and rollback/compensation contracts |
-| G-W61 | Do stop / cancel / suspend / resume semantics converge across Agent runtimes or remain vendor-local? | **STRONGLY STRENGTHENED / open** | A2A/MCP add open task lifecycle; recovery mapping remains open |
+| G-W60 | What durable side effects remain after Agent session stop, and how are they rolled back, superseded or remediated? | **OPEN / W38 PRIORITY** | Agent Substrate actor snapshots preserve runtime state, not external effects; require portable effect ledger, idempotency, rollback/compensation and accepted completion evidence |
+| G-W61 | Do stop / cancel / suspend / resume semantics converge across Agent runtimes or remain vendor-local? | **STRONGLY STRENGTHENED / open** | A2A/MCP lifecycle plus Agent Substrate v1.0 actor snapshot and suspend/resume; require cross-runtime cancellation, snapshot lineage, node-loss restore, fresh identity and external-effect traces |
 | G-W62 | Can a runtime stop enumerate every retained local state and external durable side effect before incident closure? | **NEW / W35 PRIORITY** | Residual-state inventories, transaction logs and incident tooling |
 | G-W63 | Can remediation actions carry the original incident/session correlation ID, owner, reason and completion evidence? | **OPEN / W38 PRIORITY** | Portable remediation and completion-evidence schemas |
-| G-W64 | Does Agent resume require fresh identity, delegation, policy and risk evaluation rather than blindly restoring preserved state? | **STRONGLY STRENGTHENED / open** | New-task boundary exists; need explicit fresh-authorization linkage |
+| G-W64 | Does Agent resume require fresh identity, delegation, policy and risk evaluation rather than blindly restoring preserved state? | **STRONGLY STRENGTHENED / open** | Agent Substrate documents SPIFFE actor identity and snapshot restore; require evidence that resume obtains fresh identity, revalidates delegation/policy/risk and does not inherit stale credentials |
 | G-W65 | Can in-flight tool calls be fenced or cancelled before session stop while preserving which effects committed? | **NEW / W35 PRIORITY** | Tool-call cancellation, transactional boundaries and remote-tool evidence |
 | G-W66 | What are the portable equivalents of revert / compensate / withdraw for non-code Agent outputs? | **OPEN / W38 PRIORITY** | Documents, messages, tickets, CRM, datasets and infrastructure examples |
 | G-W67 | Can generic A2A `referenceTaskIds` become typed recovery lineage (`predecessor` / `supersedes` / `repairs` / `compensates`) across systems? | **OPEN / W38 PRIORITY** | Typed relation/extension semantics, TCK and interoperable implementations |
@@ -82,7 +84,7 @@ Updated: **2026-11-08 · G-W73 source revision and new G-W74–76 trigger object
 | G-W70 | Can task-state evidence distinguish cancellation intent, observed terminal state and the exact external effects that committed during the race window? | **NEW / W35 PRIORITY** | Task/event logs, idempotency and effect-ledger implementations |
 | G-W71 | Does F.748.93 approval/publication produce inspectable implementation, conformance and cross-vendor interoperability evidence? | **OPEN / W38 MONITOR** | Conformance methods, implementations and interoperability results |
 | G-W72 | Can recovery/remediation completion be expressed as portable machine-readable proof accepted by the required authority? | **NEW / W38 PRIORITY** | Normative completion evidence, acceptance semantics and interoperable implementations |
-| G-W73 | Can Poppy publisher version releases lead to independently tested cross-company identity, authorization, revocation and durable effect/recovery contracts? | **OPEN / ISSUER_0_3_PUBLICATION_CONFIRMED / CONFORMANCE_OPEN** | Versioned 0.3 evidence and 0.4 Draft tracked; require separate implementation, cross-provider authorization tests, effect ledger, recovery acceptance and stable-version guarantees |
+| G-W73 | Can Poppy publisher version releases lead to independently tested cross-company identity, authorization, revocation and durable effect/recovery contracts? | **OPEN / 0.4 DRAFT REVISED 3 COMMITS 46 FILES / CONFORMANCE OPEN** | Stable 0.4 publication, independent Company and Personal Agent implementations, Session tasks endpoint scope tests, exact Operations approval replay tests, revocation, external-effect ledger and recovery acceptance |
 | G-W74 | Can NIST agent identity tenets be implemented as testable audit and approval contracts for independent Build 3 demonstrations? | **NEW / W45 OPEN** | Published testable artifacts and verified agent authority/action traces |
 | G-W75 | Does Tencent Hy4 release its exact full-version weights, system card, license and matched independent agentic evaluation beyond Hy4-preview? | **NEW / W45 OPEN** | Revision-bound model artifacts and independent evaluations |
 | G-W76 | Will the 2026-11-07 media AI standard co-build generate formal multi-party verified standards and deployable governance evidence? | **NEW / W45 OPEN** | Signed governance/standard deliverables and independent implementation traces |
