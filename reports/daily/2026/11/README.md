@@ -1,5 +1,7 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-09 merged-main delivery reconciliation**（observed_at: 2026-11-09 08:25:58 Asia/Shanghai）：Nov1–8 八个 F1–F7 独立原生日期均已并入 `main`，W45 FINAL 7/7，H45-1/2/3 继续 OPEN，November OPEN；Nov9 当日进行中、暂不判 native gap，Nov10–30 NOT_DUE；下方 11 月 6–8 日「proposed」是各自原始交付截点记录，并非当前 PR 状态
+
 **2026-11-07 13:39:15 Asia/Shanghai current native checkpoint**：Nov1–6 六个原生日已合并，2026-11-07 第七个原生 F1–F7 提案；Poppy 0.4 Draft 五次提交、42 个变更文件，W45 OPEN 6/7，November OPEN，Nov8–30 NOT_DUE
 
 **2026-11-06 07:37:18 Asia/Shanghai native coverage checkpoint**：Nov 1–5 五个独立 F1–F7 原生日已合并，Nov 6 第六个研究日为当前 Draft PR，Poppy 0.4 draft 新增 1 Git commit / 7 files，W45 OPEN 5/7（4 已合并+第 5 日提案），November OPEN，Nov 7–30 NOT_DUE
@@ -15,4 +17,4 @@
 | 2026-11-05 | [2026-11-05.md](./2026-11-05.md) | [2026-11-05/](./2026-11-05/) | W45 OPEN 4/7 (11-06 correction, Nov 1 belongs W44) / H45-1 ISSUER_0_3_PUBLICATION_CONFIRMED / H45-2~3 OPEN |
 | 2026-11-06 | [2026-11-06.md](./2026-11-06.md) | [2026-11-06/](./2026-11-06/) | W45 OPEN 5/7 (4 merged + fifth proposed) / H45-1 PUBLISHED_0_3_AND_DRAFT_0_4_REVISION / CONFORMANCE_OPEN |
 | 2026-11-07 | [2026-11-07.md](./2026-11-07.md) | [2026-11-07/](./2026-11-07/) | W45 OPEN 6/7 (5 merged + sixth proposed) / H45-1 OPEN DRAFT_0_4_SOURCE_UPDATED / H45-2~3 OPEN |
-| 2026-11-08 | [2026-11-08.md](./2026-11-08.md) | [2026-11-08/](./2026-11-08/) | W45 FINAL 7/7 (6 merged + seventh Draft PR proposed) / H45-1~3 OPEN |
+| 2026-11-08 | [2026-11-08.md](./2026-11-08.md) | [2026-11-08/](./2026-11-08/) | W45 FINAL 7/7 (11-08 originally proposed in Draft，now merged main) / H45-1~3 OPEN |
