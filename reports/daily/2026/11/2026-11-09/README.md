@@ -20,10 +20,17 @@
 |---|---|---|
 | F1 | [F1｜历史、理论与治理](./F1-history-theory.md) | NIST tenets 仍是设计原则，NCCoE 仍在征求意见 |
 | F2 | [F2｜模型、算法与科学 Agent](./F2-models-algorithms.md) | Arete-27B 与 BioBasicsBench 两项新研究工件 |
-| F3 | [F3｜算力、数据与运行基础设施](./F3-compute-infrastructure.md) | Agent Substrate v1.0.0、CNCF Sandbox、GKE GA |
+| F3 | [F3｜算力、数据与运行基础设施](./F3-infrastructure.md) | Agent Substrate v1.0.0、CNCF Sandbox、GKE GA |
 | F4 | [F4｜Agent Runtime、Harness 与协议](./F4-agentic-systems.md) | Poppy 0.4 Draft 三 commits / 46 files，仍未发布 |
-| F5 | [F5｜评价、安全与治理](./F5-evaluation-safety.md) | mean reward、bootstrap、独立复现边界 |
-| F6 | [F6｜开源生态、产业与社会影响](./F6-open-source-industry.md) | runtime、模型权重、训练数据与 validator 源码可定位 |
+| F5 | [F5｜评价、安全与治理](./F5-evaluation-governance.md) | mean reward、bootstrap、独立复现边界 |
+| F6 | [F6｜开源生态、产业与社会影响](./F6-ecosystem-society.md) | runtime、模型权重、训练数据与 validator 源码可定位 |
 | F7 | [F7｜跨分任务综合与判断校准](./F7-synthesis.md) | 协议、runtime、benchmark、模型层仍未形成端到端证明 |
 
 七个组件属于一个原生研究单元，不是七次独立 Daily，也不计入维护检查
+
+## 2026-11-09 forward structural correction — canonical pack paths
+- Current `DAILY_SOP.md` requires the stable F3, F5 and F6 filenames used by the prior November packs; the original native [PR #261](https://github.com/lostlight530/agentic-frontier-observatory/pull/261) supplied correct F3/F5/F6 topical contents but published three noncanonical filenames
+- `F3-compute-infrastructure.md` → `F3-infrastructure.md` (unchanged Git blob `370931f0b892afd78ac0f4b42eab7b7dcd0e5604`)
+- `F5-evaluation-safety.md` → `F5-evaluation-governance.md` (unchanged Git blob `4cb560382d1f32f529eef803aafd51572093c432`)
+- `F6-open-source-industry.md` → `F6-ecosystem-society.md` (unchanged Git blob `160d1c944d15cf5d6e1ace5994559a765e005bd6`)
+- Earlier native PR path naming remains visible in Git history; corrected current main path does not retroactively certify the original pack's structural conformance. No new source or execution trial, no additional Daily, A1/A2 or Periodic Audit credit
