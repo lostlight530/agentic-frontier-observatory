@@ -5,7 +5,7 @@
 | 2026-08 | CLOSED; post-closure correction recorded 2026-09-01 | 7–31 Aug, 25 real days | F.748.93 approval occurred 29 Aug and was observed after closure. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
 | 2026-10 | **CLOSED_WITH_GAPS** | 30 native F1–F7 dates: 1–11, 13–31 Oct; 12 Oct historical native gap | Natural month ended，W44 October intersection 6 dates，1 Nov Sunday settlement separate，closure accounted 2026-11-01 04:59:41 Asia/Shanghai |
-| 2026-11 | **OPEN** | Nov1–9 nine complete F1–F7 native dates **merged in current main**; Nov10–30 NOT_DUE | [November canonical OPEN checkpoint](./2026-11.md), W45 FINAL 7/7, W46 OPEN 1/7 main-retained, H46-1~4 OPEN; latest native PR #261 merged 2026-11-09T11:04:59Z; author-time Draft snapshot remains historically valid |
+| 2026-11 | **OPEN** | Nov1–9 九个 F1–F7 native 日期 main-retained；Nov10 本分支第十个 pack proposed；Nov11–30 NOT_DUE | [November OPEN checkpoint](./2026-11.md)，W45 FINAL 7/7，W46 OPEN 1 merged + Nov10 proposed，H46-1~4 OPEN，Poppy 0.4 Draft updated |
 
 > Closed history may receive an explicit correction; it is never silently rewritten.
 
