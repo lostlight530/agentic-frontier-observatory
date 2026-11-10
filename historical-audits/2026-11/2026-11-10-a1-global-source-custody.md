@@ -142,3 +142,51 @@
 - Current pointer and historical audit acceptance are independent; original PR additions cannot be substituted with successor lines
 - Actual web fact retrieval and provider runtime checks NOT_EXECUTED by this maintenance source inspection
 - A2 requires this A1 merged-main SHA, fresh blob, and Nov10 native pack read with separate lineage
+
+## Distinct Nov09 F1–F7 content assertions and source-time limits (not a second run)
+- For these nine current-main objects, this reviewer rechecks claim language and source identity; an F1–F7 pack remains one logical daily research deliverable
+### Rechecked source facet: reports/daily/2026/11/2026-11-09.md
+- Original heading # Agent Runtime、协议修订与科学 Agent / Global AI Daily Research Report; Git blob `e386111d60bb51cc355c32e3879d67e92de9c336`, 148 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - Poppy compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/a2ca25ab43eccc045bc7f2b86d3b579088da9af1...b2569c552d100922e7d60829d33a0fc50d88e822; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: - W45 已完成 2026-11-02..08 七个真实 Daily，canonical W45 FINAL 7/7；H45 unresolved items 继续 carry forward; file state must not be silently upgraded
+- Date identity: ### 2026-11-09; a source publication or observation time is not the Nov10 review time
+### Rechecked source facet: reports/daily/2026/11/2026-11-09/F1-history-theory.md
+- Original heading # F1｜历史、理论与治理 / Native 2026-11-09; Git blob `e4d401fcb7f9faf0acb1e3bd12a575de414c80b3`, 42 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - source_1: https://www.nist.gov/blogs/cybersecurity-insights/design-tenets-agent-identity-management-systems; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: NO_EXPLICIT_COUNTEREVIDENCE_LINE; file state must not be silently upgraded
+- Date identity: # F1｜历史、理论与治理 / Native 2026-11-09; a source publication or observation time is not the Nov10 review time
+### Rechecked source facet: reports/daily/2026/11/2026-11-09/F2-models-algorithms.md
+- Original heading # F2｜模型、算法与科学 Agent / Native 2026-11-09; Git blob `474f79d9336809e2cbd688803e22d65e262da28e`, 58 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - source_1: https://nousresearch.com/arete; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: NO_EXPLICIT_COUNTEREVIDENCE_LINE; file state must not be silently upgraded
+- Date identity: # F2｜模型、算法与科学 Agent / Native 2026-11-09; a source publication or observation time is not the Nov10 review time
+### Rechecked source facet: reports/daily/2026/11/2026-11-09/F3-infrastructure.md
+- Original heading # F3｜算力、数据与运行基础设施 / Native 2026-11-09; Git blob `370931f0b892afd78ac0f4b42eab7b7dcd0e5604`, 48 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - source_1: https://github.com/agent-substrate/substrate/releases/tag/v1.0.0; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: NO_EXPLICIT_COUNTEREVIDENCE_LINE; file state must not be silently upgraded
+- Date identity: # F3｜算力、数据与运行基础设施 / Native 2026-11-09; a source publication or observation time is not the Nov10 review time
+### Rechecked source facet: reports/daily/2026/11/2026-11-09/F4-agentic-systems.md
+- Original heading # F4｜Agent Runtime、Harness 与协议 / Native 2026-11-09; Git blob `727c0b9c62b56857450113a5d75872c77393f93c`, 55 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - source_1: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/a2ca25ab43eccc045bc7f2b86d3b579088da9af1...b2569c552d100922e7d60829d33a0fc50d88e822; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: NO_EXPLICIT_COUNTEREVIDENCE_LINE; file state must not be silently upgraded
+- Date identity: # F4｜Agent Runtime、Harness 与协议 / Native 2026-11-09; a source publication or observation time is not the Nov10 review time
+### Rechecked source facet: reports/daily/2026/11/2026-11-09/F5-evaluation-governance.md
+- Original heading # F5｜评价、安全与治理 / Native 2026-11-09; Git blob `4cb560382d1f32f529eef803aafd51572093c432`, 44 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - source_1: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: NO_EXPLICIT_COUNTEREVIDENCE_LINE; file state must not be silently upgraded
+- Date identity: # F5｜评价、安全与治理 / Native 2026-11-09; a source publication or observation time is not the Nov10 review time
+### Rechecked source facet: reports/daily/2026/11/2026-11-09/F6-ecosystem-society.md
+- Original heading # F6｜开源生态、产业与社会影响 / Native 2026-11-09; Git blob `160d1c944d15cf5d6e1ace5994559a765e005bd6`, 46 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - source_1: https://github.com/agent-substrate/substrate; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: NO_EXPLICIT_COUNTEREVIDENCE_LINE; file state must not be silently upgraded
+- Date identity: # F6｜开源生态、产业与社会影响 / Native 2026-11-09; a source publication or observation time is not the Nov10 review time
+### Rechecked source facet: reports/daily/2026/11/2026-11-09/F7-synthesis.md
+- Original heading # F7｜跨分任务综合与判断校准 / Native 2026-11-09; Git blob `5541fa735d416f41599c2e6db7007863d7ca741b`, 41 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - source_1: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/a2ca25ab43eccc045bc7f2b86d3b579088da9af1...b2569c552d100922e7d60829d33a0fc50d88e822; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: NO_EXPLICIT_COUNTEREVIDENCE_LINE; file state must not be silently upgraded
+- Date identity: # F7｜跨分任务综合与判断校准 / Native 2026-11-09; a source publication or observation time is not the Nov10 review time
+### Rechecked source facet: reports/daily/2026/11/2026-11-09/README.md
+- Original heading # 2026-11-09 Global F1–F7 Native Daily Pack / 今日组件索引; Git blob `db7a6e5d042090b4ac837868e2f9f1fd2445a712`, 37 lines on pinned pre-A1 main
+- Exact source-claim or issuer excerpt: - Current 'DAILY_SOP.md' requires the stable F3, F5 and F6 filenames used by the prior November packs; the original native [PR #261](https://github.com/lostlight530/agentic-frontier-observatory/pull/261) supplied correct F3/F5/F6 topical contents but published; URI appearance is not independent proof of the claim
+- Observed uncertainty/negative field: NO_EXPLICIT_COUNTEREVIDENCE_LINE; file state must not be silently upgraded
+- Date identity: # 2026-11-09 Global F1–F7 Native Daily Pack / 今日组件索引; a source publication or observation time is not the Nov10 review time
