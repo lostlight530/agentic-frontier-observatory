@@ -124,3 +124,94 @@
 - Original A2 PR strictly needs its own ≥100 GitHub additions and ≥100 substantive review lines, not prior A1
 - Historical PR record, source truth and current retention must be reconciled only at actual merge SHA; current branch is proposed until merged
 - Next trigger Nov11 native main, A1 cutoff through Nov10 merged, fresh A2 through Nov11
+
+## Nov10 native F1–F7 and current W46/month owners — source-bound relationship verification
+- This A2 directly read the dated native pack, seven workstreams, W46 and November monthly owner on A1-merged main; it is not a new external fact discovery
+### reports/daily/2026/11/2026-11-10.md
+- Exact current-main Git blob `f63dd4346794ce209775e1ae8ff25e4550e34e0a`, 86 authored text lines; class=DAILY_OWNER; header # Poppy Browser Control、Operations v3 与跨层信任边界 / Global AI Daily Research Report
+- Publisher/source identity excerpt: - compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/b2569c552d100922e7d60829d33a0fc50d88e822...a2f16ec4c38e111289c12d7fbd8fec57b8aba06e; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: ### 2026-11-10; report-time, publication-time and Git merge-time differ
+- Current A2 decision: daily owner is a bounded merged native report, not a provider code execution
+- Falsifier/verification: current file presence verifies delivery and retention, not factual independence of all citations
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/daily/2026/11/2026-11-10/README.md
+- Exact current-main Git blob `282f4d145e4fcc4df4e61761edd67caf7f039050`, 30 authored text lines; class=PACK_README; header # 2026-11-10 Global F1–F7 Native Daily Pack / 唯一组件索引
+- Publisher/source identity excerpt: NO_EXPLICIT_SOURCE_LINE; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # 2026-11-10 Global F1–F7 Native Daily Pack / 唯一组件索引; report-time, publication-time and Git merge-time differ
+- Current A2 decision: README is a source-pack navigation object, not independent research output
+- Falsifier/verification: current file presence verifies delivery and retention, not factual independence of all citations
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/daily/2026/11/2026-11-10/F1-history-theory.md
+- Exact current-main Git blob `890cd9e276233042feafbb951d72c8c86040d40e`, 39 authored text lines; class=WORKSTREAM; header # F1｜历史、理论与范式 / Native 2026-11-10
+- Publisher/source identity excerpt: - compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/b2569c552d100922e7d60829d33a0fc50d88e822...a2f16ec4c38e111289c12d7fbd8fec57b8aba06e; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # F1｜历史、理论与范式 / Native 2026-11-10; report-time, publication-time and Git merge-time differ
+- Current A2 decision: a dated facet in one F1–F7 native Daily package, not a seventh independent Daily PR
+- Falsifier/verification: check exact original publisher version, competing sources and actual runnable artifact before promoting claims
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/daily/2026/11/2026-11-10/F2-models-algorithms.md
+- Exact current-main Git blob `019df99b419de6f76c59917e36f071d75ebad9e0`, 39 authored text lines; class=WORKSTREAM; header # F2｜模型、算法与多模态 / Native 2026-11-10
+- Publisher/source identity excerpt: - compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/b2569c552d100922e7d60829d33a0fc50d88e822...a2f16ec4c38e111289c12d7fbd8fec57b8aba06e; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # F2｜模型、算法与多模态 / Native 2026-11-10; report-time, publication-time and Git merge-time differ
+- Current A2 decision: a dated facet in one F1–F7 native Daily package, not a seventh independent Daily PR
+- Falsifier/verification: check exact original publisher version, competing sources and actual runnable artifact before promoting claims
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/daily/2026/11/2026-11-10/F3-infrastructure.md
+- Exact current-main Git blob `a724a0652efb0dd11c2e0e52add47a3df674029a`, 39 authored text lines; class=WORKSTREAM; header # F3｜算力、数据与运行基础设施 / Native 2026-11-10
+- Publisher/source identity excerpt: - compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/b2569c552d100922e7d60829d33a0fc50d88e822...a2f16ec4c38e111289c12d7fbd8fec57b8aba06e; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # F3｜算力、数据与运行基础设施 / Native 2026-11-10; report-time, publication-time and Git merge-time differ
+- Current A2 decision: a dated facet in one F1–F7 native Daily package, not a seventh independent Daily PR
+- Falsifier/verification: check exact original publisher version, competing sources and actual runnable artifact before promoting claims
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/daily/2026/11/2026-11-10/F4-agentic-systems.md
+- Exact current-main Git blob `e3064525ac58ab105ad5fa929ae12e3d760629ed`, 39 authored text lines; class=WORKSTREAM; header # F4｜Agent、Harness 与协议 / Native 2026-11-10
+- Publisher/source identity excerpt: - compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/b2569c552d100922e7d60829d33a0fc50d88e822...a2f16ec4c38e111289c12d7fbd8fec57b8aba06e; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # F4｜Agent、Harness 与协议 / Native 2026-11-10; report-time, publication-time and Git merge-time differ
+- Current A2 decision: a dated facet in one F1–F7 native Daily package, not a seventh independent Daily PR
+- Falsifier/verification: check exact original publisher version, competing sources and actual runnable artifact before promoting claims
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/daily/2026/11/2026-11-10/F5-evaluation-governance.md
+- Exact current-main Git blob `a19660b05f53e89842b54d8e36a365412f356b78`, 39 authored text lines; class=WORKSTREAM; header # F5｜评测、安全、治理与标准 / Native 2026-11-10
+- Publisher/source identity excerpt: - compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/b2569c552d100922e7d60829d33a0fc50d88e822...a2f16ec4c38e111289c12d7fbd8fec57b8aba06e; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # F5｜评测、安全、治理与标准 / Native 2026-11-10; report-time, publication-time and Git merge-time differ
+- Current A2 decision: a dated facet in one F1–F7 native Daily package, not a seventh independent Daily PR
+- Falsifier/verification: check exact original publisher version, competing sources and actual runnable artifact before promoting claims
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/daily/2026/11/2026-11-10/F6-ecosystem-society.md
+- Exact current-main Git blob `bf6ca5f8f105c6223bd1bcdb3482daba34e76752`, 39 authored text lines; class=WORKSTREAM; header # F6｜开源、产业、经济与社会 / Native 2026-11-10
+- Publisher/source identity excerpt: - compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/b2569c552d100922e7d60829d33a0fc50d88e822...a2f16ec4c38e111289c12d7fbd8fec57b8aba06e; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # F6｜开源、产业、经济与社会 / Native 2026-11-10; report-time, publication-time and Git merge-time differ
+- Current A2 decision: a dated facet in one F1–F7 native Daily package, not a seventh independent Daily PR
+- Falsifier/verification: check exact original publisher version, competing sources and actual runnable artifact before promoting claims
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/daily/2026/11/2026-11-10/F7-synthesis.md
+- Exact current-main Git blob `7b44c0e7794afdee9d8fc381c5975371bcbdfb1a`, 39 authored text lines; class=WORKSTREAM; header # F7｜跨系统综合与判断校准 / Native 2026-11-10
+- Publisher/source identity excerpt: - compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/b2569c552d100922e7d60829d33a0fc50d88e822...a2f16ec4c38e111289c12d7fbd8fec57b8aba06e; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - date_boundary: event_date、publication_date、release_date、observed_at、state_transition_date、delivery_date 独立，未知日期保持 UNVERIFIED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # F7｜跨系统综合与判断校准 / Native 2026-11-10; report-time, publication-time and Git merge-time differ
+- Current A2 decision: a dated facet in one F1–F7 native Daily package, not a seventh independent Daily PR
+- Falsifier/verification: check exact original publisher version, competing sources and actual runnable artifact before promoting claims
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/weekly/2026/2026-W46.md
+- Exact current-main Git blob `639825f12020e569a258eacf29ed7615b89db351`, 112 authored text lines; class=WEEKLY_OWNER; header # Runtime Contracts, Durable Effects and Scientific Agents / Global AI Weekly Research — 2026-W46 OPEN
+- Publisher/source identity excerpt: - Poppy compare: https://github.com/personal-agent-protocol/personal-agent-protocol/compare/a2ca25ab43eccc045bc7f2b86d3b579088da9af1...b2569c552d100922e7d60829d33a0fc50d88e822; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - W46 OPEN，November OPEN，Nov11–15 NOT_DUE，external CI/TCK/runtime NOT_EXECUTED; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: # Runtime Contracts, Durable Effects and Scientific Agents / Global AI Weekly Research — 2026-W46 OPEN; report-time, publication-time and Git merge-time differ
+- Current A2 decision: W46 OPEN 2/7 and not FINAL; W45 remains historical closed weekly
+- Falsifier/verification: weekly hypothesis or watch items remain OPEN until explicit falsifier, not auto-settled by a Daily
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
+### reports/monthly/2026/2026-11.md
+- Exact current-main Git blob `f7d52fea1cf96f7eaf5496154f497917592eb7bd`, 823 authored text lines; class=MONTHLY_OWNER; header # 2026-11 — Monthly Research / 月度研究
+- Publisher/source identity excerpt: - observed_repository_main_sha: '9a5ecd94926a679e46f59ec52bd74607bff99655' after native PR [#261](https://github.com/lostlight530/agentic-frontier-observatory/pull/261) was merged at '2026-11-09T11:04:59Z'; source URL by itself is an issuer claim
+- Evidence limitation excerpt: - main_preflight_sha: 'e797fe00744764c528bebd683d2fc1052245f2d6'，Nov1–9 九个 main-retained F1–F7 Native Daily，Nov10 本分支第十个完整 pack proposed，PR 合并尚未验证; unknown is preserved rather than replaced with inferred PASS
+- Time / owner excerpt: ## 2026-11-10 08:56:26 native research checkpoint — OPEN; report-time, publication-time and Git merge-time differ
+- Current A2 decision: November remains OPEN and no natural-month retrospective final is due
+- Falsifier/verification: no Nov30 endpoint or monthly FINAL asserted at a Nov10 observation cutoff
+- Effect/provenance gate: independent checks, PR and merged-main file receipt remain separate from source publication and downstream adoption
