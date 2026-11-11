@@ -19,7 +19,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W43 | 19–25 Oct | **FINAL / CLOSED / 7 of 7** | 19–25 Oct native F1–F7 Dailies，H43-1 OPEN / SOURCE_CONFLICT on Poppy website vs GitHub main，H43-2~3 OPEN / UNCHANGED，2026-10-25 05:04:20 Asia/Shanghai settlement |
 | W44 | 26 Oct–1 Nov | **FINAL / CLOSED / 7 of 7** | 26–31 Oct + 1 Nov native F1–F7 Dailies，H44-1 OPEN / REVISION_BOUND_PROVENANCE_PARTIAL，H44-2~3 OPEN，Sunday settlement 2026-11-01 04:59:41 Asia/Shanghai |
 | W45 | 2–8 Nov | **FINAL / 7 of 7 W45 native dates** | Nov02–08 seven F1–F7 native dates now merged main (Nov08 originally shared one Draft PR with Sunday settlement)，H45-1/2/3 OPEN，2026-11-08 15:27:56 Asia/Shanghai |
-| W46 | 9–15 Nov | **OPEN / 1 merged + Nov10 proposed = 2/7 on branch** | Poppy 0.4 Draft 由 b2569c55 前进至 a2f16ec4，6 commits / 45 files，Operations v3 与 Browser Control v1 已在发行方源码，0.4 仍 Draft，未证明跨提供者 conformance；H46-1~4 OPEN，November OPEN |
+| W46 | 9–15 Nov | **OPEN / Nov09–10 merged 2/7 + Nov11 proposed 1/7** | Poppy issuer 0.4 PUBLISHED RC，H46-1 OPEN / conformance not verified，H46-2~4 OPEN，November OPEN |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 

@@ -1,5 +1,7 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-11 2026-11-11 16:37:06 current native proposal checkpoint**：main `6d2a6c1f3f078afa5d02adc27f02f2a23761b6f7` 已合并 Nov01–10 十份完整 F1–F7 pack，Nov11 本分支第十一份尚属提案，W46 merged 2/7 + proposed 1/7 = 3/7，H46-1~4 OPEN，November OPEN，Nov12–30 NOT_DUE；Poppy 0.4 first-party published=2026-11-10、1.0 Release Candidate 本轮首次观察，不将其直接当跨提供者 conformance
+
 **2026-11-10 08:56:26 Asia/Shanghai native checkpoint**：main `e797fe00744764c528bebd683d2fc1052245f2d6` 保留 Nov1–9 九个 F1–F7 pack，Nov10 第十个完整 Daily 在当前分支 proposed，未预称合并；W46 OPEN 1 merged + 1 proposed = 2/7，H46-1~4 OPEN，November OPEN，Nov11–30 NOT_DUE，Poppy 0.4 Draft 由 b2569c55 前进至 a2f16ec4，6 commits / 45 files，Operations v3 与 Browser Control v1 已在发行方源码，0.4 仍 Draft，未证明跨提供者 conformance
 
 **2026-11-09 post-merge delivery reconciliation — current main**: GitHub native F1–F7 PR [#261](https://github.com/lostlight530/agentic-frontier-observatory/pull/261) merged at 2026-11-09T11:04:59Z; latest verified main `9a5ecd94926a679e46f59ec52bd74607bff99655` contains November 1–9 nine actual native Daily packs plus W46 Monday opening (1/7). W45 remains FINAL 7/7, November OPEN, Nov10–30 NOT_DUE. The retained 18:33:23 "Draft/proposed" text below is the earlier producer-time snapshot, not the latest repository lifecycle state. This is a delivery-state correction only; no new experiment, source validation, A1/A2 production, or independent conformance is claimed.
@@ -26,3 +28,4 @@
 | 2026-11-08 | [2026-11-08.md](./2026-11-08.md) | [2026-11-08/](./2026-11-08/) | W45 FINAL 7/7 (11-08 originally proposed in Draft，now merged main) / H45-1~3 OPEN |
 | 2026-11-09 | [2026-11-09.md](./2026-11-09.md) | [2026-11-09/](./2026-11-09/) | W46 OPEN 1/7, **native PR #261 merged and current main retained**; H46-1~4 OPEN; Poppy 0.4 still Draft; November OPEN |
 | 2026-11-10 | [2026-11-10.md](./2026-11-10.md) | [2026-11-10/](./2026-11-10/) | W46 OPEN 2/7 on proposal，0.4 Draft，November OPEN |
+| 2026-11-11 | [2026-11-11.md](./2026-11-11.md) | [2026-11-11/](./2026-11-11/) | W46 OPEN 3/7 on proposal，Poppy 0.4 published RC，H46-1~4 OPEN |
