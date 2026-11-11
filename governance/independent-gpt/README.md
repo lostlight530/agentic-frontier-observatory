@@ -126,3 +126,21 @@ Public governance may record repository facts, public task identity, scope, evid
 Follow the minimum record fields and result semantics in `governance/external-audit/README.md`. A handoff must make base `main` SHA, checked window, authority, actual checks, findings, repair state, risk, unresolved items, and delivery state reviewable by the next memoryless agent.
 
 A Draft PR is a review boundary, not proof of mergeability, execution success, scientific validity, or final truth. Final merge and doctrine authority remains with the maintainer.
+
+## 2026-11-11 scoped independent A1/A2 acceptance clarification
+
+This is a forward interpretation correction for the Nov01–11, 2026 window, not a change to Native production, periodic-audit, or historical original PR evidence. See the [Nov01–11 original PR acceptance ledger](../../historical-audits/2026-11/2026-11-11-a1a2-effective-pr-acceptance-reconciliation.md).
+
+- Independent A1 reviews the complete applicable MonthStart..N−1 corpus, including a per-file source, evidence and disposition decision; it is not a yesterday-only summary.
+- Independent A2 starts only after its original A1 is merged and fresh-read from main, and updates the complete MonthStart..N source/evidence/relationship version, not a Day N note.
+- Valid A1/A2 maintenance content includes relevant individual file judgments, source/path/blob SHA custody, evidence-index references, lineage relationships, dated source-status transitions, real contradiction tests, historical state inheritance, qualified NO_FOLLOW_UP and necessary structured coverage matrices.
+- Do not mistake 100 meaningful PR additions for 100 unrelated novel scientific findings, 100 independent issuers or 100 invented new observations.
+- Keep each original PR's GitHub additions >=100 numeric gate separate from scope completeness, content validity, producer claims, checks actually executed, merge evidence and current-main retention.
+- Inspect the final merged original PR head when adjudicating the originally delivered diff; early Draft NOT_MET cannot automatically represent the final amended head.
+- The original PRs are immutable historical deliveries: successor, QA, cleanup, audit and this reconciliation never add lines to the original.
+- Smaller original PRs retain a truthful NUMERIC_NOT_MET without erasing real maintenance coverage; content-validity PASS cannot be deduced from additions alone.
+- Dated source-path reviews, verifiable evidence custody and bounded no-change judgments count as real maintenance when accurate; boilerplate, repeated filler, unsupported execution or fabricated science do not.
+- Stage/Native producer states (including BLOCKED/NOT_EXECUTED/UNKNOWN) are not promoted by independent maintenance or GitHub merge.
+- D7/D10/D14/D30 are a separate audit plane; no additional periodic audit or native run is implied by this record.
+- W45 is closed, W46 is open and November remains open at this evidence cut; do not infer natural month closure.
+- In this repository 20 original Nov02–11 independent A1/A2 PRs are merged, 17 with >=100 additions and 3 with numeric NOT_MET, subject to separately evidence-reviewed semantic validity.
