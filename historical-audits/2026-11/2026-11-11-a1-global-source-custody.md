@@ -1,0 +1,176 @@
+# 2026-11-11 ORIGINAL A1 — Global Observatory Nov01–10 source/facet custody
+
+## Identity, actual verification boundaries
+- Pinned main `2d9a1e1407f2f7f258d3d57793d0cf992a6e8ce7`; original GPT Native independent A1, Nov01–10 inclusive, Nov11 excluded
+- Ten integrated Daily report bodies directly opened; each Day is one native F1–F7 research unit, not seven independent Days
+- Native facet/README files checked by exact current Git-tree blobs and canonical paths; Nov10 F1–F7 bodies additionally read
+- Other earlier facet bodies not independently replayed by this source reviewer; semantic conclusions about their claims are bounded to integrated daily report and D10 source ledger
+- W44 Nov01 closed, W45 Nov02–08 FINAL 7/7, W46 Nov09–10 OPEN 2/7; November OPEN
+- Nov11 native Poppy 0.4 release candidate update is Day N and not eligible for this A1 N−1 cutoff
+- External publisher authority, Git commit date, observation day, release declaration and PR delivery are separate clocks
+- Prior Nov10 A1 #269, A2 #270, D10, original Oct31 strict 0/10 and later successors/reconciliation protected
+- No source issuer SDK test, TCK, conformance or production Poppy validator executed in this A1
+
+## Exactly ten native date packs and file-level original evidence
+### 2026-11-01: Poppy Git source unchanged versus Oct31; NIST solicitation ongoing
+- Integrated Daily `reports/daily/2026/11/2026-11-01.md` blob `4456fb37ad022729c1205f1e9baa8772224fbaee` body-read: Poppy Git source unchanged versus Oct31; NIST solicitation ongoing
+- Source-time interpretation: no release or new conformance event proved; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-01/F1-history-theory.md` blob `00a525ce63c1544f`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-01/F2-models-algorithms.md` blob `1bc1642fe773b258`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-01/F3-infrastructure.md` blob `9b74eb898e370e21`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-01/F4-agentic-systems.md` blob `36adfaf549533ed8`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-01/F5-evaluation-governance.md` blob `62e64aca229a9604`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-01/F6-ecosystem-society.md` blob `18e1dee3dbca09ee`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-01/F7-synthesis.md` blob `a9653bb67b34c118`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-01/README.md` blob `f439442544314597`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-01; producer lineage not multiplied
+- Historical W-placement: W44 closed; original Daily is not edited by this A1
+### 2026-11-02: Poppy 0.3 draft and unchanged primary revision
+- Integrated Daily `reports/daily/2026/11/2026-11-02.md` blob `009e3ededb2075f29d424e80f973278d7c5deb18` body-read: Poppy 0.3 draft and unchanged primary revision
+- Source-time interpretation: one observed source lineage, no new protocol maturity; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-02/F1-history-theory.md` blob `60d3b08bb244d0b5`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-02/F2-models-algorithms.md` blob `b1f9d70e8c793270`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-02/F3-infrastructure.md` blob `b3f455017b9a6af5`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-02/F4-agentic-systems.md` blob `12dfd9250a2578d2`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md` blob `dd4d99c7a71e1f72`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-02/F6-ecosystem-society.md` blob `c18cf7bcc6cbe426`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-02/F7-synthesis.md` blob `419c82edbcb6f3cf`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-02/README.md` blob `12f28a8abe804d0c`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-02; producer lineage not multiplied
+- Historical W-placement: W45 closed after Nov08; original Daily is not edited by this A1
+### 2026-11-03: Poppy 0.3 draft advanced ten first-party commits
+- Integrated Daily `reports/daily/2026/11/2026-11-03.md` blob `f390b0013b3836752c2792d46b7f3b771a6fef03` body-read: Poppy 0.3 draft advanced ten first-party commits
+- Source-time interpretation: committer date != release date; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-03/F1-history-theory.md` blob `d9779c8390f724ed`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-03/F2-models-algorithms.md` blob `3617e08f19a3552a`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-03/F3-infrastructure.md` blob `e9376f994980afce`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-03/F4-agentic-systems.md` blob `774949e5888fb8ac`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-03/F5-evaluation-governance.md` blob `13a0dd8ca6a314f0`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-03/F6-ecosystem-society.md` blob `f5f8a4e6db76ee99`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-03/F7-synthesis.md` blob `ec54f59322b0a132`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-03/README.md` blob `e428ac3725498bfa`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-03; producer lineage not multiplied
+- Historical W-placement: W45 closed after Nov08; original Daily is not edited by this A1
+### 2026-11-04: Poppy source advanced three commits, still Draft
+- Integrated Daily `reports/daily/2026/11/2026-11-04.md` blob `03d0e475571ca7b41c37b093a9e4b1e9cde4ed4f` body-read: Poppy source advanced three commits, still Draft
+- Source-time interpretation: no published stable version; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-04/F1-history-theory.md` blob `d60e1c6ad7e305c0`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-04/F2-models-algorithms.md` blob `5196a6a00bbe0f95`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-04/F3-infrastructure.md` blob `149f7269cc3388eb`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-04/F4-agentic-systems.md` blob `257a7bce35740987`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md` blob `373a2ce5fde94848`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md` blob `6add8450d54fc756`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-04/F7-synthesis.md` blob `31276502ec6ee1c7`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-04/README.md` blob `37592bfceb6b69ca`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-04; producer lineage not multiplied
+- Historical W-placement: W45 closed after Nov08; original Daily is not edited by this A1
+### 2026-11-05: Poppy 0.3 issuer-published on Nov04; 0.4 remains Draft
+- Integrated Daily `reports/daily/2026/11/2026-11-05.md` blob `875230f3e7376db347f60732d29e57d34433a79b` body-read: Poppy 0.3 issuer-published on Nov04; 0.4 remains Draft
+- Source-time interpretation: publisher publication != interoperability test; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-05/F1-history-theory.md` blob `3801b229d4fe1889`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-05/F2-models-algorithms.md` blob `7093bc6ee743684b`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-05/F3-infrastructure.md` blob `572507a870f68310`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-05/F4-agentic-systems.md` blob `96fe9fbc19c665e6`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-05/F5-evaluation-governance.md` blob `d5e7a64b046f3fd7`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-05/F6-ecosystem-society.md` blob `87032ecd068fca0d`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-05/F7-synthesis.md` blob `e31ad9843cbaa6ba`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-05/README.md` blob `790646d911cd86f6`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-05; producer lineage not multiplied
+- Historical W-placement: W45 closed after Nov08; original Daily is not edited by this A1
+### 2026-11-06: Poppy 0.4 draft credential boundary revision
+- Integrated Daily `reports/daily/2026/11/2026-11-06.md` blob `be450996fc75dcb0dd397b5cba321bcc7f6663a0` body-read: Poppy 0.4 draft credential boundary revision
+- Source-time interpretation: source patch not deployed authority enforcement; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-06/F1-history-theory.md` blob `f300b364320b9d12`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-06/F2-models-algorithms.md` blob `439e441ce37e0982`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-06/F3-infrastructure.md` blob `25e232254dc2ac96`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-06/F4-agentic-systems.md` blob `4f6e7072a81c1fb4`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-06/F5-evaluation-governance.md` blob `3e65ea94b8808da8`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-06/F6-ecosystem-society.md` blob `f993e7cd48bd6976`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-06/F7-synthesis.md` blob `ae519f2042d289b8`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-06/README.md` blob `785e414d9b69dd29`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-06; producer lineage not multiplied
+- Historical W-placement: W45 closed after Nov08; original Daily is not edited by this A1
+### 2026-11-07: Poppy 0.4 conversation/retry draft revisions
+- Integrated Daily `reports/daily/2026/11/2026-11-07.md` blob `ae1cd41ca58c2adbbb4318170672143f8f33e168` body-read: Poppy 0.4 conversation/retry draft revisions
+- Source-time interpretation: revision does not certify durable task recovery; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-07/F1-history-theory.md` blob `aa2d2801fb933e5a`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-07/F2-models-algorithms.md` blob `92a0c85576f6e2ea`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-07/F3-infrastructure.md` blob `23780638817287e5`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-07/F4-agentic-systems.md` blob `dd50254b77e44870`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-07/F5-evaluation-governance.md` blob `51c349f609a76809`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-07/F6-ecosystem-society.md` blob `a9d07a49080d7c50`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-07/F7-synthesis.md` blob `17340a1397c1b95a`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-07/README.md` blob `145ab7d8b1bf5a08`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-07; producer lineage not multiplied
+- Historical W-placement: W45 closed after Nov08; original Daily is not edited by this A1
+### 2026-11-08: Poppy 0.4 source and NIST/Tencent/Xinhua late observations
+- Integrated Daily `reports/daily/2026/11/2026-11-08.md` blob `0f41a7ce47c8f0f62dc9786a2bfd4bb38e666bd9` body-read: Poppy 0.4 source and NIST/Tencent/Xinhua late observations
+- Source-time interpretation: different issuer events and dates not combined; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-08/F1-history-theory.md` blob `9f22b5ada6a523c0`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-08/F2-models-algorithms.md` blob `af1b4c6f899ce56b`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-08/F3-infrastructure.md` blob `0dd2fb1bb7b6466d`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-08/F4-agentic-systems.md` blob `5ee5c728ad07a4c9`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-08/F5-evaluation-governance.md` blob `3351a80e84882cdf`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-08/F6-ecosystem-society.md` blob `d66ef161ffa479da`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-08/F7-synthesis.md` blob `d684398fba21686b`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-08/README.md` blob `1c95def6ca42f502`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-08; producer lineage not multiplied
+- Historical W-placement: W45 closed after Nov08; original Daily is not edited by this A1
+### 2026-11-09: Poppy 0.4 operations tasks plus Agent Substrate and science research
+- Integrated Daily `reports/daily/2026/11/2026-11-09.md` blob `e386111d60bb51cc355c32e3879d67e92de9c336` body-read: Poppy 0.4 operations tasks plus Agent Substrate and science research
+- Source-time interpretation: different runtime and model lineages; no executed external tests; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-09/F1-history-theory.md` blob `e4d401fcb7f9faf0`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-09/F2-models-algorithms.md` blob `474f79d9336809e2`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-09/F3-infrastructure.md` blob `370931f0b892afd7`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-09/F4-agentic-systems.md` blob `727c0b9c62b56857`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-09/F5-evaluation-governance.md` blob `4cb560382d1f32f5`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-09/F6-ecosystem-society.md` blob `160d1c944d15cf5d`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-09/F7-synthesis.md` blob `5541fa735d416f41`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-09/README.md` blob `db7a6e5d042090b4`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-09; producer lineage not multiplied
+- Historical W-placement: W46 still open; original Daily is not edited by this A1
+### 2026-11-10: Poppy 0.4 draft Operations v3/Browser Control v1 ahead six commits and 45 files
+- Integrated Daily `reports/daily/2026/11/2026-11-10.md` blob `f63dd4346794ce209775e1ae8ff25e4550e34e0a` body-read: Poppy 0.4 draft Operations v3/Browser Control v1 ahead six commits and 45 files
+- Source-time interpretation: Draft means no stable 0.4 publication at Nov10 observed cut; not upgraded by hindsight from a later published Poppy version
+- `reports/daily/2026/11/2026-11-10/F1-history-theory.md` blob `890cd9e276233042`: historical paradigm / source chronology; draft/release transition does not establish a new theory paradigm; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-10/F2-models-algorithms.md` blob `019df99b419de6f7`: model evaluation and algorithm evidence; author benchmark is not independent local execution; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-10/F3-infrastructure.md` blob `a724a0652efb0dd1`: durable infrastructure and data/runtime; protocol code does not attest provisioned host state; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-10/F4-agentic-systems.md` blob `e3064525ac58ab10`: Agent runtime/harness/protocol; tool/approval declarations not automatically executable conformance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-10/F5-evaluation-governance.md` blob `a19660b05f53e898`: independent evaluation and identity authority; release text alone cannot establish TCK/CI compliance; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-10/F6-ecosystem-society.md` blob `bf6ca5f8f105c622`: issuer ecosystem and adoption; one origin appearing in many docs is not many independent deployments; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-10/F7-synthesis.md` blob `7b44c0e7794afdee`: cross-workstream synthesis and counterevidence; source inheritance must preserve original UNKNOWN; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- `reports/daily/2026/11/2026-11-10/README.md` blob `282f4d145e4fcc4d`: daily pack navigation/identity; README existence cannot add a daily research unit; TREE_RETAINED / content-specific verdict inherited from integrated Day, not independent runtime validation
+- F1–F7 seven facets + integrated report + README = 9 retained files, one valid native research Date 2026-11-10; producer lineage not multiplied
+- Historical W-placement: W46 still open; original Daily is not edited by this A1
+
+## Cross-day original evidence, current explanation and non-promotion
+- Poppy 0.3 2026-11-04 publication was first observed in Nov05 source, not newly published on Nov05
+- Nov01–02 unchanged publisher main is an observed no-transition result, not a failed Daily
+- Nov03–04 commit advancements are draft source revision, not a released final standard
+- Nov06 draft credential source is not implementation of effect-time revocation across providers
+- Nov07 retry semantics text cannot prove transactional exactly-once effects
+- Nov08 NIST/Tencent/Xinhua have different issuer and source event dates; no equivalent conformance result
+- Nov09 Agent Substrate Runtime and biological agents are different evidence ecosystems from Poppy protocol source
+- Nov10 Poppy browser control source can describe human handoff without actual automated browser execution
+- F1 theoretical statements require distinct proof from F4 protocol changes
+- F2 benchmark findings require pinned benchmark datasets and executable harness identity
+- F3 infrastructure assertions require deploy/runtime evidence rather than code existence
+- F4 Agent tool/approval flow needs actual authority, execution and durable side-effect receipts
+- F5 governance examples do not imply legally enforceable or independently tested conformance
+- F6 adoption claims need independent adopter or organization, not just docs by the same issuer
+- F7 synthesis must preserve H46 open items and not transform source discovery into maturity PASS
+- README links prove navigation only; one date cannot be multiplied into seven native runs
+- Nov10 original A1 source blob b3bd946bfc6aaea00ee7bf30d45677d171517645 ended Nov09, and remains unchanged
+- Nov10 A2 blob 485b9a03f4d10580eca66a5fc2805ef5a2826581 is historical relation through Nov10
+- D10 blob 2885a138b0fad5c9ed9978304bf987d061108aa4 is separate cross-window inspection, not this original A1
+- November monthly natural final and W46 final both NOT_DUE at Nov11
+- Source publication timestamp and observed current Git SHA can be different without contradiction
+- F1–F7 topic diversity does not establish independent source corroboration when the same Poppy repo is reused
+- Actual current main retains Nov01–10 all ten integrated Daily, 70 facet files and ten README indexes
+- Nov11 native Day N remains outside A1 cutoff even if it has been merged already
+- Historic PR corrections #262/#263 do not rewrite #261 original publication or its initial provenance
+- No correct native file changed merely to increase the A1 diff
+- Original GitHub additions and substantive line acceptance are independently measured on this PR
+- User-authorized merge cannot certify independent Human Review
+- Runtime/CI/TCK all NOT_EXECUTED by this original A1; status is bounded source custody
+- Next A2 requires A1 merged and fresh main before Nov11 native evidence is admitted
