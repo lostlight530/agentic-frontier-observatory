@@ -11,7 +11,15 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-11-09** (Poppy 0.4 source revision, Agent Substrate 1.0/CNCF status, BioBasicsBench and Arete-27B source identities admitted at 2026-11-09 18:33:23 Asia/Shanghai)
+## 2026-11-11 current Poppy version successor
+- Publisher version manifest at `ed474089d0fdeafae9584a95cfcc485209d8b124` records `0.4 published=2026-11-10`，Changelog describes 1.0 Release Candidate，observed 2026-11-11 16:37:06 Asia/Shanghai
+- Publishing Git commit `48039002795c9ebb390f1966fb70f82e4790efb6` has UTC commit time 2026-11-11 02:36:55，does not alone prove exact status_transition_date which remains UNVERIFIED
+- Same issuer and same Poppy identity as earlier dated Draft rows，not a new independent source lineage or conformance result
+- Manifest: https://github.com/personal-agent-protocol/personal-agent-protocol/blob/ed474089d0fdeafae9584a95cfcc485209d8b124/content/versions/versions.json
+- Release commit: https://github.com/personal-agent-protocol/personal-agent-protocol/commit/48039002795c9ebb390f1966fb70f82e4790efb6
+
+
+Updated through: **2026-11-11** (Poppy 0.4 publisher-reported publication status first observed 2026-11-11 16:37:06 Asia/Shanghai，prior 2026-11-09 Draft/source registry checkpoint remains historical)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
