@@ -3,6 +3,7 @@ const body = document.body;
 const mode = body.dataset.observatory;
 const repo = body.dataset.repo;
 const twinRepo = body.dataset.twinRepo;
+const twinHomepage = body.dataset.twinHomepage || '';
 
 const CONFIG = {
   global: {
@@ -51,6 +52,7 @@ const githubCommit = (r, sha) => `https://github.com/${OWNER}/${r}/commit/${sha}
 const HEAD_RECHECK_MIN_MS = 15 * 60 * 1000;
 let pinnedPrimaryHead = null;
 let pinnedTwinHead = null;
+let twinProjectionAvailable = false;
 let projectionReadAt = null;
 let lastHeadCheckAt = 0;
 let headCheckInFlight = false;
@@ -114,21 +116,33 @@ function monthCandidates(count = 4) {
   return out;
 }
 
+function dailyIndexDates(markdown) {
+  const dates = [];
+  for (const line of markdown.split(/\r?\n/)) {
+    const match = line.match(/^\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*([^|]+)\|/);
+    if (!match) continue;
+    const date = match[1];
+    if (match[2].includes(`](./${date}.md)`)) dates.push(date);
+  }
+  return [...new Set(dates)].sort();
+}
+
 async function latestDailyContext(r, ref) {
   for (const {year, month} of monthCandidates()) {
     const mm = String(month).padStart(2, '0');
     const indexPath = `reports/daily/${year}/${mm}/README.md`;
     try {
       const index = await fetchText(r, indexPath, ref);
-      const dates = [...index.matchAll(/\b(\d{4}-\d{2}-\d{2})\b/g)].map(m => m[1]);
-      const unique = [...new Set(dates)].sort();
+      // Only dated index rows linked to the matching Daily file count; prose dates are not Daily records.
+      const unique = dailyIndexDates(index);
       if (!unique.length) continue;
       const latest = unique.at(-1);
       return {year, month:mm, latest, dates:unique, index, indexPath};
     } catch (_) {}
   }
-  throw new Error('No current Daily index could be read.');
+  throw new Error('No canonical Daily rows could be read from the current monthly indexes.');
 }
+
 
 function isoWeekInfo(dateString) {
   const d = new Date(`${dateString}T00:00:00Z`);
@@ -302,29 +316,45 @@ async function buildContext(r, revision) {
 
 function renderTwin(primary, twin, twinMode) {
   const cards = [
-    [cfg.label, repo, primary],
-    [CONFIG[twinMode].label, twinRepo, twin]
+    [cfg.label, repo, primary, true],
+    [CONFIG[twinMode].label, twinRepo, twin, false]
   ];
-  el('twin-grid').innerHTML = cards.map(([label, r, c]) => `<article class="twin-card"><div class="panel-heading"><p class="panel-kicker">${escapeHtml(label)}</p><a class="source-link" href="${githubCommit(r, c.revision.sha)}">main@${escapeHtml(c.revision.short)} ↗</a></div><dl class="twin-metrics"><div class="twin-metric"><dt>Latest Daily</dt><dd>${escapeHtml(c.daily.latest)}</dd></div><div class="twin-metric"><dt>Weekly</dt><dd>${escapeHtml(c.weeklyLabel)} · ${escapeHtml(c.weeklyState)}</dd></div><div class="twin-metric"><dt>Monthly</dt><dd>${escapeHtml(c.monthlyLabel)} · ${escapeHtml(c.monthlyState)}</dd></div><div class="twin-metric"><dt>Registry cutoff</dt><dd>${escapeHtml(c.registryCutoff)}</dd></div></dl></article>`).join('');
+  el('twin-grid').innerHTML = cards.map(([label, r, context, isPrimary]) => {
+    const snapshotLink = context?.revision
+      ? `<a class="source-link" href="${githubCommit(r, context.revision.sha)}">main@${escapeHtml(context.revision.short)} ↗</a>`
+      : '<span class="status-chip unknown">UNAVAILABLE</span>';
+    const destination = isPrimary ? githubRepo(r) : (twinHomepage || githubRepo(r));
+    const destinationLabel = isPrimary ? 'Open repository ↗' : 'Open companion observatory ↗';
+    const metrics = context
+      ? `<div class="twin-metric"><dt>Latest Daily</dt><dd>${escapeHtml(context.daily.latest)}</dd></div><div class="twin-metric"><dt>Weekly</dt><dd>${escapeHtml(context.weeklyLabel)} · ${escapeHtml(context.weeklyState)}</dd></div><div class="twin-metric"><dt>Monthly</dt><dd>${escapeHtml(context.monthlyLabel)} · ${escapeHtml(context.monthlyState)}</dd></div><div class="twin-metric"><dt>Registry cutoff</dt><dd>${escapeHtml(context.registryCutoff)}</dd></div>`
+      : '<div class="twin-metric"><dt>Projection</dt><dd>UNAVAILABLE</dd></div>';
+    return `<article class="twin-card"><div class="panel-heading"><p class="panel-kicker">${escapeHtml(label)}</p>${snapshotLink}</div><dl class="twin-metrics">${metrics}</dl><a class="source-link" href="${escapeHtml(destination)}">${destinationLabel}</a></article>`;
+  }).join('');
 }
 
+
 function renderLoadStatus(newer = null) {
-  if (!pinnedPrimaryHead || !pinnedTwinHead || !projectionReadAt) return;
+  if (!pinnedPrimaryHead || !projectionReadAt) return;
   const node = el('load-status');
   node.classList.toggle('is-newer', Boolean(newer));
   const readAt = new Intl.DateTimeFormat(undefined, {dateStyle:'medium', timeStyle:'short'}).format(projectionReadAt);
   const primary = `<a href="${githubCommit(repo, pinnedPrimaryHead.sha)}">main@${escapeHtml(pinnedPrimaryHead.short)}</a>`;
-  const twin = `<a href="${githubCommit(twinRepo, pinnedTwinHead.sha)}">twin@${escapeHtml(pinnedTwinHead.short)}</a>`;
+  const twin = twinProjectionAvailable && pinnedTwinHead
+    ? `<a href="${githubCommit(twinRepo, pinnedTwinHead.sha)}">twin@${escapeHtml(pinnedTwinHead.short)}</a>`
+    : 'twin projection unavailable';
   let html = `Pinned snapshot · ${primary} · ${twin} · read ${escapeHtml(readAt)}`;
   if (newer) {
     const advanced = [];
-    if (newer.primary.sha !== pinnedPrimaryHead.sha) advanced.push(`${cfg.short} main@${newer.primary.short}`);
-    if (newer.twin.sha !== pinnedTwinHead.sha) advanced.push(`${CONFIG[mode === 'global' ? 'china' : 'global'].short} main@${newer.twin.short}`);
-    html += ` · newer merged state available: ${escapeHtml(advanced.join(' + '))} <button type="button" id="refresh-projection">Reload projection ↻</button>`;
+    if (newer.primary && newer.primary.sha !== pinnedPrimaryHead.sha) advanced.push(`${cfg.short} main@${newer.primary.short}`);
+    if (newer.twin && (!pinnedTwinHead || newer.twin.sha !== pinnedTwinHead.sha)) advanced.push(`${CONFIG[mode === 'global' ? 'china' : 'global'].short} twin@${newer.twin.short}`);
+    if (advanced.length) {
+      html += ` · newer merged state available: ${escapeHtml(advanced.join(' + '))} <button type="button" id="refresh-projection">Reload projection ↻</button>`;
+    }
   }
   node.innerHTML = html;
   el('refresh-projection')?.addEventListener('click', () => window.location.reload());
 }
+
 
 async function checkForNewerHeads() {
   const now = Date.now();
@@ -332,14 +362,19 @@ async function checkForNewerHeads() {
   headCheckInFlight = true;
   lastHeadCheckAt = now;
   try {
-    const [primary, twin] = await Promise.all([fetchHead(repo), fetchHead(twinRepo)]);
-    if (primary.sha !== pinnedPrimaryHead.sha || twin.sha !== pinnedTwinHead.sha) renderLoadStatus({primary, twin});
-  } catch (error) {
-    console.warn('HEAD recheck unavailable; keeping the pinned snapshot.', error);
+    const [primaryResult, twinResult] = await Promise.allSettled([fetchHead(repo), fetchHead(twinRepo)]);
+    const primary = primaryResult.status === 'fulfilled' ? primaryResult.value : null;
+    const twin = twinResult.status === 'fulfilled' ? twinResult.value : null;
+    if (primaryResult.status === 'rejected') console.warn('Primary HEAD recheck unavailable.', primaryResult.reason);
+    if (twinResult.status === 'rejected') console.warn('Twin HEAD recheck unavailable.', twinResult.reason);
+    const primaryChanged = Boolean(primary && primary.sha !== pinnedPrimaryHead?.sha);
+    const twinChanged = Boolean(twin && (!pinnedTwinHead || twin.sha !== pinnedTwinHead.sha));
+    if (primaryChanged || twinChanged) renderLoadStatus({primary, twin});
   } finally {
     headCheckInFlight = false;
   }
 }
+
 
 function installHeadRecheck() {
   const maybeCheck = () => {
@@ -353,11 +388,26 @@ async function init() {
   renderEvidenceLegend();
   try {
     const twinMode = mode === 'global' ? 'china' : 'global';
-    const [primaryRevision, twinRevision] = await Promise.all([fetchHead(repo), fetchHead(twinRepo)]);
+    const [primaryHeadResult, twinHeadResult] = await Promise.allSettled([fetchHead(repo), fetchHead(twinRepo)]);
+    if (primaryHeadResult.status !== 'fulfilled') throw primaryHeadResult.reason;
+
+    const primaryRevision = primaryHeadResult.value;
+    const twinRevision = twinHeadResult.status === 'fulfilled' ? twinHeadResult.value : null;
     pinnedPrimaryHead = primaryRevision;
     pinnedTwinHead = twinRevision;
+    if (twinHeadResult.status === 'rejected') console.warn('Twin HEAD unavailable; continuing with the primary observatory.', twinHeadResult.reason);
     lastHeadCheckAt = Date.now();
-    const [ctx, twinCtx] = await Promise.all([buildContext(repo, primaryRevision), buildContext(twinRepo, twinRevision)]);
+
+    const [ctxResult, twinCtxResult] = await Promise.allSettled([
+      buildContext(repo, primaryRevision),
+      twinRevision ? buildContext(twinRepo, twinRevision) : Promise.resolve(null)
+    ]);
+    if (ctxResult.status !== 'fulfilled') throw ctxResult.reason;
+
+    const ctx = ctxResult.value;
+    const twinCtx = twinCtxResult.status === 'fulfilled' ? twinCtxResult.value : null;
+    twinProjectionAvailable = Boolean(twinCtx);
+    if (twinCtxResult.status === 'rejected') console.warn('Twin projection unavailable; primary projection remains valid.', twinCtxResult.reason);
     projectionReadAt = new Date();
 
     renderStatus(ctx);
@@ -378,11 +428,12 @@ async function init() {
     installHeadRecheck();
   } catch (error) {
     console.error(error);
-    el('load-status').textContent = 'Projection incomplete';
-    el('status-grid').innerHTML = `<div class="status-cell"><div class="status-label">State</div><div class="status-value">UNAVAILABLE</div><div class="status-sub">A coherent pinned repository snapshot could not be read; no state is inferred.</div></div>`;
+    el('load-status').textContent = 'Primary projection unavailable';
+    el('status-grid').innerHTML = `<div class="status-cell"><div class="status-label">State</div><div class="status-value">UNAVAILABLE</div><div class="status-sub">The primary repository snapshot could not be read; no state is inferred.</div></div>`;
     el('latest-title').textContent = 'Current projection unavailable';
-    el('latest-judgment').innerHTML = '<p class="error-note">The frontend could not resolve or read one coherent canonical repository snapshot. Use the repository links below; this UI does not substitute guessed state.</p>';
+    el('latest-judgment').innerHTML = '<p class="error-note">The frontend could not resolve or read one coherent primary repository snapshot. Use the canonical repository links below; this UI does not substitute guessed state.</p>';
   }
 }
+
 
 init();

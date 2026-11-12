@@ -37,3 +37,12 @@ The presentation uses native HTML landmarks and table semantics, visible keyboar
 ## Visual identity
 
 The UI deliberately avoids inheriting the older Google-colored Welcome portal skin or imitating an AI-vendor product surface. Its design vocabulary is derived from observatory functions: observation boundaries, source identity, lifecycle state, evidence class, time, uncertainty, and revision.
+
+
+## Twin observatory navigation and failure isolation
+
+The China Observatory link is a navigation and structural-comparison surface only. The two repositories retain separate evidence chains, research taxonomies, lifecycle semantics, and canonical data ownership.
+
+The primary repository projection is required; the companion projection is optional. If the companion HEAD or any of its canonical sources cannot be read, the current repository's projection remains available and the Twin lens reports `UNAVAILABLE`. A companion failure must not blank the primary observatory or cause replacement state to be inferred.
+
+The latest Daily date is selected only from dated rows in the monthly Daily index whose Integrated Daily link points to the matching `./YYYY-MM-DD.md` file. Dates in reconciliation prose, event descriptions, publication timestamps, or historical notes are not Daily records and must not determine the latest observation.

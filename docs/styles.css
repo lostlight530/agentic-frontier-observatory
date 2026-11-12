@@ -169,3 +169,17 @@ tbody tr:hover { background: var(--surface-2); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
 }
+
+
+/* Direct navigation between the two independent observatories. */
+.primary-nav a.twin-switch-link {
+  color: var(--accent);
+  border: 1px solid var(--line-strong);
+  padding: .5rem .7rem;
+  white-space: nowrap;
+}
+.primary-nav a.twin-switch-link:hover {
+  color: var(--text);
+  border-color: var(--accent);
+  background: var(--surface-2);
+}
