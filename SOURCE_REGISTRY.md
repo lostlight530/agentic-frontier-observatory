@@ -19,10 +19,11 @@
 - Release commit: https://github.com/personal-agent-protocol/personal-agent-protocol/commit/48039002795c9ebb390f1966fb70f82e4790efb6
 
 
-Updated through: **2026-11-11** (Poppy 0.4 publisher-reported publication status first observed 2026-11-11 16:37:06 Asia/Shanghai，prior 2026-11-09 Draft/source registry checkpoint remains historical)
+Updated through: **2026-11-12** (MCP official servers v2.4.0 issuer release published 2026-11-11 observed 2026-11-12 18:53:37 Asia/Shanghai，not MCP protocol specification or independent conformance)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
+| G-MCP-SERVERS-V2-4-0-2026-11-11 | G2 | modelcontextprotocol/servers official GitHub release | v2.4.0 published 2026-11-11T07:07:16Z，observed 2026-11-12 18:53:37 Asia/Shanghai；filesystem 2.3.0 / git/fetch 2026.11.11 issuer security fix statements，not independent validation or protocol TCK | https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0 |
 | G-PAP-0-4-DRAFT-REVISION-2026-11-08 | G2 | Poppy first-party GitHub | 0.4 DRAFT at a2ca25ab43eccc045bc7f2b86d3b579088da9af1 compared with 46beb2139417ad7b990dbf9b2dc84ddc3dd494d9 ahead 9 behind 0 changed_files 45 on 2026-11-08, no released 0.4 or independent conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/a2ca25ab43eccc045bc7f2b86d3b579088da9af1/content/versions/versions.json |
 | G-PAP-0-4-DRAFT-REVISION-2026-11-09 | G2 | Poppy first-party GitHub | Current main b2569c552d100922e7d60829d33a0fc50d88e822 is 3 commits ahead and 0 behind prior observed a2ca25ab43eccc045bc7f2b86d3b579088da9af1, 46 changed files; Session-scoped tasks endpoint and website Operations approval endpoint added; 0.4 remains Draft, no independent conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/compare/a2ca25ab43eccc045bc7f2b86d3b579088da9af1...b2569c552d100922e7d60829d33a0fc50d88e822 |
 | G-AGENT-SUBSTRATE-1-0-2026-11-05 | G2 | Agent Substrate canonical GitHub release | v1.0.0 published 2026-11-05; actor snapshot, suspend/resume, SPIFFE identity and egress gateway are documented project features; release notes include node-loss snapshot restore work; independent runtime and cross-cloud conformance not executed | https://github.com/agent-substrate/substrate/releases/tag/v1.0.0 |

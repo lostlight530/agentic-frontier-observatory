@@ -1,5 +1,7 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-12 18:53:37 Asia/Shanghai current successor: MCP official servers v2.4.0 released 2026-11-11 and first observed here Nov12，issuer claims tool invocation/filesystem/git/fetch hardening，runtime trust and durable-effect/recovery remain unvalidated，G-W07/G-W14 and W46 H46-3 remain OPEN
+
 - 2026-11-11 current successor: Poppy publisher version manifest now records 0.4 published=2026-11-10，Changelog labels 1.0 Release Candidate，publishing commit observed in Git on 2026-11-11，G-W73 version-status milestone observed but independent cross-company conformance, authority, revocation and external-effect recovery remain OPEN；no backdating of older Draft cuts
 
 
