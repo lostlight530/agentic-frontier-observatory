@@ -1,5 +1,7 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-13 04:58:42 Asia/Shanghai native PARTIAL proposal**：main `7d05efc51a30628b6b4ad338da0378d31f39f49c` Nov01–12 十二个已合并原生日，Nov13 当前唯一 Global F1–F7 结构完整但外部来源扫描 NOT_EXECUTED，W46 merged 4/7 + proposed 1/7，H46-1~4 OPEN，November OPEN，Nov14–30 NOT_DUE；旧日期提案文字保留 point-in-time 语义
+
 **2026-11-12 18:53:37 Asia/Shanghai native F1–F7 proposal**：main `90ca8b49e0ccd7dd26020d01e944e00022d714fa` Nov01–11 eleven complete merged packs；Nov12 twelfth complete original native Daily proposed on branch only，W46 3 merged + one proposed = 4/7 on branch，November OPEN，Nov13–30 NOT_DUE；MCP servers v2.4.0 published Nov11 first observed here today，no external conformance test
 
 **2026-11-12 08:34:13 Asia/Shanghai — current merged-main delivery reconciliation / 当前合并态更正**：main `b8cdee7d21d16852e3bdc24d9a8dec083062adab` 已包含 2026-11-11 原生 [PR #272](https://github.com/lostlight530/agentic-frontier-observatory/pull/272) 于 2026-11-11T09:10:05Z 合并的第十一份完整 F1–F7 Daily（主报告、7 个分任务与索引），Nov01–11 共 11 个已合并原生日；W45 FINAL 7/7，W46 OPEN Nov09–11 3/7，H46-1~4 OPEN，November OPEN；Nov12 当日进行中，不能在本截点判 native gap，Nov13–30 NOT_DUE；下方 11-11 proposed 叙述只代表原始生产者时间截点，本更正未执行新 Daily、外部实验或 checker
@@ -34,3 +36,4 @@
 | 2026-11-10 | [2026-11-10.md](./2026-11-10.md) | [2026-11-10/](./2026-11-10/) | W46 OPEN 2/7 on proposal，0.4 Draft，November OPEN |
 | 2026-11-11 | [2026-11-11.md](./2026-11-11.md) | [2026-11-11/](./2026-11-11/) | W46 OPEN 3/7 on proposal，Poppy 0.4 published RC，H46-1~4 OPEN |
 | 2026-11-12 | [2026-11-12.md](./2026-11-12.md) | [2026-11-12/](./2026-11-12/) | W46 OPEN 4/7 on branch proposal，MCP servers v2.4.0 issuer release，H46-1~4 OPEN |
+| 2026-11-13 | [2026-11-13.md](./2026-11-13.md) | [2026-11-13/](./2026-11-13/) | W46 OPEN 5/7 proposed, 4/7 merged / H46-1~4 OPEN / PARTIAL |
