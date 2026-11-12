@@ -5,7 +5,7 @@
 | 2026-08 | CLOSED; post-closure correction recorded 2026-09-01 | 7–31 Aug, 25 real days | F.748.93 approval occurred 29 Aug and was observed after closure. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
 | 2026-10 | **CLOSED_WITH_GAPS** | 30 native F1–F7 dates: 1–11, 13–31 Oct; 12 Oct historical native gap | Natural month ended，W44 October intersection 6 dates，1 Nov Sunday settlement separate，closure accounted 2026-11-01 04:59:41 Asia/Shanghai |
-| 2026-11 | **OPEN** | Nov01–10 ten F1–F7 native dates merged main，Nov11 eleventh proposed，Nov12–30 NOT_DUE | [November canonical OPEN](./2026-11.md)，W45 FINAL 7/7，W46 OPEN Nov09–10 2/7 merged + Nov11 proposed，H46-1~4 OPEN，Poppy 0.4 PUBLISHED RC |
+| 2026-11 | **OPEN** | Nov01–11 eleven F1–F7 native Daily packs merged main；Nov12 underway at 2026-11-12 08:34:13 Asia/Shanghai，Nov13–30 NOT_DUE | [November OPEN](./2026-11.md)，W45 FINAL 7/7，W46 OPEN 3/7 merged，H46-1~4 OPEN，Poppy 0.4 issuer PUBLISHED RC without independent conformance；11-11 native [PR #272](https://github.com/lostlight530/agentic-frontier-observatory/pull/272) merged |
 
 > Closed history may receive an explicit correction; it is never silently rewritten.
 

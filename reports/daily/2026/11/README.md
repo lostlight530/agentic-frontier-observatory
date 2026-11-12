@@ -1,5 +1,7 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-12 08:34:13 Asia/Shanghai — current merged-main delivery reconciliation / 当前合并态更正**：main `b8cdee7d21d16852e3bdc24d9a8dec083062adab` 已包含 2026-11-11 原生 [PR #272](https://github.com/lostlight530/agentic-frontier-observatory/pull/272) 于 2026-11-11T09:10:05Z 合并的第十一份完整 F1–F7 Daily（主报告、7 个分任务与索引），Nov01–11 共 11 个已合并原生日；W45 FINAL 7/7，W46 OPEN Nov09–11 3/7，H46-1~4 OPEN，November OPEN；Nov12 当日进行中，不能在本截点判 native gap，Nov13–30 NOT_DUE；下方 11-11 proposed 叙述只代表原始生产者时间截点，本更正未执行新 Daily、外部实验或 checker
+
 **2026-11-11 2026-11-11 16:37:06 current native proposal checkpoint**：main `6d2a6c1f3f078afa5d02adc27f02f2a23761b6f7` 已合并 Nov01–10 十份完整 F1–F7 pack，Nov11 本分支第十一份尚属提案，W46 merged 2/7 + proposed 1/7 = 3/7，H46-1~4 OPEN，November OPEN，Nov12–30 NOT_DUE；Poppy 0.4 first-party published=2026-11-10、1.0 Release Candidate 本轮首次观察，不将其直接当跨提供者 conformance
 
 **2026-11-10 08:56:26 Asia/Shanghai native checkpoint**：main `e797fe00744764c528bebd683d2fc1052245f2d6` 保留 Nov1–9 九个 F1–F7 pack，Nov10 第十个完整 Daily 在当前分支 proposed，未预称合并；W46 OPEN 1 merged + 1 proposed = 2/7，H46-1~4 OPEN，November OPEN，Nov11–30 NOT_DUE，Poppy 0.4 Draft 由 b2569c55 前进至 a2f16ec4，6 commits / 45 files，Operations v3 与 Browser Control v1 已在发行方源码，0.4 仍 Draft，未证明跨提供者 conformance
