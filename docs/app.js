@@ -44,6 +44,10 @@ const CONFIG = {
 const cfg = CONFIG[mode];
 const el = id => document.getElementById(id);
 const API_BASE = `https://api.github.com/repos/${OWNER}`;
+const FALLBACK_REVISIONS = Object.freeze({
+  'china-agentic-observatory': '4cfde84041921eef8bee106e4bd1823509db0754',
+  'agentic-frontier-observatory': '98b84716243fbbcbe850a57376d337dcfde446a7'
+});
 const rawBase = (r, ref) => `https://raw.githubusercontent.com/${OWNER}/${r}/${ref}/`;
 const githubFile = (r, path, ref = 'main') => `https://github.com/${OWNER}/${r}/blob/${ref}/${path}`;
 const githubRepo = r => `https://github.com/${OWNER}/${r}`;
@@ -88,7 +92,22 @@ async function fetchHead(r) {
   const data = await response.json();
   const sha = data?.commit?.sha || '';
   if (!/^[0-9a-f]{40}$/i.test(sha)) throw new Error(`${r} main HEAD: invalid SHA`);
-  return {sha, short: sha.slice(0, 7), htmlUrl: data?.commit?.html_url || githubCommit(r, sha)};
+  return {sha, short: sha.slice(0, 7), htmlUrl: data?.commit?.html_url || githubCommit(r, sha), source: 'api'};
+}
+
+function fallbackRevision(r, reason) {
+  const sha = FALLBACK_REVISIONS[r] || '';
+  if (!/^[0-9a-f]{40}$/i.test(sha)) throw reason;
+  console.warn(`${r} main HEAD unavailable; using the last verified fallback snapshot.`, reason);
+  return {sha, short: sha.slice(0, 7), htmlUrl: githubCommit(r, sha), source: 'fallback'};
+}
+
+async function resolveRevision(r) {
+  try {
+    return await fetchHead(r);
+  } catch (error) {
+    return fallbackRevision(r, error);
+  }
 }
 
 async function fetchText(r, path, ref) {
@@ -228,7 +247,7 @@ function renderStatus(context) {
     ['Canonical Weekly', context.weeklyState, context.weeklyLabel],
     ['Monthly', context.monthlyState, context.monthlyLabel],
     ['Source Registry', context.registryCutoff, 'registry cutoff'],
-    ['Snapshot', `main@${context.revision.short}`, 'all canonical reads pinned']
+    ['Snapshot', `${context.revision.source === 'fallback' ? 'fallback' : 'main'}@${context.revision.short}`, context.revision.source === 'fallback' ? 'last verified pinned snapshot' : 'all canonical reads pinned']
   ];
   el('status-grid').innerHTML = cells.map(([label, value, sub]) => `<div class="status-cell"><div class="status-label">${escapeHtml(label)}</div><div class="status-value">${escapeHtml(value)}</div><div class="status-sub">${escapeHtml(sub)}</div></div>`).join('');
 }
@@ -338,9 +357,10 @@ function renderLoadStatus(newer = null) {
   const node = el('load-status');
   node.classList.toggle('is-newer', Boolean(newer));
   const readAt = new Intl.DateTimeFormat(undefined, {dateStyle:'medium', timeStyle:'short'}).format(projectionReadAt);
-  const primary = `<a href="${githubCommit(repo, pinnedPrimaryHead.sha)}">main@${escapeHtml(pinnedPrimaryHead.short)}</a>`;
+  const primaryLabel = pinnedPrimaryHead.source === 'fallback' ? 'fallback' : 'main';
+  const primary = `<a href="${githubCommit(repo, pinnedPrimaryHead.sha)}">${primaryLabel}@${escapeHtml(pinnedPrimaryHead.short)}</a>`;
   const twin = twinProjectionAvailable && pinnedTwinHead
-    ? `<a href="${githubCommit(twinRepo, pinnedTwinHead.sha)}">twin@${escapeHtml(pinnedTwinHead.short)}</a>`
+    ? `<a href="${githubCommit(twinRepo, pinnedTwinHead.sha)}">${pinnedTwinHead.source === 'fallback' ? 'twin fallback' : 'twin'}@${escapeHtml(pinnedTwinHead.short)}</a>`
     : 'twin projection unavailable';
   let html = `Pinned snapshot · ${primary} · ${twin} · read ${escapeHtml(readAt)}`;
   if (newer) {
@@ -388,7 +408,7 @@ async function init() {
   renderEvidenceLegend();
   try {
     const twinMode = mode === 'global' ? 'china' : 'global';
-    const [primaryHeadResult, twinHeadResult] = await Promise.allSettled([fetchHead(repo), fetchHead(twinRepo)]);
+    const [primaryHeadResult, twinHeadResult] = await Promise.allSettled([resolveRevision(repo), resolveRevision(twinRepo)]);
     if (primaryHeadResult.status !== 'fulfilled') throw primaryHeadResult.reason;
 
     const primaryRevision = primaryHeadResult.value;
