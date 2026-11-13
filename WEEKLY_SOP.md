@@ -4,7 +4,7 @@
 
 Compress one Asia/Shanghai natural week's real daily evidence into a falsifiable, memory-bearing hypothesis system.
 
-> **周日不是清空，周一不是重启。**
+> **周日不是清空，周一不是重启；**
 
 ## Canonical weekly / 唯一周报
 
@@ -15,6 +15,10 @@ reports/weekly/YYYY/YYYY-Www.md
 One week has one canonical file, updated in place until closure.
 
 Do not fabricate repository history before founding or across missing observation days. Cross-month weeks remain one weekly file.
+
+**中文阶段边界**：单一周报在自然周内逐步积累证据，未结束的周不能标为最终结算，缺失 Daily 与矛盾来源必须保留；日报产生、PR 合并和周报结算是不同事件
+
+**English stage boundary:** One canonical Weekly accumulates evidence within the natural week; an unfinished week cannot be labeled final and missing Daily or conflicting sources remain visible. Daily production, PR merge and weekly settlement are separate events
 
 ## State machine / 周度状态机
 

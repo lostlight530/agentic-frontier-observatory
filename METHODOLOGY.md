@@ -36,7 +36,7 @@ Source Registry + Watchlist
 Core rule:
 
 > **Do not independently prove that a technology works; do prove that the public information exists and represent it accurately.**  
-> **不验证技术是否真的有效，但必须验证信息是否真的存在。**
+> **不验证技术是否真的有效，但必须验证信息是否真的存在；**
 
 This repository is a research observatory, not a benchmark, deployment platform, product test bed, or execution Agent.
 
@@ -161,7 +161,7 @@ Weekly = falsifiable hypothesis memory + settlement
 Monthly = long-horizon compression + carry-forward
 ```
 
-> **周日不是清空，周一不是重启。**
+> **周日不是清空，周一不是重启；**
 
 Durable doctrine becomes baseline only after surviving the applicable evidence and correction process. Open gaps continue across week/month boundaries rather than being rediscovered as new.
 
@@ -182,7 +182,13 @@ The observatory verifies that a public source exists and represents it accuratel
 
 It does not independently run or deploy models/agents, reproduce benchmark claims, validate product performance, certify security, or test protocol interoperability.
 
-> **不验证能力，不等于不核验事实。**
+> **不验证能力，不等于不核验事实；**
+
+### Stage projection evidence envelope / 阶段投影证据封套
+
+**中文**：阶段展示中的结论应保留原始来源、取得时间、对象层级、状态类别、观察日期、覆盖区间、修订号及不确定项；基准分数、企业公告、规范版本、仓库活动与部署成熟度不能未经核验相互换算
+
+**English**: Stage claims retain primary source, retrieval time, object layer, status class, observation date, coverage window, revision and uncertainty. Benchmark scores, announcements, specification versions, repository activity and deployment maturity cannot be equated without supporting evidence
 
 ## 11. Synthesis and comparison discipline / 综合与比较纪律
 

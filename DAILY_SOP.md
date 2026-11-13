@@ -4,7 +4,7 @@
 
 Every observation day produces a complete global AI research record across F1–F7.
 
-> **允许无变化，不允许无报告。**
+> **允许无变化，不允许无报告；**
 
 Daily answers:
 
@@ -21,6 +21,10 @@ what boundary prevents overclaim
 ↓
 what should be watched next
 ```
+
+**中文职责补充**：每天依真实来源和采集截止点运行 F1–F7 研究，只有实际产生并合并的 integrated Daily 才是当前 canonical 结果；未执行、不可获取和未合并不得自动补写为完成；研究观察的时点不同于平台／标准／产品实际发布与生效时点
+
+**English execution boundary:** F1–F7 work uses actual source evidence and a named cutoff. Only the produced and accepted integrated Daily is canonical. Unexecuted, unavailable and unmerged work remains visibly incomplete; an observation timestamp is not an external product's or standard's effective date
 
 ## Before research / 开始前
 

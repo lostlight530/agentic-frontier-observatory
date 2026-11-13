@@ -48,6 +48,12 @@ The fourth archived version is [v2026.10-fourteen-day-evidence-checkpoint](https
 
 Use the version DOI for this exact checkpoint and the concept DOI for the software family. `CITATION.cff` and CodeMeta retain the family identifier and recorded September 16 baseline date. Later changes to `main` belong to subsequent repository state; the checkpoint tag remains unchanged.
 
+## Source-to-stage and citation identity / 信源到阶段与引用身份
+
+**中文**：科研日报、周报、月报与 Release 是不同证据对象；观察日期不等于产品发布或实际部署日期；GitHub release tag 是冻结的软件修订，Zenodo concept DOI `10.5281/zenodo.22791334` 标识版本家族，version DOI 标识具体发行；复现时引用确切源码 revision、取得时间、执行环境和实际收据，阶段页面不能仅凭 DOI 声称已归档或已独立验证
+
+**English**: Daily, Weekly, Monthly research and releases are different evidentiary objects. Observation time is not deployment time. A release tag fixes a revision; Zenodo concept DOI `10.5281/zenodo.22791334` denotes the software family and a version DOI the archived release. Reproduction cites exact revision, retrieval time, environment and actual receipts. Stage cards are not validated or archived merely by displaying the concept DOI
+
 ## Open-science reuse and research records
 
 - Cite the software family through [CITATION.cff](CITATION.cff) or [CodeMeta](codemeta.json); cite the version DOI above when a result depends on this checkpoint.

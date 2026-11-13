@@ -7,7 +7,7 @@ Scope: repository-level research positioning, longitudinal research-production m
 
 English is the canonical and default language for this open-research contract. Chinese text is provided as an accessibility and interpretation aid. If wording diverges, the English normative text governs; repository evidence and current owning contracts remain authoritative over both.
 
-英文是本开放科研契约的默认与规范语言；中文用于辅助理解与可访问性。若中英文表述有差异，以英文规范文本为准；仓库事实与当前 owning contract 的权威仍高于任何翻译。
+英文是本开放科研契约的默认与规范语言；中文用于辅助理解与可访问性；若中英文表述有差异，以英文规范文本为准；仓库事实与当前 owning contract 的权威仍高于任何翻译；
 
 ## Authority
 
@@ -162,6 +162,12 @@ Preserve point-in-time reports. Correct current interpretation forward through e
 
 Use `OPEN_RESEARCH.md` for research-method/positioning changes and `RESEARCH_TEMPLATE.md` for bounded research units that need the common question/counterexample/increment structure. Existing Daily/Weekly/Monthly SOPs remain the cadence owner.
 
+## Stage evidence and archive discipline / 阶段证据与归档纪律
+
+**中文**：长期阶段判断保留对象／来源身份、观察窗口、Git 修订、Daily→Weekly→Monthly 引用关系、失败和未决状态；前端可投影聚合数据，但不能把 aggregation 当成 raw、把历史 version DOI 当成现时 `main`，也不能把生态声明当成独立验证的部署事实
+
+**English**: Preserve object/source identity, observation window, Git revision, Daily-to-Weekly-to-Monthly citations, failure and unresolved states. A frontend may display aggregates but must not relabel them as raw data, equate an archived version DOI with current `main`, or upgrade announcements to independently verified deployment
+
 ## Permanent boundary
 
 ```text
@@ -175,8 +181,8 @@ external indexing != repository self-definition
 
 ## 中文摘要
 
-本文件不替代观察站现有 Daily / Weekly / Monthly SOP，而是在其上补一个长期、统一的科研问题层：明确 research question、可证伪判断、来源身份与独立性、时间边界、raw observation、counterexample、research increment 与 retest condition。
+本文件不替代观察站现有 Daily / Weekly / Monthly SOP，而是在其上补一个长期、统一的科研问题层：明确 research question、可证伪判断、来源身份与独立性、时间边界、raw observation、counterexample、research increment 与 retest condition；
 
-F1–F7、Methodology、Scope、Taxonomy、Source Registry 继续拥有观察站原生语义。Daily 可以合法得到 `NO MATERIAL CHANGE`；Weekly/Monthly 可以保留 gap 或无 transition 结论，不为了 cadence 制造科研变化。
+F1–F7、Methodology、Scope、Taxonomy、Source Registry 继续拥有观察站原生语义；Daily 可以合法得到 `NO MATERIAL CHANGE`；Weekly/Monthly 可以保留 gap 或无 transition 结论，不为了 cadence 制造科研变化；
 
-未来 scholarly metadata 以准确定位、少量高质量 subjects 与 5–7 个定义性 keywords 为主。若外部系统把 “Observatory” 推断成天文/气象/遥感语义，在仓库定位已经清楚时应记录为 downstream classifier noise，而不是改写仓库本体。
+未来 scholarly metadata 以准确定位、少量高质量 subjects 与 5–7 个定义性 keywords 为主；若外部系统把 “Observatory” 推断成天文/气象/遥感语义，在仓库定位已经清楚时应记录为 downstream classifier noise，而不是改写仓库本体；
