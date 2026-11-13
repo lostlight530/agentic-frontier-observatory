@@ -74,6 +74,12 @@ Global scope includes public materials from governments, standards bodies, resea
 
 China-specific policy/standard/industry interpretation is handled in more depth by the twin [`china-agentic-observatory`](https://github.com/lostlight530/china-agentic-observatory). Cross-observatory comparison must preserve each repository's source hierarchy and local terminology rather than forcing one vocabulary onto the other.
 
+### 长期数据研究的范围 / Scope of longitudinal data
+
+本仓观察全球 Agent 模型、协议、Runtime、工具链、部署与治理的可核实发展，长期状态来自带时间和来源的 Daily、Weekly、Monthly；展示、归档 DOI 与公开宣传不是新的一手事实，也不构成性能、安全或部署认证
+
+This observatory tracks verifiable global developments in models, protocols, runtimes, tools, deployments and governance through source- and time-bounded Daily, Weekly and Monthly records. Presentation, archived DOIs and announcements are not new primary observations or independent performance, safety or deployment certifications
+
 ## Durable research surfaces
 
 - [`METHODOLOGY.md`](./METHODOLOGY.md) — evidence, independence, date/status and correction method.
