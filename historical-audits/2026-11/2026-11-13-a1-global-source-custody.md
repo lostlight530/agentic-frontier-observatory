@@ -1,0 +1,393 @@
+# 2026-11-13 ORIGINAL independent A1 — Global F1–F7 Nov01–12 complete source custody
+
+## Review identity and authoritative merged main
+- Repo: lostlight530/agentic-frontier-observatory
+- Independent-maintenance/A1, NOT Global native F1–F7 Daily production
+- Logical cut Nov01–Nov12 inclusive Asia/Shanghai; Nov13 new Native is outside A1 cutoff
+- Current merged main ba35e3959fc4c8880858490335164bbb347136fb
+- Previous full A1 source blob 6dd3114135408a6092975e8851b0203658363df8; predecessor A2 relation blob e55af2d7d6e46d778087277354f06dcd85d73b26
+- One Native Day = integrated report + 7 independent subject facets + one README = 9 retained files, not nine native observations
+- Earlier Nov01–11 original reviewed file judgments inherited only if all exact Git blobs match
+- Nov12 full integrated body and F1–F7 plus README reviewed, source first observed Nov12 and issuer published Nov11
+- W44/W45 FINAL/closed; W46 Nov09–15 OPEN, November OPEN; Nov13–15 future final NOT_DUE
+- Source release/patch existence is distinct from host installation, conformance, evaluator results and external side effects
+- No external security exploit re-run, TCK/CI, deployed MCP server or Native source sweep by this independent A1
+
+## Every retained dated canonical file: SHA, evidence content and decision
+
+### 2026-11-01 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-01.md` @ current main blob `4456fb37ad022729c1205f1e9baa8772224fbaee`
+- Integrated source judgment: Dated original source: Poppy main unchanged versus Oct31, 0.3 draft; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-01/F1-history-theory.md` @ exact current Git blob `00a525ce63c1544f84304bd3b17fe11e58696072`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-01 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-01/F2-models-algorithms.md` @ exact current Git blob `1bc1642fe773b2585f9b63391093ae034cc57c47`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-01 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-01/F3-infrastructure.md` @ exact current Git blob `9b74eb898e370e21540fc9d808d78ef3bc2e8d9f`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-01 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-01/F4-agentic-systems.md` @ exact current Git blob `36adfaf549533ed8147aa8ce07f87495e35ac927`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-01 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-01/F5-evaluation-governance.md` @ exact current Git blob `62e64aca229a96049b1a45f79807b773f08c4146`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-01 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-01/F6-ecosystem-society.md` @ exact current Git blob `18e1dee3dbca09ee72c3de6bf3c2b6cf3d4fc52f`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-01 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-01/F7-synthesis.md` @ exact current Git blob `a9653bb67b34c1183d067229e81843e6b78544bc`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-01 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-01/README.md` @ exact current Git blob `f439442544314597b242bf90455b314dd11e7d5b`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-01 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-02 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-02.md` @ current main blob `009e3ededb2075f29d424e80f973278d7c5deb18`
+- Integrated source judgment: Dated original source: Poppy first-party draft 0.3 continued; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-02/F1-history-theory.md` @ exact current Git blob `60d3b08bb244d0b59fb2f82b91a63dfaf664c073`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-02 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-02/F2-models-algorithms.md` @ exact current Git blob `b1f9d70e8c793270ec147a58ba1b12d986eb8998`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-02 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-02/F3-infrastructure.md` @ exact current Git blob `b3f455017b9a6af5c16e01b900fec499d6604ed3`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-02 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-02/F4-agentic-systems.md` @ exact current Git blob `12dfd9250a2578d2c121384c439510efe7988d35`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-02 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md` @ exact current Git blob `dd4d99c7a71e1f72ce401506d898467f1af8fa2f`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-02 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-02/F6-ecosystem-society.md` @ exact current Git blob `c18cf7bcc6cbe426d58849d823c6ee47e3831ff4`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-02 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-02/F7-synthesis.md` @ exact current Git blob `419c82edbcb6f3cff581b0f0177e8f0ce17492e8`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-02 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-02/README.md` @ exact current Git blob `12f28a8abe804d0c29e16bccb5ff8992ea7b2857`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-02 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-03 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-03.md` @ current main blob `f390b0013b3836752c2792d46b7f3b771a6fef03`
+- Integrated source judgment: Dated original source: ten new Poppy draft-source commits observed; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-03/F1-history-theory.md` @ exact current Git blob `d9779c8390f724ed6bf657061abd899960bc4e9d`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-03 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-03/F2-models-algorithms.md` @ exact current Git blob `3617e08f19a3552ac3b420e4577490f43fe1b5e0`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-03 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-03/F3-infrastructure.md` @ exact current Git blob `e9376f994980afce457b3c7ecd3ef8e74d92f6b6`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-03 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-03/F4-agentic-systems.md` @ exact current Git blob `774949e5888fb8ac9cb656bee3108a87143aa830`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-03 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-03/F5-evaluation-governance.md` @ exact current Git blob `13a0dd8ca6a314f0563a76d23b5bca2a43f13557`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-03 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-03/F6-ecosystem-society.md` @ exact current Git blob `f5f8a4e6db76ee994d4a76e2efb3b04a4e3916dd`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-03 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-03/F7-synthesis.md` @ exact current Git blob `ec54f59322b0a132a141656c7bab04fc89bbcef6`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-03 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-03/README.md` @ exact current Git blob `e428ac3725498bfa8ae87e35c3b1141c6b4445a4`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-03 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-04 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-04.md` @ current main blob `03d0e475571ca7b41c37b093a9e4b1e9cde4ed4f`
+- Integrated source judgment: Dated original source: three additional draft revisions observed; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-04/F1-history-theory.md` @ exact current Git blob `d60e1c6ad7e305c05985a1a8292cfc933829cbfa`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-04 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-04/F2-models-algorithms.md` @ exact current Git blob `5196a6a00bbe0f95cb2acec1ec1f4fd1b7e09575`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-04 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-04/F3-infrastructure.md` @ exact current Git blob `149f7269cc3388eb06b4af25a6a08cdd0d32cee6`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-04 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-04/F4-agentic-systems.md` @ exact current Git blob `257a7bce35740987489ec64598d6fdec14dc34e2`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-04 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md` @ exact current Git blob `373a2ce5fde94848197f6dd25746b174c880e223`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-04 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md` @ exact current Git blob `6add8450d54fc756f2821bdc36609151e58044fe`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-04 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-04/F7-synthesis.md` @ exact current Git blob `31276502ec6ee1c7f947ca2bcbcf8088547e3a19`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-04 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-04/README.md` @ exact current Git blob `37592bfceb6b69ca3ed2f77e2492c20aa4be10b5`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-04 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-05 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-05.md` @ current main blob `875230f3e7376db347f60732d29e57d34433a79b`
+- Integrated source judgment: Dated original source: issuer declares Poppy 0.3 published 2026-11-04; 0.4 Draft; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-05/F1-history-theory.md` @ exact current Git blob `3801b229d4fe188958f65e76a4b20643c5418ea2`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-05 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-05/F2-models-algorithms.md` @ exact current Git blob `7093bc6ee743684bbea7dea5e76df4998326157b`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-05 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-05/F3-infrastructure.md` @ exact current Git blob `572507a870f683104566c3017516ffd9bac9a455`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-05 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-05/F4-agentic-systems.md` @ exact current Git blob `96fe9fbc19c665e6649d12287089edfc37f940f0`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-05 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-05/F5-evaluation-governance.md` @ exact current Git blob `d5e7a64b046f3fd71f7c6b8915538d4019988c09`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-05 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-05/F6-ecosystem-society.md` @ exact current Git blob `87032ecd068fca0d7ee48c05455ca19ab1494e01`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-05 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-05/F7-synthesis.md` @ exact current Git blob `e31ad9843cbaa6ba49a78b8cbe180fecca4e7c84`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-05 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-05/README.md` @ exact current Git blob `790646d911cd86f6db79ca9b6592444897735d2a`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-05 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-06 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-06.md` @ current main blob `be450996fc75dcb0dd397b5cba321bcc7f6663a0`
+- Integrated source judgment: Dated original source: Poppy 0.4 credential-control Draft patch; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-06/F1-history-theory.md` @ exact current Git blob `f300b364320b9d122377b970bd82ece930e45721`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-06 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-06/F2-models-algorithms.md` @ exact current Git blob `439e441ce37e0982f7d143809df32e1908dbf71f`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-06 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-06/F3-infrastructure.md` @ exact current Git blob `25e232254dc2ac96e06230bebdbce7c5f9a1c5fa`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-06 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-06/F4-agentic-systems.md` @ exact current Git blob `4f6e7072a81c1fb415850cadad6da371b22bde48`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-06 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-06/F5-evaluation-governance.md` @ exact current Git blob `3e65ea94b8808da87a9114e84a957109db2d45ec`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-06 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-06/F6-ecosystem-society.md` @ exact current Git blob `f993e7cd48bd6976ebbf2ce0b01770f4446aaab7`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-06 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-06/F7-synthesis.md` @ exact current Git blob `ae519f2042d289b8c1c4df32b96433f4186d6480`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-06 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-06/README.md` @ exact current Git blob `785e414d9b69dd297b10cebf99468bdd186775b9`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-06 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-07 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-07.md` @ current main blob `ae1cd41ca58c2adbbb4318170672143f8f33e168`
+- Integrated source judgment: Dated original source: Poppy 0.4 conversation identity / retry Draft; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-07/F1-history-theory.md` @ exact current Git blob `aa2d2801fb933e5ab37c8d4f5f74a5daf5203bea`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-07 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-07/F2-models-algorithms.md` @ exact current Git blob `92a0c85576f6e2eaa247291da4e96bca465a548a`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-07 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-07/F3-infrastructure.md` @ exact current Git blob `23780638817287e5c5d55085a193340886f91f98`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-07 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-07/F4-agentic-systems.md` @ exact current Git blob `dd50254b77e44870393f0a3788cc19246fe0f6b1`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-07 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-07/F5-evaluation-governance.md` @ exact current Git blob `51c349f609a76809cd49a4422ffc559612ca96c1`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-07 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-07/F6-ecosystem-society.md` @ exact current Git blob `a9d07a49080d7c50b57cfc18bb1525165b352e80`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-07 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-07/F7-synthesis.md` @ exact current Git blob `17340a1397c1b95aed7f6cc201e65ffc6a161965`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-07 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-07/README.md` @ exact current Git blob `145ab7d8b1bf5a08b0dd9e822ba4f6ebcd2a2f4a`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-07 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-08 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-08.md` @ current main blob `0f41a7ce47c8f0f62dc9786a2bfd4bb38e666bd9`
+- Integrated source judgment: Dated original source: Poppy issuer source plus NIST/Tencent/Xinhua independent event dates; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-08/F1-history-theory.md` @ exact current Git blob `9f22b5ada6a523c0dda2b49449b5eff751d73e5d`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-08 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-08/F2-models-algorithms.md` @ exact current Git blob `af1b4c6f899ce56bbe3641be09f2e63c214f55a5`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-08 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-08/F3-infrastructure.md` @ exact current Git blob `0dd2fb1bb7b6466df5132374bf9fe5c3511c92cf`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-08 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-08/F4-agentic-systems.md` @ exact current Git blob `5ee5c728ad07a4c92734dc62c34dc386bd96cbd6`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-08 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-08/F5-evaluation-governance.md` @ exact current Git blob `3351a80e84882cdf59620a570f540c3775c94604`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-08 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-08/F6-ecosystem-society.md` @ exact current Git blob `d66ef161ffa479da6fbcf074c9cc29620c28dd7e`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-08 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-08/F7-synthesis.md` @ exact current Git blob `d684398fba21686bae76e51e3706ab4b126cf9b0`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-08 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-08/README.md` @ exact current Git blob `1c95def6ca42f5028bf7011855402b654f0eaec8`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-08 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-09 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-09.md` @ current main blob `e386111d60bb51cc355c32e3879d67e92de9c336`
+- Integrated source judgment: Dated original source: Poppy new tasks endpoints + Agent Substrate/scientific-agent sources; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-09/F1-history-theory.md` @ exact current Git blob `e4d401fcb7f9faf0acb1e3bd12a575de414c80b3`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-09 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-09/F2-models-algorithms.md` @ exact current Git blob `474f79d9336809e2cbd688803e22d65e262da28e`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-09 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-09/F3-infrastructure.md` @ exact current Git blob `370931f0b892afd78ac0f4b42eab7b7dcd0e5604`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-09 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-09/F4-agentic-systems.md` @ exact current Git blob `727c0b9c62b56857450113a5d75872c77393f93c`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-09 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-09/F5-evaluation-governance.md` @ exact current Git blob `4cb560382d1f32f529eef803aafd51572093c432`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-09 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-09/F6-ecosystem-society.md` @ exact current Git blob `160d1c944d15cf5d6e1ace5994559a765e005bd6`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-09 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-09/F7-synthesis.md` @ exact current Git blob `5541fa735d416f41599c2e6db7007863d7ca741b`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-09 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-09/README.md` @ exact current Git blob `db7a6e5d042090b4ac837868e2f9f1fd2445a712`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-09 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-10 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-10.md` @ current main blob `f63dd4346794ce209775e1ae8ff25e4550e34e0a`
+- Integrated source judgment: Dated original source: Operations v3 / Browser Control v1 code changes; 0.4 still Draft at observed cut; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-10/F1-history-theory.md` @ exact current Git blob `890cd9e276233042feafbb951d72c8c86040d40e`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-10 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-10/F2-models-algorithms.md` @ exact current Git blob `019df99b419de6f76c59917e36f071d75ebad9e0`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-10 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-10/F3-infrastructure.md` @ exact current Git blob `a724a0652efb0dd11c2e0e52add47a3df674029a`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-10 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-10/F4-agentic-systems.md` @ exact current Git blob `e3064525ac58ab105ad5fa929ae12e3d760629ed`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-10 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-10/F5-evaluation-governance.md` @ exact current Git blob `a19660b05f53e89842b54d8e36a365412f356b78`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-10 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-10/F6-ecosystem-society.md` @ exact current Git blob `bf6ca5f8f105c6223bd1bcdb3482daba34e76752`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-10 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-10/F7-synthesis.md` @ exact current Git blob `7b44c0e7794afdee9d8fc381c5975371bcbdfb1a`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-10 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-10/README.md` @ exact current Git blob `282f4d145e4fcc4df4e61761edd67caf7f039050`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-10 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-11 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-11.md` @ current main blob `5851fc3f7f1f3733a183bcefa20b18ab51efb43d`
+- Integrated source judgment: Dated original source: Poppy manifest published=2026-11-10, changelog labels 1.0 Release Candidate; interpretation reflects original observation cut rather than later current-state retrojection
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-11/F1-history-theory.md` @ exact current Git blob `c6c510552b2069400a36bb180f353cf9ed9309a4`
+- Content judgment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-11 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-11/F2-models-algorithms.md` @ exact current Git blob `4d415d7e05136ea59becef11eb330bd2ceb9ee74`
+- Content judgment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-11 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-11/F3-infrastructure.md` @ exact current Git blob `398cf7579119ff960509033e9edcf41be331e7c1`
+- Content judgment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-11 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-11/F4-agentic-systems.md` @ exact current Git blob `ae8880fcc8b3878454304863b7b3933a3c189ffe`
+- Content judgment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-11 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-11/F5-evaluation-governance.md` @ exact current Git blob `a7ce3e248fef3c1fa196ed090fdc6fbcd2b74f2a`
+- Content judgment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-11 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-11/F6-ecosystem-society.md` @ exact current Git blob `2184fdb105e70359fb3936c5440aaa3bd5676c82`
+- Content judgment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-11 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-11/F7-synthesis.md` @ exact current Git blob `833fa8178fd7ada4ebbaf38a4c991b983d1911b1`
+- Content judgment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-11 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-11/README.md` @ exact current Git blob `2f84c18ed3061059886c0107a28defd603c32156`
+- Content judgment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-11 runtime proof
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 prior exact source versions matched; no false source-independence multiplier
+
+### 2026-11-12 — integrated report and eight retained components
+- Integrated report `reports/daily/2026/11/2026-11-12.md` @ current main blob `c8cd049031c00cbbb7b372c3e41c988361d03b06`
+- Integrated source judgment: MCP official servers v2.4.0 issuer release Nov11, observed Nov12; fixes are publisher claims, not deployed runtime/security proof
+- Integrated disposition NO_FOLLOW_UP; original daily source type, negative statuses and producer cut preserved
+- Facet `reports/daily/2026/11/2026-11-12/F1-history-theory.md` @ exact current Git blob `5753f650e0ef9060c00998bcd70f7882d50ace4e`
+- Content judgment: Security fix of one MCP tool-server family does not establish new protocol paradigm
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-12/F2-models-algorithms.md` @ exact current Git blob `8c04bbdad721464c60885918bbbdeb233a043aec`
+- Content judgment: No new model/algorithm benchmark run in bounded issuer release scope
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-12/F3-infrastructure.md` @ exact current Git blob `be2a60dfaa5ad3daf0e5c6328c8ceaf8fe1f8647`
+- Content judgment: filesystem/server source claims are bounded to issuer patch and untested race conditions
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-12/F4-agentic-systems.md` @ exact current Git blob `23d41e9b9ccf658e7da334830778757332487287`
+- Content judgment: Git configuration execution boundary is tool infrastructure, not proof of effect-time durable authorization
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-12/F5-evaluation-governance.md` @ exact current Git blob `fa201fc0269d67ddef1301f28e37dc80c31f4d0a`
+- Content judgment: Six publisher security fixes are not independent TCK/conformance passes
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-12/F6-ecosystem-society.md` @ exact current Git blob `2ee60cf3a82c857adb3381b4675affb8404db1dd`
+- Content judgment: release/version metadata cannot prove deployed adoption or cross-provider interoperability
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-12/F7-synthesis.md` @ exact current Git blob `e34c23c93854001d85c49fc10456b1aef726d021`
+- Content judgment: SECURITY != EXECUTION != DURABLE_EFFECTS != RECOVERY, exact release evidence narrow
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Facet `reports/daily/2026/11/2026-11-12/README.md` @ exact current Git blob `ebc7f49e25fad4a568fc03246c1d44aa22763655`
+- Content judgment: native pack index maps seven facets to one Daily producer, not another source
+- Per-file verdict NO_FOLLOW_UP; author-time limits retained, source presence != separate Native Day
+- Day ledger: one actual Daily, 9/9 new cutoff-day sources reviewed; no false source-independence multiplier
+
+## Weekly, evidence delta and protective boundaries
+- Source files exact inherited facet matches 88/88 and eleven integrated report matches; new Nov12 8 facets plus 1 integrated
+- Date coverage 12 actual Native Daily report identities, 108 retained files, not 108 external original works
+- Nov12 first-party MCP servers v2.4.0 date published 2026-11-11T07:07:16Z and first read Nov12, two distinct timestamps
+- Tool Git server programmable config fix and filesystem race hardening are bounded issuer descriptions; no local installation asserted
+- Nov11 Poppy 0.4 publisher status stays own original time; Nov12 source does not rewrite it
+- Nov12 source re-reads shared with Welcome/Zero do not count as independent new original issuer
+- W46 H46-1..4 still OPEN; month and future Week46 final NOT_DUE
+- Exact canonical W46 file blob 93230172d2a5d60347de342db5800c22c072c11a is an OPEN working report, not settled final
+- November Monthly owner `reports/monthly/2026/2026-11.md` @ d25a6b2962af96798ab59880802777320cedc18a remains OPEN
+- No original source files, report index, UI, past historical A1/A2, Native runs or Actions modified
+- GitHub remote latest main, open PRs, prior source-body audit, native Nov12 original body/facets, and Git SHA verified
+- NOT_EXECUTED by independent A1: full external sweep, TCK/conformance, GitHub CI, tool-server runtime and source reproduction
+- UNKNOWN: patch installed in particular host, security race remediation in deployment, real effect recovery
+- Original A1 PR must independently satisfy ≥100 valid additions, merge and main readback, not borrow successor stats
+- D7/D10/D14/D30 separate periodic audits not replaced by A1
