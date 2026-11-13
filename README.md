@@ -22,8 +22,8 @@ This repository is an observatory, not a benchmark, deployment platform, product
 - [Source Registry / 信源注册表](./SOURCE_REGISTRY.md) — canonical source identities and source-bounded notes.
 - [Active Watchlist / 活跃观察清单](./watchlist/ACTIVE.md) — current research pressure and unresolved questions.
 - [Workstreams / 研究分工](./workstreams/README.md) — F1–F7 analytical workstreams.
-- [Origin / 起源](./ORIGIN.md) — repository origin and research intent.
-- [Ten-repository context / 十仓上下文](./TEN_REPOSITORY_CONTEXT.md) — relationship to the wider public research system.
+- [Origin / 起源](./history/ORIGIN.md) — repository origin and research intent.
+- [Ten-repository context / 十仓上下文](./governance/TEN_REPOSITORY_CONTEXT.md) — relationship to the wider public research system.
 
 Research outputs remain on their canonical time-ordered surfaces:
 
