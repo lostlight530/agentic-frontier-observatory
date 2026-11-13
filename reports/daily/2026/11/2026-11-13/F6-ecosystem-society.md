@@ -8,7 +8,7 @@
 - evidence_result: PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED
 - external source sweep: NOT_EXECUTED
 - checker/CI/TCK/runtime/conformance: NOT_EXECUTED
-- delivery: Draft proposal only, NOT_MERGED
+- delivery_at_producer_cut: Draft proposal and NOT_MERGED at 2026-11-13 04:58:42 Asia/Shanghai; GitHub PR #283 merged 2026-11-13T13:18:21Z, merge commit 9e434061f7420611b2c674301810cc264fa41456
 
 ## Observation / 观察
 生态：版本元数据不等于采用率或跨提供者互操作成熟
@@ -23,3 +23,9 @@ PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED，维持已合并原有结论，不�
 
 ## Open falsifier / 待核验
 需要 exact-object 的新一手证据、真实执行记录或独立复现，才能推进对应假设
+
+## Later 2026-11-13 maintainer issuer release read
+
+modelcontextprotocol/servers v2.4.0 release metadata is one publisher project record, not adoption or ecosystem interoperability measurement. Rechecked 2026-11-13; official release publication 2026-11-11T07:07:16Z. https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0
+
+This later read does not amend the original producer cutoff, establish full F1–F7 sweep or TCK/runtime PASS, and yields no H46 promotion
