@@ -1,0 +1,358 @@
+# 2026-11-13 ORIGINAL independent A2 — Global F1–F7 November unified source relations
+
+## Post-original-A1 merge, time and authority
+- Repo lostlight530/agentic-frontier-observatory
+- Task independent-maintenance/A2, not Native F1–F7 Daily research
+- Current November monthly relation Nov01–Nov13 inclusive, MONTH_OPEN
+- Original A1 #287 merged, source blob 8a76d44589a571619f3a9f916b22b5942d537ec9
+- Latest main after A1 merge 80bc615d733ffe3d70a6e77f70169d0778c0ceed
+- Previous Nov12 original A2 blob e55af2d7d6e46d778087277354f06dcd85d73b26 remains historically correct at its original source-inventory cut
+- 13 integrated Native days are now present; one integrated pack has 7 facets and README, not nine Daily runs
+- Source publication time, producer observation, PR merge, current main state and effect verification distinct
+- W44/W45 closed, W46 Nov09–15 OPEN, month final NOT_DUE
+- No current source sweep, independent TCK, tool SDK conformance, CI, deployed host or vulnerability replay executed by this A2
+
+## Complete Nov01–13 source / facet / governance / effect relations
+
+### 2026-11-01 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-01.md` @ Git blob 4456fb37ad022729c1205f1e9baa8772224fbaee
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: Poppy main unchanged versus Oct31, 0.3 draft; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: unchanged Git revision not maturity evidence; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: Poppy main unchanged versus Oct31, 0.3 draft is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; unchanged Git revision not maturity evidence
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: unchanged Git revision not maturity evidence; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-01/F1-history-theory.md` blob 00a525ce63c1544f84304bd3b17fe11e58696072; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-01/F2-models-algorithms.md` blob 1bc1642fe773b2585f9b63391093ae034cc57c47; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-01/F3-infrastructure.md` blob 9b74eb898e370e21540fc9d808d78ef3bc2e8d9f; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-01/F4-agentic-systems.md` blob 36adfaf549533ed8147aa8ce07f87495e35ac927; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-01/F5-evaluation-governance.md` blob 62e64aca229a96049b1a45f79807b773f08c4146; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-01/F6-ecosystem-society.md` blob 18e1dee3dbca09ee72c3de6bf3c2b6cf3d4fc52f; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-01/F7-synthesis.md` blob a9653bb67b34c1183d067229e81843e6b78544bc; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-01/README.md` blob f439442544314597b242bf90455b314dd11e7d5b; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-02 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-02.md` @ Git blob 009e3ededb2075f29d424e80f973278d7c5deb18
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: Poppy first-party draft 0.3 continued; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: no independent release or cross-provider integration; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: Poppy first-party draft 0.3 continued is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; no independent release or cross-provider integration
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: no independent release or cross-provider integration; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-02/F1-history-theory.md` blob 60d3b08bb244d0b59fb2f82b91a63dfaf664c073; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-02/F2-models-algorithms.md` blob b1f9d70e8c793270ec147a58ba1b12d986eb8998; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-02/F3-infrastructure.md` blob b3f455017b9a6af5c16e01b900fec499d6604ed3; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-02/F4-agentic-systems.md` blob 12dfd9250a2578d2c121384c439510efe7988d35; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md` blob dd4d99c7a71e1f72ce401506d898467f1af8fa2f; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-02/F6-ecosystem-society.md` blob c18cf7bcc6cbe426d58849d823c6ee47e3831ff4; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-02/F7-synthesis.md` blob 419c82edbcb6f3cff581b0f0177e8f0ce17492e8; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-02/README.md` blob 12f28a8abe804d0c29e16bccb5ff8992ea7b2857; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-03 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-03.md` @ Git blob f390b0013b3836752c2792d46b7f3b771a6fef03
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: ten new Poppy draft-source commits observed; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: commits not GA publication; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: ten new Poppy draft-source commits observed is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; commits not GA publication
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: commits not GA publication; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-03/F1-history-theory.md` blob d9779c8390f724ed6bf657061abd899960bc4e9d; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-03/F2-models-algorithms.md` blob 3617e08f19a3552ac3b420e4577490f43fe1b5e0; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-03/F3-infrastructure.md` blob e9376f994980afce457b3c7ecd3ef8e74d92f6b6; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-03/F4-agentic-systems.md` blob 774949e5888fb8ac9cb656bee3108a87143aa830; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-03/F5-evaluation-governance.md` blob 13a0dd8ca6a314f0563a76d23b5bca2a43f13557; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-03/F6-ecosystem-society.md` blob f5f8a4e6db76ee994d4a76e2efb3b04a4e3916dd; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-03/F7-synthesis.md` blob ec54f59322b0a132a141656c7bab04fc89bbcef6; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-03/README.md` blob e428ac3725498bfa8ae87e35c3b1141c6b4445a4; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-04 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-04.md` @ Git blob 03d0e475571ca7b41c37b093a9e4b1e9cde4ed4f
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: three additional draft revisions observed; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: compiler/protocol source != executed client; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: three additional draft revisions observed is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; compiler/protocol source != executed client
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: compiler/protocol source != executed client; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-04/F1-history-theory.md` blob d60e1c6ad7e305c05985a1a8292cfc933829cbfa; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-04/F2-models-algorithms.md` blob 5196a6a00bbe0f95cb2acec1ec1f4fd1b7e09575; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-04/F3-infrastructure.md` blob 149f7269cc3388eb06b4af25a6a08cdd0d32cee6; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-04/F4-agentic-systems.md` blob 257a7bce35740987489ec64598d6fdec14dc34e2; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md` blob 373a2ce5fde94848197f6dd25746b174c880e223; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md` blob 6add8450d54fc756f2821bdc36609151e58044fe; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-04/F7-synthesis.md` blob 31276502ec6ee1c7f947ca2bcbcf8088547e3a19; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-04/README.md` blob 37592bfceb6b69ca3ed2f77e2492c20aa4be10b5; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-05 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-05.md` @ Git blob 875230f3e7376db347f60732d29e57d34433a79b
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: issuer declares Poppy 0.3 published 2026-11-04; 0.4 Draft; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: publication not conformance and not 1.0; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: issuer declares Poppy 0.3 published 2026-11-04; 0.4 Draft is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; publication not conformance and not 1.0
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: publication not conformance and not 1.0; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-05/F1-history-theory.md` blob 3801b229d4fe188958f65e76a4b20643c5418ea2; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-05/F2-models-algorithms.md` blob 7093bc6ee743684bbea7dea5e76df4998326157b; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-05/F3-infrastructure.md` blob 572507a870f683104566c3017516ffd9bac9a455; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-05/F4-agentic-systems.md` blob 96fe9fbc19c665e6649d12287089edfc37f940f0; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-05/F5-evaluation-governance.md` blob d5e7a64b046f3fd71f7c6b8915538d4019988c09; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-05/F6-ecosystem-society.md` blob 87032ecd068fca0d7ee48c05455ca19ab1494e01; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-05/F7-synthesis.md` blob e31ad9843cbaa6ba49a78b8cbe180fecca4e7c84; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-05/README.md` blob 790646d911cd86f6db79ca9b6592444897735d2a; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-06 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-06.md` @ Git blob be450996fc75dcb0dd397b5cba321bcc7f6663a0
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: Poppy 0.4 credential-control Draft patch; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: credential text not tested revocation; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: Poppy 0.4 credential-control Draft patch is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; credential text not tested revocation
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: credential text not tested revocation; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-06/F1-history-theory.md` blob f300b364320b9d122377b970bd82ece930e45721; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-06/F2-models-algorithms.md` blob 439e441ce37e0982f7d143809df32e1908dbf71f; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-06/F3-infrastructure.md` blob 25e232254dc2ac96e06230bebdbce7c5f9a1c5fa; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-06/F4-agentic-systems.md` blob 4f6e7072a81c1fb415850cadad6da371b22bde48; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-06/F5-evaluation-governance.md` blob 3e65ea94b8808da87a9114e84a957109db2d45ec; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-06/F6-ecosystem-society.md` blob f993e7cd48bd6976ebbf2ce0b01770f4446aaab7; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-06/F7-synthesis.md` blob ae519f2042d289b8c1c4df32b96433f4186d6480; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-06/README.md` blob 785e414d9b69dd297b10cebf99468bdd186775b9; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-07 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-07.md` @ Git blob ae1cd41ca58c2adbbb4318170672143f8f33e168
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: Poppy 0.4 conversation identity / retry Draft; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: retry design not exactly-once durable recovery; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: Poppy 0.4 conversation identity / retry Draft is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; retry design not exactly-once durable recovery
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: retry design not exactly-once durable recovery; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-07/F1-history-theory.md` blob aa2d2801fb933e5ab37c8d4f5f74a5daf5203bea; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-07/F2-models-algorithms.md` blob 92a0c85576f6e2eaa247291da4e96bca465a548a; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-07/F3-infrastructure.md` blob 23780638817287e5c5d55085a193340886f91f98; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-07/F4-agentic-systems.md` blob dd50254b77e44870393f0a3788cc19246fe0f6b1; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-07/F5-evaluation-governance.md` blob 51c349f609a76809cd49a4422ffc559612ca96c1; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-07/F6-ecosystem-society.md` blob a9d07a49080d7c50b57cfc18bb1525165b352e80; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-07/F7-synthesis.md` blob 17340a1397c1b95aed7f6cc201e65ffc6a161965; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-07/README.md` blob 145ab7d8b1bf5a08b0dd9e822ba4f6ebcd2a2f4a; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-08 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-08.md` @ Git blob 0f41a7ce47c8f0f62dc9786a2bfd4bb38e666bd9
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: Poppy issuer source plus NIST/Tencent/Xinhua independent event dates; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: different institutional objects not interchangeable; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: Poppy issuer source plus NIST/Tencent/Xinhua independent event dates is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; different institutional objects not interchangeable
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: different institutional objects not interchangeable; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-08/F1-history-theory.md` blob 9f22b5ada6a523c0dda2b49449b5eff751d73e5d; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-08/F2-models-algorithms.md` blob af1b4c6f899ce56bbe3641be09f2e63c214f55a5; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-08/F3-infrastructure.md` blob 0dd2fb1bb7b6466df5132374bf9fe5c3511c92cf; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-08/F4-agentic-systems.md` blob 5ee5c728ad07a4c92734dc62c34dc386bd96cbd6; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-08/F5-evaluation-governance.md` blob 3351a80e84882cdf59620a570f540c3775c94604; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-08/F6-ecosystem-society.md` blob d66ef161ffa479da6fbcf074c9cc29620c28dd7e; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-08/F7-synthesis.md` blob d684398fba21686bae76e51e3706ab4b126cf9b0; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-08/README.md` blob 1c95def6ca42f5028bf7011855402b654f0eaec8; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-09 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-09.md` @ Git blob e386111d60bb51cc355c32e3879d67e92de9c336
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: Poppy new tasks endpoints + Agent Substrate/scientific-agent sources; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: distinct system tests not executed; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: Poppy new tasks endpoints + Agent Substrate/scientific-agent sources is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; distinct system tests not executed
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: distinct system tests not executed; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-09/F1-history-theory.md` blob e4d401fcb7f9faf0acb1e3bd12a575de414c80b3; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-09/F2-models-algorithms.md` blob 474f79d9336809e2cbd688803e22d65e262da28e; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-09/F3-infrastructure.md` blob 370931f0b892afd78ac0f4b42eab7b7dcd0e5604; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-09/F4-agentic-systems.md` blob 727c0b9c62b56857450113a5d75872c77393f93c; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-09/F5-evaluation-governance.md` blob 4cb560382d1f32f529eef803aafd51572093c432; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-09/F6-ecosystem-society.md` blob 160d1c944d15cf5d6e1ace5994559a765e005bd6; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-09/F7-synthesis.md` blob 5541fa735d416f41599c2e6db7007863d7ca741b; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-09/README.md` blob db7a6e5d042090b4ac837868e2f9f1fd2445a712; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-10 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-10.md` @ Git blob f63dd4346794ce209775e1ae8ff25e4550e34e0a
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: Operations v3 / Browser Control v1 code changes; 0.4 still Draft at observed cut; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: six commits / 45 files is source quantity, not independent validators; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: Operations v3 / Browser Control v1 code changes; 0.4 still Draft at observed cut is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; six commits / 45 files is source quantity, not independent validators
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: six commits / 45 files is source quantity, not independent validators; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: original history preserved; later Day N source never backdates this daily state
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-10/F1-history-theory.md` blob 890cd9e276233042feafbb951d72c8c86040d40e; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-10/F2-models-algorithms.md` blob 019df99b419de6f76c59917e36f071d75ebad9e0; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-10/F3-infrastructure.md` blob a724a0652efb0dd11c2e0e52add47a3df674029a; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-10/F4-agentic-systems.md` blob e3064525ac58ab105ad5fa929ae12e3d760629ed; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-10/F5-evaluation-governance.md` blob a19660b05f53e89842b54d8e36a365412f356b78; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-10/F6-ecosystem-society.md` blob bf6ca5f8f105c6223bd1bcdb3482daba34e76752; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-10/F7-synthesis.md` blob 7b44c0e7794afdee9d8fc381c5975371bcbdfb1a; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-10/README.md` blob 282f4d145e4fcc4df4e61761edd67caf7f039050; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-11 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-11.md` @ Git blob 5851fc3f7f1f3733a183bcefa20b18ab51efb43d
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: EXACT_PRIOR_NATIVE_RETAINED
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Dated original source: Poppy manifest published=2026-11-10, changelog labels 1.0 Release Candidate; interpretation reflects original observation cut rather than later current-state retrojection
+- Source/relation analysis 2: Status predicate: version transition issuer-declared; source commit Nov11, exact display transition unknown; original publisher, Git commit and independent verifier are different evidence actors
+- Source/relation analysis 3: F1 boundary: Poppy manifest published=2026-11-10, changelog labels 1.0 Release Candidate is a version/source narrative, not an established new scientific theory paradigm
+- Source/relation analysis 4: F2 boundary: model/benchmark statements require independently executed model harness; version transition issuer-declared; source commit Nov11, exact display transition unknown
+- Source/relation analysis 5: F3 boundary: infrastructure/durable state needs operational effect receipts, not only source changes
+- Source/relation analysis 6: F4 boundary: Agent protocol approval, session and retry clauses require actual tool-run and host adapter evidence
+- Source/relation analysis 7: F5 boundary: governance/standards conformance and cross-provider interoperability remain UNKNOWN / NOT_EXECUTED
+- Source/relation analysis 8: F6 boundary: one issuer's many documents/files cannot count as independent adopters or independent deployment
+- Source/relation analysis 9: F7 conclusion: version transition issuer-declared; source commit Nov11, exact display transition unknown; retain OPEN watchlist while source-time Delta remains separately recorded
+- Source/relation analysis 10: Temporal relation: eligible Day N source after merged A1 and native #272
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-11/F1-history-theory.md` blob c6c510552b2069400a36bb180f353cf9ed9309a4; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-11/F2-models-algorithms.md` blob 4d415d7e05136ea59becef11eb330bd2ceb9ee74; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-11/F3-infrastructure.md` blob 398cf7579119ff960509033e9edcf41be331e7c1; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-11/F4-agentic-systems.md` blob ae8880fcc8b3878454304863b7b3933a3c189ffe; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-11/F5-evaluation-governance.md` blob a7ce3e248fef3c1fa196ed090fdc6fbcd2b74f2a; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-11/F6-ecosystem-society.md` blob 2184fdb105e70359fb3936c5440aaa3bd5676c82; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-11/F7-synthesis.md` blob 833fa8178fd7ada4ebbaf38a4c991b983d1911b1; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-11/README.md` blob 2f84c18ed3061059886c0107a28defd603c32156; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-12 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-12.md` @ Git blob c8cd049031c00cbbb7b372c3e41c988361d03b06
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: LATER_RECOVERED_DAY12_AFTER_HISTORIC_MISSING_CUT
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Nov12 MCP servers v2.4.0 release published 2026-11-11T07:07:16Z, observed Nov12, not a Nov12 issuer event
+- Source/relation analysis 2: Filesystem/Git/fetch security fix descriptions are issuer claims, not tested production patch effectiveness
+- Source/relation analysis 3: MCP security issue does not entail a new MCP protocol specification, model benchmark or durable effect recovery
+- Source/relation analysis 4: F1/F2 no new theory/model execution; F3/F4 declared infrastructure/tool effect boundaries
+- Source/relation analysis 5: F5 no independent conformance TCK, F6 deployment/adoption UNKNOWN, F7 SECURITY != EXECUTION != RECOVERY
+- Source/relation analysis 6: Native Nov12 integrated and seven facets now merged, whereas previous Nov12 original A2 had genuinely missing Day12 at its historical cut
+- Source/relation analysis 7: Forward correction: previous missing-source A2 remains historically true; current main has exact new blob c8cd049031c00cbbb7b372c3e41c988361d03b06
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-12/F1-history-theory.md` blob 5753f650e0ef9060c00998bcd70f7882d50ace4e; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-12/F2-models-algorithms.md` blob 8c04bbdad721464c60885918bbbdeb233a043aec; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-12/F3-infrastructure.md` blob be2a60dfaa5ad3daf0e5c6328c8ceaf8fe1f8647; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-12/F4-agentic-systems.md` blob 23d41e9b9ccf658e7da334830778757332487287; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-12/F5-evaluation-governance.md` blob fa201fc0269d67ddef1301f28e37dc80c31f4d0a; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-12/F6-ecosystem-society.md` blob 2ee60cf3a82c857adb3381b4675affb8404db1dd; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-12/F7-synthesis.md` blob e34c23c93854001d85c49fc10456b1aef726d021; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-12/README.md` blob ebc7f49e25fad4a568fc03246c1d44aa22763655; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+### 2026-11-13 — original one-day seven-facet relation
+- Current integrated Native `reports/daily/2026/11/2026-11-13.md` @ Git blob d91c2169452ea9ac84c8a525e81ed142439d7522
+- Native delivery main presence is verified but is not itself an independently executed external source or runtime
+- Relation continuity: NEW_DAY13_PARTIAL_SOURCE
+- Publisher, logical date, observation window, task producer and ultimate merger are not interchangeable
+- Source/relation analysis 1: Nov13 native original producer was PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED at 04:58:42 Asia/Shanghai
+- Source/relation analysis 2: Later same-day published first-party MCP servers release read is a separate maintainer cut, no producer-time external sweep backdating
+- Source/relation analysis 3: Original Native #283 merge 2026-11-13T13:18:21Z reflects GitHub delivery after producer Draft, not a fresh scientific run
+- Source/relation analysis 4: F1/F2 unchanged within bounded source context, no exhaustive worldwide proof of no changes
+- Source/relation analysis 5: F3/F4 prior MCP tool security remains untested for installed host, durable effect/recovery claims UNKNOWN
+- Source/relation analysis 6: F5 TCK/CI/conformance NOT_EXECUTED; F6 adopter coverage UNKNOWN; F7 H46-1..4 still OPEN
+- Source/relation analysis 7: One publisher repeated across facets does not become eight separate corroborating external sources
+- Source/relation analysis 8: W46 now 5/7 logical Daily on merged main; remaining Nov14–15 NOT_DUE
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-13/F1-history-theory.md` blob ea23ba730bc1c700efabeae76547bd16caaa5187; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-13/F2-models-algorithms.md` blob d6b898c275c449150da008679d41a89dcdcf5c1f; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-13/F3-infrastructure.md` blob e9dbdc00cb20e0085c0635af482d215b832f9b4f; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-13/F4-agentic-systems.md` blob 8db42e525216d9d030d119b58b54743f00d149ee; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-13/F5-evaluation-governance.md` blob 6c06783f28400f2df8db698d536d52e2c6a23aab; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-13/F6-ecosystem-society.md` blob d86f0e012acca3fb757af156ddacc41047f5125b; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-13/F7-synthesis.md` blob 53ace0fed2cee60fe8fe3a6a788441d0dbdd4ac7; linked to ONE native daily owner, no new issuer credit
+- Retained facet/pack navigator `reports/daily/2026/11/2026-11-13/README.md` blob f06536bc6984964cfb3e7fdf8c931d1ebc347290; linked to ONE native daily owner, no new issuer credit
+- Monthly decision: preserve original source-time negative/UNKNOWN/TCK states, no artificial world-wide negative conclusion
+
+## Changes, disagreements and closure boundaries
+- Prev original A2 Nov12 missing-on-main assessment remains authentic at that earlier review cut; current source now merged via distinct Native delivery
+- Nov12 verified initial release-note source: MCP servers v2.4.0 issuer release published Nov11, first observed Nov12
+- Nov13 original producer part of historical PARTIAL no external sweep; later maintainer re-read is separate observation
+- Later GitHub merge shows delivery/retention, not full external-source validation or installation status
+- F1 theory: one tool server security release cannot alone prove paradigm shift
+- F2 models: no benchmark run, no exhaustive statement that no model progressed outside searched scope
+- F3 infrastructure: published filesystem/Git/fetch fixes are not demonstrated durable host runtime or patch deployment
+- F4 Agent Harness: authority, revocation, effects and recovery need distinct executable verification
+- F5 standards: no independent TCK/conformance PASS exists from these documentary source claims
+- F6 ecosystem: one issuer repeating docs across facets does not count as independent adopters
+- F7 synthesis: SECURITY != EXECUTION != DURABLE_EFFECTS != RECOVERY; keep contrary states
+- Current canonical Week46 source SHA 93230172d2a5d60347de342db5800c22c072c11a remains OPEN
+- Current canonical November Monthly SHA d25a6b2962af96798ab59880802777320cedc18a remains OPEN
+- W46 Day14/Day15 future NOT_DUE; no natural-month FINAL
+- Historical original Native files, monthly/weekly owners, prior A1/A2, indexes, producer commits untouched
+- A1 #287 own additions remain separate; new A2 original PR must meet ≥100 source-meaningful additions independently
+- Checked actual merged A1 content, latest GitHub main/tree/PR, old whole-month A2, Nov12 and Nov13 integrated/facet identities
+- NOT_EXECUTED: live external sweep, source reproduction, TCK, CI, SDK runtime, integration host/effect
+- UNKNOWN: actual external adoption, runtime conformance, patch applied in deployment and durable side-effect recovery
+- D7/D10/D14/D30 independent schedules not credited to A2
+- Next rel cut requires fresh main and new original producer evidence; cannot silently rewrite old original PR acceptance
