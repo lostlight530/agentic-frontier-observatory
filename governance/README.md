@@ -4,6 +4,10 @@ Calibration: 2026-09-17
 
 This directory contains distinct repository-local governance surfaces. They are complementary and must not be collapsed into the research-production chain or into each other.
 
+## Durable architecture context
+
+- [`TEN_REPOSITORY_CONTEXT.md`](TEN_REPOSITORY_CONTEXT.md) — cross-repository role and twin-observatory relationship; architecture interpretation, not production execution authority
+
 ## Entry points
 
 - `independent-gpt/README.md` — cold-start recovery and bounded maintenance/delivery router for a memoryless independent maintainer.
