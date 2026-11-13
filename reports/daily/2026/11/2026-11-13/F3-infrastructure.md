@@ -8,7 +8,7 @@
 - evidence_result: PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED
 - external source sweep: NOT_EXECUTED
 - checker/CI/TCK/runtime/conformance: NOT_EXECUTED
-- delivery: Draft proposal only, NOT_MERGED
+- delivery_at_producer_cut: Draft proposal and NOT_MERGED at 2026-11-13 04:58:42 Asia/Shanghai; GitHub PR #283 merged 2026-11-13T13:18:21Z, merge commit 9e434061f7420611b2c674301810cc264fa41456
 
 ## Observation / 观察
 基础设施：MCP servers v2.4.0 既有发行方安全声明仍非部署测试
@@ -23,3 +23,9 @@ PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED，维持已合并原有结论，不�
 
 ## Open falsifier / 待核验
 需要 exact-object 的新一手证据、真实执行记录或独立复现，才能推进对应假设
+
+## Later 2026-11-13 maintainer issuer release read
+
+Primary issuer release v2.4.0 of modelcontextprotocol/servers, published 2026-11-11T07:07:16Z, was directly reread during same-day 2026-11-13 maintainer review. Its release body reports six server vulnerabilities fixed and filesystem 2.3.0, git/fetch 2026.11.11 package patches. This is an issuer claim, not independently tested security or production deployment. https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0
+
+This later read does not amend the original producer cutoff, establish full F1–F7 sweep or TCK/runtime PASS, and yields no H46 promotion
