@@ -14,6 +14,10 @@ reports/monthly/YYYY/YYYY-MM.md
 
 Asia/Shanghai natural month is the time boundary.
 
+**中文月度证据口径**：月报汇总真实已收口的日周数据和未决状态；OPEN 不是 CLOSED，CLOSED_WITH_GAPS 仍有缺失，后续 CORRECTED 只能以显式记录修正；GitHub Release、Zenodo DOI 和月度研究闭环相互独立
+
+**English period boundary:** Monthly synthesis uses actual Daily/Weekly evidence. OPEN is not CLOSED; CLOSED_WITH_GAPS still contains omissions; a later CORRECTED state needs explicit provenance. GitHub Releases and Zenodo DOIs do not by themselves settle a research month
+
 ## Monthly states / 月度状态
 
 - `OPEN`
@@ -93,7 +97,7 @@ Daily atomic fact
 → next month carry-forward
 ```
 
-> **月末不是遗忘，月初不是重启。**
+> **月末不是遗忘，月初不是重启；**
 
 ## Boundaries / 边界
 

@@ -22,8 +22,8 @@ This repository is an observatory, not a benchmark, deployment platform, product
 - [Source Registry / 信源注册表](./SOURCE_REGISTRY.md) — canonical source identities and source-bounded notes.
 - [Active Watchlist / 活跃观察清单](./watchlist/ACTIVE.md) — current research pressure and unresolved questions.
 - [Workstreams / 研究分工](./workstreams/README.md) — F1–F7 analytical workstreams.
-- [Origin / 起源](./ORIGIN.md) — repository origin and research intent.
-- [Ten-repository context / 十仓上下文](./TEN_REPOSITORY_CONTEXT.md) — relationship to the wider public research system.
+- [Origin / 起源](./history/ORIGIN.md) — repository origin and research intent.
+- [Ten-repository context / 十仓上下文](./governance/TEN_REPOSITORY_CONTEXT.md) — relationship to the wider public research system.
 
 Research outputs remain on their canonical time-ordered surfaces:
 
@@ -38,6 +38,12 @@ A read-only, Pages-ready research console lives under [`docs/`](./docs/). It pro
 The presentation layer does **not** own research state and does not create a second evidence database. Missing source data is shown as unavailable rather than inferred. See [`docs/README.md`](./docs/README.md) for the projection boundary and deployment notes.
 
 The front page intentionally does not hard-code a current month, week, or latest conclusion. Current research state belongs to the canonical report indexes, Source Registry, and Watchlist so this README can remain a durable repository entry point.
+
+### Longitudinal display evidence / 长期研究阶段展示依据
+
+**中文**：Daily、Weekly、Monthly 唯一研究源分别位于 [Daily](reports/daily/)、[Weekly](reports/weekly/)、[Monthly](reports/monthly/)；[Source Registry](SOURCE_REGISTRY.md) 管理信源身份，[Watchlist](watchlist/ACTIVE.md) 管理未决问题；Pages `docs/` 是只读投影，每个阶段条目需要保留源文件、Git revision、观察截止点、覆盖区间、执行／结算状态与未知项；未生成、未验证、未到期不得补成成功，重复信源不得算独立佐证
+
+**English**: Canonical [Daily](reports/daily/), [Weekly](reports/weekly/), and [Monthly](reports/monthly/) records own the time series; the [Source Registry](SOURCE_REGISTRY.md) owns source identity and the [Watchlist](watchlist/ACTIVE.md) owns unknowns. `docs/` is a read-only projection. Stage views retain source path, Git revision, observation cutoff, coverage, execution/settlement status, and unknowns. Missing, unverified, and not-due periods are not successes; repeated sources are not independent corroboration
 
 ## Evidence Model / 证据模型
 

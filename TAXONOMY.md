@@ -143,6 +143,12 @@ vendor announcement
 
 Independent support should come from a genuinely separate primary source, implementation observation, measured population, standards/regulatory record, or research surface.
 
+### 周期状态与技术成熟度不互相继承 / Research-period states do not imply maturity
+
+Daily、Weekly、Monthly 的 OPEN／CLOSED／缺口标签描述研究覆盖，不是协议审批、实现质量、市场采用率或部署完成；来源变化只能支持其具体观测对象和时点，后续 correction 不能抹除旧状态
+
+OPEN/CLOSED/gap states on Daily, Weekly or Monthly records describe research coverage, not protocol approval, implementation quality, market adoption or completed deployment. Source changes support only the observed objects and times; a later correction cannot erase earlier states
+
 ## Taxonomy governance
 
 Add a new category only when existing vocabulary cannot represent a recurring distinction without ambiguity. Do not add categories merely because a one-off source uses novel marketing terminology.

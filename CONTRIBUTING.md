@@ -6,7 +6,7 @@ Agentic Frontier Observatory welcomes contributions that improve factual accurac
 
 ### 开放科研入口
 
-科研方法或仓库定位变更先看 [`OPEN_RESEARCH.md`](./OPEN_RESEARCH.md)；需要使用统一 research question / counterexample / research increment 结构的新研究单元使用 [`RESEARCH_TEMPLATE.md`](./RESEARCH_TEMPLATE.md)。现有 `METHODOLOGY.md` 与 Daily / Weekly / Monthly SOP 继续拥有原生研究语义与 cadence。
+科研方法或仓库定位变更先看 [`OPEN_RESEARCH.md`](./OPEN_RESEARCH.md)；需要使用统一 research question / counterexample / research increment 结构的新研究单元使用 [`RESEARCH_TEMPLATE.md`](./RESEARCH_TEMPLATE.md)；现有 `METHODOLOGY.md` 与 Daily / Weekly / Monthly SOP 继续拥有原生研究语义与 cadence；
 
 ### 贡献对象
 
@@ -18,7 +18,7 @@ Agentic Frontier Observatory welcomes contributions that improve factual accurac
 - `SOURCE_REGISTRY.md` — 规范信源身份；
 - `watchlist/`、`workstreams/` — 当前研究压力与分工结构；
 - 根 README、引用/发布元数据、`.github/`、安全与贡献文档 — 仓库公共基础设施；
-- 时间序列 research outputs — 仅在明确纠错任务确实拥有对应记录时修改。
+- 时间序列 research outputs — 仅在明确纠错任务确实拥有对应记录时修改；
 
 ### 来源与时间
 
@@ -29,9 +29,9 @@ Agentic Frontier Observatory welcomes contributions that improve factual accurac
 - 区分 FACT、EXTERNAL CLAIM、ANALYSIS 与 UNCERTAIN；
 - 保留来源版本、发布者、适用范围、成熟度与不确定性；
 - 不把草案、路线图、演示、营销声明或单一案例自动提升为已部署能力或广泛采用；
-- 不把同一上游来源的重复页面计为独立证据。
+- 不把同一上游来源的重复页面计为独立证据；
 
-本仓自己的 DOI、README、历史报告或软件归档不能替代外部世界的独立来源。
+本仓自己的 DOI、README、历史报告或软件归档不能替代外部世界的独立来源；
 
 ```text
 repository DOI != external evidence
@@ -42,9 +42,9 @@ source exists != capability validated
 
 ### 历史与纠错
 
-历史 Daily / Weekly / Monthly 和其他 point-in-time 记录保留原始时间边界。后续发现错误时，应明确纠错并更新当前解释，不要把后来获得的来源倒写成当时已经可用。
+历史 Daily / Weekly / Monthly 和其他 point-in-time 记录保留原始时间边界；后续发现错误时，应明确纠错并更新当前解释，不要把后来获得的来源倒写成当时已经可用；
 
-周期 SOP 定义研究生产方式，但普通贡献不需要围绕 SOP 或外部维护控制面组织。
+周期 SOP 定义研究生产方式，但普通贡献不需要围绕 SOP 或外部维护控制面组织；
 
 ### Pull Request
 
@@ -57,7 +57,13 @@ source exists != capability validated
 - 尚未核验或仍不确定的部分；
 - 历史与兼容影响；
 - 安全/隐私影响；
-- 最小回滚方式。
+- 最小回滚方式；
+
+### 长期证据与展示边界 / Longitudinal evidence and display boundary
+
+研究修改需要标注来源 URL、取得日期、canonical Daily／Weekly／Monthly 路径、修订号、未决与失败状态；公开页面及 DOI 是展示／出版身份，不能代替源码、数据、阶段闭环或独立验证
+
+Research changes must identify source URLs, retrieval dates, canonical Daily/Weekly/Monthly paths, revisions, and unresolved or failed states. Public Pages and DOIs identify presentation/publication surfaces, not source data, stage closure or independent validation
 
 ## English
 
