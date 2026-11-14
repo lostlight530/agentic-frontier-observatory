@@ -1,0 +1,414 @@
+# 2026-11-14 ORIGINAL independent A1 — Global F1–F7 Nov01–13 exact 117-file source custody
+
+## Scope, source authenticity and revised main
+- Repository lostlight530/agentic-frontier-observatory; independent A1 != F1–F7 Native Daily producer or deployed MCP runtime
+- Current merged main `f0818c62a42fc293caebaf81d5507f6bbdae72e8` includes native Nov14 PR #289; A1 cutoff only Nov01–Nov13 Asia/Shanghai
+- Predecessor exact 108-file Nov01–12 A1 `historical-audits/2026-11/2026-11-13-a1-global-source-custody.md` blob `8a76d44589a571619f3a9f916b22b5942d537ec9`
+- Predecessor full Nov01–13 A2 `historical-audits/2026-11/2026-11-13-a2-global-month-relations.md` blob `1905c2e8201bda76d4be24f5d2b335f28b61bb4a`
+- Current canonical Nov subtree Git tree: `42e861d749e3ab91874738265a60a54d1dc316b3`, nontruncated recursive source enumeration
+- Each original research day = one integrated daily + seven F1–F7 facet owners + one day README (9 retained files), not nine native runs or nine external issuers
+- Nov13 native was PARTIAL / no exhaustive fresh source sweep; a later same-day maintainer source check cannot backdate Native verification
+- W46 Nov09–15 OPEN / H46-1..4 OPEN / November OPEN; no month or week FINAL claimed
+- Original source publication, observed source date, Native run, PR merge and current main are separate evidence transitions
+
+## Complete A1 per-file original Daily corpus, exact Git SHA and file-specific verdict
+
+### 2026-11-01 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-01.md` — exact Git blob `4456fb37ad022729c1205f1e9baa8772224fbaee`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: Poppy main unchanged versus Oct31, 0.3 draft; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-01/F1-history-theory.md` — exact Git blob `00a525ce63c1544f84304bd3b17fe11e58696072`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-01 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-01/F2-models-algorithms.md` — exact Git blob `1bc1642fe773b2585f9b63391093ae034cc57c47`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-01 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-01/F3-infrastructure.md` — exact Git blob `9b74eb898e370e21540fc9d808d78ef3bc2e8d9f`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-01 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-01/F4-agentic-systems.md` — exact Git blob `36adfaf549533ed8147aa8ce07f87495e35ac927`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-01 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-01/F5-evaluation-governance.md` — exact Git blob `62e64aca229a96049b1a45f79807b773f08c4146`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-01 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-01/F6-ecosystem-society.md` — exact Git blob `18e1dee3dbca09ee72c3de6bf3c2b6cf3d4fc52f`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-01 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-01/F7-synthesis.md` — exact Git blob `a9653bb67b34c1183d067229e81843e6b78544bc`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-01 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-01/README.md` — exact Git blob `f439442544314597b242bf90455b314dd11e7d5b`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-01 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-02 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-02.md` — exact Git blob `009e3ededb2075f29d424e80f973278d7c5deb18`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: Poppy first-party draft 0.3 continued; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-02/F1-history-theory.md` — exact Git blob `60d3b08bb244d0b59fb2f82b91a63dfaf664c073`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-02 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-02/F2-models-algorithms.md` — exact Git blob `b1f9d70e8c793270ec147a58ba1b12d986eb8998`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-02 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-02/F3-infrastructure.md` — exact Git blob `b3f455017b9a6af5c16e01b900fec499d6604ed3`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-02 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-02/F4-agentic-systems.md` — exact Git blob `12dfd9250a2578d2c121384c439510efe7988d35`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-02 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md` — exact Git blob `dd4d99c7a71e1f72ce401506d898467f1af8fa2f`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-02 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-02/F6-ecosystem-society.md` — exact Git blob `c18cf7bcc6cbe426d58849d823c6ee47e3831ff4`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-02 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-02/F7-synthesis.md` — exact Git blob `419c82edbcb6f3cff581b0f0177e8f0ce17492e8`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-02 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-02/README.md` — exact Git blob `12f28a8abe804d0c29e16bccb5ff8992ea7b2857`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-02 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-03 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-03.md` — exact Git blob `f390b0013b3836752c2792d46b7f3b771a6fef03`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: ten new Poppy draft-source commits observed; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-03/F1-history-theory.md` — exact Git blob `d9779c8390f724ed6bf657061abd899960bc4e9d`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-03 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-03/F2-models-algorithms.md` — exact Git blob `3617e08f19a3552ac3b420e4577490f43fe1b5e0`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-03 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-03/F3-infrastructure.md` — exact Git blob `e9376f994980afce457b3c7ecd3ef8e74d92f6b6`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-03 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-03/F4-agentic-systems.md` — exact Git blob `774949e5888fb8ac9cb656bee3108a87143aa830`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-03 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-03/F5-evaluation-governance.md` — exact Git blob `13a0dd8ca6a314f0563a76d23b5bca2a43f13557`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-03 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-03/F6-ecosystem-society.md` — exact Git blob `f5f8a4e6db76ee994d4a76e2efb3b04a4e3916dd`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-03 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-03/F7-synthesis.md` — exact Git blob `ec54f59322b0a132a141656c7bab04fc89bbcef6`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-03 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-03/README.md` — exact Git blob `e428ac3725498bfa8ae87e35c3b1141c6b4445a4`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-03 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-04 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-04.md` — exact Git blob `03d0e475571ca7b41c37b093a9e4b1e9cde4ed4f`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: three additional draft revisions observed; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-04/F1-history-theory.md` — exact Git blob `d60e1c6ad7e305c05985a1a8292cfc933829cbfa`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-04 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-04/F2-models-algorithms.md` — exact Git blob `5196a6a00bbe0f95cb2acec1ec1f4fd1b7e09575`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-04 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-04/F3-infrastructure.md` — exact Git blob `149f7269cc3388eb06b4af25a6a08cdd0d32cee6`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-04 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-04/F4-agentic-systems.md` — exact Git blob `257a7bce35740987489ec64598d6fdec14dc34e2`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-04 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md` — exact Git blob `373a2ce5fde94848197f6dd25746b174c880e223`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-04 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md` — exact Git blob `6add8450d54fc756f2821bdc36609151e58044fe`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-04 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-04/F7-synthesis.md` — exact Git blob `31276502ec6ee1c7f947ca2bcbcf8088547e3a19`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-04 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-04/README.md` — exact Git blob `37592bfceb6b69ca3ed2f77e2492c20aa4be10b5`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-04 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-05 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-05.md` — exact Git blob `875230f3e7376db347f60732d29e57d34433a79b`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: issuer declares Poppy 0.3 published 2026-11-04; 0.4 Draft; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-05/F1-history-theory.md` — exact Git blob `3801b229d4fe188958f65e76a4b20643c5418ea2`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-05 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-05/F2-models-algorithms.md` — exact Git blob `7093bc6ee743684bbea7dea5e76df4998326157b`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-05 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-05/F3-infrastructure.md` — exact Git blob `572507a870f683104566c3017516ffd9bac9a455`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-05 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-05/F4-agentic-systems.md` — exact Git blob `96fe9fbc19c665e6649d12287089edfc37f940f0`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-05 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-05/F5-evaluation-governance.md` — exact Git blob `d5e7a64b046f3fd71f7c6b8915538d4019988c09`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-05 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-05/F6-ecosystem-society.md` — exact Git blob `87032ecd068fca0d7ee48c05455ca19ab1494e01`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-05 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-05/F7-synthesis.md` — exact Git blob `e31ad9843cbaa6ba49a78b8cbe180fecca4e7c84`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-05 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-05/README.md` — exact Git blob `790646d911cd86f6db79ca9b6592444897735d2a`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-05 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-06 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-06.md` — exact Git blob `be450996fc75dcb0dd397b5cba321bcc7f6663a0`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: Poppy 0.4 credential-control Draft patch; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-06/F1-history-theory.md` — exact Git blob `f300b364320b9d122377b970bd82ece930e45721`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-06 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-06/F2-models-algorithms.md` — exact Git blob `439e441ce37e0982f7d143809df32e1908dbf71f`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-06 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-06/F3-infrastructure.md` — exact Git blob `25e232254dc2ac96e06230bebdbce7c5f9a1c5fa`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-06 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-06/F4-agentic-systems.md` — exact Git blob `4f6e7072a81c1fb415850cadad6da371b22bde48`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-06 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-06/F5-evaluation-governance.md` — exact Git blob `3e65ea94b8808da87a9114e84a957109db2d45ec`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-06 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-06/F6-ecosystem-society.md` — exact Git blob `f993e7cd48bd6976ebbf2ce0b01770f4446aaab7`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-06 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-06/F7-synthesis.md` — exact Git blob `ae519f2042d289b8c1c4df32b96433f4186d6480`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-06 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-06/README.md` — exact Git blob `785e414d9b69dd297b10cebf99468bdd186775b9`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-06 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-07 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-07.md` — exact Git blob `ae1cd41ca58c2adbbb4318170672143f8f33e168`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: Poppy 0.4 conversation identity / retry Draft; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-07/F1-history-theory.md` — exact Git blob `aa2d2801fb933e5ab37c8d4f5f74a5daf5203bea`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-07 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-07/F2-models-algorithms.md` — exact Git blob `92a0c85576f6e2eaa247291da4e96bca465a548a`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-07 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-07/F3-infrastructure.md` — exact Git blob `23780638817287e5c5d55085a193340886f91f98`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-07 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-07/F4-agentic-systems.md` — exact Git blob `dd50254b77e44870393f0a3788cc19246fe0f6b1`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-07 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-07/F5-evaluation-governance.md` — exact Git blob `51c349f609a76809cd49a4422ffc559612ca96c1`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-07 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-07/F6-ecosystem-society.md` — exact Git blob `a9d07a49080d7c50b57cfc18bb1525165b352e80`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-07 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-07/F7-synthesis.md` — exact Git blob `17340a1397c1b95aed7f6cc201e65ffc6a161965`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-07 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-07/README.md` — exact Git blob `145ab7d8b1bf5a08b0dd9e822ba4f6ebcd2a2f4a`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-07 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-08 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-08.md` — exact Git blob `0f41a7ce47c8f0f62dc9786a2bfd4bb38e666bd9`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: Poppy issuer source plus NIST/Tencent/Xinhua independent event dates; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-08/F1-history-theory.md` — exact Git blob `9f22b5ada6a523c0dda2b49449b5eff751d73e5d`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-08 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-08/F2-models-algorithms.md` — exact Git blob `af1b4c6f899ce56bbe3641be09f2e63c214f55a5`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-08 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-08/F3-infrastructure.md` — exact Git blob `0dd2fb1bb7b6466df5132374bf9fe5c3511c92cf`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-08 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-08/F4-agentic-systems.md` — exact Git blob `5ee5c728ad07a4c92734dc62c34dc386bd96cbd6`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-08 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-08/F5-evaluation-governance.md` — exact Git blob `3351a80e84882cdf59620a570f540c3775c94604`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-08 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-08/F6-ecosystem-society.md` — exact Git blob `d66ef161ffa479da6fbcf074c9cc29620c28dd7e`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-08 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-08/F7-synthesis.md` — exact Git blob `d684398fba21686bae76e51e3706ab4b126cf9b0`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-08 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-08/README.md` — exact Git blob `1c95def6ca42f5028bf7011855402b654f0eaec8`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-08 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-09 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-09.md` — exact Git blob `e386111d60bb51cc355c32e3879d67e92de9c336`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: Poppy new tasks endpoints + Agent Substrate/scientific-agent sources; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-09/F1-history-theory.md` — exact Git blob `e4d401fcb7f9faf0acb1e3bd12a575de414c80b3`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-09 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-09/F2-models-algorithms.md` — exact Git blob `474f79d9336809e2cbd688803e22d65e262da28e`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-09 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-09/F3-infrastructure.md` — exact Git blob `370931f0b892afd78ac0f4b42eab7b7dcd0e5604`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-09 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-09/F4-agentic-systems.md` — exact Git blob `727c0b9c62b56857450113a5d75872c77393f93c`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-09 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-09/F5-evaluation-governance.md` — exact Git blob `4cb560382d1f32f529eef803aafd51572093c432`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-09 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-09/F6-ecosystem-society.md` — exact Git blob `160d1c944d15cf5d6e1ace5994559a765e005bd6`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-09 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-09/F7-synthesis.md` — exact Git blob `5541fa735d416f41599c2e6db7007863d7ca741b`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-09 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-09/README.md` — exact Git blob `db7a6e5d042090b4ac837868e2f9f1fd2445a712`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-09 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-10 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-10.md` — exact Git blob `f63dd4346794ce209775e1ae8ff25e4550e34e0a`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: Operations v3 / Browser Control v1 code changes; 0.4 still Draft at observed cut; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-10/F1-history-theory.md` — exact Git blob `890cd9e276233042feafbb951d72c8c86040d40e`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-10 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-10/F2-models-algorithms.md` — exact Git blob `019df99b419de6f76c59917e36f071d75ebad9e0`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-10 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-10/F3-infrastructure.md` — exact Git blob `a724a0652efb0dd11c2e0e52add47a3df674029a`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-10 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-10/F4-agentic-systems.md` — exact Git blob `e3064525ac58ab105ad5fa929ae12e3d760629ed`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-10 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-10/F5-evaluation-governance.md` — exact Git blob `a19660b05f53e89842b54d8e36a365412f356b78`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-10 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-10/F6-ecosystem-society.md` — exact Git blob `bf6ca5f8f105c6223bd1bcdb3482daba34e76752`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-10 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-10/F7-synthesis.md` — exact Git blob `7b44c0e7794afdee9d8fc381c5975371bcbdfb1a`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-10 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-10/README.md` — exact Git blob `282f4d145e4fcc4df4e61761edd67caf7f039050`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-10 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-11 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-11.md` — exact Git blob `5851fc3f7f1f3733a183bcefa20b18ab51efb43d`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Dated original source: Poppy manifest published=2026-11-10, changelog labels 1.0 Release Candidate; interpretation reflects original observation cut rather than later current-state retrojection
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-11/F1-history-theory.md` — exact Git blob `c6c510552b2069400a36bb180f353cf9ed9309a4`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-11-11 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-11/F2-models-algorithms.md` — exact Git blob `4d415d7e05136ea59becef11eb330bd2ceb9ee74`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Author benchmark and independent local model execution remain different; original facet metadata retained, not independent 2026-11-11 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-11/F3-infrastructure.md` — exact Git blob `398cf7579119ff960509033e9edcf41be331e7c1`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 2026-11-11 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-11/F4-agentic-systems.md` — exact Git blob `ae8880fcc8b3878454304863b7b3933a3c189ffe`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 2026-11-11 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-11/F5-evaluation-governance.md` — exact Git blob `a7ce3e248fef3c1fa196ed090fdc6fbcd2b74f2a`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Governance release is not an independently completed interoperability TCK; original facet metadata retained, not independent 2026-11-11 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-11/F6-ecosystem-society.md` — exact Git blob `2184fdb105e70359fb3936c5440aaa3bd5676c82`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent 2026-11-11 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-11/F7-synthesis.md` — exact Git blob `833fa8178fd7ada4ebbaf38a4c991b983d1911b1`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-11 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-11/README.md` — exact Git blob `2f84c18ed3061059886c0107a28defd603c32156`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-11 runtime proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-12 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-12.md` — exact Git blob `c8cd049031c00cbbb7b372c3e41c988361d03b06`; MATCHED_2026_11_13_A1
+  - Evidence assessment: MCP official servers v2.4.0 issuer release Nov11, observed Nov12; fixes are publisher claims, not deployed runtime/security proof
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-12/F1-history-theory.md` — exact Git blob `5753f650e0ef9060c00998bcd70f7882d50ace4e`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Security fix of one MCP tool-server family does not establish new protocol paradigm
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-12/F2-models-algorithms.md` — exact Git blob `8c04bbdad721464c60885918bbbdeb233a043aec`; MATCHED_2026_11_13_A1
+  - Evidence assessment: No new model/algorithm benchmark run in bounded issuer release scope
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-12/F3-infrastructure.md` — exact Git blob `be2a60dfaa5ad3daf0e5c6328c8ceaf8fe1f8647`; MATCHED_2026_11_13_A1
+  - Evidence assessment: filesystem/server source claims are bounded to issuer patch and untested race conditions
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-12/F4-agentic-systems.md` — exact Git blob `23d41e9b9ccf658e7da334830778757332487287`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Git configuration execution boundary is tool infrastructure, not proof of effect-time durable authorization
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-12/F5-evaluation-governance.md` — exact Git blob `fa201fc0269d67ddef1301f28e37dc80c31f4d0a`; MATCHED_2026_11_13_A1
+  - Evidence assessment: Six publisher security fixes are not independent TCK/conformance passes
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-12/F6-ecosystem-society.md` — exact Git blob `2ee60cf3a82c857adb3381b4675affb8404db1dd`; MATCHED_2026_11_13_A1
+  - Evidence assessment: release/version metadata cannot prove deployed adoption or cross-provider interoperability
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-12/F7-synthesis.md` — exact Git blob `e34c23c93854001d85c49fc10456b1aef726d021`; MATCHED_2026_11_13_A1
+  - Evidence assessment: SECURITY != EXECUTION != DURABLE_EFFECTS != RECOVERY, exact release evidence narrow
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-12/README.md` — exact Git blob `ebc7f49e25fad4a568fc03246c1d44aa22763655`; MATCHED_2026_11_13_A1
+  - Evidence assessment: native pack index maps seven facets to one Daily producer, not another source
+  - Verdict: INHERITED_NO_FOLLOW_UP; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+### 2026-11-13 — one integrated F1–F7 Native Daily / nine separate retained files
+- `reports/daily/2026/11/2026-11-13.md` — exact Git blob `d91c2169452ea9ac84c8a525e81ed142439d7522`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: Original Nov13 Native PARTIAL, no verified material source delta; later maintainer MCP release review remains a different actor/cut
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-13/F1-history-theory.md` — exact Git blob `ea23ba730bc1c700efabeae76547bd16caaa5187`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: Original F1 historical source chronology does not entail globally exhaustive science/theory negative finding
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-13/F2-models-algorithms.md` — exact Git blob `d6b898c275c449150da008679d41a89dcdcf5c1f`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: Original F2 model/algorithm status was not backed by an independently run benchmark on this cutoff
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-13/F3-infrastructure.md` — exact Git blob `e9dbdc00cb20e0085c0635af482d215b832f9b4f`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: MCP reference-server release claims do not establish a deployed patch or durable effect on a specific host
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-13/F4-agentic-systems.md` — exact Git blob `8db42e525216d9d030d119b58b54743f00d149ee`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: Host authority, tool-call scope, recovery and artifact lineage require independent runtime execution evidence
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-13/F5-evaluation-governance.md` — exact Git blob `6c06783f28400f2df8db698d536d52e2c6a23aab`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: Native TCK, CI, conformance and external attack reproduction were NOT_EXECUTED
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-13/F6-ecosystem-society.md` — exact Git blob `d86f0e012acca3fb757af156ddacc41047f5125b`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: Repeated one-issuer source does not multiply verified adopters or external witnesses
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-13/F7-synthesis.md` — exact Git blob `53ace0fed2cee60fe8fe3a6a788441d0dbdd4ac7`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: H46-1..4 remain OPEN; SECURITY / EXECUTION / EFFECTS / RECOVERY not interchangeable
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- `reports/daily/2026/11/2026-11-13/README.md` — exact Git blob `f06536bc6984964cfb3e7fdf8c931d1ebc347290`; MATCHED_2026_11_13_A2_CUSTODY
+  - Evidence assessment: Pack index is a provenance navigation artifact, not an additional research source or new Native day
+  - Verdict: ORIGINAL_NOV13_PARTIAL_RETAINED; one Native date, no independent runtime/conformance effect credited
+- Cross-facet decision: the nine stored files are related representations of one logical research date and versioned sources, not independent publisher citations
+
+## Time-bounded reconciliation, source status and future gates
+- A1 inventory 117/117 canonical files, 108/108 previous exact SHA matches, 9/9 Nov13 exact A2 custody matches
+- Current Nov13 original Native integrated report blob `d91c2169452ea9ac84c8a525e81ed142439d7522`, first heading: # 2026-11-13 Global F1–F7 — 仓库连续性与未证实边界 / Native Daily
+- Nov14 F1–F7 Native files now present on main after #289 are explicitly post-A1-cut input for A2, and retain PARTIAL original validation
+- Source registry first-party Poppy 1.0 Draft and MCP Registry v1.8.9 are new Nov14 observations of earlier publisher states, not Nov13 original Native production
+- Weekly W46 OPEN; November OPEN; H46-1..4 OPEN; 2026-11-15 NOT_DUE
+- NOT_EXECUTED by A1: live global source sweep, independent TCK/conformance, deployment, SDK invocation, Actions/CI, external effect recovery
+- No original Daily, registry, legacy A1/A2 or canonical week/month report edited to manufacture valid 100-line additions
+- Original new A1 PR must alone pass effective >=100 additions; D7/D10/D14/D30 independent, not completed here
