@@ -19,10 +19,12 @@
 - Release commit: https://github.com/personal-agent-protocol/personal-agent-protocol/commit/48039002795c9ebb390f1966fb70f82e4790efb6
 
 
-Updated through: **2026-11-12** (MCP official servers v2.4.0 issuer release published 2026-11-11 observed 2026-11-12 18:53:37 Asia/Shanghai，not MCP protocol specification or independent conformance)
+Updated through: **2026-11-14** (Poppy 1.0 Draft and MCP Registry v1.8.9 source-state reads at 2026-11-14 08:28:00 Asia/Shanghai，not same-day publications)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
+| G-PAP-1-0-DRAFT-2026-11-14 | G2 | personal-agent-protocol/personal-agent-protocol first-party versioned specification | Pinned main `31c87cc353933907157b18f06bf31ac3f168f415` reads 1.0 Draft spec and 1.0 manifest entry without published date；observed 2026-11-14 08:28:00 Asia/Shanghai，first publication/transition date UNVERIFIED，not RELEASED_1_0 or conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/31c87cc353933907157b18f06bf31ac3f168f415/content/versions/1.0/spec.mdx |
+| G-MCP-REGISTRY-V1-8-9-2026-11-10 | G2 | modelcontextprotocol/registry first-party release | v1.8.9 published 2026-11-10T11:08:07Z，observed 2026-11-14 08:28:00 Asia/Shanghai；publisher says incremental-sync pagination and staged autoscaling guards，no deployed availability, authority or execution certification | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.9 |
 | G-MCP-SERVERS-V2-4-0-2026-11-11 | G2 | modelcontextprotocol/servers official GitHub release | v2.4.0 published 2026-11-11T07:07:16Z，observed 2026-11-12 18:53:37 Asia/Shanghai；filesystem 2.3.0 / git/fetch 2026.11.11 issuer security fix statements，not independent validation or protocol TCK | https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0 |
 | G-PAP-0-4-DRAFT-REVISION-2026-11-08 | G2 | Poppy first-party GitHub | 0.4 DRAFT at a2ca25ab43eccc045bc7f2b86d3b579088da9af1 compared with 46beb2139417ad7b990dbf9b2dc84ddc3dd494d9 ahead 9 behind 0 changed_files 45 on 2026-11-08, no released 0.4 or independent conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/a2ca25ab43eccc045bc7f2b86d3b579088da9af1/content/versions/versions.json |
 | G-PAP-0-4-DRAFT-REVISION-2026-11-09 | G2 | Poppy first-party GitHub | Current main b2569c552d100922e7d60829d33a0fc50d88e822 is 3 commits ahead and 0 behind prior observed a2ca25ab43eccc045bc7f2b86d3b579088da9af1, 46 changed files; Session-scoped tasks endpoint and website Operations approval endpoint added; 0.4 remains Draft, no independent conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/compare/a2ca25ab43eccc045bc7f2b86d3b579088da9af1...b2569c552d100922e7d60829d33a0fc50d88e822 |
