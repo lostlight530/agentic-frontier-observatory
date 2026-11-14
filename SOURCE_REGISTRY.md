@@ -22,7 +22,7 @@
 Updated through: **2026-11-14** (Poppy 1.0 Draft and MCP Registry v1.8.9 source-state reads at 2026-11-14 08:28:00 Asia/Shanghai，not same-day publications)
 
 | ID | Level | Source | Coverage | URL |
-|---|---|---|---|
+|---|---|---|---|---|
 | G-PAP-1-0-DRAFT-2026-11-14 | G2 | personal-agent-protocol/personal-agent-protocol first-party versioned specification | Pinned main `31c87cc353933907157b18f06bf31ac3f168f415` reads 1.0 Draft spec and 1.0 manifest entry without published date；observed 2026-11-14 08:28:00 Asia/Shanghai，first publication/transition date UNVERIFIED，not RELEASED_1_0 or conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/31c87cc353933907157b18f06bf31ac3f168f415/content/versions/1.0/spec.mdx |
 | G-MCP-REGISTRY-V1-8-9-2026-11-10 | G2 | modelcontextprotocol/registry first-party release | v1.8.9 published 2026-11-10T11:08:07Z，observed 2026-11-14 08:28:00 Asia/Shanghai；publisher says incremental-sync pagination and staged autoscaling guards，no deployed availability, authority or execution certification | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.9 |
 | G-MCP-SERVERS-V2-4-0-2026-11-11 | G2 | modelcontextprotocol/servers official GitHub release | v2.4.0 published 2026-11-11T07:07:16Z，observed 2026-11-12 18:53:37 Asia/Shanghai；filesystem 2.3.0 / git/fetch 2026.11.11 issuer security fix statements，not independent validation or protocol TCK | https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0 |
