@@ -11,6 +11,14 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-15 Poppy 1.0 version-status forward successor
+- observed at 2026-11-15 14:38:36 Asia/Shanghai from pinned first-party `85b41ff27e8f6a098d06b71f14d83b1513c728a5`, `1.0 published=2026-11-14`, spec describes version 1.0 rather than Draft
+- release commit `8c02b4282eda53468a7c09412558bc8b060d95f6` committer date `2026-11-14T15:12:25Z` is Git evidence, not proof of exact public website transition
+- earlier 2026-11-14 08:28 Draft entry remains historically true for its pinned older revision; new 1.0 publication is one publisher lineage not independent conformance
+- H46-1 and G-W73 remain OPEN for authorization, revocation, multi-provider test and durable effects recovery
+- https://github.com/personal-agent-protocol/personal-agent-protocol/blob/85b41ff27e8f6a098d06b71f14d83b1513c728a5/content/versions/versions.json | https://github.com/personal-agent-protocol/personal-agent-protocol/commit/8c02b4282eda53468a7c09412558bc8b060d95f6
+
+
 ## 2026-11-11 current Poppy version successor
 - Publisher version manifest at `ed474089d0fdeafae9584a95cfcc485209d8b124` records `0.4 published=2026-11-10`，Changelog describes 1.0 Release Candidate，observed 2026-11-11 16:37:06 Asia/Shanghai
 - Publishing Git commit `48039002795c9ebb390f1966fb70f82e4790efb6` has UTC commit time 2026-11-11 02:36:55，does not alone prove exact status_transition_date which remains UNVERIFIED
@@ -19,10 +27,11 @@
 - Release commit: https://github.com/personal-agent-protocol/personal-agent-protocol/commit/48039002795c9ebb390f1966fb70f82e4790efb6
 
 
-Updated through: **2026-11-14** (Poppy 1.0 Draft and MCP Registry v1.8.9 source-state reads at 2026-11-14 08:28:00 Asia/Shanghai，not same-day publications)
+Updated through: **2026-11-15** (Poppy 1.0 publisher-release successor observed 2026-11-15 14:38:36 Asia/Shanghai; earlier Draft snapshot historical)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
+| G-PAP-1-0-PUBLISHED-OBS-2026-11-15 | G2 | Poppy first-party pinned manifest and specification | `published=2026-11-14` at `85b41ff27e8f6a098d06b71f14d83b1513c728a5`; Git commit `8c02b4282eda53468a7c09412558bc8b060d95f6` at `2026-11-14T15:12:25Z`, observed 2026-11-15 14:38:36 Asia/Shanghai，exact website transition UNVERIFIED, cross-provider conformance OPEN | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/85b41ff27e8f6a098d06b71f14d83b1513c728a5/content/versions/versions.json |
 | G-PAP-1-0-DRAFT-2026-11-14 | G2 | personal-agent-protocol/personal-agent-protocol first-party versioned specification | Pinned main `31c87cc353933907157b18f06bf31ac3f168f415` reads 1.0 Draft spec and 1.0 manifest entry without published date；observed 2026-11-14 08:28:00 Asia/Shanghai，first publication/transition date UNVERIFIED，not RELEASED_1_0 or conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/31c87cc353933907157b18f06bf31ac3f168f415/content/versions/1.0/spec.mdx |
 | G-MCP-REGISTRY-V1-8-9-2026-11-10 | G2 | modelcontextprotocol/registry first-party release | v1.8.9 published 2026-11-10T11:08:07Z，observed 2026-11-14 08:28:00 Asia/Shanghai；publisher says incremental-sync pagination and staged autoscaling guards，no deployed availability, authority or execution certification | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.9 |
 | G-MCP-SERVERS-V2-4-0-2026-11-11 | G2 | modelcontextprotocol/servers official GitHub release | v2.4.0 published 2026-11-11T07:07:16Z，observed 2026-11-12 18:53:37 Asia/Shanghai；filesystem 2.3.0 / git/fetch 2026.11.11 issuer security fix statements，not independent validation or protocol TCK | https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0 |
