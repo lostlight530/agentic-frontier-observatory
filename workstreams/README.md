@@ -73,3 +73,8 @@ See [`../METHODOLOGY.md`](../METHODOLOGY.md) for evidence/source rules, [`../SCO
 For a configured tool-using AI product, F2 may document its model identifier and benchmark configuration, F3 the infrastructure and measured serving capacity, F4 the harness/runtime authorization and recovery semantics, F5 the evaluator and security boundary, and F6 the observed usage population. F1 supplies conceptual ancestry and F7 reconciles the resulting claims. **One issuer's product release reused across these workstreams is still one underlying publisher lineage**, not five independent confirmations.
 
 Minimum handoff fields: `object_id/version`, `claim_type`, `source_object/version`, `retrieved/observed_date`, `evidence_plane`, `system_configuration`, `maturity`, `counterevidence`, `unresolved_dimensions`. A later stronger source may amend a disposition without silently promoting adjacent layers. Workstream descriptions are long-lived subject contracts; they do not certify that any specific external task ran.
+
+## Specialized F4 method companion
+
+- [F4 Agent Runtime and Protocol Interoperability Evidence Cases](./evidence-cases/F4_AGENT_RUNTIME_INTEROP.md) — source/implementation/authorization/effect/restart evidence layers with explicit negative fixtures, complements F4 without adding a new numbered workstream
+
