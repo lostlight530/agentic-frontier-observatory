@@ -1,5 +1,7 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-15 2026-11-15 14:38:36 Asia/Shanghai Poppy 1.0 current publisher status: version manifest at `85b41ff27e8f6a098d06b71f14d83b1513c728a5` declares published 2026-11-14; git commit 2026-11-14T15:12:25Z；G-W73 OPEN for independent cross-company identity/authority/revocation/conformance and external-effect recovery，older Draft observations remain point-in-time
+
 - 2026-11-12 18:53:37 Asia/Shanghai current successor: MCP official servers v2.4.0 released 2026-11-11 and first observed here Nov12，issuer claims tool invocation/filesystem/git/fetch hardening，runtime trust and durable-effect/recovery remain unvalidated，G-W07/G-W14 and W46 H46-3 remain OPEN
 
 - 2026-11-11 current successor: Poppy publisher version manifest now records 0.4 published=2026-11-10，Changelog labels 1.0 Release Candidate，publishing commit observed in Git on 2026-11-11，G-W73 version-status milestone observed but independent cross-company conformance, authority, revocation and external-effect recovery remain OPEN；no backdating of older Draft cuts
@@ -11,7 +13,7 @@
 
 - 2026-11-05 current-state successor: Poppy 0.3 发行方版本元数据已标记 published=2026-11-04，Git 证据提交于 2026-11-05T00:09:43Z，0.4 Draft；G-W73 的跨提供者 conformance、effect/recovery 仍 OPEN
 
-Updated: **2026-11-11 · Poppy 0.4 publisher-labelled PUBLISHED 1.0 Release Candidate，G-W73 conformance remains OPEN**
+Updated: **2026-11-15 · Poppy 1.0 publisher PUBLISHED, G-W73 conformance OPEN**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
@@ -89,7 +91,7 @@ Updated: **2026-11-11 · Poppy 0.4 publisher-labelled PUBLISHED 1.0 Release Cand
 | G-W70 | Can task-state evidence distinguish cancellation intent, observed terminal state and the exact external effects that committed during the race window? | **NEW / W35 PRIORITY** | Task/event logs, idempotency and effect-ledger implementations |
 | G-W71 | Does F.748.93 approval/publication produce inspectable implementation, conformance and cross-vendor interoperability evidence? | **OPEN / W38 MONITOR** | Conformance methods, implementations and interoperability results |
 | G-W72 | Can recovery/remediation completion be expressed as portable machine-readable proof accepted by the required authority? | **NEW / W38 PRIORITY** | Normative completion evidence, acceptance semantics and interoperable implementations |
-| G-W73 | Can Poppy publisher version releases lead to independently tested cross-company identity, authorization, revocation and durable effect/recovery contracts? | **OPEN / 0.4 PUBLISHED_RC / CROSS_PROVIDER_CONFORMANCE_OPEN** | Independent 0.4 frozen-version TCK, multi-company identity/authorization, approval replay/revocation, durable-effect ledger and recovery proof |
+| G-W73 | Can Poppy publisher version releases lead to independently tested cross-company identity, authorization, revocation and durable effect/recovery contracts? | **OPEN / 1.0 PUBLISHED / CROSS_PROVIDER_CONFORMANCE_OPEN** | Independent 1.0 frozen-version TCK, multi-company identity/authorization, approval replay/revocation, durable-effect ledger and recovery proof |
 | G-W74 | Can NIST agent identity tenets be implemented as testable audit and approval contracts for independent Build 3 demonstrations? | **NEW / W45 OPEN** | Published testable artifacts and verified agent authority/action traces |
 | G-W75 | Does Tencent Hy4 release its exact full-version weights, system card, license and matched independent agentic evaluation beyond Hy4-preview? | **NEW / W45 OPEN** | Revision-bound model artifacts and independent evaluations |
 | G-W76 | Will the 2026-11-07 media AI standard co-build generate formal multi-party verified standards and deployable governance evidence? | **NEW / W45 OPEN** | Signed governance/standard deliverables and independent implementation traces |
