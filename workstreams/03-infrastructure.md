@@ -43,3 +43,9 @@ energy efficiency claim != independently measured lifecycle impact
 F3 contributes the exact infrastructure object, deployment/supply maturity, measurement basis, scale and geography, bottleneck affected, uncertainty, and the narrow capability/economic implication supported by the evidence.
 
 F3 does not infer model quality, agent reliability, or market dominance from infrastructure scale alone.
+
+## Capacity denominator and bottleneck attribution
+
+For an infrastructure claim retain `(hardware/SKU or service tier, deployed configuration, precision/batch/concurrency, memory and interconnect, time window, measurement method, region, power/cost boundary)`. Peak compute quoted at one numerical precision cannot be directly compared with latency under another workload. Planned procurement, installed devices, usable provisioned capacity and measured production throughput are separate lifecycle states.
+
+**Counterexample:** doubling advertised accelerator FLOPS does not necessarily double agent task throughput if tool latency, retrieval, memory bandwidth, human approval or rate limits dominate end-to-end time. A real claim should identify the bottleneck and show its attributable change with a compatible denominator. Lower price per token is not automatically lower cost per successfully completed task.

@@ -43,3 +43,9 @@ Avoid teleological histories that make present outcomes look inevitable. Preserv
 F1 contributes a bounded lineage: the prior concept/system, the current development, what actually changed, what did not, the dates/sources supporting that relationship, and any analogy limits.
 
 F1 does not decide present-day deployment maturity by historical analogy alone.
+
+## Distinguishing genuine architectural change from renamed lineage
+
+A defensible history comparison names `(prior mechanism, present mechanism, assumptions, invariant or objective, compute/data regime, interaction interface, operational environment)`. For example, a present "agent memory" label may reuse earlier retrieval and caching methods but add role provenance, tool-effect boundaries or time-scoped state. Record which of those changes is concretely specified or observed; do not infer all from the shared name.
+
+**Counterexample:** two papers use "convergence" but one proves an optimization objective approaches a stationary point and the other reports tool-task completion. These are different dependent variables; describing one as historical proof of the other is invalid without a formal bridge. F1 should preserve failed alternatives and contemporaneous terminology, not narrate present-day success as inevitable.

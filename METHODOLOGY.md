@@ -197,3 +197,24 @@ Independent workstreams gather evidence. Integration removes duplicates, calibra
 Comparison must name the layer: model, infrastructure, runtime, discovery, identity, delegation, protocol, evaluation, governance, provenance, authorization, revocation, remediation, or society.
 
 Structural similarity is not interoperability. Shared vocabulary is not equivalent architecture. A comparative statement must preserve the evidence and maturity boundaries of both sides being compared.
+
+## 12. Typed evidence packet for long-horizon systems claims / 长期系统声明的证据封套
+
+For each consequential proposition, retain a **claim-specific packet**, not a story assembled from similar headlines:
+
+| Field | Exact question |
+|---|---|
+| Object identity | Which model, API, runtime, protocol, SDK, organization, deployment, benchmark, edition and version? |
+| Proposition | Existence, specified semantics, implementation, execution, measured capability, deployment, adoption, or observed outcome? |
+| Evidence object | Official specification, source commit, artifact, run trace, provider report, independent evaluator or regulator record? |
+| Event/observation time | Which date belongs to the source event, publication/version, observation, and latest independent recheck? |
+| Execution configuration | Which harness, tools, permissions, memory, system prompts, environment, evaluator, workload and population? |
+| Support boundary | Which exact clause or measured result supports the proposition, with what assumptions? |
+| Independent lineage | Is the second report a new measurement or another retelling of the first publisher? |
+| Disposition | Supported as a narrow fact, reported but unverified, counterevidenced, unknown, or superseded in current interpretation? |
+
+Do not use the document's existence to fill unavailable implementation fields. A source can be authoritative for its own publication while non-authoritative for independent quality, implementation maturity or market-wide adoption.
+
+**Worked analytical counterexample (hypothetical, not a claimed current event):** a published protocol specification, an SDK release and a vendor blog post describe the same feature. These support three distinct propositions: specification text exists; some code was released; a vendor claims a feature. Without a version-matched interoperability trace, none proves the feature works between two independently deployed parties. If all cite the same vendor demo they form one evidence lineage for performance.
+
+A correction is a typed change to the **current judgment**: preserve the original claim/version/time, identify the stronger later evidence, and revise only the disputed dimension (e.g. release status), leaving independent conformance and adoption unknown. The same packet rules apply to F1–F7; F7 may not upgrade evidence by synthesis.

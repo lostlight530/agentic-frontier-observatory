@@ -92,3 +92,11 @@ This observatory tracks verifiable global developments in models, protocols, run
 ## Historical preservation
 
 A later source or stronger interpretation may correct the current judgment without rewriting what an earlier observation actually recorded. Point-in-time records preserve their own observation boundary.
+
+## Scope test: observable facts versus unobserved mechanisms
+
+A candidate topic is within scope when it concerns a public, identifiable AI object or its historical, technical, economic or governance relationship **and** can support a bounded question through inspectable sources. A broad vendor ambition without an inspectable object may be tracked as a declared plan, not a technical capability finding.
+
+Three useful exclusions prevent category drift: (1) a model-only benchmark does not measure an end-to-end tool-using agent unless harness/tool authorization is part of the evaluated system; (2) a protocol standard or official release does not certify real deployment/interoperability; (3) stars, downloads or press mentions do not establish actual users, production outcomes or scientific improvement.
+
+The observatory can compare independently evidenced layers without itself executing every external system. When a high-value question cannot be answered from public evidence, preserve `UNVERIFIED` and the precise missing experiment/source—do not replace a technical gap with a confident prose forecast. The F1–F7 division remains a research-responsibility map, not seven independent votes for the same source.

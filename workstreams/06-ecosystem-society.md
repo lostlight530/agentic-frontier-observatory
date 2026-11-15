@@ -46,3 +46,11 @@ Preserve geography, sector, organization size, time window, sampling method, and
 F6 contributes the entity/ecosystem, observed signal, population/scope, dates, evidence basis, adoption/outcome maturity, uncertainty and counterevidence, plus explicit limits on extrapolation.
 
 F6 does not infer technical capability, safety, or universal social effect from popularity or commercial momentum alone.
+
+## Adoption denominator and source-incentive method
+
+Separate an open-source repository's **exposure** (views, stars, downloads), **implementation usage** (dependent projects, integrations), **active deployments**, **repeat users**, **measured operational outcomes**, and **societal externalities**. These are not equivalent counters and often differ by data source, sampling window, population and deduplication rules.
+
+An adoption-rate claim must expose numerator, denominator, sampling method, geography/industry and date. A release announcement proves a product was announced by its publisher; it does not show active customer population. Case studies usually select willing or successful participants and therefore cannot independently establish population-wide effects.
+
+**Counterexample:** one organization forks a repository repeatedly or automated clients generate downloads; a larger count does not imply broader distinct deployment. Conversely, one production deployment may matter without large public GitHub metrics. F6 should preserve incentives, missing data and independent customer/institution evidence rather than reducing adoption to a popularity rank.

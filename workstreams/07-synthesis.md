@@ -70,3 +70,11 @@ A durable synthesized judgment should expose:
 Periodic Daily/Weekly/Monthly artifacts may use F7 synthesis, but their cadence, closure, and production rules live in separate SOPs. This file defines the stable synthesis responsibility only.
 
 F7 must not rewrite earlier time-scoped observations merely because later evidence changes the current judgment.
+
+## Evidence graph and change-of-judgment operator
+
+For a synthesis proposition, construct a bounded graph of `source_object -> asserted_proposition -> workstream_interpretation -> current_disposition`. Distinct workstream documents that point to one release note share the same upstream evidence node. Their number must not be counted as independent corroboration; apparent consensus may be duplication.
+
+A current judgment change should be typed by the dimension changed: source identity, source version/date, object maturity, implementation evidence, benchmark comparability, deployment population or contradictory evidence. For example, later source code may upgrade "declared API" to "implementation located" while leaving deployment and cross-vendor interoperability unknown. Retain the earlier cutoff and explain only the revised field.
+
+**Falsification gate:** specify an observation that would disprove the current synthesis (e.g. a verified incompatible endpoint, disjoint benchmark configurations or an authoritative retraction). If no accessible falsifying evidence is currently available, label the proposition provisional rather than manufacturing a confidence percentage. A broad trend judgment is justified only by comparable, time-bounded evidence, not narrative smoothness.

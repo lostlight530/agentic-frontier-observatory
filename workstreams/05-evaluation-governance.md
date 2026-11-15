@@ -51,3 +51,11 @@ Where evaluation matters, retain system/version, harness, tools, safeguards, con
 F5 contributes the named evaluation/governance/security object, exact property/status, scope, dates, authority, limitations, independent corroboration/counterevidence, and the narrow conclusion it supports.
 
 F5 does not convert evaluator authority, regulatory prominence, or a green compliance artifact into universal technical truth.
+
+## Evaluation identity and governance lifecycle crosswalk
+
+A benchmark statement must identify the **evaluated complete system**: model revision, prompt/harness, tool and safety settings, dataset population and contamination constraints, sampling/retries, scoring method and uncertainty. A one-time PASS establishes neither unrestricted reliability nor safety outside the evaluated scenario. A finding is meaningful only with the negative-test population and detection procedure that produced it.
+
+For governance objects, separate `proposal -> consultation/draft -> approved/published -> effective -> implemented -> independently assessed/enforced` when those states actually apply. A public framework or published standard is evidence of the text and institutional status, not evidence that every provider complies or that every deployment is secure. Never turn "compliance ready" marketing into certification without an identified certifier, rule version and scope.
+
+**Counterexample:** a provider cites one successful prompt-injection benchmark while an integrator runs tools with broader permissions or a different runtime. The score cannot be transferred to that integrator's security boundary. Preserve the exact threat/evaluator and deployment configuration in the F5-to-F7 handoff.

@@ -154,3 +154,16 @@ OPEN/CLOSED/gap states on Daily, Weekly or Monthly records describe research cov
 Add a new category only when existing vocabulary cannot represent a recurring distinction without ambiguity. Do not add categories merely because a one-off source uses novel marketing terminology.
 
 Changes to this taxonomy affect classification/navigation only; they do not rewrite historical reports or automatically reclassify every earlier observation.
+
+## Typed claim × object × maturity classification
+
+Use **orthogonal dimensions** rather than one generic "AI progress" rank:
+
+- **Object layer:** foundation model, configured agent system, harness, runtime/task service, protocol/schema, SDK/implementation, deployed application, infrastructure, institution or policy
+- **Claim kind:** object exists; specification requires; source code implements; test executed; capability measured; deployed; independently interoperable; adopted; economic/social outcome observed
+- **Maturity:** proposal, draft, release candidate, published/released, deployed under named conditions, measured on named population, deprecated, or unresolved
+- **Evidence status:** first-party declaration, inspected source, retained execution artifact, independent replication, counterevidence or unavailable/unknown
+
+These dimensions are not a ladder of automatic implications. `SPECIFICATION_PUBLISHED` does not entail `SDK_IMPLEMENTED`; `SDK_IMPLEMENTED` does not entail `INTEROP_TESTED`; `INTEROP_TESTED` in one configuration does not entail `MARKET_ADOPTION`. A model benchmark and a runtime recovery experiment are different evaluated objects even if marketed under one product name.
+
+**Classification counterexample:** a project announces "durable tasks." If only API docs exist, classify a *documented interface*. A local retry test may establish only named local behavior. Cross-process continuation needs durable-store/restart identity; cancellation needs effect-aware semantics; customer adoption needs actual usage evidence. Keep these as independent fields, not mutually reinforcing labels. Existing historical taxonomy labels remain intact; this is a current forward-reading rule, not retroactive status editing.
