@@ -61,3 +61,9 @@ Analyze a claimed agent capability along independently evidenced steps: `interfa
 A durable-task claim should name persistent task/store identity, what survives process restart, retry/idempotency semantics at the external effect sink, approval freshness and eventual completion predicate. A request acknowledgement alone supports only acceptance. **Counterexample:** a restarted agent recovers its task ID while its previous external tool action has an unknown outcome. State continuity is present, yet safe continuation remains unresolved until the effect can be reconciled and current permission checked.
 
 Keep tool availability distinct from authorization to the resolved target, and runtime cancellation distinct from compensation of completed effects. This contract intentionally does not claim the observatory itself ran any endpoint.
+
+## Source-derived interoperability scenarios / 可证伪互操作场景
+
+The [F4 runtime and protocol evidence cases](./evidence-cases/F4_AGENT_RUNTIME_INTEROP.md) specify concrete negative fixtures for discovery versus authorization, protocol handshake versus durable task state, effect-side idempotency, task cancellation versus compensation, version skew and source-repeated agreement
+
+They are bounded **research methods**, not claims of observed current vendor behavior, future source/endpoint checks must retain revision-matched traces
