@@ -45,3 +45,9 @@ Retain exact model/version identity when material. Do not merge preview, release
 F2 contributes the exact model/method identity, claimed capability, evaluation conditions, source provenance, independent support/counterevidence, availability/maturity state, and explicit limitations.
 
 F2 does not convert vendor positioning or leaderboard rank into a system-wide adoption or safety conclusion.
+
+## Evaluated-object identity and comparability
+
+A model performance comparison needs at minimum `(model/version, API or weights access path, instruction/harness, tools, memory, inference settings, dataset split, sampling, evaluator, run count, uncertainty)`. If one paper evaluates a bare model and another evaluates a tool-augmented harness, the score difference cannot be attributed to model quality alone. API alias changes can alter the evaluated object without changing the visible model family name.
+
+**Counterexample:** a long context window is available but relevant evidence was never inserted or retrieved; the advertised context length therefore cannot establish effective long-term memory or durable workflow continuity. Separate model interface affordances from task-level causal evidence. Missing independent runs are a missing evidence field, not zero performance.
