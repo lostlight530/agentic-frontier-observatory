@@ -53,3 +53,11 @@ A compatibility claim should name both sides, relevant versions, directionality,
 F4 contributes the exact system/protocol/version, layer, maturity state, identity/authority model, state/recovery semantics, implementation/deployment evidence, conflicts, and explicit non-claims.
 
 F4 does not infer security, autonomy, operational maturity, or real-world adoption merely from a protocol/specification existing.
+
+## Runtime and authorization proof ladder
+
+Analyze a claimed agent capability along independently evidenced steps: `interface_declared -> implementation_located -> configured_execution_observed -> effect_verified -> recovery_verified -> deployment_observed`. Steps cannot be inferred merely from prior steps; some implementations intentionally omit effects or recovery. A valid multi-party interoperability claim needs both endpoint versions, direction, extensions, authority context, transport conditions and a recorded exchange.
+
+A durable-task claim should name persistent task/store identity, what survives process restart, retry/idempotency semantics at the external effect sink, approval freshness and eventual completion predicate. A request acknowledgement alone supports only acceptance. **Counterexample:** a restarted agent recovers its task ID while its previous external tool action has an unknown outcome. State continuity is present, yet safe continuation remains unresolved until the effect can be reconciled and current permission checked.
+
+Keep tool availability distinct from authorization to the resolved target, and runtime cancellation distinct from compensation of completed effects. This contract intentionally does not claim the observatory itself ran any endpoint.
