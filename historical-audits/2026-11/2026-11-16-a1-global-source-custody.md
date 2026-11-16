@@ -6,7 +6,7 @@
 - Current main 5ae6de847814125f1c4550f463f90f1631c3af4e, Git tree truncated=false, total original tree files 1044
 - Owning governance/independent-gpt/README.md, DAILY_SOP.md, WEEKLY_SOP.md, MONTHLY_SOP.md, SOURCE_REGISTRY.md
 - Previous merged A1 `historical-audits/2026-11/2026-11-15-a1-global-source-custody.md` @ `b958506b11912f3f19d5292c3c6e5095a72e746f`, exact prior 14 days path+SHA inheritance only
-- Nov15 integrated Daily original `reports/daily/2026/11/2026-11-15.md` @ `undefined` directly reopened; W46 weekly `reports/weekly/2026/2026-W46.md` @ `undefined` separately reopened
+- Nov15 integrated Daily original `reports/daily/2026/11/2026-11-15.md` @ `ada76f894b09f6e74e6fcf5d9c592f111f0d5298` directly reopened; W46 weekly `reports/weekly/2026/2026-W46.md` @ `a21c0e473e36f9cdb51cdf42df094f3d5f665f09` separately reopened
 - Nine stored source files per day mean ONE integrated native producer identity; file-count denominator is not issuer/run-count denominator
 - Original evidence separates specification/draft, release, conformance run, SDK installed revision, live authority, effect sink and durable recovery
 - GitHub tree, actual integrated Nov15 Daily/Weekly and previous complete A1 read; fresh external sweep, TCK, runnable SDK, CI and real effect sink NOT_EXECUTED
