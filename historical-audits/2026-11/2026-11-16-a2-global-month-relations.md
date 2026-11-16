@@ -1,0 +1,489 @@
+# ORIGINAL independent A2 — Global Observatory Nov01–16 whole-month F1–F7 source/effect relationships
+
+## Actual merged A1 dependency and dated ownership
+- Repository lostlight530/agentic-frontier-observatory; independent-maintenance/A2, NOT native integrated F1–F7 Daily, W46 producer or D7/D10/D14
+- MonthStart→N logical period Nov01–Nov16 inclusive Asia/Shanghai; November FINAL NOT_DUE
+- Latest main 8f09a2c97a0998689b82e7fdd6652b694cae059f re-read AFTER original A1 PR #297 merged 8f09a2c97a0998689b82e7fdd6652b694cae059f; final A1 GitHub additions 473
+- Original A1 file `historical-audits/2026-11/2026-11-16-a1-global-source-custody.md` @ `e1efdfbc0d33ea89859f65c2c7467003658f95e7` freshly re-read from current main; this is the original final merged A1, not Draft
+- Previous Nov15 A2 `historical-audits/2026-11/2026-11-15-a2-global-month-relations.md` @ `0ef5daf6d2b5eb674a75cf8f71ec0c50ef848506` is a historical point-in-time relation, not today's artifact
+- Contracts: DAILY_SOP.md, WEEKLY_SOP.md, MONTHLY_SOP.md, SOURCE_REGISTRY.md, METHODOLOGY.md, governance/independent-gpt/README.md
+- Owner rule: one integrated native Daily research day = nine physical files (integrated report, 7 facets, index). Nine files do not mean nine external issuers or nine new executions
+- Evidence chain: original issuer/source version → reported observation → actual SDK/TCK/agent run → authority/effect → current durable state and independent validator
+- Current main lacks 2026-11-16 integrated/facet pack at this audit cutoff. Treat missing as **N_DAY_NATIVE_MISSING_AS_OF_MAIN**, not a guessed 2026-11-16 result or a future job failure
+- Actual tests performed: GitHub file/tree/main/A1/prior A2 read only; full external spec sweep, TCK, real tool effect sink and CI NOT_EXECUTED
+
+## Complete 16-day Monthly Native source graph and source-independence decisions
+### 2026-11-01 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-01.md` @ `4456fb37ad022729c1205f1e9baa8772224fbaee`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: Poppy main unchanged versus Oct31, 0.3 draft; interpretation reflects original observation cut
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-01/F1-history-theory.md` @ `00a525ce63c1544f84304bd3b17fe11e58696072`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-01/F2-models-algorithms.md` @ `1bc1642fe773b2585f9b63391093ae034cc57c47`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-01/F3-infrastructure.md` @ `9b74eb898e370e21540fc9d808d78ef3bc2e8d9f`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-01/F4-agentic-systems.md` @ `36adfaf549533ed8147aa8ce07f87495e35ac927`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-01/F5-evaluation-governance.md` @ `62e64aca229a96049b1a45f79807b773f08c4146`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-01/F6-ecosystem-society.md` @ `18e1dee3dbca09ee72c3de6bf3c2b6cf3d4fc52f`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-01/F7-synthesis.md` @ `a9653bb67b34c1183d067229e81843e6b78544bc`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-01
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-01/README.md` @ `f439442544314597b242bf90455b314dd11e7d5b`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-01 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-02 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-02.md` @ `009e3ededb2075f29d424e80f973278d7c5deb18`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: Poppy first-party draft 0.3 continued; interpretation reflects original observation cut rather
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-02/F1-history-theory.md` @ `60d3b08bb244d0b59fb2f82b91a63dfaf664c073`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-02/F2-models-algorithms.md` @ `b1f9d70e8c793270ec147a58ba1b12d986eb8998`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-02/F3-infrastructure.md` @ `b3f455017b9a6af5c16e01b900fec499d6604ed3`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-02/F4-agentic-systems.md` @ `12dfd9250a2578d2c121384c439510efe7988d35`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md` @ `dd4d99c7a71e1f72ce401506d898467f1af8fa2f`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-02/F6-ecosystem-society.md` @ `c18cf7bcc6cbe426d58849d823c6ee47e3831ff4`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-02/F7-synthesis.md` @ `419c82edbcb6f3cff581b0f0177e8f0ce17492e8`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-02
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-02/README.md` @ `12f28a8abe804d0c29e16bccb5ff8992ea7b2857`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-02 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-03 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-03.md` @ `f390b0013b3836752c2792d46b7f3b771a6fef03`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: ten new Poppy draft-source commits observed; interpretation reflects original observation cut 
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-03/F1-history-theory.md` @ `d9779c8390f724ed6bf657061abd899960bc4e9d`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-03/F2-models-algorithms.md` @ `3617e08f19a3552ac3b420e4577490f43fe1b5e0`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-03/F3-infrastructure.md` @ `e9376f994980afce457b3c7ecd3ef8e74d92f6b6`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-03/F4-agentic-systems.md` @ `774949e5888fb8ac9cb656bee3108a87143aa830`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-03/F5-evaluation-governance.md` @ `13a0dd8ca6a314f0563a76d23b5bca2a43f13557`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-03/F6-ecosystem-society.md` @ `f5f8a4e6db76ee994d4a76e2efb3b04a4e3916dd`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-03/F7-synthesis.md` @ `ec54f59322b0a132a141656c7bab04fc89bbcef6`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-03
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-03/README.md` @ `e428ac3725498bfa8ae87e35c3b1141c6b4445a4`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-03 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-04 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-04.md` @ `03d0e475571ca7b41c37b093a9e4b1e9cde4ed4f`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: three additional draft revisions observed; interpretation reflects original observation cut ra
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-04/F1-history-theory.md` @ `d60e1c6ad7e305c05985a1a8292cfc933829cbfa`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-04/F2-models-algorithms.md` @ `5196a6a00bbe0f95cb2acec1ec1f4fd1b7e09575`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-04/F3-infrastructure.md` @ `149f7269cc3388eb06b4af25a6a08cdd0d32cee6`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-04/F4-agentic-systems.md` @ `257a7bce35740987489ec64598d6fdec14dc34e2`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md` @ `373a2ce5fde94848197f6dd25746b174c880e223`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md` @ `6add8450d54fc756f2821bdc36609151e58044fe`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-04/F7-synthesis.md` @ `31276502ec6ee1c7f947ca2bcbcf8088547e3a19`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-04
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-04/README.md` @ `37592bfceb6b69ca3ed2f77e2492c20aa4be10b5`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-04 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-05 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-05.md` @ `875230f3e7376db347f60732d29e57d34433a79b`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: issuer declares Poppy 0.3 published 2026-11-04; 0.4 Draft; interpretation reflects original ob
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-05/F1-history-theory.md` @ `3801b229d4fe188958f65e76a4b20643c5418ea2`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-05/F2-models-algorithms.md` @ `7093bc6ee743684bbea7dea5e76df4998326157b`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-05/F3-infrastructure.md` @ `572507a870f683104566c3017516ffd9bac9a455`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-05/F4-agentic-systems.md` @ `96fe9fbc19c665e6649d12287089edfc37f940f0`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-05/F5-evaluation-governance.md` @ `d5e7a64b046f3fd71f7c6b8915538d4019988c09`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-05/F6-ecosystem-society.md` @ `87032ecd068fca0d7ee48c05455ca19ab1494e01`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-05/F7-synthesis.md` @ `e31ad9843cbaa6ba49a78b8cbe180fecca4e7c84`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-05
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-05/README.md` @ `790646d911cd86f6db79ca9b6592444897735d2a`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-05 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-06 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-06.md` @ `be450996fc75dcb0dd397b5cba321bcc7f6663a0`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: Poppy 0.4 credential-control Draft patch; interpretation reflects original observation cut rat
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-06/F1-history-theory.md` @ `f300b364320b9d122377b970bd82ece930e45721`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-06/F2-models-algorithms.md` @ `439e441ce37e0982f7d143809df32e1908dbf71f`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-06/F3-infrastructure.md` @ `25e232254dc2ac96e06230bebdbce7c5f9a1c5fa`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-06/F4-agentic-systems.md` @ `4f6e7072a81c1fb415850cadad6da371b22bde48`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-06/F5-evaluation-governance.md` @ `3e65ea94b8808da87a9114e84a957109db2d45ec`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-06/F6-ecosystem-society.md` @ `f993e7cd48bd6976ebbf2ce0b01770f4446aaab7`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-06/F7-synthesis.md` @ `ae519f2042d289b8c1c4df32b96433f4186d6480`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-06
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-06/README.md` @ `785e414d9b69dd297b10cebf99468bdd186775b9`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-06 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-07 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-07.md` @ `ae1cd41ca58c2adbbb4318170672143f8f33e168`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: Poppy 0.4 conversation identity / retry Draft; interpretation reflects original observation cu
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-07/F1-history-theory.md` @ `aa2d2801fb933e5ab37c8d4f5f74a5daf5203bea`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-07/F2-models-algorithms.md` @ `92a0c85576f6e2eaa247291da4e96bca465a548a`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-07/F3-infrastructure.md` @ `23780638817287e5c5d55085a193340886f91f98`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-07/F4-agentic-systems.md` @ `dd50254b77e44870393f0a3788cc19246fe0f6b1`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-07/F5-evaluation-governance.md` @ `51c349f609a76809cd49a4422ffc559612ca96c1`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-07/F6-ecosystem-society.md` @ `a9d07a49080d7c50b57cfc18bb1525165b352e80`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-07/F7-synthesis.md` @ `17340a1397c1b95aed7f6cc201e65ffc6a161965`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-07
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-07/README.md` @ `145ab7d8b1bf5a08b0dd9e822ba4f6ebcd2a2f4a`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-07 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-08 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-08.md` @ `0f41a7ce47c8f0f62dc9786a2bfd4bb38e666bd9`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: Poppy issuer source plus NIST/Tencent/Xinhua independent event dates; interpretation reflects 
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-08/F1-history-theory.md` @ `9f22b5ada6a523c0dda2b49449b5eff751d73e5d`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-08/F2-models-algorithms.md` @ `af1b4c6f899ce56bbe3641be09f2e63c214f55a5`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-08/F3-infrastructure.md` @ `0dd2fb1bb7b6466df5132374bf9fe5c3511c92cf`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-08/F4-agentic-systems.md` @ `5ee5c728ad07a4c92734dc62c34dc386bd96cbd6`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-08/F5-evaluation-governance.md` @ `3351a80e84882cdf59620a570f540c3775c94604`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-08/F6-ecosystem-society.md` @ `d66ef161ffa479da6fbcf074c9cc29620c28dd7e`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-08/F7-synthesis.md` @ `d684398fba21686bae76e51e3706ab4b126cf9b0`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-08
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-08/README.md` @ `1c95def6ca42f5028bf7011855402b654f0eaec8`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-08 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-09 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-09.md` @ `e386111d60bb51cc355c32e3879d67e92de9c336`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: Poppy new tasks endpoints + Agent Substrate/scientific-agent sources; interpretation reflects 
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-09/F1-history-theory.md` @ `e4d401fcb7f9faf0acb1e3bd12a575de414c80b3`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-09/F2-models-algorithms.md` @ `474f79d9336809e2cbd688803e22d65e262da28e`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-09/F3-infrastructure.md` @ `370931f0b892afd78ac0f4b42eab7b7dcd0e5604`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-09/F4-agentic-systems.md` @ `727c0b9c62b56857450113a5d75872c77393f93c`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-09/F5-evaluation-governance.md` @ `4cb560382d1f32f529eef803aafd51572093c432`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-09/F6-ecosystem-society.md` @ `160d1c944d15cf5d6e1ace5994559a765e005bd6`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-09/F7-synthesis.md` @ `5541fa735d416f41599c2e6db7007863d7ca741b`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-09
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-09/README.md` @ `db7a6e5d042090b4ac837868e2f9f1fd2445a712`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-09 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-10 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-10.md` @ `f63dd4346794ce209775e1ae8ff25e4550e34e0a`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: Operations v3 / Browser Control v1 code changes; 0.4 still Draft at observed cut; interpretati
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-10/F1-history-theory.md` @ `890cd9e276233042feafbb951d72c8c86040d40e`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-10/F2-models-algorithms.md` @ `019df99b419de6f76c59917e36f071d75ebad9e0`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-10/F3-infrastructure.md` @ `a724a0652efb0dd11c2e0e52add47a3df674029a`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-10/F4-agentic-systems.md` @ `e3064525ac58ab105ad5fa929ae12e3d760629ed`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-10/F5-evaluation-governance.md` @ `a19660b05f53e89842b54d8e36a365412f356b78`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-10/F6-ecosystem-society.md` @ `bf6ca5f8f105c6223bd1bcdb3482daba34e76752`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-10/F7-synthesis.md` @ `7b44c0e7794afdee9d8fc381c5975371bcbdfb1a`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-10
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-10/README.md` @ `282f4d145e4fcc4df4e61761edd67caf7f039050`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-10 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-11 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-11.md` @ `5851fc3f7f1f3733a183bcefa20b18ab51efb43d`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Dated original source: Poppy manifest published=2026-11-10, changelog labels 1.0 Release Candidate; interpretation re
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-11/F1-history-theory.md` @ `c6c510552b2069400a36bb180f353cf9ed9309a4`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Historical chronology: draft/release is not a paradigm proof; original facet metadata retained, not independent 2026-
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-11/F2-models-algorithms.md` @ `4d415d7e05136ea59becef11eb330bd2ceb9ee74`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Author benchmark and independent local model execution remain different; original facet metadata retained, not indepe
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-11/F3-infrastructure.md` @ `398cf7579119ff960509033e9edcf41be331e7c1`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Infrastructure specification is not provisioned durable runtime; original facet metadata retained, not independent 20
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-11/F4-agentic-systems.md` @ `ae8880fcc8b3878454304863b7b3933a3c189ffe`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Protocol or tool declaration is not executable host conformance; original facet metadata retained, not independent 20
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-11/F5-evaluation-governance.md` @ `a7ce3e248fef3c1fa196ed090fdc6fbcd2b74f2a`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Governance release is not an independently completed interoperability TCK; original facet metadata retained, not inde
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-11/F6-ecosystem-society.md` @ `2184fdb105e70359fb3936c5440aaa3bd5676c82`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated issuer documentation is not multiple independent adopters; original facet metadata retained, not independent
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-11/F7-synthesis.md` @ `833fa8178fd7ada4ebbaf38a4c991b983d1911b1`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Synthesis inherits original UNKNOWN and counterevidence; original facet metadata retained, not independent 2026-11-11
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-11/README.md` @ `2f84c18ed3061059886c0107a28defd603c32156`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Daily pack navigator is not a new native publication; original facet metadata retained, not independent 2026-11-11 ru
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-12 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-12.md` @ `c8cd049031c00cbbb7b372c3e41c988361d03b06`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; MCP official servers v2.4.0 issuer release Nov11, observed Nov12; fixes are publisher claims, not deployed runtime/se
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-12/F1-history-theory.md` @ `5753f650e0ef9060c00998bcd70f7882d50ace4e`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Security fix of one MCP tool-server family does not establish new protocol paradigm; no extra issuer or executed runt
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-12/F2-models-algorithms.md` @ `8c04bbdad721464c60885918bbbdeb233a043aec`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; No new model/algorithm benchmark run in bounded issuer release scope; no extra issuer or executed runtime credited
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-12/F3-infrastructure.md` @ `be2a60dfaa5ad3daf0e5c6328c8ceaf8fe1f8647`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; filesystem/server source claims are bounded to issuer patch and untested race conditions; no extra issuer or executed
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-12/F4-agentic-systems.md` @ `23d41e9b9ccf658e7da334830778757332487287`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Git configuration execution boundary is tool infrastructure, not proof of effect-time durable authorization; no extra
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-12/F5-evaluation-governance.md` @ `fa201fc0269d67ddef1301f28e37dc80c31f4d0a`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Six publisher security fixes are not independent TCK/conformance passes; no extra issuer or executed runtime credited
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-12/F6-ecosystem-society.md` @ `2ee60cf3a82c857adb3381b4675affb8404db1dd`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; release/version metadata cannot prove deployed adoption or cross-provider interoperability; no extra issuer or execut
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-12/F7-synthesis.md` @ `e34c23c93854001d85c49fc10456b1aef726d021`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; SECURITY != EXECUTION != DURABLE_EFFECTS != RECOVERY, exact release evidence narrow; no extra issuer or executed runt
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-12/README.md` @ `ebc7f49e25fad4a568fc03246c1d44aa22763655`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; native pack index maps seven facets to one Daily producer, not another source; no extra issuer or executed runtime cr
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-13 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-13.md` @ `d91c2169452ea9ac84c8a525e81ed142439d7522`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Original Nov13 Native PARTIAL, no verified material source delta; later maintainer MCP release review remains a diffe
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-13/F1-history-theory.md` @ `ea23ba730bc1c700efabeae76547bd16caaa5187`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Original F1 historical source chronology does not entail globally exhaustive science/theory negative finding; no extr
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-13/F2-models-algorithms.md` @ `d6b898c275c449150da008679d41a89dcdcf5c1f`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Original F2 model/algorithm status was not backed by an independently run benchmark on this cutoff; no extra issuer o
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-13/F3-infrastructure.md` @ `e9dbdc00cb20e0085c0635af482d215b832f9b4f`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; MCP reference-server release claims do not establish a deployed patch or durable effect on a specific host; no extra 
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-13/F4-agentic-systems.md` @ `8db42e525216d9d030d119b58b54743f00d149ee`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Host authority, tool-call scope, recovery and artifact lineage require independent runtime execution evidence; no ext
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-13/F5-evaluation-governance.md` @ `6c06783f28400f2df8db698d536d52e2c6a23aab`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Native TCK, CI, conformance and external attack reproduction were NOT_EXECUTED; no extra issuer or executed runtime c
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-13/F6-ecosystem-society.md` @ `d86f0e012acca3fb757af156ddacc41047f5125b`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Repeated one-issuer source does not multiply verified adopters or external witnesses; no extra issuer or executed run
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-13/F7-synthesis.md` @ `53ace0fed2cee60fe8fe3a6a788441d0dbdd4ac7`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; H46-1..4 remain OPEN; SECURITY / EXECUTION / EFFECTS / RECOVERY not interchangeable; no extra issuer or executed runt
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-13/README.md` @ `f06536bc6984964cfb3e7fdf8c931d1ebc347290`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Pack index is a provenance navigation artifact, not an additional research source or new Native day; no extra issuer 
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-14 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-14.md` @ `ae0925003c1f59a279e44602878f95863ac54154`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Nov14 producer PARTIAL, source-state bounded; Poppy 0.4 publisher object, 1.0 Draft and MCP Registry v1.8.9 distinct;
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-14/F1-history-theory.md` @ `6593e237963b99478b40bcfeae10c32dd65d08ef`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; 0.4 published vs 1.0 Draft chronology, source time preserved; no extra issuer or executed runtime credited
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-14/F2-models-algorithms.md` @ `7b8fef87b203b797a6124b26397ab1b1e1e5dabd`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; facet is same publisher lineage, original claims require separate test; no extra issuer or executed runtime credited
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-14/F3-infrastructure.md` @ `76d73343614231919e73882fd4b8853b5c00afc3`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Registry issuer release != installed discovery/effect service; no extra issuer or executed runtime credited
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-14/F4-agentic-systems.md` @ `d30e27feb91c3405d0d3fc9bbf8814e10f610757`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; Poppy spec tool discovery != live authority/durable effect; no extra issuer or executed runtime credited
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-14/F5-evaluation-governance.md` @ `6fbde98a442df7d0ba96d7efff00f93e8dc12c7d`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; conformance not established by authored patch or Draft status; no extra issuer or executed runtime credited
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-14/F6-ecosystem-society.md` @ `7dc9fd80b180f60ae6f912b2b8711ef0bf84a157`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; facet is same publisher lineage, original claims require separate test; no extra issuer or executed runtime credited
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-14/F7-synthesis.md` @ `c411348d4a07661e183a1e0e5fa03982de9328bb`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; facet is same publisher lineage, original claims require separate test; no extra issuer or executed runtime credited
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-14/README.md` @ `be7a38e5f516e65eaf559b85e0dc62ce9e92325c`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; EXACT_PREVIOUS_A1_PATH_SHA / INHERITED_NO_FOLLOW_UP; day-pack index, not new source or execution; no extra issuer or executed runtime credited
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-15 — F1–F7 nine-owner provenance
+- **Integrated F1–F7** `reports/daily/2026/11/2026-11-15.md` @ `ada76f894b09f6e74e6fcf5d9c592f111f0d5298`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; original issuer/source date remains prior-observed, no new independent validation
+  - Current relationship: original Daily date authority; sum of facets is not independent test count; N-day relation cannot add effect or authority from GitHub file existence
+- **F1 history/theory** `reports/daily/2026/11/2026-11-15/F1-history-theory.md` @ `00ad85e5f4a8901e100d46eb9453d04363c62336`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; NEW_N_MINUS_1_CUTOFF / SOURCE_READ_INTEGRATED_PACK; source observation identity retained, no independent runtime corroboration added by this A1
+  - Current relationship: spec/draft/release chronology not automatically paradigm or correctness proof; N-day relation cannot add effect or authority from GitHub file existence
+- **F2 models** `reports/daily/2026/11/2026-11-15/F2-models-algorithms.md` @ `5fea81be57e37dc9842b8918f308ef70fed378d9`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; NEW_N_MINUS_1_CUTOFF / SOURCE_READ_INTEGRATED_PACK; source observation identity retained, no independent runtime corroboration added by this A1
+  - Current relationship: benchmarks need exact model/harness/denominator and a separate independent evaluator; N-day relation cannot add effect or authority from GitHub file existence
+- **F3 infrastructure** `reports/daily/2026/11/2026-11-15/F3-infrastructure.md` @ `3e2dc25c55524d91aecd4b6d9d678ec2fd814ac6`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; NEW_N_MINUS_1_CUTOFF / SOURCE_READ_INTEGRATED_PACK; source observation identity retained, no independent runtime corroboration added by this A1
+  - Current relationship: MCP Registry/SDK code and conformance TCK executions remain separate source/effect layers; N-day relation cannot add effect or authority from GitHub file existence
+- **F4 agentic systems** `reports/daily/2026/11/2026-11-15/F4-agentic-systems.md` @ `089fd0d2e96e9f593bbca889c01d4616d5072442`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; NEW_N_MINUS_1_CUTOFF / SOURCE_READ_INTEGRATED_PACK; source observation identity retained, no independent runtime corroboration added by this A1
+  - Current relationship: handoff/runtime claims require concrete installed tool/approval/state transitions; N-day relation cannot add effect or authority from GitHub file existence
+- **F5 evaluation** `reports/daily/2026/11/2026-11-15/F5-evaluation-governance.md` @ `8f41b29ab67aecb3d1cc07d8edecb3070eb3fd15`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; NEW_N_MINUS_1_CUTOFF / SOURCE_READ_INTEGRATED_PACK; source observation identity retained, no independent runtime corroboration added by this A1
+  - Current relationship: author benchmark/checker outputs cannot replace independent final-state reconstruction; N-day relation cannot add effect or authority from GitHub file existence
+- **F6 ecosystem** `reports/daily/2026/11/2026-11-15/F6-ecosystem-society.md` @ `3b5b3eecdb2ccde41931755351998466d3037371`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; NEW_N_MINUS_1_CUTOFF / SOURCE_READ_INTEGRATED_PACK; source observation identity retained, no independent runtime corroboration added by this A1
+  - Current relationship: adoption/promotion claims do not prove live model/agent deployments; N-day relation cannot add effect or authority from GitHub file existence
+- **F7 synthesis** `reports/daily/2026/11/2026-11-15/F7-synthesis.md` @ `27d66e8e29b0ec754753fb26c154ff9e7a57c098`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; NEW_N_MINUS_1_CUTOFF / SOURCE_READ_INTEGRATED_PACK; source observation identity retained, no independent runtime corroboration added by this A1
+  - Current relationship: reuses F1–F6 sources, not second independent issuer; N-day relation cannot add effect or authority from GitHub file existence
+- **Index README** `reports/daily/2026/11/2026-11-15/README.md` @ `08b5eb742470ecb72636f9d8e0ead08dd71f79e2`
+  - A1 continuity: MATCHED_MERGED_A1_PATH_BLOB / SOURCE_LINEAGE_INHERITED; NEW_N_MINUS_1_CUTOFF / SOURCE_READ_INTEGRATED_PACK; source observation identity retained, no independent runtime corroboration added by this A1
+  - Current relationship: navigation/source custody, not separate Native Daily or independent evidence; N-day relation cannot add effect or authority from GitHub file existence
+- Daily consolidation: NATIVE_DATE_PRESENT / HISTORICAL_SOURCE_CUSTODY_INHERITED; repeated source across facets has a single issuer lineage
+### 2026-11-16 — F1–F7 nine-owner provenance
+- Integrated F1–F7: `reports/daily/2026/11/2026-11-16.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- F1 history/theory: `reports/daily/2026/11/2026-11-16/F1-history-theory.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- F2 models: `reports/daily/2026/11/2026-11-16/F2-models-algorithms.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- F3 infrastructure: `reports/daily/2026/11/2026-11-16/F3-infrastructure.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- F4 agentic systems: `reports/daily/2026/11/2026-11-16/F4-agentic-systems.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- F5 evaluation: `reports/daily/2026/11/2026-11-16/F5-evaluation-governance.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- F6 ecosystem: `reports/daily/2026/11/2026-11-16/F6-ecosystem-society.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- F7 synthesis: `reports/daily/2026/11/2026-11-16/F7-synthesis.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- Index README: `reports/daily/2026/11/2026-11-16/README.md` — **MISSING_AS_OF_CURRENT_MAIN / NOT_DELIVERED_IN_SNAPSHOT**, not assigned source issuer, TCK, failure metric or PASS
+- Daily consolidation: N_DAY_INPUT_MISSING / MONTH_RELATION_PARTIAL_AND_RETESTABLE; repeated source across facets has a single issuer lineage
+
+## Weekly, event-time changes, contradiction and correction
+- Weekly native `reports/weekly/2026/2026-W45.md` @ `bfc99614fa276528eac321281d8b072b759a4aa3` — closed-period original report, not an extra publisher or TCK run
+- Weekly native `reports/weekly/2026/2026-W46.md` @ `a21c0e473e36f9cdb51cdf42df094f3d5f665f09` — closed-period original report, not an extra publisher or TCK run
+- Sunday Nov15 original W46 weekly reports closure and unresolved H46-1..4 statuses; these are producer-reported native states, not independently rerun protocol tests
+- Coverage: MonthStart→N 16×9 expected=144; present=135, missing_N=9, A1 first-15 exact matches=135/135, source-drift=0
+- N-day 2026-11-16 input: MISSING_AS_OF_THIS_MAIN_SNAPSHOT, not NOT_DUE for a generic Native Daily. The observation time/current cutoff matters; a later original merge may supersede this current-status line via successor, not retroactively backfill evidence
+- STRENGTHENED: source version/path accountability and weekly merge retention for November 01–15, not independent conformance confidence
+- CHANGED: Nov15 W46 now closed and A1 covers its nine source bodies; Nov16 new evaluation date adds an explicit missing-input status
+- INHERITED: first 135 exact path+blob identities and original author source/positive-negative claims, not 135 independent re-read publisher web validations
+- WEAKENED: any claim of *complete* Nov01–16 nine-file native coverage fails while the N-day pack is missing
+- CONFLICT: none found at exact A1 source-blob layer; unknown official issue/release status remains unknown without fresh issuer inspection
+- INVALIDATED: no earlier source finding invalidated by one missing N-day native input; original status and source dates unchanged
+- UNKNOWN: actual N-day runtime, source changes after Nov15, MCP Registry live conformance and current effect sink/authorization
+- Open PR not automatically a failure. Only relevant main-visible native output affects this specific task input gate; unknown follow-up remains explicit
+- Historical full corpus includes only one integrated native run per day despite nine physical records; do not double-count F facets or synopsis as independent SDK evaluations
+- SOURCE_REGISTRY != deployed protocol; spec candidate != formally ratified release; release != installed runtime; artifact != actual effect
+- Month FINAL NOT_DUE and D7/D10/D14/D30 separate, not fulfilled by A1/A2 records
+- No earlier Native, current source registry, index, periodic audit, code or original A1 documents modified in this A2
+- Original A2 GitHub additions and effective content separately reviewed at final PR; merged report ≠ independent Human Review ≠ external CI PASS
+
+## EVIDENCE_DELTA and next legal trigger
+- NEW_EVIDENCE: original merged A1 gate and fresh current-main missing N-day / naturally closed W46 source relation
+- CORRECTED_INTERPRETATION: complete Nov01–15 corpus != complete Nov01–16 corpus and source registry != live conformance service
+- UNCHANGED_BOUNDARY: NATIVE_PRODUCER != INDEPENDENT_A2, DOC_PRESENT != RUN_EXECUTED, SOURCE != EFFECT_SINK
+- NEW_COUNTEREVIDENCE: Nov16 absent pack and repeated publisher source across facets prohibit false complete native coverage
+- UNKNOWN_RETAINED: Nov16 native research/event, live SDK/TCK, independent measured deployment and tool effect results
+- NEXT_RETEST_CONDITION: after actual Nov16 native PR merge, independently re-read revised main, compare exact canonical paths/blobs and issue forward successor/reconciliation, never silently edit original PR or raw A1 source
