@@ -17,7 +17,7 @@
 - **Exact file change:** content/shared/demos.mdx, 3 additions and 3 deletions; Cliffside Retail 0.4→1.0, Poppy Demo Agent 0.3→0.4, Print with Poppy 0.3→0.4
 - **Evidentiary strength:** G2 issuer documentation of Demo protocol_version labels / issuer statement about live versions; not an independent endpoint test, SDK conformance, deployment timestamp, adoption denominator or runtime effect trace
 - **Status:** one publisher lineage, G-W73 and W47-1..4 OPEN; original Nov16 task RUN_REPORTED / original Native Daily NOT_RETAINED
-- **Recovery dossier:** [11-16 late source reconstruction](2026-11/2026-11-18-global-nov16-research-reconstruction/INTEGRATED.md)
+- **Recovery dossier:** [11-16 late source reconstruction](history/2026-11/2026-11-18-global-nov16-research-reconstruction/INTEGRATED.md)
 
 
 ## 2026-11-18 Poppy 1.1 Draft current-source successor

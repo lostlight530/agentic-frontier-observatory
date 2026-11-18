@@ -11,7 +11,7 @@
 
 ## 2026-11-18 17:40:21 Asia/Shanghai｜可恢复内容的独立后续附录
 - 11-18 后续独立源检索发现 [issuer #200](https://github.com/personal-agent-protocol/personal-agent-protocol/commit/656185321142da654fc255da5a9be6ef87c9de89)：Git 11-16T10:25:05Z / 北京 11-16 18:25:05，一份 Demo MDX 文件三处协议版本标注修订；原本 15:28:56 状态更正当时没有该后来发现的源码记录，本段仅记录新证据，不倒改当时事实
-- [F1–F7 非原生追溯证据包](2026-11/2026-11-18-global-nov16-research-reconstruction/INTEGRATED.md) 记录后验可恢复的研究内容，不是 11-16 scheduler 原始输出，不可升级当日 Native merged coverage
+- [F1–F7 非原生追溯证据包](2026-11-18-global-nov16-research-reconstruction/INTEGRATED.md) 记录后验可恢复的研究内容，不是 11-16 scheduler 原始输出，不可升级当日 Native merged coverage
 - Original run receipt / exact cutoff / run result remain NOT_RECOVERED；W47 2/7 Native merged and one original delivery gap
 
 
