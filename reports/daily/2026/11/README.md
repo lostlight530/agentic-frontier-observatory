@@ -1,5 +1,8 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-18 12:19:28 Asia/Shanghai merged-main delivery reconciliation**： [PR #302](https://github.com/lostlight530/agentic-frontier-observatory/pull/302) 已于 2026-11-18 12:17:05 Asia/Shanghai 合并为当前 main `4d551f905f9a81dff80bc98e108a81cf0a462a6d`；11-18 F1–F7 原生包和 Poppy 1.1 Draft 源状态已进入 canonical main，W47 当前 2/7 merged、11-16 native GAP、W47-1..4 OPEN、November OPEN；下方早间 Draft 只保留历史生产时点语义，11-19..22 NOT_DUE
+
+
 **2026-11-18 05:02:42 Asia/Shanghai native F proposal**：Nov16 native NOT_OBSERVED；Nov17 merged；Nov18 current proposal；NEW ISSUER SOURCE REVISION / PARTIAL；W47 OPEN，November OPEN；Poppy #201 于 2026-11-17T14:27:23Z 提交，1.1 为 Draft，1.0 保持 published default，仅本次 Draft 提案，未合并
 
 **2026-11-17 2026-11-17 04:57:35 Asia/Shanghai native Global F1–F7 proposal**：main `e54710d74bc938c90f6cbcbca8aa210206d7353c`，11-17 新原生 pack 在 Draft 分支待审，W47 OPEN，H47-1..4 OPEN，November OPEN；11-16 native main 缺失且无可证实同日生产，不倒填；Poppy 1.0、Registry 和 Servers 旧发行证据本日复核 NO MATERIAL CHANGE
