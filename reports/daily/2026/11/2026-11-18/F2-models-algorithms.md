@@ -7,25 +7,24 @@
 - producer: native research, one bounded observation window
 
 ## Research question / 可证伪问题
-当前证据是否足以证明 模型与算法证据 已发生具独立执行或规范效力的变化
+文档版本分支能否证明模型/Agent benchmark 提升
 
-## Exact evidence object / 证据对象
-版本文档复制与导航默认值调整不是模型推理性能或系统基准提升
+## Source custody / 精确来源与观察时序
+- 原生产截点 2026-11-18 05:02:42 Asia/Shanghai，核验补充时点 2026-11-18 12:07:27 Asia/Shanghai，同一 Daily 单元，没有新建第二个研究窗口
+- S1 https://github.com/personal-agent-protocol/personal-agent-protocol/commit/a1deeab03c519b0597df4e060fe20bc16d41c31e — 发行方源码提交、2026-11-17T14:27:23Z Git committer time
+- S2 https://github.com/personal-agent-protocol/personal-agent-protocol/blob/a1deeab03c519b0597df4e060fe20bc16d41c31e/content/versions/versions.json — 1.1 无 published 字段、1.0 published=2026-11-14
+- S3 https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.9 — 旧版本发行 2026-11-10
+- S4 https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0 — 旧版本发行 2026-11-11
+- S1 与 S2 是相同 Poppy issuer lineage，互不增加独立来源强度
 
-## What changed / 改变了什么
-发行方 GitHub #201 源码提交提供 1.1 Draft 的新版本对象，仍与 1.0 Published 严格分层
+## Domain-specific finding / 领域判断
+#201 修改了 36 个源码及文档文件，主要是 Draft 复制、文档路由与版本默认值，没有对应模型权重、独立评测、任务成功率及采样分母
 
-## What remains open / 不变与反证
-没有冻结版本多提供者 conformance、真实用户效果分母或 durable-effect recovery trace
+## Falsifier and missing execution / 可证伪条件
+应取得固定模型、harness、数据集与实验执行日志的独立测试，不能用 Git changed_files 代替模型性能指标
 
-## Falsifier / 可证伪条件
-提供同一原子对象的权威版本、准确事件时间、独立实现及可重放验收记录，可推翻当前缺口判断
-
-## Primary sources / 来源
-- S1 https://github.com/personal-agent-protocol/personal-agent-protocol/commit/a1deeab03c519b0597df4e060fe20bc16d41c31e
-- S2 https://github.com/personal-agent-protocol/personal-agent-protocol/blob/a1deeab03c519b0597df4e060fe20bc16d41c31e/content/versions/versions.json
-- S3 https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.9
-- S4 https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0
+## Weekly handoff / 假设交接
+W47-4 OPEN，外部 TCK、跨厂商 Runtime 与持久效果恢复 NOT_EXECUTED / NOT_OBSERVED
 
 ## Handoff and execution / 交接
 W47-1..4 OPEN，NEW ISSUER SOURCE REVISION / PARTIAL，source/metadata reading limited，checker/TCK/runtime NOT_EXECUTED，independent reviewer NOT_OBSERVED

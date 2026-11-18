@@ -7,25 +7,24 @@
 - producer: native research, one bounded observation window
 
 ## Research question / 可证伪问题
-当前证据是否足以证明 评测、安全与恢复 已发生具独立执行或规范效力的变化
+Draft noindex 和发布脚本的存在是否等于安全与可靠运行
 
-## Exact evidence object / 证据对象
-草案标记、noindex、kit PROTOCOL_VERSION=1.0 属源码配置事实，未执行构建测试或独立 conformance
+## Source custody / 精确来源与观察时序
+- 原生产截点 2026-11-18 05:02:42 Asia/Shanghai，核验补充时点 2026-11-18 12:07:27 Asia/Shanghai，同一 Daily 单元，没有新建第二个研究窗口
+- S1 https://github.com/personal-agent-protocol/personal-agent-protocol/commit/a1deeab03c519b0597df4e060fe20bc16d41c31e — 发行方源码提交、2026-11-17T14:27:23Z Git committer time
+- S2 https://github.com/personal-agent-protocol/personal-agent-protocol/blob/a1deeab03c519b0597df4e060fe20bc16d41c31e/content/versions/versions.json — 1.1 无 published 字段、1.0 published=2026-11-14
+- S3 https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.9 — 旧版本发行 2026-11-10
+- S4 https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0 — 旧版本发行 2026-11-11
+- S1 与 S2 是相同 Poppy issuer lineage，互不增加独立来源强度
 
-## What changed / 改变了什么
-发行方 GitHub #201 源码提交提供 1.1 Draft 的新版本对象，仍与 1.0 Published 严格分层
+## Domain-specific finding / 领域判断
+源码提交说明 1.1 Draft 页面增加 banner 与 noindex，并把 kit 的 PROTOCOL_VERSION 改由 docs:publish 发布步骤设置；这仅是源码与发行说明证据，未实跑构建和 TCK，MCP Servers v2.4.0 仍是另一个项目的 11-11 已发布对象
 
-## What remains open / 不变与反证
-没有冻结版本多提供者 conformance、真实用户效果分母或 durable-effect recovery trace
+## Falsifier and missing execution / 可证伪条件
+需在指定 revision 运行 docs/kit 构建、独立版本互通 TCK、安全回归和失败恢复实验，才支持 execution PASS
 
-## Falsifier / 可证伪条件
-提供同一原子对象的权威版本、准确事件时间、独立实现及可重放验收记录，可推翻当前缺口判断
-
-## Primary sources / 来源
-- S1 https://github.com/personal-agent-protocol/personal-agent-protocol/commit/a1deeab03c519b0597df4e060fe20bc16d41c31e
-- S2 https://github.com/personal-agent-protocol/personal-agent-protocol/blob/a1deeab03c519b0597df4e060fe20bc16d41c31e/content/versions/versions.json
-- S3 https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.9
-- S4 https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0
+## Weekly handoff / 假设交接
+W47-3 OPEN，外部 TCK、跨厂商 Runtime 与持久效果恢复 NOT_EXECUTED / NOT_OBSERVED
 
 ## Handoff and execution / 交接
 W47-1..4 OPEN，NEW ISSUER SOURCE REVISION / PARTIAL，source/metadata reading limited，checker/TCK/runtime NOT_EXECUTED，independent reviewer NOT_OBSERVED
