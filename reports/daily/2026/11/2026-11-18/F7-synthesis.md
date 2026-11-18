@@ -28,3 +28,8 @@ W47-1..4 OPEN，外部 TCK、跨厂商 Runtime 与持久效果恢复 NOT_EXECUTE
 
 ## Handoff and execution / 交接
 W47-1..4 OPEN，NEW ISSUER SOURCE REVISION / PARTIAL，source/metadata reading limited，checker/TCK/runtime NOT_EXECUTED，independent reviewer NOT_OBSERVED
+
+## Later source successor / F7 后验事件日期校准
+- event_date 11-16, issuer Git time 11-16T10:25:05Z, later_observed_at 2026-11-18T17:40:21+08:00：一条 Poppy Demo source revision，不能归属为 original Nov16 Native research，也不产生第二个原生日
+- Source Registry、G-W73 watchlist、ledger 在本次 later observation 向前更新唯一原始对象，W47 / November 只修复可核实来源与责任边界
+- W47-1..4 OPEN，Native 2/7 merged + 11-16 operator-reported run / delivery gap；Runtime/TCK/independent science NOT_EXECUTED

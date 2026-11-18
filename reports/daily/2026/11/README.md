@@ -1,5 +1,8 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-18 17:40:21 Asia/Shanghai late source / archival reconstruction**：11-16 issuer Git [#200](https://github.com/personal-agent-protocol/personal-agent-protocol/commit/656185321142da654fc255da5a9be6ef87c9de89) 的 Demo 版本标签变更于 11-18 才被本仓补充核对；[非原生 F1–F7 追溯研究](../../../../history/2026-11/2026-11-18-global-nov16-research-reconstruction/INTEGRATED.md) 已完成，**不是 11-16 原生 Daily**；任务运行仅 OPERATOR_REPORTED，原始回执仍不可回读；W47 仍 2/7 Native merged + 1/7 undelivered（非 NO_RUN），November OPEN
+
+
 **2026-11-18 15:28:56 Asia/Shanghai run-vs-delivery reconciliation**：[11-16 状态更正](../../../../history/2026-11/2026-11-18-global-nov16-run-delivery-reconciliation.md) 记录维护者确认当天任务曾运行（`OPERATOR_REPORTED_RUN`），但原始运行回执不可回读；本仓 11-16 原生 F1–F7 产物仍未进入 main，严格记为 `NATIVE_DELIVERY_GAP` 而非 `NO_RUN`，不虚构 Daily 链接或补算日期，W47 当前 2/7 已交付原生日（11-17、11-18），11-16 为独立记录的交付缺口
 
 
@@ -56,6 +59,6 @@
 | 2026-11-14 | [2026-11-14.md](./2026-11-14.md) | [2026-11-14/](./2026-11-14/) | W46 OPEN 6/7 on proposed branch / H46-1~4 OPEN / PARTIAL |
 | 2026-11-15 | [2026-11-15.md](./2026-11-15.md) | [2026-11-15/](./2026-11-15/) | W46 FINAL 7/7 on proposed branch，H46-1..4 OPEN，November OPEN |
 
-| 2026-11-16 | **No retained original Native Daily** — [later reconciliation](../../../../history/2026-11/2026-11-18-global-nov16-run-delivery-reconciliation.md) | **0/9 canonical native files** | W47 11-16 operator-reported run / run receipt unavailable / native delivery gap；A1/A2 & Pages independently executed but not native F1–F7 |
+| 2026-11-16 | **No retained original Native Daily** — [run reconciliation](../../../../history/2026-11/2026-11-18-global-nov16-run-delivery-reconciliation.md) / [retrospective F1–F7 reconstruction](../../../../history/2026-11/2026-11-18-global-nov16-research-reconstruction/INTEGRATED.md) | **0/9 canonical native files**; 9 non-native history artifacts | W47 11-16 operator-reported run / run receipt unavailable / native delivery gap；A1/A2 & Pages independently executed but not native F1–F7 |
 | 2026-11-17 | [2026-11-17.md](./2026-11-17.md) | [2026-11-17/](./2026-11-17/) | W47 1/7 merged native, W47-1..4 OPEN, November OPEN |
 | 2026-11-18 | [2026-11-18.md](./2026-11-18.md) | [2026-11-18/](./2026-11-18/) | W47 2/7 merged native, Nov16 delivery gap (run reported), W47-1..4 OPEN, November OPEN |

@@ -28,3 +28,8 @@ W47-1 OPEN，外部 TCK、跨厂商 Runtime 与持久效果恢复 NOT_EXECUTED /
 
 ## Handoff and execution / 交接
 W47-1..4 OPEN，NEW ISSUER SOURCE REVISION / PARTIAL，source/metadata reading limited，checker/TCK/runtime NOT_EXECUTED，independent reviewer NOT_OBSERVED
+
+## Later source successor / Demo 采用证据限界
+- [Poppy issuer #200](https://github.com/personal-agent-protocol/personal-agent-protocol/commit/656185321142da654fc255da5a9be6ef87c9de89) 于 Git 11-16 10:25:05Z 把 Cliffside Retail、Poppy Demo Agent、Print with Poppy 三条 Demo 版本标签改成 1.0、0.4、0.4，11-18 17:40:21 Asia/Shanghai 首次补充复核
+- 三条 Demo 记录属于同一发行方的一个 Git commit，不等于三条独立采用/上线/互操作验证，也不证明所有 Demo 在同一时刻可用
+- 需要独立 Demo 维护者的版本、端点、测试日志与用户/运行分母才可提升 F6 判断；G-W73 OPEN
