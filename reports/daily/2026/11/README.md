@@ -1,5 +1,8 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-18 15:28:56 Asia/Shanghai run-vs-delivery reconciliation**：[11-16 状态更正](../../../../history/2026-11/2026-11-18-global-nov16-run-delivery-reconciliation.md) 记录维护者确认当天任务曾运行（`OPERATOR_REPORTED_RUN`），但原始运行回执不可回读；本仓 11-16 原生 F1–F7 产物仍未进入 main，严格记为 `NATIVE_DELIVERY_GAP` 而非 `NO_RUN`，不虚构 Daily 链接或补算日期，W47 当前 2/7 已交付原生日（11-17、11-18），11-16 为独立记录的交付缺口
+
+
 **2026-11-18 12:19:28 Asia/Shanghai merged-main delivery reconciliation**： [PR #302](https://github.com/lostlight530/agentic-frontier-observatory/pull/302) 已于 2026-11-18 12:17:05 Asia/Shanghai 合并为当前 main `4d551f905f9a81dff80bc98e108a81cf0a462a6d`；11-18 F1–F7 原生包和 Poppy 1.1 Draft 源状态已进入 canonical main，W47 当前 2/7 merged、11-16 native GAP、W47-1..4 OPEN、November OPEN；下方早间 Draft 只保留历史生产时点语义，11-19..22 NOT_DUE
 
 
@@ -53,4 +56,6 @@
 | 2026-11-14 | [2026-11-14.md](./2026-11-14.md) | [2026-11-14/](./2026-11-14/) | W46 OPEN 6/7 on proposed branch / H46-1~4 OPEN / PARTIAL |
 | 2026-11-15 | [2026-11-15.md](./2026-11-15.md) | [2026-11-15/](./2026-11-15/) | W46 FINAL 7/7 on proposed branch，H46-1..4 OPEN，November OPEN |
 
-| 2026-11-18 | [2026-11-18.md](./2026-11-18.md) | [2026-11-18/](./2026-11-18/) | W47 OPEN 2/7 merged + 1 proposed; Nov16 GAP，November OPEN，Draft proposal |
+| 2026-11-16 | **No retained original Native Daily** — [later reconciliation](../../../../history/2026-11/2026-11-18-global-nov16-run-delivery-reconciliation.md) | **0/9 canonical native files** | W47 11-16 operator-reported run / run receipt unavailable / native delivery gap；A1/A2 & Pages independently executed but not native F1–F7 |
+| 2026-11-17 | [2026-11-17.md](./2026-11-17.md) | [2026-11-17/](./2026-11-17/) | W47 1/7 merged native, W47-1..4 OPEN, November OPEN |
+| 2026-11-18 | [2026-11-18.md](./2026-11-18.md) | [2026-11-18/](./2026-11-18/) | W47 2/7 merged native, Nov16 delivery gap (run reported), W47-1..4 OPEN, November OPEN |
