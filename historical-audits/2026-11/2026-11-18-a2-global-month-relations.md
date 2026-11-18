@@ -1,0 +1,599 @@
+# ORIGINAL Independent A2 2026-11-18 — Global F1–F7 full November relationship ledger (MTD OPEN)
+
+## Fresh merged A1 dependency, period and source corpus
+- Repo `lostlight530/agentic-frontier-observatory` latest main `ccfb434f38d35f175f42ef380ae0a9ce23ca06c5`, complete Git tree truncated=false, 1078 committed blobs, Open PR at preflight=0
+- Task independent-maintenance/A2, MonthStart→N=2026-11-01..18 Asia/Shanghai; NOT Native integrated Daily, not original A1, Periodic Audit, Governance or November Monthly FINAL
+- Original Independent A1 #306 actually merged; exact canonical retained file `historical-audits/2026-11/2026-11-18-a1-global-source-custody.md` @ `55ac7e2c5d3589ab73e481a2db2479f0ac8cc5b9` reread on fresh main
+- Earlier original A2 `historical-audits/2026-11/2026-11-17-a2-global-month-relations.md` @ `fe1a6d1cb522801224b233b7773ebdf4678a98b5` actually reopened, previous temporal conclusions inherited as historical source only
+- Native integrated Daily source objects 153/162 expected physical: one report, seven topic facets and README for each of 18 calendar days
+- Current source exact matching A1 path+blob 144; newly/directly read source inputs 9; current missing canonical sources 9
+- Historical independent A1/A2 original maintenance source identities 29, each with separate PR additions and historical review status
+- A single integrated F1–F7 Daily is ONE logical producer, nine files are not independent publishers or nine SDK conformance executions
+- 2026-11-16 integrated Daily has all NINE physical files MISSING from main; this A2 retains A1 missingness and does not substitute 11-17 or 11-18 as synthetic output
+- 2026-11-17 Native daily result explicitly PARTIAL / NO MATERIAL CHANGE / NO RUNTIME PROOF; 11-18 source is separate and must not retroactively alter it
+- Current-source patch identity, publisher issued_at, observed_at, software distribution, conformance test and runtime effect are separate time/evidence identities
+- W46 CLOSED, W47 OPEN (Nov16–22), the W47 report is provisional; natural November Monthly FINAL and D30 NOT_DUE, D7/D10/D14 separate
+- Executed: GitHub main/tree, merged A1 and prior A2 read, actual Nov18 9 native files read; current complete external issuer verification, SDK conformance, native producer and CI rerun NOT_EXECUTED
+
+## All actual month-to-date physical source nodes and relationship states
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01.md` @ `4456fb37ad022729c1205f1e9baa8772224fbaee`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01/F1-history-theory.md` @ `00a525ce63c1544f84304bd3b17fe11e58696072`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01/F2-models-algorithms.md` @ `1bc1642fe773b2585f9b63391093ae034cc57c47`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01/F3-infrastructure.md` @ `9b74eb898e370e21540fc9d808d78ef3bc2e8d9f`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01/F4-agentic-systems.md` @ `36adfaf549533ed8147aa8ce07f87495e35ac927`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01/F5-evaluation-governance.md` @ `62e64aca229a96049b1a45f79807b773f08c4146`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01/F6-ecosystem-society.md` @ `18e1dee3dbca09ee72c3de6bf3c2b6cf3d4fc52f`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01/F7-synthesis.md` @ `a9653bb67b34c1183d067229e81843e6b78544bc`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-01/README.md` @ `f439442544314597b242bf90455b314dd11e7d5b`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02.md` @ `009e3ededb2075f29d424e80f973278d7c5deb18`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02/F1-history-theory.md` @ `60d3b08bb244d0b59fb2f82b91a63dfaf664c073`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02/F2-models-algorithms.md` @ `b1f9d70e8c793270ec147a58ba1b12d986eb8998`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02/F3-infrastructure.md` @ `b3f455017b9a6af5c16e01b900fec499d6604ed3`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02/F4-agentic-systems.md` @ `12dfd9250a2578d2c121384c439510efe7988d35`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02/F5-evaluation-governance.md` @ `dd4d99c7a71e1f72ce401506d898467f1af8fa2f`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02/F6-ecosystem-society.md` @ `c18cf7bcc6cbe426d58849d823c6ee47e3831ff4`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02/F7-synthesis.md` @ `419c82edbcb6f3cff581b0f0177e8f0ce17492e8`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-02/README.md` @ `12f28a8abe804d0c29e16bccb5ff8992ea7b2857`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03.md` @ `f390b0013b3836752c2792d46b7f3b771a6fef03`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03/F1-history-theory.md` @ `d9779c8390f724ed6bf657061abd899960bc4e9d`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03/F2-models-algorithms.md` @ `3617e08f19a3552ac3b420e4577490f43fe1b5e0`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03/F3-infrastructure.md` @ `e9376f994980afce457b3c7ecd3ef8e74d92f6b6`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03/F4-agentic-systems.md` @ `774949e5888fb8ac9cb656bee3108a87143aa830`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03/F5-evaluation-governance.md` @ `13a0dd8ca6a314f0563a76d23b5bca2a43f13557`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03/F6-ecosystem-society.md` @ `f5f8a4e6db76ee994d4a76e2efb3b04a4e3916dd`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03/F7-synthesis.md` @ `ec54f59322b0a132a141656c7bab04fc89bbcef6`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-03/README.md` @ `e428ac3725498bfa8ae87e35c3b1141c6b4445a4`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04.md` @ `03d0e475571ca7b41c37b093a9e4b1e9cde4ed4f`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04/F1-history-theory.md` @ `d60e1c6ad7e305c05985a1a8292cfc933829cbfa`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04/F2-models-algorithms.md` @ `5196a6a00bbe0f95cb2acec1ec1f4fd1b7e09575`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04/F3-infrastructure.md` @ `149f7269cc3388eb06b4af25a6a08cdd0d32cee6`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04/F4-agentic-systems.md` @ `257a7bce35740987489ec64598d6fdec14dc34e2`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04/F5-evaluation-governance.md` @ `373a2ce5fde94848197f6dd25746b174c880e223`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04/F6-ecosystem-society.md` @ `6add8450d54fc756f2821bdc36609151e58044fe`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04/F7-synthesis.md` @ `31276502ec6ee1c7f947ca2bcbcf8088547e3a19`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-04/README.md` @ `37592bfceb6b69ca3ed2f77e2492c20aa4be10b5`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05.md` @ `875230f3e7376db347f60732d29e57d34433a79b`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05/F1-history-theory.md` @ `3801b229d4fe188958f65e76a4b20643c5418ea2`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05/F2-models-algorithms.md` @ `7093bc6ee743684bbea7dea5e76df4998326157b`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05/F3-infrastructure.md` @ `572507a870f683104566c3017516ffd9bac9a455`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05/F4-agentic-systems.md` @ `96fe9fbc19c665e6649d12287089edfc37f940f0`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05/F5-evaluation-governance.md` @ `d5e7a64b046f3fd71f7c6b8915538d4019988c09`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05/F6-ecosystem-society.md` @ `87032ecd068fca0d7ee48c05455ca19ab1494e01`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05/F7-synthesis.md` @ `e31ad9843cbaa6ba49a78b8cbe180fecca4e7c84`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-05/README.md` @ `790646d911cd86f6db79ca9b6592444897735d2a`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06.md` @ `be450996fc75dcb0dd397b5cba321bcc7f6663a0`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06/F1-history-theory.md` @ `f300b364320b9d122377b970bd82ece930e45721`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06/F2-models-algorithms.md` @ `439e441ce37e0982f7d143809df32e1908dbf71f`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06/F3-infrastructure.md` @ `25e232254dc2ac96e06230bebdbce7c5f9a1c5fa`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06/F4-agentic-systems.md` @ `4f6e7072a81c1fb415850cadad6da371b22bde48`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06/F5-evaluation-governance.md` @ `3e65ea94b8808da87a9114e84a957109db2d45ec`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06/F6-ecosystem-society.md` @ `f993e7cd48bd6976ebbf2ce0b01770f4446aaab7`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06/F7-synthesis.md` @ `ae519f2042d289b8c1c4df32b96433f4186d6480`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-06/README.md` @ `785e414d9b69dd297b10cebf99468bdd186775b9`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07.md` @ `ae1cd41ca58c2adbbb4318170672143f8f33e168`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07/F1-history-theory.md` @ `aa2d2801fb933e5ab37c8d4f5f74a5daf5203bea`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07/F2-models-algorithms.md` @ `92a0c85576f6e2eaa247291da4e96bca465a548a`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07/F3-infrastructure.md` @ `23780638817287e5c5d55085a193340886f91f98`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07/F4-agentic-systems.md` @ `dd50254b77e44870393f0a3788cc19246fe0f6b1`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07/F5-evaluation-governance.md` @ `51c349f609a76809cd49a4422ffc559612ca96c1`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07/F6-ecosystem-society.md` @ `a9d07a49080d7c50b57cfc18bb1525165b352e80`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07/F7-synthesis.md` @ `17340a1397c1b95aed7f6cc201e65ffc6a161965`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-07/README.md` @ `145ab7d8b1bf5a08b0dd9e822ba4f6ebcd2a2f4a`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08.md` @ `0f41a7ce47c8f0f62dc9786a2bfd4bb38e666bd9`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08/F1-history-theory.md` @ `9f22b5ada6a523c0dda2b49449b5eff751d73e5d`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08/F2-models-algorithms.md` @ `af1b4c6f899ce56bbe3641be09f2e63c214f55a5`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08/F3-infrastructure.md` @ `0dd2fb1bb7b6466df5132374bf9fe5c3511c92cf`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08/F4-agentic-systems.md` @ `5ee5c728ad07a4c92734dc62c34dc386bd96cbd6`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08/F5-evaluation-governance.md` @ `3351a80e84882cdf59620a570f540c3775c94604`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08/F6-ecosystem-society.md` @ `d66ef161ffa479da6fbcf074c9cc29620c28dd7e`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08/F7-synthesis.md` @ `d684398fba21686bae76e51e3706ab4b126cf9b0`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-08/README.md` @ `1c95def6ca42f5028bf7011855402b654f0eaec8`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09.md` @ `e386111d60bb51cc355c32e3879d67e92de9c336`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09/F1-history-theory.md` @ `e4d401fcb7f9faf0acb1e3bd12a575de414c80b3`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09/F2-models-algorithms.md` @ `474f79d9336809e2cbd688803e22d65e262da28e`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09/F3-infrastructure.md` @ `370931f0b892afd78ac0f4b42eab7b7dcd0e5604`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09/F4-agentic-systems.md` @ `727c0b9c62b56857450113a5d75872c77393f93c`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09/F5-evaluation-governance.md` @ `4cb560382d1f32f529eef803aafd51572093c432`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09/F6-ecosystem-society.md` @ `160d1c944d15cf5d6e1ace5994559a765e005bd6`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09/F7-synthesis.md` @ `5541fa735d416f41599c2e6db7007863d7ca741b`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-09/README.md` @ `db7a6e5d042090b4ac837868e2f9f1fd2445a712`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10.md` @ `f63dd4346794ce209775e1ae8ff25e4550e34e0a`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10/F1-history-theory.md` @ `890cd9e276233042feafbb951d72c8c86040d40e`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10/F2-models-algorithms.md` @ `019df99b419de6f76c59917e36f071d75ebad9e0`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10/F3-infrastructure.md` @ `a724a0652efb0dd11c2e0e52add47a3df674029a`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10/F4-agentic-systems.md` @ `e3064525ac58ab105ad5fa929ae12e3d760629ed`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10/F5-evaluation-governance.md` @ `a19660b05f53e89842b54d8e36a365412f356b78`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10/F6-ecosystem-society.md` @ `bf6ca5f8f105c6223bd1bcdb3482daba34e76752`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10/F7-synthesis.md` @ `7b44c0e7794afdee9d8fc381c5975371bcbdfb1a`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-10/README.md` @ `282f4d145e4fcc4df4e61761edd67caf7f039050`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11.md` @ `5851fc3f7f1f3733a183bcefa20b18ab51efb43d`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11/F1-history-theory.md` @ `c6c510552b2069400a36bb180f353cf9ed9309a4`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11/F2-models-algorithms.md` @ `4d415d7e05136ea59becef11eb330bd2ceb9ee74`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11/F3-infrastructure.md` @ `398cf7579119ff960509033e9edcf41be331e7c1`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11/F4-agentic-systems.md` @ `ae8880fcc8b3878454304863b7b3933a3c189ffe`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11/F5-evaluation-governance.md` @ `a7ce3e248fef3c1fa196ed090fdc6fbcd2b74f2a`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11/F6-ecosystem-society.md` @ `2184fdb105e70359fb3936c5440aaa3bd5676c82`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11/F7-synthesis.md` @ `833fa8178fd7ada4ebbaf38a4c991b983d1911b1`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-11/README.md` @ `2f84c18ed3061059886c0107a28defd603c32156`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12.md` @ `c8cd049031c00cbbb7b372c3e41c988361d03b06`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12/F1-history-theory.md` @ `5753f650e0ef9060c00998bcd70f7882d50ace4e`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12/F2-models-algorithms.md` @ `8c04bbdad721464c60885918bbbdeb233a043aec`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12/F3-infrastructure.md` @ `be2a60dfaa5ad3daf0e5c6328c8ceaf8fe1f8647`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12/F4-agentic-systems.md` @ `23d41e9b9ccf658e7da334830778757332487287`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12/F5-evaluation-governance.md` @ `fa201fc0269d67ddef1301f28e37dc80c31f4d0a`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12/F6-ecosystem-society.md` @ `2ee60cf3a82c857adb3381b4675affb8404db1dd`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12/F7-synthesis.md` @ `e34c23c93854001d85c49fc10456b1aef726d021`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-12/README.md` @ `ebc7f49e25fad4a568fc03246c1d44aa22763655`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13.md` @ `d91c2169452ea9ac84c8a525e81ed142439d7522`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13/F1-history-theory.md` @ `ea23ba730bc1c700efabeae76547bd16caaa5187`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13/F2-models-algorithms.md` @ `d6b898c275c449150da008679d41a89dcdcf5c1f`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13/F3-infrastructure.md` @ `e9dbdc00cb20e0085c0635af482d215b832f9b4f`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13/F4-agentic-systems.md` @ `8db42e525216d9d030d119b58b54743f00d149ee`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13/F5-evaluation-governance.md` @ `6c06783f28400f2df8db698d536d52e2c6a23aab`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13/F6-ecosystem-society.md` @ `d86f0e012acca3fb757af156ddacc41047f5125b`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13/F7-synthesis.md` @ `53ace0fed2cee60fe8fe3a6a788441d0dbdd4ac7`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-13/README.md` @ `f06536bc6984964cfb3e7fdf8c931d1ebc347290`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14.md` @ `ae0925003c1f59a279e44602878f95863ac54154`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14/F1-history-theory.md` @ `6593e237963b99478b40bcfeae10c32dd65d08ef`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14/F2-models-algorithms.md` @ `7b8fef87b203b797a6124b26397ab1b1e1e5dabd`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14/F3-infrastructure.md` @ `76d73343614231919e73882fd4b8853b5c00afc3`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14/F4-agentic-systems.md` @ `d30e27feb91c3405d0d3fc9bbf8814e10f610757`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14/F5-evaluation-governance.md` @ `6fbde98a442df7d0ba96d7efff00f93e8dc12c7d`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14/F6-ecosystem-society.md` @ `7dc9fd80b180f60ae6f912b2b8711ef0bf84a157`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14/F7-synthesis.md` @ `c411348d4a07661e183a1e0e5fa03982de9328bb`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-14/README.md` @ `be7a38e5f516e65eaf559b85e0dc62ce9e92325c`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15.md` @ `ada76f894b09f6e74e6fcf5d9c592f111f0d5298`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15/F1-history-theory.md` @ `00ad85e5f4a8901e100d46eb9453d04363c62336`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15/F2-models-algorithms.md` @ `5fea81be57e37dc9842b8918f308ef70fed378d9`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15/F3-infrastructure.md` @ `3e2dc25c55524d91aecd4b6d9d678ec2fd814ac6`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15/F4-agentic-systems.md` @ `089fd0d2e96e9f593bbca889c01d4616d5072442`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15/F5-evaluation-governance.md` @ `8f41b29ab67aecb3d1cc07d8edecb3070eb3fd15`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15/F6-ecosystem-society.md` @ `3b5b3eecdb2ccde41931755351998466d3037371`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15/F7-synthesis.md` @ `27d66e8e29b0ec754753fb26c154ff9e7a57c098`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-15/README.md` @ `08b5eb742470ecb72636f9d8e0ead08dd71f79e2`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17.md` @ `fc3be1950dfda2e3cd77095679396ee2fc75ec3c`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17/F1-history-theory.md` @ `b80a30a975582ef24d5ed3d742fb104d273467f3`; owner F1_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17/F2-models-algorithms.md` @ `767c008572e2d1964e0424ae0576214248f5a7dc`; owner F2_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17/F3-infrastructure.md` @ `5c4017a8999a696ff912c58cc06c91525eda01d0`; owner F3_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17/F4-agentic-systems.md` @ `b5e8fef9633aa38918f808c86bf5659b2b83a0eb`; owner F4_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17/F5-evaluation-governance.md` @ `b945660f771dcb298d102546654a357e55fdf45c`; owner F5_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17/F6-ecosystem-society.md` @ `459e39b51668a0be9d84ee4d91f51525233d6d6e`; owner F6_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17/F7-synthesis.md` @ `3b00b65b1eb571157fd41b9894bae744d52c614f`; owner F7_TOPIC_FACET
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-17/README.md` @ `7281f0e3e03ebc74f2c765fd687d8c38030e7e59`; owner INTEGRATED_PACK_INDEX
+  - STATE INHERITED_EXACT_MERGED_A1_PATH_BLOB / NO_NEW_ISSUER
+  - INTERPRETATION previous full A1 exact source/text custody retained; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18.md` @ `60784de0a42bd26459ba5d720c184bcbc5af357b`; owner INTEGRATED_DAILY_NARRATIVE
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 90 lines, statuses=PARTIAL/UNVERIFIED/NOT_EXECUTED; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18/F1-history-theory.md` @ `dc134797377d8ddc7a329affdcaebb0986c4c87b`; owner F1_TOPIC_FACET
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 36 lines, statuses=PARTIAL/NOT_EXECUTED; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18/F2-models-algorithms.md` @ `5c6dfc12fb17c1bbcde58cbc3045d25ee1f7e158`; owner F2_TOPIC_FACET
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 31 lines, statuses=PARTIAL/NOT_EXECUTED; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18/F3-infrastructure.md` @ `1eec90ab966936acae2cbab70dd309a1e32d1181`; owner F3_TOPIC_FACET
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 31 lines, statuses=PARTIAL/NOT_EXECUTED; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18/F4-agentic-systems.md` @ `75640e1cc3a6fab24d284a5db9d19c8476191b82`; owner F4_TOPIC_FACET
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 31 lines, statuses=PARTIAL/NOT_EXECUTED; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18/F5-evaluation-governance.md` @ `f3a5f77f8a1e67ddafa3faff050278e258def3b6`; owner F5_TOPIC_FACET
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 31 lines, statuses=PARTIAL/NOT_EXECUTED; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18/F6-ecosystem-society.md` @ `96975cc1c0de0a9f6d1c4159d1c1da565a04816f`; owner F6_TOPIC_FACET
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 36 lines, statuses=PARTIAL/NOT_EXECUTED; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18/F7-synthesis.md` @ `79f3a13b436c47fa22b4d01bdd0458e81d43a33b`; owner F7_TOPIC_FACET
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 36 lines, statuses=PARTIAL/NOT_EXECUTED; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+- SOURCE_RELATION `reports/daily/2026/11/2026-11-18/README.md` @ `8897f61f7fd0d7e6318dbfdd2bb61184c705aed9`; owner INTEGRATED_PACK_INDEX
+  - STATE NEW_NATIVE_18_SOURCE / CHANGED_DATE_COVERAGE / SCIENTIFIC_STRENGTH_NOT_INFERRED
+  - INTERPRETATION new file directly read 15 lines, statuses=PARTIAL; original publisher/event, SDK TCK and cross-provider independent replication not conflated
+
+## 2026-11-18 direct source-facet inspection — not independent publication count
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18.md` @ `60784de0a42bd26459ba5d720c184bcbc5af357b`
+  - Actual 90 source lines, heading `# 2026-11-18 Global F1–F7｜有界原生研究与证据边界`
+  - Source status excerpt `- observation_cutoff: 2026-11-18 05:02:42 Asia/Shanghai / 2026-11-17T21:02:42Z`; flags PARTIAL/UNVERIFIED/NOT_EXECUTED; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18/F1-history-theory.md` @ `dc134797377d8ddc7a329affdcaebb0986c4c87b`
+  - Actual 36 source lines, heading `# 2026-11-18 F1｜协议历史与版本语义`
+  - Source status excerpt `- observation_cutoff: 2026-11-18 05:02:42 Asia/Shanghai / 2026-11-17T21:02:42Z`; flags PARTIAL/NOT_EXECUTED; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18/F2-models-algorithms.md` @ `5c6dfc12fb17c1bbcde58cbc3045d25ee1f7e158`
+  - Actual 31 source lines, heading `# 2026-11-18 F2｜模型与算法证据`
+  - Source status excerpt `- observation_cutoff: 2026-11-18 05:02:42 Asia/Shanghai / 2026-11-17T21:02:42Z`; flags PARTIAL/NOT_EXECUTED; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18/F3-infrastructure.md` @ `1eec90ab966936acae2cbab70dd309a1e32d1181`
+  - Actual 31 source lines, heading `# 2026-11-18 F3｜基础设施、SDK 与工具链`
+  - Source status excerpt `- observation_cutoff: 2026-11-18 05:02:42 Asia/Shanghai / 2026-11-17T21:02:42Z`; flags PARTIAL/NOT_EXECUTED; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18/F4-agentic-systems.md` @ `75640e1cc3a6fab24d284a5db9d19c8476191b82`
+  - Actual 31 source lines, heading `# 2026-11-18 F4｜身份、授权与 Agent Runtime`
+  - Source status excerpt `- observation_cutoff: 2026-11-18 05:02:42 Asia/Shanghai / 2026-11-17T21:02:42Z`; flags PARTIAL/NOT_EXECUTED; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18/F5-evaluation-governance.md` @ `f3a5f77f8a1e67ddafa3faff050278e258def3b6`
+  - Actual 31 source lines, heading `# 2026-11-18 F5｜评测、安全与恢复`
+  - Source status excerpt `- observation_cutoff: 2026-11-18 05:02:42 Asia/Shanghai / 2026-11-17T21:02:42Z`; flags PARTIAL/NOT_EXECUTED; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18/F6-ecosystem-society.md` @ `96975cc1c0de0a9f6d1c4159d1c1da565a04816f`
+  - Actual 36 source lines, heading `# 2026-11-18 F6｜发行生态与采纳`
+  - Source status excerpt `- observation_cutoff: 2026-11-18 05:02:42 Asia/Shanghai / 2026-11-17T21:02:42Z`; flags PARTIAL/NOT_EXECUTED; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18/F7-synthesis.md` @ `79f3a13b436c47fa22b4d01bdd0458e81d43a33b`
+  - Actual 36 source lines, heading `# 2026-11-18 F7｜综合证据与未决假设`
+  - Source status excerpt `- observation_cutoff: 2026-11-18 05:02:42 Asia/Shanghai / 2026-11-17T21:02:42Z`; flags PARTIAL/NOT_EXECUTED; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+- DIRECT_N18_INPUT `reports/daily/2026/11/2026-11-18/README.md` @ `8897f61f7fd0d7e6318dbfdd2bb61184c705aed9`
+  - Actual 15 source lines, heading `# 2026-11-18 F Native Daily Pack`
+  - Source status excerpt `NOT_SINGULAR`; flags PARTIAL; actual external TCK, deployment and effects are UNKNOWN without separate receipts
+
+## Explicit missing Nov16 logical producer and all nine physical inputs
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16/F1-history-theory.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16/F2-models-algorithms.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16/F3-infrastructure.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16/F4-agentic-systems.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16/F5-evaluation-governance.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16/F6-ecosystem-society.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16/F7-synthesis.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- MISSING_CANONICAL_NOV16 `reports/daily/2026/11/2026-11-16/README.md`; full current main tree absence verified; original execution cause and retained provider output UNKNOWN, no synthetic native backfill
+- One missing logical Daily, nine missing physical files, not nine independent producer failures; N18 must not rewrite previously reported N17 gap
+
+## Closed versus open weekly source identities
+- WEEKLY_SOURCE `reports/weekly/2026/2026-W44.md` @ `bf765c7e679cf7240f92aea466237bf181286b9b`
+  - CLOSED_WEEK_SOURCE; weekly synthesis does not manufacture omitted daily source inputs or independent runtime verification
+- WEEKLY_SOURCE `reports/weekly/2026/2026-W45.md` @ `bfc99614fa276528eac321281d8b072b759a4aa3`
+  - CLOSED_WEEK_SOURCE; weekly synthesis does not manufacture omitted daily source inputs or independent runtime verification
+- WEEKLY_SOURCE `reports/weekly/2026/2026-W46.md` @ `a21c0e473e36f9cdb51cdf42df094f3d5f665f09`
+  - CLOSED_WEEK_SOURCE; weekly synthesis does not manufacture omitted daily source inputs or independent runtime verification
+- WEEKLY_SOURCE `reports/weekly/2026/2026-W47.md` @ `4fbad3d9ca9fe53ce7ac1b723d4af2e81deedb8d`
+  - OPEN_WEEK_W47 / PROVISIONAL_NOT_FINAL; weekly synthesis does not manufacture omitted daily source inputs or independent runtime verification
+
+## Historical original A1/A2 monthly editions
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-02-a1-global-source-custody.md` @ `c5be6290c3e0cfaadfa051c9c77802fb1289e381`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-03-a1-global-source-custody.md` @ `cc446ccad02b07174dce9f1a837647f97c97da47`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-04-a1-global-source-custody.md` @ `26d250d386b5842b59cadcba7af5760330b386ae`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-05-a1-global-source-custody.md` @ `757109134b943294e293f43f1f0f6acf4dbf213b`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-06-a1-global-source-custody.md` @ `0a0b3964005634cc9a7621feaa66db1e141e2266`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-06-a2-global-month-relations.md` @ `c9952ca078057d4c5dd5b59146b55a84addcd58d`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-07-a1-global-source-custody.md` @ `2367ac978c03b68c8e68a1d4d1de2df071280c91`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-07-a2-global-month-relations.md` @ `26b82b5a37ad095344ef62f258b64e030921eb24`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-08-a1-global-source-custody.md` @ `150787a8ecbb6e1413b6872f076af25c87a036b5`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-08-a2-global-month-relations.md` @ `54c9c88cc147842c69237219d9041d8ccfd9a5d1`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-09-a1-global-source-custody.md` @ `244e083ff8de61ae87ae507fc54ab67f6f7cfa07`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-09-a2-global-month-relations.md` @ `62f06335a150e8606fa79a27360c1b59e89795f3`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-10-a1-global-source-custody.md` @ `b3bd946bfc6aaea00ee7bf30d45677d171517645`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-10-a2-global-month-relations.md` @ `485b9a03f4d10580eca66a5fc2805ef5a2826581`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-11-a1-global-source-custody.md` @ `0759b8100b7290f8a674338c95cd039a07e5df29`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-11-a2-global-month-relations.md` @ `87f1b4af7137e946c6ac162356d7d8745c2eeb45`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-12-a1-global-source-custody.md` @ `6dd3114135408a6092975e8851b0203658363df8`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-12-a2-global-month-relations.md` @ `e55af2d7d6e46d778087277354f06dcd85d73b26`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-13-a1-global-source-custody.md` @ `8a76d44589a571619f3a9f916b22b5942d537ec9`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-13-a2-global-month-relations.md` @ `1905c2e8201bda76d4be24f5d2b335f28b61bb4a`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-14-a1-global-source-custody.md` @ `aae37eedfc68ad11eea995170dc08e57b8b288a3`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-14-a2-global-month-relations.md` @ `f890c109ab907b7c97ebf3243103bee375282eb5`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-15-a1-global-source-custody.md` @ `b958506b11912f3f19d5292c3c6e5095a72e746f`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-15-a2-global-month-relations.md` @ `0ef5daf6d2b5eb674a75cf8f71ec0c50ef848506`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-16-a1-global-source-custody.md` @ `e1efdfbc0d33ea89859f65c2c7467003658f95e7`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-16-a2-global-month-relations.md` @ `081b03f1261a32179906444b80597fd5fc8a7703`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-17-a1-global-source-custody.md` @ `b2aea668e2b5198a60d669374b26640dfcde6a3f`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-17-a2-global-month-relations.md` @ `fe1a6d1cb522801224b233b7773ebdf4678a98b5`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+- ORIGINAL_MONTHLY_HISTORY `historical-audits/2026-11/2026-11-18-a1-global-source-custody.md` @ `55ac7e2c5d3589ab73e481a2db2479f0ac8cc5b9`
+  - Version relationship: past original retained at main, its numeric/semantic/review and later corrections cannot be backfilled by today's A2
+
+## Contradiction handling, Evidence Delta and next trigger
+- NEW_EVIDENCE: Nov18 integrated 9-file source pack actually read and exact post-A1 main record, completing all visible Nov01–18 coverage except the real Nov16 gap
+- CORRECTED_INTERPRETATION: an observation of an unchanged issuer release does not create a new publication or prove a runtime conformance test ran today
+- UNCHANGED_BOUNDARY: integrated Daily report and seven facets have ONE producer identity; weekly and month relation are derived relationships, not additional original issuer evidence
+- NEW_COUNTEREVIDENCE: 2026-11-16 missing pack, pending Poppy/MCP versioned cross-provider TCK, no authoritative external effect sink and no verified AI protocol governance stage transition
+- UNKNOWN_RETAINED: missing Nov16 original producer execution status, exact issuer acceptance/adoption beyond source texts, real multi-provider conformance and independent repro
+- NEXT_RETEST_CONDITION: recover authentic Nov16 native producer/run and source identities or record bounded correction without retroactive authorship, then execute pinned cross-provider TCK with source-level receipts
+- Current relation disposition UPDATED_MTD / SOURCE_COVERAGE_PARTIAL / W47_OPEN / NOVEMBER_NOT_FINAL
+- All original F1–F7 Native source files, Jules record, A1 historical custody and prior original maintenances remain untouched; no forced new Native file
+- Original A2 GitHub additions >=100 and semantic evidence are independent gates; missing sources are real coverage outcomes, not bugs fixed by padding
