@@ -1,5 +1,7 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-18 17:40:21 Asia/Shanghai late evidence successor：first-party Poppy [#200](https://github.com/personal-agent-protocol/personal-agent-protocol/commit/656185321142da654fc255da5a9be6ef87c9de89) Git 2026-11-16T10:25:05Z changes three Demo protocol-version labels in demos.mdx (Cliffside Retail→1.0, Poppy Demo Agent→0.4, Print with Poppy→0.4)；issuer documentation, not three independent conformance/adoption proofs；original Nov16 Native run is operator-reported but Daily not retained；G-W73, W47-1..4 OPEN
+
 - 2026-11-18 05:02:42 Asia/Shanghai first observed issuer Git #201 a1deeab03c519b0597df4e060fe20bc16d41c31e：Poppy 1.1 NEWEST_DRAFT and 1.0 LATEST_PUBLISHED；default docs/kit route logic follows latest published, not draft；G-W73 and W47-1..4 still OPEN for independent multi-company authority/revocation/conformance, durable effects and recovery
 
 - 2026-11-15 2026-11-15 14:38:36 Asia/Shanghai Poppy 1.0 current publisher status: version manifest at `85b41ff27e8f6a098d06b71f14d83b1513c728a5` declares published 2026-11-14; git commit 2026-11-14T15:12:25Z；G-W73 OPEN for independent cross-company identity/authority/revocation/conformance and external-effect recovery，older Draft observations remain point-in-time

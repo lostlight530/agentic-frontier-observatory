@@ -28,3 +28,8 @@ W47-1 OPEN，外部 TCK、跨厂商 Runtime 与持久效果恢复 NOT_EXECUTED /
 
 ## Handoff and execution / 交接
 W47-1..4 OPEN，NEW ISSUER SOURCE REVISION / PARTIAL，source/metadata reading limited，checker/TCK/runtime NOT_EXECUTED，independent reviewer NOT_OBSERVED
+
+## Later source successor / 发行史追加观察
+- 2026-11-18 17:40:21 Asia/Shanghai 才读到 [Poppy #200](https://github.com/personal-agent-protocol/personal-agent-protocol/commit/656185321142da654fc255da5a9be6ef87c9de89)，其 Git date 2026-11-16T10:25:05Z；仅 Demo labels 0.4→1.0 / 0.3→0.4 / 0.3→0.4 的 MDX 修订
+- 不能把 #200 的 Demo label 当作新的 1.0 协议正式发布日期；原 1.0 published=11-14 属前一发行方版本语义，#201 1.1 Draft 的源码时间晚于 #200
+- 原 11-18 05:02:42 研究 cutoff 不改；11-16 原生产 run receipt 不可回读；W47-1 OPEN
