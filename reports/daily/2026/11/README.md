@@ -1,5 +1,7 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-18 05:02:42 Asia/Shanghai native F proposal**：Nov16 native NOT_OBSERVED；Nov17 merged；Nov18 current proposal；NEW ISSUER SOURCE REVISION / PARTIAL；W47 OPEN，November OPEN；Poppy #201 于 2026-11-17T14:27:23Z 提交，1.1 为 Draft，1.0 保持 published default，仅本次 Draft 提案，未合并
+
 **2026-11-17 2026-11-17 04:57:35 Asia/Shanghai native Global F1–F7 proposal**：main `e54710d74bc938c90f6cbcbca8aa210206d7353c`，11-17 新原生 pack 在 Draft 分支待审，W47 OPEN，H47-1..4 OPEN，November OPEN；11-16 native main 缺失且无可证实同日生产，不倒填；Poppy 1.0、Registry 和 Servers 旧发行证据本日复核 NO MATERIAL CHANGE
 
 **2026-11-15 2026-11-15 14:38:36 Asia/Shanghai native F1–F7 Sunday settlement proposed**：main `f6a5b1c02be6449ee5504e9d3a022afef1f6d2b4` retains Nov01–14，today fifteenth native pack on branch；W46 6 merged + one proposed = 7/7 on branch；Poppy publisher 1.0 milestone observed, H46-1..4 OPEN，November OPEN
@@ -47,3 +49,5 @@
 | 2026-11-13 | [2026-11-13.md](./2026-11-13.md) | [2026-11-13/](./2026-11-13/) | W46 OPEN 5/7 proposed, 4/7 merged / H46-1~4 OPEN / PARTIAL |
 | 2026-11-14 | [2026-11-14.md](./2026-11-14.md) | [2026-11-14/](./2026-11-14/) | W46 OPEN 6/7 on proposed branch / H46-1~4 OPEN / PARTIAL |
 | 2026-11-15 | [2026-11-15.md](./2026-11-15.md) | [2026-11-15/](./2026-11-15/) | W46 FINAL 7/7 on proposed branch，H46-1..4 OPEN，November OPEN |
+
+| 2026-11-18 | [2026-11-18.md](./2026-11-18.md) | [2026-11-18/](./2026-11-18/) | W47 OPEN 2/7 merged + 1 proposed; Nov16 GAP，November OPEN，Draft proposal |
