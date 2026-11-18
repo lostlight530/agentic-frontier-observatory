@@ -1,5 +1,7 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-18 05:02:42 Asia/Shanghai first observed issuer Git #201 a1deeab03c519b0597df4e060fe20bc16d41c31e：Poppy 1.1 NEWEST_DRAFT and 1.0 LATEST_PUBLISHED；default docs/kit route logic follows latest published, not draft；G-W73 and W47-1..4 still OPEN for independent multi-company authority/revocation/conformance, durable effects and recovery
+
 - 2026-11-15 2026-11-15 14:38:36 Asia/Shanghai Poppy 1.0 current publisher status: version manifest at `85b41ff27e8f6a098d06b71f14d83b1513c728a5` declares published 2026-11-14; git commit 2026-11-14T15:12:25Z；G-W73 OPEN for independent cross-company identity/authority/revocation/conformance and external-effect recovery，older Draft observations remain point-in-time
 
 - 2026-11-12 18:53:37 Asia/Shanghai current successor: MCP official servers v2.4.0 released 2026-11-11 and first observed here Nov12，issuer claims tool invocation/filesystem/git/fetch hardening，runtime trust and durable-effect/recovery remain unvalidated，G-W07/G-W14 and W46 H46-3 remain OPEN
@@ -13,7 +15,7 @@
 
 - 2026-11-05 current-state successor: Poppy 0.3 发行方版本元数据已标记 published=2026-11-04，Git 证据提交于 2026-11-05T00:09:43Z，0.4 Draft；G-W73 的跨提供者 conformance、effect/recovery 仍 OPEN
 
-Updated: **2026-11-15 · Poppy 1.0 publisher PUBLISHED, G-W73 conformance OPEN**
+Updated: **2026-11-18 · Poppy 1.1 NEWEST DRAFT / 1.0 LATEST PUBLISHED, G-W73 conformance OPEN**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 

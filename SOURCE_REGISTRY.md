@@ -11,6 +11,14 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-18 Poppy 1.1 Draft current-source successor
+- 1.1 was added as an unpublished Draft in first-party pinned commit a1deeab03c519b0597df4e060fe20bc16d41c31e with Git committer time 2026-11-17T14:27:23Z, first observed by this observatory on 2026-11-18 05:02:42 Asia/Shanghai
+- 1.0 remains the latest publisher-declared published version, with manifest publication label 2026-11-14; NEWEST_DRAFT is not LATEST_PUBLISHED
+- Git commit time is not a proven website deployment timestamp and publisher spec source is not independent cross-provider acceptance
+- G-W73 / W47-1..4 stay OPEN for authorization, revocation, external effects and recovery verification
+- https://github.com/personal-agent-protocol/personal-agent-protocol/commit/a1deeab03c519b0597df4e060fe20bc16d41c31e
+
+
 ## 2026-11-15 Poppy 1.0 version-status forward successor
 - observed at 2026-11-15 14:38:36 Asia/Shanghai from pinned first-party `85b41ff27e8f6a098d06b71f14d83b1513c728a5`, `1.0 published=2026-11-14`, spec describes version 1.0 rather than Draft
 - release commit `8c02b4282eda53468a7c09412558bc8b060d95f6` committer date `2026-11-14T15:12:25Z` is Git evidence, not proof of exact public website transition
@@ -27,10 +35,11 @@
 - Release commit: https://github.com/personal-agent-protocol/personal-agent-protocol/commit/48039002795c9ebb390f1966fb70f82e4790efb6
 
 
-Updated through: **2026-11-15** (Poppy 1.0 publisher-release successor observed 2026-11-15 14:38:36 Asia/Shanghai; earlier Draft snapshot historical)
+Updated through: **2026-11-18** (Poppy 1.1 Draft version identity added while 1.0 remains latest published, first observed 2026-11-18 05:02:42 Asia/Shanghai)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
+| G-PAP-1-1-DRAFT-OBS-2026-11-18 | G2 | Poppy first-party version manifest at fixed Git revision | 1.1 NEWEST_DRAFT, no published field; 1.0 LATEST_PUBLISHED with publisher publication label 2026-11-14, Git #201 at 2026-11-17T14:27:23Z, first observed 2026-11-18 05:02:42 Asia/Shanghai, website transition UNVERIFIED, independent cross-provider conformance OPEN | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/a1deeab03c519b0597df4e060fe20bc16d41c31e/content/versions/versions.json |
 | G-PAP-1-0-PUBLISHED-OBS-2026-11-15 | G2 | Poppy first-party pinned manifest and specification | `published=2026-11-14` at `85b41ff27e8f6a098d06b71f14d83b1513c728a5`; Git commit `8c02b4282eda53468a7c09412558bc8b060d95f6` at `2026-11-14T15:12:25Z`, observed 2026-11-15 14:38:36 Asia/Shanghai，exact website transition UNVERIFIED, cross-provider conformance OPEN | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/85b41ff27e8f6a098d06b71f14d83b1513c728a5/content/versions/versions.json |
 | G-PAP-1-0-DRAFT-2026-11-14 | G2 | personal-agent-protocol/personal-agent-protocol first-party versioned specification | Pinned main `31c87cc353933907157b18f06bf31ac3f168f415` reads 1.0 Draft spec and 1.0 manifest entry without published date；observed 2026-11-14 08:28:00 Asia/Shanghai，first publication/transition date UNVERIFIED，not RELEASED_1_0 or conformance | https://github.com/personal-agent-protocol/personal-agent-protocol/blob/31c87cc353933907157b18f06bf31ac3f168f415/content/versions/1.0/spec.mdx |
 | G-MCP-REGISTRY-V1-8-9-2026-11-10 | G2 | modelcontextprotocol/registry first-party release | v1.8.9 published 2026-11-10T11:08:07Z，observed 2026-11-14 08:28:00 Asia/Shanghai；publisher says incremental-sync pagination and staged autoscaling guards，no deployed availability, authority or execution certification | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.9 |
