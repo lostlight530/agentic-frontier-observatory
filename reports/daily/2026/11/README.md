@@ -1,5 +1,8 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-19 09:58:51 Asia/Shanghai merged-main delivery reconciliation**：[2026-11-19 Global F1–F7](./2026-11-19.md) 经 [PR #308](https://github.com/lostlight530/agentic-frontier-observatory/pull/308) 于 2026-11-19 09:54:10 Asia/Shanghai 合并，main `d05e3d0d86058092c165dd24000339c5bcb6fec1` 含 integrated + F1–F7 + pack index，November 原生 11-01..15、11-17..19 共 **18 个已合并日期**，11-16 OPERATOR_REPORTED_RUN / NATIVE_DELIVERY_GAP 仍然存在；W47 11-17..19 **3/7 merged + 1 historical gap**，W47-1..4 OPEN、November OPEN，11-20..22 NOT_DUE；旧 08:31:26 Draft 为 producer-time 快照，不代表当前 main，external TCK/CI/Runtime NOT_EXECUTED，independent PR Review NOT_OBSERVED
+
+
 **2026-11-19 08:31:26 Asia/Shanghai current native Global Draft proposal**： [11-19 F1–F7](./2026-11-19.md)，main 11-17/18 原生 2/7、11-16 OPERATOR_REPORTED_RUN / NATIVE_DELIVERY_GAP，11-19 新提案在合并前不计入 main，11-20..22 NOT_DUE；MCP v2.5.0 Release 及 Poppy Draft 11-18 修订为本次首次核验，W47-1..4 OPEN，November OPEN
 
 **2026-11-18 17:40:21 Asia/Shanghai late source / archival reconstruction**：11-16 issuer Git [#200](https://github.com/personal-agent-protocol/personal-agent-protocol/commit/656185321142da654fc255da5a9be6ef87c9de89) 的 Demo 版本标签变更于 11-18 才被本仓补充核对；[非原生 F1–F7 追溯研究](../../../../history/2026-11/2026-11-18-global-nov16-research-reconstruction/INTEGRATED.md) 已完成，**不是 11-16 原生 Daily**；任务运行仅 OPERATOR_REPORTED，原始回执仍不可回读；W47 仍 2/7 Native merged + 1/7 undelivered（非 NO_RUN），November OPEN
@@ -64,3 +67,4 @@
 | 2026-11-16 | **No retained original Native Daily** — [run reconciliation](../../../../history/2026-11/2026-11-18-global-nov16-run-delivery-reconciliation.md) / [retrospective F1–F7 reconstruction](../../../../history/2026-11/2026-11-18-global-nov16-research-reconstruction/INTEGRATED.md) | **0/9 canonical native files**; 9 non-native history artifacts | W47 11-16 operator-reported run / run receipt unavailable / native delivery gap；A1/A2 & Pages independently executed but not native F1–F7 |
 | 2026-11-17 | [2026-11-17.md](./2026-11-17.md) | [2026-11-17/](./2026-11-17/) | W47 1/7 merged native, W47-1..4 OPEN, November OPEN |
 | 2026-11-18 | [2026-11-18.md](./2026-11-18.md) | [2026-11-18/](./2026-11-18/) | W47 2/7 merged native, Nov16 delivery gap (run reported), W47-1..4 OPEN, November OPEN |
+| 2026-11-19 | [2026-11-19.md](./2026-11-19.md) | [2026-11-19/](./2026-11-19/) | [PR #308](https://github.com/lostlight530/agentic-frontier-observatory/pull/308) merged；F1–F7 PARTIAL，W47 native 3/7 + Nov16 original delivery gap，W47-1..4 OPEN，November OPEN |
