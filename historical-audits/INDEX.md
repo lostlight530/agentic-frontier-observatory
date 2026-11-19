@@ -6,9 +6,9 @@ This index documents existing archive classes; it is **not** a new audit, an ori
 
 | Retained path | Existing Git blobs (2026-11-19 snapshot) | Classification boundary |
 | --- | ---: | --- |
-| `01-corrections-and-errata/` | 2 | Independent corrections of source, scope, provenance and historical acceptance/retention interpretation |
+| `01-corrections-and-errata/` | 3 | Independent corrections of source, scope, provenance and historical acceptance/retention interpretation |
 | `2026-10/` | 3 | Dated October original independent evidence, not to be refiled as newly produced audits |
-| `2026-11/` | 37 | Dated November original independent records and period-specific governance/correction records; preserve task identity |
+| `2026-11/` | 36 | Dated November original independent records and period-specific governance/correction records; preserve task identity |
 
 ### Correction-class source paths (original blob identities)
 
@@ -16,6 +16,7 @@ This index documents existing archive classes; it is **not** a new audit, an ori
 | --- | --- | --- |
 | [`2026-10-01--external-review-source-scope--correction.md`](01-corrections-and-errata/2026-10-01--external-review-source-scope--correction.md) | `36252e95dcafb5d9860b102d0a5be0432c4ee050` | External-review source/scope correction |
 | [`2026-11-01--a2-successor-retention-and-acceptance--reconciliation.md`](01-corrections-and-errata/2026-11-01--a2-successor-retention-and-acceptance--reconciliation.md) | `4b3c49c48f6c59d4a888178cfdc0cc6c33c1cf5b` | Forward correction of A2 successor retention and acceptance |
+| [`2026-11-08-d7-observatory-contract-errata.md`](01-corrections-and-errata/2026-11-08-d7-observatory-contract-errata.md) | `2970f1da3b1dbbd0908eb1edfa3ea47ae84b6562` | Forward correction to the [original D7 audit](../history/2026-11/2026-11-08-d7-operational-continuity.md); not a separate D-task |
 
 ## Rename / original task exclusion
 
