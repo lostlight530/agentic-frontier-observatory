@@ -11,6 +11,12 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-19 bounded G2 source successors — MCP v2.5.0 / Poppy 1.1 revisions
+- G-MCP-SERVERS-V2-5-0 | G2 | modelcontextprotocol/servers | published_at 2026-11-18T09:13:14Z | observed_at 2026-11-19T00:31:26.697Z | issuer reports eight vulnerabilities fixed across git 2026.11.18 / filesystem 2.4.0 / everything 2.3.1, retains Windows and Git confinement limitations | https://github.com/modelcontextprotocol/servers/releases/tag/v2.5.0
+- G-POPPY-1-1-20261118-REV | G2 | personal-agent-protocol same-issuer Draft commits | latest inspected 589743afa56ee02bea71d1509c29b0b4ca5b3e50 committed 2026-11-18T14:30:27Z | observed_at 2026-11-19T00:31:26.697Z | operator signatures, User ID replacement, draft implementation warning and feedback.tasks | https://github.com/personal-agent-protocol/personal-agent-protocol/commit/589743afa56ee02bea71d1509c29b0b4ca5b3e50
+- Poppy 1.0 LATEST_PUBLISHED / 1.1 NEWEST_DRAFT, not independent conformance or published 1.1；MCP package fixes are publisher claims not independently executed tests
+- [Original 2026-11-19 Native Daily](reports/daily/2026/11/2026-11-19.md)
+
 ## 2026-11-18 later-observed 2026-11-16 Poppy Demo revision
 - **Git event time:** 2026-11-16T10:25:05Z (2026-11-16 18:25:05 Asia/Shanghai), pinned commit https://github.com/personal-agent-protocol/personal-agent-protocol/commit/656185321142da654fc255da5a9be6ef87c9de89
 - **Observed here:** 2026-11-18T17:40:21+08:00; this observation is later than the event and cannot be attributed to the unidentified original Nov16 Native run
