@@ -56,7 +56,7 @@
 - Release commit: https://github.com/personal-agent-protocol/personal-agent-protocol/commit/48039002795c9ebb390f1966fb70f82e4790efb6
 
 
-Updated through: **2026-11-18** (1.1 Draft / 1.0 latest published unchanged; late-observed #200 Demo label revision with Git event date 11-16, observed 11-18 17:40:21; no independent runtime)
+Updated through: **2026-11-21** (latest registry admission observed 2026-11-21 04:57:19 Asia/Shanghai; earlier Poppy Draft / published and #200 Demo-label observations retain their dated provenance above; this cutoff does not certify external runtime or recovery)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
