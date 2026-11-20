@@ -1,5 +1,7 @@
 # November 2026 Daily Index / November native daily index
 
+**2026-11-21 04:57:19 Asia/Shanghai Global Native Draft**：[F1–F7 integrated](./2026-11-21.md) + [pack](./2026-11-21/) 新确认 11-20 发行的 ADK Python v2.15.0 与 MCP Registry v1.8.10；W47 main original native 11-17..20 = 4/7，11-16 是 retrospective complete-content 并非原日运行，11-21 proposed +1，11-22 NOT_DUE，W47-1..4 OPEN，November OPEN，外部 conformance/CI/Runtime NOT_EXECUTED
+
 **2026-11-20 05:02:06 Asia/Shanghai original Global Native proposal**：[2026-11-20 integrated](./2026-11-20.md) 与 [F1–F7 pack](./2026-11-20/) 已作为本轮日期完整研究提案生成，本次固定 cutoff 2026-11-20 05:02:06，source result NO MATERIAL CHANGE IN BOUNDED PRIMARY SOURCES / PARTIAL，main 仍仅含至 11-19 的原生日，当前 11-20 只在 proposed branch，W47-1..4 OPEN，November OPEN，11-21..22 NOT_DUE，外部 TCK/Runtime/CI NOT_EXECUTED
 
 
@@ -75,3 +77,4 @@
 | 2026-11-18 | [2026-11-18.md](./2026-11-18.md) | [2026-11-18/](./2026-11-18/) | W47 2/7 merged native, Nov16 delivery gap (run reported), W47-1..4 OPEN, November OPEN |
 | 2026-11-19 | [2026-11-19.md](./2026-11-19.md) | [2026-11-19/](./2026-11-19/) | [PR #308](https://github.com/lostlight530/agentic-frontier-observatory/pull/308) merged；F1–F7 PARTIAL，W47 native 3/7 + Nov16 original delivery gap，W47-1..4 OPEN，November OPEN |
 | 2026-11-20 | [2026-11-20.md](./2026-11-20.md) | [2026-11-20/](./2026-11-20/) | Global F1–F7 complete native proposal, NO MATERIAL CHANGE in bounded sources，not merged main，W47-1..4 OPEN，November OPEN |
+| 2026-11-21 | [2026-11-21.md](./2026-11-21.md) | [2026-11-21/](./2026-11-21/) | TWO_NEW_ISSUER_RELEASES / PARTIAL，F1–F7 Native Draft，W47 original native 4 merged + 1 proposed，Nov16 retrospective separate，November OPEN |
