@@ -11,6 +11,12 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-21 bounded G2 successors — ADK Python v2.15.0 and MCP Registry v1.8.10
+- G-ADK-PY-V2-15-0 | G2 | google/adk-python | published_at 2026-11-19T22:59:36Z / 2026-11-20 06:59:36 Asia/Shanghai | first_observed_at 2026-11-21 04:57:19 Asia/Shanghai | issuer release adds experimental session buffering, scoped environments, multi-run evaluation, artifact service and explicit MCP prompt arguments; source/release claims, not independent runtime, conformance, recovery or security validation | https://github.com/google/adk-python/releases/tag/v2.15.0
+- G-MCP-REGISTRY-V1-8-10 | G2 | modelcontextprotocol/registry | published_at 2026-11-20T09:31:49Z / 2026-11-20 17:31:49 Asia/Shanghai | first_observed_at 2026-11-21 04:57:19 Asia/Shanghai | issuer release improves incremental listing query planning, authentication retry and multi-proof verification, preserves API ordering/filtering; discovery server release not portable delegated authority, SDK conformance or durable-effect recovery | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.10
+- Two distinct repositories and issuers but not independent corroboration of each other's operational claims，do not backdate 11-21 observation to release dates，production rollout transition UNKNOWN
+
+
 ## 2026-11-19 bounded G2 source successors — MCP v2.5.0 / Poppy 1.1 revisions
 - G-MCP-SERVERS-V2-5-0 | G2 | modelcontextprotocol/servers | published_at 2026-11-18T09:13:14Z | observed_at 2026-11-19T00:31:26.697Z | issuer reports eight vulnerabilities fixed across git 2026.11.18 / filesystem 2.4.0 / everything 2.3.1, retains Windows and Git confinement limitations | https://github.com/modelcontextprotocol/servers/releases/tag/v2.5.0
 - G-POPPY-1-1-20261118-REV | G2 | personal-agent-protocol same-issuer Draft commits | latest inspected 589743afa56ee02bea71d1509c29b0b4ca5b3e50 committed 2026-11-18T14:30:27Z | observed_at 2026-11-19T00:31:26.697Z | operator signatures, User ID replacement, draft implementation warning and feedback.tasks | https://github.com/personal-agent-protocol/personal-agent-protocol/commit/589743afa56ee02bea71d1509c29b0b4ca5b3e50
