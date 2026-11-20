@@ -35,3 +35,7 @@ Only the paths changed; the historical document bodies and original task records
 | Previous revision | Current path | Unchanged Git blob |
 | --- | --- | --- |
 | [Previous path at pre-rename main](https://github.com/lostlight530/agentic-frontier-observatory/blob/a3593487b65d82900c89ed1a5e017f002e727294/historical-audits/01-corrections-and-errata/2026-11-08-d7-observatory-contract-errata.md) | [2026-11-08--d7-observatory-contract--erratum.md](01-corrections-and-errata/2026-11-08--d7-observatory-contract--erratum.md) | `2970f1da3b1dbbd0908eb1edfa3ea47ae84b6562` |
+
+## 2026-11-20 Global independent source-lineage document audit
+
+- [Global A1/A2 historical source and bounded Native review](02-document-audits/2026-11-20--global-a1-a2-source-lineage--document-audit.md) — current canonical correction, originals and historical PRs preserved

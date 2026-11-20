@@ -234,11 +234,11 @@
 | `historical-audits/2026-11/2026-11-05-a1-global-source-custody.md` | `757109134b943294e293f43f1f0f6acf4dbf213b` | ORIGINAL_A1 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-06-a1-global-source-custody.md` | `0a0b3964005634cc9a7621feaa66db1e141e2266` | ORIGINAL_A1 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-06-a2-global-month-relations.md` | `c9952ca078057d4c5dd5b59146b55a84addcd58d` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
-| `historical-audits/2026-11/2026-11-06-original-a1a2-semantic-forward-reconciliation.md` | `e9843495ff4d625228a60ea7a944feb59903f57b` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
+| `historical-audits/2026-11/2026-11-06-original-a1a2-semantic-forward-reconciliation.md` | `e9843495ff4d625228a60ea7a944feb59903f57b` | RECONCILIATION | FORWARD_RECONCILIATION_ONLY / NOT_ORIGINAL_SOURCE_CREDIT |
 | `historical-audits/2026-11/2026-11-07-a1-global-source-custody.md` | `2367ac978c03b68c8e68a1d4d1de2df071280c91` | ORIGINAL_A1 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-07-a2-global-month-relations.md` | `26b82b5a37ad095344ef62f258b64e030921eb24` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-08-a1-global-source-custody.md` | `150787a8ecbb6e1413b6872f076af25c87a036b5` | ORIGINAL_A1 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
-| `historical-audits/2026-11/2026-11-08-a1a2-postmerge-quality-reconciliation.md` | `1ca287af150c9735787b3822cedf8caa0368c74e` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
+| `historical-audits/2026-11/2026-11-08-a1a2-postmerge-quality-reconciliation.md` | `1ca287af150c9735787b3822cedf8caa0368c74e` | RECONCILIATION | FORWARD_RECONCILIATION_ONLY / NOT_ORIGINAL_SOURCE_CREDIT |
 | `historical-audits/2026-11/2026-11-08-a2-global-month-relations.md` | `54c9c88cc147842c69237219d9041d8ccfd9a5d1` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-09-a1-global-source-custody.md` | `244e083ff8de61ae87ae507fc54ab67f6f7cfa07` | ORIGINAL_A1 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-09-a2-global-month-relations.md` | `62f06335a150e8606fa79a27360c1b59e89795f3` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
@@ -246,7 +246,7 @@
 | `historical-audits/2026-11/2026-11-10-a2-global-month-relations.md` | `485b9a03f4d10580eca66a5fc2805ef5a2826581` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-10-strict-nov08-nov09-global-a1a2-source-adjudication.md` | `fa8b7f92a4df70ceb93d06417bbc625f7e8d7b55` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-11-a1-global-source-custody.md` | `0759b8100b7290f8a674338c95cd039a07e5df29` | ORIGINAL_A1 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
-| `historical-audits/2026-11/2026-11-11-a1a2-effective-pr-acceptance-reconciliation.md` | `938f6e1af0905be88530db2b80656caa596fa6bd` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
+| `historical-audits/2026-11/2026-11-11-a1a2-effective-pr-acceptance-reconciliation.md` | `938f6e1af0905be88530db2b80656caa596fa6bd` | RECONCILIATION | FORWARD_RECONCILIATION_ONLY / NOT_ORIGINAL_SOURCE_CREDIT |
 | `historical-audits/2026-11/2026-11-11-a2-global-month-relations.md` | `87f1b4af7137e946c6ac162356d7d8745c2eeb45` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-12-a1-global-source-custody.md` | `6dd3114135408a6092975e8851b0203658363df8` | ORIGINAL_A1 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
 | `historical-audits/2026-11/2026-11-12-a2-global-month-relations.md` | `e55af2d7d6e46d778087277354f06dcd85d73b26` | ORIGINAL_A2 | HISTORIC_MTD_CUTOFF / NO_ORIGINAL_NUMERIC_BACKFILL |
@@ -324,3 +324,12 @@
 - NEW_COUNTEREVIDENCE: issuer/date transposition or missing original delivery can invalidate a repeated report despite current path presence.
 - UNKNOWN_RETAINED: full independent claim validation, actual external source check and downstream operational outcomes.
 - NEXT_RETEST_CONDITION: original A2 merge/main retention and next legitimate source-version/issuance change.
+
+
+## 2026-11-20 independent forward correction — A2 source-role and bounded issuer evidence
+- This is a current-owner correction after original independent A2 PR #318; the original PR final additions and merge identity are not changed. Original owner blob: `7a142ebae57ed2a5c5bf7788fa9d407ac8d9f4ad`
+- Historical rows above now distinguish genuine ORIGINAL A1/A2 from RECONCILIATION and SUCCESSOR where path identities establish their actual roles
+- Current Nov20 Global integrated Native Daily `reports/daily/2026/11/2026-11-20.md` @ `1294e02bc5f47ddd607fcea8f878506fbd8875d9` reports `NO MATERIAL CHANGE IN BOUNDED PRIMARY SOURCES / PARTIAL` after checking **selected first-party objects**, not exhaustive global AI change and not a new deployment test
+- The same publisher referenced in an integrated Daily + F1–F7 facets is one issuer lineage; cross-date source reuse is not independent corroboration
+- The retrospective Nov16 content delivery, original cloud run and current retention are different events; original execution is not silently reconstructed from the later merged document
+- [2026-11-20 independent document audit](../02-document-audits/2026-11-20--global-a1-a2-source-lineage--document-audit.md) is the explicit review identity, not an extra Native or D7 audit
