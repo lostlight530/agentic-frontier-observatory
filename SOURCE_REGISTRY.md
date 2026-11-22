@@ -12,7 +12,7 @@
 # Source Registry / 权威信源注册表
 
 ## 2026-11-22 Registry v1.8.11 newly observed issuer release
-- G-MCP-REGISTRY-V1-8-11 | G2 | modelcontextprotocol/registry | published_at 2026-11-21T14:21:29Z / 2026-11-21 22:21:29 Asia/Shanghai | first_observed_at 2026-11-22 15:12:16 Asia/Shanghai | release describes 8-vCPU production database, promoted v1.8.10, Grafana dashboards/alerts and hosted registry usage collector, issuer evidence only, NOT independent production rollout or portable authority/recovery | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.11
+- G-MCP-REGISTRY-V1-8-11 | G2 | modelcontextprotocol/registry | published_at 2026-11-21T14:21:29Z / 2026-11-21 22:21:29 Asia/Shanghai | first_observed_at 2026-11-22 15:07:21 Asia/Shanghai / 2026-11-22T07:07:21.521Z | release describes 8-vCPU production database, promoted v1.8.10, Grafana dashboards/alerts and hosted registry usage collector, issuer evidence only, NOT independent production rollout or portable authority/recovery | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.11
 - Same-issuer [PR #1874](https://github.com/modelcontextprotocol/registry/pull/1874) is source provenance, not independent validation of deployment, data quality or conformance
 
 
@@ -61,7 +61,7 @@
 - Release commit: https://github.com/personal-agent-protocol/personal-agent-protocol/commit/48039002795c9ebb390f1966fb70f82e4790efb6
 
 
-Updated through: **2026-11-22** (latest registry admission observed 2026-11-21 04:57:19 Asia/Shanghai; earlier Poppy Draft / published and #200 Demo-label observations retain their dated provenance above; this cutoff does not certify external runtime or recovery)
+Updated through: **2026-11-22** (latest admitted Registry release first observed 2026-11-22 15:07:21 Asia/Shanghai; Nov21 ADK and Registry v1.8.10 admissions, earlier Poppy Draft and Demo-label records retain their own dated provenance; this is not independent external runtime or recovery evidence)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
