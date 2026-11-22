@@ -11,6 +11,11 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-22 Registry v1.8.11 newly observed issuer release
+- G-MCP-REGISTRY-V1-8-11 | G2 | modelcontextprotocol/registry | published_at 2026-11-21T14:21:29Z / 2026-11-21 22:21:29 Asia/Shanghai | first_observed_at 2026-11-22 15:12:16 Asia/Shanghai | release describes 8-vCPU production database, promoted v1.8.10, Grafana dashboards/alerts and hosted registry usage collector, issuer evidence only, NOT independent production rollout or portable authority/recovery | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.11
+- Same-issuer [PR #1874](https://github.com/modelcontextprotocol/registry/pull/1874) is source provenance, not independent validation of deployment, data quality or conformance
+
+
 ## 2026-11-21 bounded G2 successors — ADK Python v2.15.0 and MCP Registry v1.8.10
 - G-ADK-PY-V2-15-0 | G2 | google/adk-python | published_at 2026-11-19T22:59:36Z / 2026-11-20 06:59:36 Asia/Shanghai | first_observed_at 2026-11-21 04:57:19 Asia/Shanghai | issuer release adds experimental session buffering, scoped environments, multi-run evaluation, artifact service and explicit MCP prompt arguments; source/release claims, not independent runtime, conformance, recovery or security validation | https://github.com/google/adk-python/releases/tag/v2.15.0
 - G-MCP-REGISTRY-V1-8-10 | G2 | modelcontextprotocol/registry | published_at 2026-11-20T09:31:49Z / 2026-11-20 17:31:49 Asia/Shanghai | first_observed_at 2026-11-21 04:57:19 Asia/Shanghai | issuer release improves incremental listing query planning, authentication retry and multi-proof verification, preserves API ordering/filtering; discovery server release not portable delegated authority, SDK conformance or durable-effect recovery | https://github.com/modelcontextprotocol/registry/releases/tag/v1.8.10
@@ -56,7 +61,7 @@
 - Release commit: https://github.com/personal-agent-protocol/personal-agent-protocol/commit/48039002795c9ebb390f1966fb70f82e4790efb6
 
 
-Updated through: **2026-11-21** (latest registry admission observed 2026-11-21 04:57:19 Asia/Shanghai; earlier Poppy Draft / published and #200 Demo-label observations retain their dated provenance above; this cutoff does not certify external runtime or recovery)
+Updated through: **2026-11-22** (latest registry admission observed 2026-11-21 04:57:19 Asia/Shanghai; earlier Poppy Draft / published and #200 Demo-label observations retain their dated provenance above; this cutoff does not certify external runtime or recovery)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
