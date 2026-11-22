@@ -1,6 +1,6 @@
 # November 2026 Daily Index / November native daily index
 
-**2026-11-22 ${sh} Asia/Shanghai Global Sunday original Native Draft**：[Integrated F1–F7](./2026-11-22.md)｜[pack](./2026-11-22/)｜[W47 FINAL proposal](../../weekly/2026/2026-W47.md)；main 11-17..21 original Native 5/7，11-16 retrospective 1/7，11-22 current Draft +1，W47-1..4 OPEN，November OPEN，11-23..30 NOT_DUE
+**2026-11-22 15:12:16 Asia/Shanghai Global Sunday original Native Draft**：[Integrated F1–F7](./2026-11-22.md)｜[pack](./2026-11-22/)｜[W47 FINAL proposal](../../weekly/2026/2026-W47.md)；main 11-17..21 original Native 5/7，11-16 retrospective 1/7，11-22 current Draft +1，W47-1..4 OPEN，November OPEN，11-23..30 NOT_DUE
 
 **2026-11-21 04:57:19 Asia/Shanghai Global Native Draft**：[F1–F7 integrated](./2026-11-21.md) + [pack](./2026-11-21/) 新确认 11-20 发行的 ADK Python v2.15.0 与 MCP Registry v1.8.10；W47 main original native 11-17..20 = 4/7，11-16 是 retrospective complete-content 并非原日运行，11-21 proposed +1，11-22 NOT_DUE，W47-1..4 OPEN，November OPEN，外部 conformance/CI/Runtime NOT_EXECUTED
 
