@@ -1,3 +1,11 @@
+# 2026-11 Global Daily Index
+
+- [2026-11-23 W48 Monday Native F1–F7](2026-11-23.md)
+- [2026-11-22 W47 Sunday Native F1–F7](2026-11-22.md)
+
+历史日期证据保持原文件，本入口不替代历史记录
+
+## Prior merged main record / 历史原始内容
 # November 2026 Daily Index / November native daily index
 
 **2026-11-22 15:12:16 Asia/Shanghai Global Sunday original Native Draft**：[Integrated F1–F7](./2026-11-22.md)｜[pack](./2026-11-22/)｜[W47 FINAL proposal](../../weekly/2026/2026-W47.md)；main 11-17..21 original Native 5/7，11-16 retrospective 1/7，11-22 current Draft +1，W47-1..4 OPEN，November OPEN，11-23..30 NOT_DUE
