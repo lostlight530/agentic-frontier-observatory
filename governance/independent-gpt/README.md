@@ -144,3 +144,46 @@ This is a forward interpretation correction for the Nov01–11, 2026 window, not
 - D7/D10/D14/D30 are a separate audit plane; no additional periodic audit or native run is implied by this record.
 - W45 is closed, W46 is open and November remains open at this evidence cut; do not infer natural month closure.
 - In this repository 20 original Nov02–11 independent A1/A2 PRs are merged, 17 with >=100 additions and 3 with numeric NOT_MET, subject to separately evidence-reviewed semantic validity.
+
+## Prospective ten-repository SOP vNext — repository-local execution bridge (2026-11-23)
+
+This **prospective operating bridge** generalizes the dated November 11 acceptance clarification above to any legitimately due logical period. It is not a new Native task, periodic audit, independent review, scheduler, or retroactive PR verdict. Current merged `main` and current subject-specific Native/machine contracts remain authoritative.
+
+### Cold-start, cadence, and evidence gates
+
+1. Establish `repository / role / canonical task ID / logical period / timezone / cutoff / producer / run ID`. Distinguish Native, independent A1, independent A2, D7/D10/D14/D30, Governance, Correction, and Reconciliation.
+2. Read exact latest `main`, owning contracts, canonical paths/blob SHAs, relevant open/Draft PRs and active overlaps, recent merged changes, dependencies, and revision-matched runner/Actions results. Historical summaries are dated evidence, not live state.
+3. Determine Native Daily/Weekly/Monthly/Special/Stage eligibility under each repository's actual contract. Exclude not-yet-due periods from the missing-input denominator; keep `NOT_DUE`, `BLOCKED`, `UNKNOWN`, `NOT_EXECUTED`, `NOT_COMPUTED`, and legitimate negative results visible.
+4. Do not equate a file, external source, PR merge, configured workflow, passing test, independent AI review, and human approval. Each is a separate evidence claim with its own version, producer, run and time boundary.
+
+### Native → Independent A1 → Independent A2
+
+5. Native output follows repository-owned IDs, dependencies and actual execution evidence. A governance note never substitutes for producer research, formal scanner, runtime, effect receipt, or source verification.
+6. **Independent A1 = MonthStart → N−1**, not yesterday alone. Enumerate all applicable month-to-date Daily, Weekly, Monthly, Special and Stage inputs. For each file record canonical path/blob SHA, producer, upstream dependency, source/evidence/counterevidence, and a justified disposition (`NO_FOLLOW_UP`, `CORRECT_IN_PLACE`, `APPEND_RELATION`, `CONFLICT`, `UNKNOWN`, `NOT_DUE`).
+7. Prior A1 source reviews may be inherited only when exact path/blob SHA and governing contract still match. Mark inherited and newly inspected coverage; correct only real defects and leave valid sources unchanged.
+8. Each legitimate A1 run uses its own original PR. **A2 starts only after that original A1 PR is merged and reread from a fresh `main`**; pending Drafts, future successors and cleanup do not satisfy this dependency.
+9. **Independent A2 = MonthStart → N**. Maintain the full month's unified source/evidence/relationship state, not only Day N. Identify supported `STRENGTHENED`, `WEAKENED`, `CHANGED`, `CONFLICT`, `INVALIDATED`, `INHERITED`, `UNKNOWN` transitions and their provenance/counterevidence.
+10. Month-to-date A2 coverage is not Native Monthly `FINAL`; D7/D10/D14/D30 have separate legal windows, cutoffs, actual audit runs and original records. A partial-day audit remains partial even after PR merge.
+
+### Original A1/A2 acceptance: seven independent axes
+
+| Axis | Verification |
+| --- | --- |
+| `TASK_COMPLETENESS` | Applicable source denominator and per-file disposition |
+| `NUMERIC_GATE` | Each **original A1/A2** PR's final merged GitHub additions ≥100 |
+| `SEMANTIC_QUALITY` | True, necessary custody, source/decision/relation content; no filler |
+| `DEPENDENCY` | Exact original A1 merge and fresh-main read for A2 |
+| `DELIVERY` | Original PR number, final head SHA, merged status and merge SHA |
+| `MAIN_RETENTION` | Current canonical path/blob/content checked independently |
+| `EXECUTION_VALIDATION` | Only actually executed Native/checker/CI/reviewer evidence |
+
+11. Numeric `≥100` is distinct from semantic quality and is **not** a requirement for 100 original scientific discoveries. Genuine source rows, SHA custody, justified no-change judgments, matrices and relationship updates can count; padding, invented science and fake runs cannot.
+12. Evaluate the **same original PR at its final merged head**, not an earlier unfinished Draft. A numerically short but real delivery is `NUMERIC_NOT_MET`; reaching 100 lines with false content is not semantic PASS. Successor, cleanup, correction and reconciliation never backfill original additions.
+13. Historical producer, failed run, PR and observation facts remain intact. Move interpretations forward through linked correction/reconciliation without altering the historical event or claiming unavailable evidence.
+14. For real work: fresh isolated branch → minimal owning-file changes → actual validation and declared `NOT_EXECUTED` checks → whole `main...head` diff and public-safety review → one scoped Draft PR → concrete maintainer review/authorization → merge under repo rules → latest-main retention readback. Do not test permission with empty commits or copy private controls into public artifacts.
+15. Every handoff records identity/period/cutoff, initial main SHA, owning contracts and source blob SHAs, producer/run evidence, counterevidence, checked/not-checked validation, original PR/final additions and semantic decision, approval/merge receipt, current-main retention and next legal trigger.
+16. **Scope note:** an SOP governance PR implementing this bridge is **not** an original independent A1/A2 PR and is not required to meet their ≥100-additions numeric acceptance gate.
+
+### Repository-specific Native ownership and non-transferable boundaries
+
+- Native observation is owned by `DAILY_SOP.md`, `WEEKLY_SOP.md`, `MONTHLY_SOP.md`: one integrated Daily F1–F7 identity with related facet files, a single canonical Weekly per ISO week, and natural-month Monthly settlement. Multiple facet files are not independent producers; an OPEN month does not become FINAL via A2. Protocol/SDK/conformance and durable-effect execution are independent evidence classes.
