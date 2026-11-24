@@ -1,5 +1,7 @@
 # 2026-11 Global Daily Index
 
+- [2026-11-24 W48 Tuesday Native F1–F7 / Registry v1.8.14–v1.8.16](2026-11-24.md)
+
 - [2026-11-23 W48 Monday Native F1–F7](2026-11-23.md)
 - [2026-11-22 W47 Sunday Native F1–F7](2026-11-22.md)
 
