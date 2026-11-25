@@ -39,3 +39,20 @@ Only the paths changed; the historical document bodies and original task records
 ## 2026-11-20 Global independent source-lineage document audit
 
 - [Global A1/A2 historical source and bounded Native review](02-document-audits/2026-11-20--global-a1-a2-source-lineage--document-audit.md) — current canonical correction, originals and historical PRs preserved
+
+## 2026-11-25 cloud acceptance navigation
+
+Dated documentary review at [inspected main](https://github.com/lostlight530/agentic-frontier-observatory/commit/6a8c4484aac32995ff485aacaf9dce8ec9589e1b); navigation only, not a new original A1/A2, Native, or D-task submission. The historical archive classes above remain unchanged. Original task owners are linked, not relocated or reclassified.
+
+| Identity | Original GitHub delivery | Cloud evidence / disposition |
+| --- | --- | --- |
+| Independent A1 (Nov 1–24) | [#335](https://github.com/lostlight530/agentic-frontier-observatory/pull/335), 322 additions, merged | [canonical file](https://github.com/lostlight530/agentic-frontier-observatory/blob/6a8c4484aac32995ff485aacaf9dce8ec9589e1b/historical-audits/2026-11/2026-11-25-a1-global-source-custody.md) retained; numeric gate met; 297/301 listed source SHA rows match the later inspected main (cutoff/shared-owner changes are not automatically errors) |
+| Independent A2 (Nov 1–25) | [#336](https://github.com/lostlight530/agentic-frontier-observatory/pull/336), 364 additions, merged | [canonical file](https://github.com/lostlight530/agentic-frontier-observatory/blob/6a8c4484aac32995ff485aacaf9dce8ec9589e1b/historical-audits/2026-11/2026-11-25-a2-global-month-relations.md) retained; numeric gate met; 311/311 listed first source SHA rows match inspected main; PR base is the original A1 merge and creation follows that merge |
+| Oct 31 original A2 | [#224](https://github.com/lostlight530/agentic-frontier-observatory/pull/224), 79 additions, merged | Original numeric gate NOT_MET; delivery and numeric acceptance remain separate |
+| Oct 31 successor | [#226](https://github.com/lostlight530/agentic-frontier-observatory/pull/226), 611 additions, merged | Successor numeric gate MET; no retroactive credit to original A2 |
+| Oct 31 cleanup | [#228](https://github.com/lostlight530/agentic-frontier-observatory/pull/228), merged | Separate cleanup, not original task or successor credit |
+| Nov 1 forward reconciliation | [#230](https://github.com/lostlight530/agentic-frontier-observatory/pull/230), merged | [Retained correction](01-corrections-and-errata/2026-11-01--a2-successor-retention-and-acceptance--reconciliation.md); correction class, not a new original A2 |
+
+Native evidence: Native [#334](https://github.com/lostlight530/agentic-frontier-observatory/pull/334); A2 records 24/25 original daily receipt coverage and 25 physical packs. Nov 16 retrospective is not an original run receipt; external TCK execution is not established.
+
+D7/D10/D14 retain their separate original identities; D14 is an as-of partial observation, not a full-day closure. D30 is not due at this observation. November remains open. Cloud delivery, numeric acceptance, dependency and retention are confirmed at the inspected revision; source-row custody does not by itself establish full semantic validity or a new runtime execution. Existing archive aliases are navigation only, not additional evidence or task credit.
