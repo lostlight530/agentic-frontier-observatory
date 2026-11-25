@@ -1,5 +1,8 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-25 10:20:00 Asia/Shanghai current successor: IETF Agentic AI Use Cases and Requirements draft-07 (published 11-02, first observed 11-25) explicitly specifies credential validity, revoked-credential signaling, delegation-chain revocation, dialog resume validation and fail-closed behavior; it remains an Informational Active Internet-Draft, not an IETF standard. OpenAI Agents SDK v1.0.0-alpha.2 documents cross-worker resumable session/pending-approval restore, but partial external effects require reconciliation and the 250ms cancellation cleanup window does not guarantee long-tool termination; ADK Python v2.15.1 fixes a RemoteA2aAgent streamed-output persistence edge. W48-H1 and H3 are STRENGTHENED BUT OPEN; H2/H4 remain OPEN; G-W07/G-W50 remain open for actual traces, G-W14 still needs implementation/incident evidence
+
+
 - 2026-11-18 17:40:21 Asia/Shanghai late evidence successor：first-party Poppy [#200](https://github.com/personal-agent-protocol/personal-agent-protocol/commit/656185321142da654fc255da5a9be6ef87c9de89) Git 2026-11-16T10:25:05Z changes three Demo protocol-version labels in demos.mdx (Cliffside Retail→1.0, Poppy Demo Agent→0.4, Print with Poppy→0.4)；issuer documentation, not three independent conformance/adoption proofs；original Nov16 Native run is operator-reported but Daily not retained；G-W73, W47-1..4 OPEN
 
 - 2026-11-18 05:02:42 Asia/Shanghai first observed issuer Git #201 a1deeab03c519b0597df4e060fe20bc16d41c31e：Poppy 1.1 NEWEST_DRAFT and 1.0 LATEST_PUBLISHED；default docs/kit route logic follows latest published, not draft；G-W73 and W47-1..4 still OPEN for independent multi-company authority/revocation/conformance, durable effects and recovery
@@ -17,7 +20,7 @@
 
 - 2026-11-05 current-state successor: Poppy 0.3 发行方版本元数据已标记 published=2026-11-04，Git 证据提交于 2026-11-05T00:09:43Z，0.4 Draft；G-W73 的跨提供者 conformance、effect/recovery 仍 OPEN
 
-Updated: **2026-11-18 · Poppy 1.1 NEWEST DRAFT / 1.0 LATEST PUBLISHED, G-W73 conformance OPEN**
+Updated: **2026-11-25 · IETF draft-07 and resumable SDK release evidence; W48-H1/H3 STRENGTHENED BUT OPEN**
 
 > Historical `W35 PRIORITY`, `W36 PRIORITY` and the retained W38 active shortlist below are provenance of earlier research pressure, not an automatically promoted W40 ranking. The 2026-09-30 W40 calibration is appended explicitly rather than silently rewriting historical priorities.
 
