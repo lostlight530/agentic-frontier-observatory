@@ -1,5 +1,10 @@
 # 2026-11 Global Daily Index
 
+- [2026-11-25 W48 Wednesday Native F1–F7 / ADK 2.15.1 + Agents SDK Alpha2 + IETF draft-07](2026-11-25.md)
+
+- Current main before this proposal: 11-01..15 and 11-17..24 contain23 merged Native dates; 11-16 remains NATIVE_DELIVERY_GAP despite later retrospective content; 11-25 remains proposed on this branch; W48 main 2/7, branch 3/7; H1/H3 STRENGTHENED BUT OPEN, H2/H4 OPEN; November OPEN
+
+
 - [2026-11-24 W48 Tuesday Native F1–F7 / Registry v1.8.14–v1.8.16](2026-11-24.md)
 
 - [2026-11-23 W48 Monday Native F1–F7](2026-11-23.md)
