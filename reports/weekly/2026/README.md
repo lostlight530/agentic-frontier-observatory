@@ -13,7 +13,6 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | A2A/MCP boundaries strengthened; AWS AgentCore added product-local runtime/consent/registry evidence; portable recovery gaps remain open. |
 | W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1~H39-5 `REFUTED_FOR_W39`; project/status/use-case evidence did not become independent deployability, portable authority, durable-effect recovery or operational conformance proof. |
 | W40 | 28 Sep–4 Oct | **CLOSED_WITH_GAP / BOUNDED_IMPLEMENTATION_UPDATE** | 9/30 NIST governance change, later MCP/A2A reconciliations and the 10/04 package observation remain bounded; the 2026-09-28 producer-native gap is preserved. Post-hoc Special records 9/28–29 events without reopening W40. |
-| [W48](./2026-W48.md) | 23–29 Nov | **OPEN** | 3/7 merged original Native through Nov25；Nov26 proposed → 4/7；H1/H3 STRENGTHENED BUT OPEN（继承11-25），H2/H4 OPEN / UNCHANGED |
 
 | W41 | 5–11 Oct | **FINAL / CLOSED** | 7/7 real Dailies; canonical 2026-W41.md governs H41 settlement; earlier OPEN index paragraphs remain dated historical checkpoints. |
 | W42 | 12–18 Oct | **FINAL / CLOSED_WITH_GAP** | Six real native F1–F7 Dailies 13–18 Oct; 12 Oct original gap maintained; H42-1~3 OPEN, no independent conformance/recovery proof |
@@ -21,7 +20,8 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W44 | 26 Oct–1 Nov | **FINAL / CLOSED / 7 of 7** | 26–31 Oct + 1 Nov native F1–F7 Dailies，H44-1 OPEN / REVISION_BOUND_PROVENANCE_PARTIAL，H44-2~3 OPEN，Sunday settlement 2026-11-01 04:59:41 Asia/Shanghai |
 | W45 | 2–8 Nov | **FINAL / 7 of 7 W45 native dates** | Nov02–08 seven F1–F7 native dates now merged main (Nov08 originally shared one Draft PR with Sunday settlement)，H45-1/2/3 OPEN，2026-11-08 15:27:56 Asia/Shanghai |
 | W46 | 9–15 Nov | **FINAL / 7 of 7 Native Dailies** | Canonical W46 FINAL；H46-1..4 OPEN，历史 producer Draft 为 point-in-time 记录 |
-| W47 | 16–22 Nov | **OPEN / 3 original Native merged + 1 retrospectively completed research date + 3 NOT_DUE** | [Canonical W47](./2026-W47.md)；11-16 **complete content added 2026-11-19**, original scheduler Run ID and same-day Native delivery still unresolved；11-17..19 original Native merged；W47-1..4 OPEN，November OPEN |
+| W47 | 16–22 Nov | **FINAL / NATIVE RECEIPT GAP** | 6/7 original Native；11-16 retrospective complete content，original receipt UNRECOVERED；H47-1..4 OPEN；[canonical W47](./2026-W47.md) |
+| [W48](./2026-W48.md) | 23–29 Nov | **OPEN** | 3/7 merged original Native through Nov25；Nov26 proposed → 4/7；H1/H3 STRENGTHENED BUT OPEN（继承11-25），H2/H4 OPEN / UNCHANGED |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
