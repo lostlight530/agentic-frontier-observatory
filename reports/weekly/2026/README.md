@@ -13,6 +13,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | A2A/MCP boundaries strengthened; AWS AgentCore added product-local runtime/consent/registry evidence; portable recovery gaps remain open. |
 | W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1~H39-5 `REFUTED_FOR_W39`; project/status/use-case evidence did not become independent deployability, portable authority, durable-effect recovery or operational conformance proof. |
 | W40 | 28 Sep–4 Oct | **CLOSED_WITH_GAP / BOUNDED_IMPLEMENTATION_UPDATE** | 9/30 NIST governance change, later MCP/A2A reconciliations and the 10/04 package observation remain bounded; the 2026-09-28 producer-native gap is preserved. Post-hoc Special records 9/28–29 events without reopening W40. |
+| [W48](./2026-W48.md) | 23–29 Nov | **OPEN** | 3/7 merged original Native through Nov25；Nov26 proposed → 4/7；H1/H3 STRENGTHENED BUT OPEN（继承11-25），H2/H4 OPEN / UNCHANGED |
 
 | W41 | 5–11 Oct | **FINAL / CLOSED** | 7/7 real Dailies; canonical 2026-W41.md governs H41 settlement; earlier OPEN index paragraphs remain dated historical checkpoints. |
 | W42 | 12–18 Oct | **FINAL / CLOSED_WITH_GAP** | Six real native F1–F7 Dailies 13–18 Oct; 12 Oct original gap maintained; H42-1~3 OPEN, no independent conformance/recovery proof |
