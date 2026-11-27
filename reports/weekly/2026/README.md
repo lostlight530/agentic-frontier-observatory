@@ -128,3 +128,20 @@ Current primary-month file count: September 10, October 10, November 0. Prior Se
 | 2026-10-19 | [A2A Python SDK 1.2.3：失败隔离与生命周期清理](./2026-10-19-special-a2a-python-lifecycle-cleanup.md) | 2026-W43 |
 | 2026-10-27 | [Genie 4：世界模拟与物理行动证据](./2026-10-27-special-genie4-world-simulation.md) | 2026-W44 |
 | 2026-10-27 | [Oracle/NVIDIA：Vera Rubin 算力计划与可调度资源](./2026-10-27-special-oracle-nvidia-vera-rubin-capacity.md) | 2026-W44 |
+
+## Special research inventory — 2026-11-27 final quantity checkpoint
+
+Current primary-month file count: September 10, October 10, November 10 = 30. 7 retained aggregates and 23 newly authored research files. Previous checkpoints are historical. November 10/10 is a Special quantity target, not a closed monthly research period.
+
+| Date | Special | Canonical week |
+| --- | --- | --- |
+| 2026-11-03 | [Antigravity 化学信息学 Skills：领域工具与科学证据](./2026-11-03-special-antigravity-cheminformatics-skills.md) | 2026-W45 |
+| 2026-11-09 | [Muse Ember：低成本模型与智能体任务经济学](./2026-11-09-special-muse-ember-task-economics.md) | 2026-W46 |
+| 2026-11-10 | [AlphaProof Code：机器检查证明与实现级安全](./2026-11-10-special-alphaproof-code-verified-software.md) | 2026-W46 |
+| 2026-11-10 | [Gemini 4 Carbon：模型卡与跨 Harness 评价合同](./2026-11-10-special-gemini-carbon-evaluation-contract.md) | 2026-W46 |
+| 2026-11-12 | [AgentCore V2：默认运行时迁移与会话恢复](./2026-11-12-special-agentcore-v2-default-runtime.md) | 2026-W46 |
+| 2026-11-14 | [Poppy 1.0：草案到稳定合同的版本演进](./2026-11-14-special-poppy-v1-contract-stabilization.md) | 2026-W46 |
+| 2026-11-20 | [IETF Agentproto：对话管理、身份与通信需求](./2026-11-20-special-ietf-agentproto-usecase-requirements.md) | 2026-W47 |
+| 2026-11-23 | [OpenAI Agents SDK alpha.2：跨 Worker 审批与检查点迁移](./2026-11-23-special-agents-sdk-alpha2-checkpoint-approval.md) | 2026-W48 |
+| 2026-11-23 | [量子算法 Agent 团队：共享笔记与形式验证](./2026-11-23-special-quantum-agent-teams-formal-verification.md) | 2026-W48 |
+| 2026-11-25 | [Google ADK 2.15.1：工具校验、跨 Agent 流与发布证据](./2026-11-25-special-google-adk-2151-release-boundaries.md) | 2026-W48 |
