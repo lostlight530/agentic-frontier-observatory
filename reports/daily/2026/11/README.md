@@ -1,6 +1,8 @@
 # 2026-11 Global Daily Index
 
-- [2026-11-26 F1–F7 Native / PARTIAL](2026-11-26.md)｜[pack](2026-11-26/)｜main 24 原生日，proposed 25；11-16 retrospective content 不计 original Native，原始回执缺口保留；W48 3/7 main、4/7 proposed；November OPEN
+- [2026-11-27 F1–F7 Native / PARTIAL](2026-11-27.md)｜[pack](2026-11-27/)；main 25 原生日，proposed 26；11-16 retrospective pack 不计 original Native，原回执 UNRECOVERED；W48 4/7 main、5/7 proposed；November OPEN
+
+- [2026-11-26 F1–F7 Native / PARTIAL](2026-11-26.md)｜[pack](2026-11-26/)｜[PR #338](https://github.com/lostlight530/agentic-frontier-observatory/pull/338) merged，W48 4/7；November OPEN
 
 - [2026-11-25 W48 Wednesday Native F1–F7 / ADK 2.15.1 + Agents SDK Alpha2 + IETF draft-07](2026-11-25.md)
 
