@@ -1,5 +1,12 @@
 # 2026-11 Global Daily Index
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 post-merge projection: Native [PR #341](https://github.com/lostlight530/agentic-frontier-observatory/pull/341) actually merged at `25a02637b646cb3ee75695c073abccdb71090635`; current inspected main `a7796901cabe0cf4df3c0abfcfe149e72d9ef118`. W48 = 5/7 original Native, 28–29 NOT_DUE; November = 26/27 original Native, 28–30 NOT_DUE, OPEN. November 16 remains retrospective with zero original Native credit. Earlier proposed/NOT_MERGED wording below is retained solely as a historical producer checkpoint.
+
+---
+
+
 - [2026-11-27 F1–F7 Native / PARTIAL](2026-11-27.md)｜[pack](2026-11-27/)；main 25 原生日，proposed 26；11-16 retrospective pack 不计 original Native，原回执 UNRECOVERED；W48 4/7 main、5/7 proposed；November OPEN
 
 - [2026-11-26 F1–F7 Native / PARTIAL](2026-11-26.md)｜[pack](2026-11-26/)｜[PR #338](https://github.com/lostlight530/agentic-frontier-observatory/pull/338) merged，W48 4/7；November OPEN

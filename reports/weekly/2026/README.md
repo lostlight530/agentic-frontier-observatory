@@ -1,5 +1,14 @@
 # 2026 Weekly Canonical Index / 2026 周报规范索引
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 post-merge projection: Native [PR #341](https://github.com/lostlight530/agentic-frontier-observatory/pull/341) actually merged at `25a02637b646cb3ee75695c073abccdb71090635`; current inspected main `a7796901cabe0cf4df3c0abfcfe149e72d9ef118`. W48 = 5/7 original Native, 28–29 NOT_DUE; November = 26/27 original Native, 28–30 NOT_DUE, OPEN. November 16 remains retrospective with zero original Native credit. Earlier proposed/NOT_MERGED wording below is retained solely as a historical producer checkpoint.
+
+Current proposal Special inventory: 10 September + 10 October + 10 November = 30; no extra canonical weekly files. Earlier index rows are historical checkpoints.
+
+---
+
+
 Only `YYYY-Www.md` files are canonical weekly records.
 
 | Week | Coverage | State | Current audit |

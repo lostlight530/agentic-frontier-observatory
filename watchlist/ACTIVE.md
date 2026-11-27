@@ -172,3 +172,12 @@ G-W73 OPEN after first-party Poppy Draft 0.1 observed 2026-10-11. Sierra announc
 - **Enterprise Agent control:** obtain exact Google Gemini agent resource scopes, human approvals, revocation/stop/rollback and durable effect trace for a comparable multi-app run; product documentation is not a tested trust contract.
 - **OSS Scanner:** request a public, revision-bound finding→triage→patch→regression→accepted-deployment path and rejected false positives; a provider program launch is not measured vulnerability reduction.
 - September [Special](../reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md); October [Special](../reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md). No original hypothesis `CLOSED`, `STRENGTHENED` or independent conformance state is retroactively changed.
+
+## 2026-11-27 Special research follow-up / no new canonical watch IDs
+
+- [Poppy 1.0](../reports/weekly/2026/2026-11-14-special-poppy-v1-contract-stabilization.md): independent endpoint, authority and revocation evidence.
+- [Agents SDK alpha.2](../reports/weekly/2026/2026-11-23-special-agents-sdk-alpha2-checkpoint-approval.md) and [AgentCore V2](../reports/weekly/2026/2026-11-12-special-agentcore-v2-default-runtime.md): version migration, approval identity, external effect ledger and restart replay remain OPEN.
+- [Muse Ember](../reports/weekly/2026/2026-11-09-special-muse-ember-task-economics.md): matched task outcome and full-run costs, not token price alone.
+- [AlphaProof Code](../reports/weekly/2026/2026-11-10-special-alphaproof-code-verified-software.md): revision-bound proof and specification acceptance.
+
+All 23 added Specials are linked through the [2026 Special index](../reports/weekly/2026/README.md). This is evidence/verification planning, not retroactive hypothesis strengthening or closure.
