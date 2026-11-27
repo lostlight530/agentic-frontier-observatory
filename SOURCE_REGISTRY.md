@@ -218,3 +218,12 @@ The following first-party URLs were actually inspected on 2026-11-02 as dated so
 | 2026-10-08 Cyber Mission | Anthropic, https://www.anthropic.com/news/anthropic-cyber-mission | Program/OSS Scanner announcement; actual patch correctness NOT_VERIFIED |
 
 Special records: [September](reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md) and [October](reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md). Original W39/W41 and all original Native Dailies remain unchanged. Multiple Anthropic pages share the same publisher family and cannot count as independent confirmations of each other's effects.
+
+## 2026-11-27 September Special source admission
+
+Actual recheck 2026-11-27; no issuer independence from a repost or version family, no original-day credit.
+
+- [Muse Spark 1.3：跨 Harness 训练与长任务评价](reports/weekly/2026/2026-09-02-special-meta-muse-spark-harness-generalization.md) — Meta Research; https://research.meta.ai/blog/introducing-muse-spark-1-3; bounded publication/metadata evidence, limitations in Special.
+- [NVIDIA PAIR：本地多设备推理路由与 Agent 执行隔离](reports/weekly/2026/2026-09-03-special-nvidia-pair-local-inference-routing.md) — NVIDIA; https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/; bounded publication/metadata evidence, limitations in Special.
+- [澳大利亚 DSX 产能计划：电力、设施与可调度 AI 算力](reports/weekly/2026/2026-09-09-special-nvidia-australia-capacity.md) — NVIDIA; https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Expands-AI-Infrastructure-Capacity-in-Partnership-With-Australias-Data-Center-Ecosystem/default.aspx; bounded publication/metadata evidence, limitations in Special.
+- [A2A JS 1.3.0：持久任务存储与恢复合同](reports/weekly/2026/2026-09-29-special-a2a-js-database-store-contract.md) — A2A Project; https://github.com/a2aproject/a2a-js/releases/tag/v1.3.0; bounded publication/metadata evidence, limitations in Special.

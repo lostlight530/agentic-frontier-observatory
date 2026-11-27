@@ -92,3 +92,23 @@ W40 changes on real contract-defined NIST evidence, not repeated no-change check
 ## 2026-10-01 cross-month calibration
 
 W40 continues across the September→October boundary. The 2026-10-01 Daily is real repository-native coverage but only confirms the already-recorded NIST current state; it does not create another independent strengthening event. September accounting closure and W40 lifecycle remain separate clocks.
+
+## Special research inventory — 2026-11-27 September checkpoint
+
+Count non-canonical research files once by primary research month, not number of event sections. W39 August carry-ins retain their true dates; W40 October-authored September events are September. Existing aggregation files are not split. Current count: September 10, October 1, November 0; target 10 each. Actual source recheck of four new Specials: 2026-11-27.
+
+| Month | File | Relation |
+| --- | --- | --- |
+| 2026-09 | [2026-W36-2026-09-07-special-event-reconciliation.md](./2026-W36-2026-09-07-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W37-2026-09-20-special-event-reconciliation.md](./2026-W37-2026-09-20-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W38-2026-09-20-special-event-reconciliation.md](./2026-W38-2026-09-20-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W39-2026-09-27-special-event-reconciliation.md](./2026-W39-2026-09-27-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W40-special-reconciliation-2026-10-04.md](./2026-W40-special-reconciliation-2026-10-04.md) | retained aggregate Special |
+| 2026-09 | [2026-09-special-event-reconciliation-2026-11-02.md](./2026-09-special-event-reconciliation-2026-11-02.md) | retained aggregate Special |
+| 2026-10 | [2026-10-special-event-reconciliation-2026-11-02.md](./2026-10-special-event-reconciliation-2026-11-02.md) | retained aggregate Special |
+| 2026-09 | [Muse Spark 1.3：跨 Harness 训练与长任务评价](./2026-09-02-special-meta-muse-spark-harness-generalization.md) | new distinct research object; 2026-W36 |
+| 2026-09 | [NVIDIA PAIR：本地多设备推理路由与 Agent 执行隔离](./2026-09-03-special-nvidia-pair-local-inference-routing.md) | new distinct research object; 2026-W36 |
+| 2026-09 | [澳大利亚 DSX 产能计划：电力、设施与可调度 AI 算力](./2026-09-09-special-nvidia-australia-capacity.md) | new distinct research object; 2026-W37 |
+| 2026-09 | [A2A JS 1.3.0：持久任务存储与恢复合同](./2026-09-29-special-a2a-js-database-store-contract.md) | new distinct research object; 2026-W40 |
+
+All Specials are non-canonical; the 17 canonical weekly owners remain unchanged in count and historical status.
