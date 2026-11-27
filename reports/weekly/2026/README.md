@@ -112,3 +112,19 @@ Count non-canonical research files once by primary research month, not number of
 | 2026-09 | [A2A JS 1.3.0：持久任务存储与恢复合同](./2026-09-29-special-a2a-js-database-store-contract.md) | new distinct research object; 2026-W40 |
 
 All Specials are non-canonical; the 17 canonical weekly owners remain unchanged in count and historical status.
+
+## Special research inventory — 2026-11-27 October checkpoint
+
+Current primary-month file count: September 10, October 10, November 0. Prior September checkpoint is historical. October: 1 retained aggregate + 9 new Specials.
+
+| Date | Special | Canonical week |
+| --- | --- | --- |
+| 2026-10-02 | [数学研究协作：可验证证明与研究贡献归属](./2026-10-02-special-meta-mathematical-discovery.md) | 2026-W40 |
+| 2026-10-09 | [Poppy 0.1：跨企业个人智能体授权合同](./2026-10-09-special-poppy-draft-operation-contract.md) | 2026-W41 |
+| 2026-10-12 | [Muse Wonder：长任务记忆与 Harness 评价](./2026-10-12-special-muse-wonder-harness-evaluation.md) | 2026-W42 |
+| 2026-10-12 | [AgentCore Memory：记忆保留、计量与权限](./2026-10-12-special-agentcore-memory-economics.md) | 2026-W42 |
+| 2026-10-12 | [Agent 治理：从模型输出监管到行动责任](./2026-10-12-special-governance-action-accountability.md) | 2026-W42 |
+| 2026-10-15 | [Muse Spark Open：权重、硬件与开放许可边界](./2026-10-15-special-muse-spark-open-hardware-contract.md) | 2026-W42 |
+| 2026-10-19 | [A2A Python SDK 1.2.3：失败隔离与生命周期清理](./2026-10-19-special-a2a-python-lifecycle-cleanup.md) | 2026-W43 |
+| 2026-10-27 | [Genie 4：世界模拟与物理行动证据](./2026-10-27-special-genie4-world-simulation.md) | 2026-W44 |
+| 2026-10-27 | [Oracle/NVIDIA：Vera Rubin 算力计划与可调度资源](./2026-10-27-special-oracle-nvidia-vera-rubin-capacity.md) | 2026-W44 |

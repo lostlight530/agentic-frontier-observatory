@@ -227,3 +227,17 @@ Actual recheck 2026-11-27; no issuer independence from a repost or version famil
 - [NVIDIA PAIR：本地多设备推理路由与 Agent 执行隔离](reports/weekly/2026/2026-09-03-special-nvidia-pair-local-inference-routing.md) — NVIDIA; https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/; bounded publication/metadata evidence, limitations in Special.
 - [澳大利亚 DSX 产能计划：电力、设施与可调度 AI 算力](reports/weekly/2026/2026-09-09-special-nvidia-australia-capacity.md) — NVIDIA; https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Expands-AI-Infrastructure-Capacity-in-Partnership-With-Australias-Data-Center-Ecosystem/default.aspx; bounded publication/metadata evidence, limitations in Special.
 - [A2A JS 1.3.0：持久任务存储与恢复合同](reports/weekly/2026/2026-09-29-special-a2a-js-database-store-contract.md) — A2A Project; https://github.com/a2aproject/a2a-js/releases/tag/v1.3.0; bounded publication/metadata evidence, limitations in Special.
+
+## 2026-11-27 October Special source admission
+
+Actual later source reading; original access and issuer independence not inferred. Secondary-only scope and mutable source limits are recorded in the associated Special.
+
+- [数学研究协作：可验证证明与研究贡献归属](reports/weekly/2026/2026-10-02-special-meta-mathematical-discovery.md) — Meta Research; https://research.meta.ai/blog/solving-open-research-problems-together.
+- [Poppy 0.1：跨企业个人智能体授权合同](reports/weekly/2026/2026-10-09-special-poppy-draft-operation-contract.md) — Sierra；Poppy; https://sierra.ai/uk/blog/poppy ; https://personalagentprotocol.org/docs/0.1/spec.
+- [Muse Wonder：长任务记忆与 Harness 评价](reports/weekly/2026/2026-10-12-special-muse-wonder-harness-evaluation.md) — Meta Research；Meta Developer; https://research.meta.ai/blog/muse-wonder ; https://dev.meta.ai/resources/blog/build-with-muse-wonder.
+- [AgentCore Memory：记忆保留、计量与权限](reports/weekly/2026/2026-10-12-special-agentcore-memory-economics.md) — AWS; https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing/ ; https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-long-term-memory-ttl/.
+- [Agent 治理：从模型输出监管到行动责任](reports/weekly/2026/2026-10-12-special-governance-action-accountability.md) — Brookings; https://www.brookings.edu/articles/shaping-global-governance-of-ai-agents/.
+- [Muse Spark Open：权重、硬件与开放许可边界](reports/weekly/2026/2026-10-15-special-muse-spark-open-hardware-contract.md) — Meta Research; https://research.meta.ai/blog/muse-spark-open.
+- [A2A Python SDK 1.2.3：失败隔离与生命周期清理](reports/weekly/2026/2026-10-19-special-a2a-python-lifecycle-cleanup.md) — A2A Project; https://github.com/a2aproject/a2a-python/releases/tag/v1.2.3.
+- [Genie 4：世界模拟与物理行动证据](reports/weekly/2026/2026-10-27-special-genie4-world-simulation.md) — Google DeepMind; https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/.
+- [Oracle/NVIDIA：Vera Rubin 算力计划与可调度资源](reports/weekly/2026/2026-10-27-special-oracle-nvidia-vera-rubin-capacity.md) — NVIDIA；Oracle; https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure.
