@@ -1,3 +1,7 @@
+# Current Global retrospective pack entry — 2026-11-27
+
+Read the [correct Global integrated synthesis](../2026-09-28.md) first. Seven previously retained Global facets are unchanged and the old cross-repository body is preserved under an explicit historical heading. The earlier index is reproduced below unchanged; its statement about incorrect integrated content describes the prior revision, not the new reading route.
+
 > **2026-10-29 FORWARD CORRECTION — GLOBAL F1–F7 PACK, NOT CHINA C1–C8.** The historical title below mistakenly calls this a China pack. The [seven existing F1–F7 files](./F7-synthesis.md) are Global retrospective documentary reconstructions dated 2026-10-28; they were not 2026-09-28 native producer work. The [integrated historical file](../2026-09-28.md) incorrectly contains China's C1–C8 text and must be read through the [dated Global correction](../../../../../history/2026-10/2026-10-29-global-2026-09-28-cross-repository-daily-identity-correction.md). The original title/text and all source-time gaps remain preserved below, with `NATIVE_DAILY_CREDIT=0`.
 
 ---
