@@ -1,5 +1,12 @@
 # September 2026 Daily Index
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 structural successor: 22–24 September missing facet files restored from the original integrated reports; new files are derived navigation, not new historical observations. [September 28 integrated successor](./2026-09-28.md) now prepends a correct Global F1–F7 synthesis, preserves the historical erroneous China text, and retains zero original Native credit. September original Native 29/30.
+
+---
+
+
 ## 2026-10-29 forward correction: 2026-09-28 Global integrated report identity
 
 **Read [the dated cross-repository correction](../../../../history/2026-10/2026-10-29-global-2026-09-28-cross-repository-daily-identity-correction.md) before relying on the [2026-09-28 integrated path](./2026-09-28.md).** The original integrated file mistakenly contains the *China* Observatory's `C1–C8` retrospective text (identical Git blob in both repositories), whereas the seven existing [Global F1–F7 retrospective workstreams](./2026-09-28/README.md) are a separate, correctly scoped documentary reconstruction. The original 2026-09-28 Global Web GPT native observation remains `NOT_RETAINED / NOT_OBSERVED`, with **zero native research credit**. W40 remains `CLOSED_WITH_GAP`. The original wrong file and historical index entries are retained for provenance rather than silently overwritten.

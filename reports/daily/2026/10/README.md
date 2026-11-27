@@ -1,5 +1,12 @@
 # October 2026 Daily Index
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 documentary successor: [October 12 integrated retrospective](./2026-10-12.md) and [full pack](./2026-10-12/README.md) now supply bounded later research on the proposal. The original missing-run registers remain verbatim. October 30/31 Native, W42 6/7 Native, CLOSED_WITH_GAPS unchanged.
+
+---
+
+
 **2026-10-31 05:04:36 Asia/Shanghai coverage checkpoint**：30 native F1–F7 dates present in this repository tree (10-01..11，10-13..31)，10-12 historical native gap，W44 OPEN 6/7，October OPEN，11-01 NOT_DUE
 
 

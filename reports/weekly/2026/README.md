@@ -1,5 +1,14 @@
 # 2026 Weekly Canonical Index / 2026 周报规范索引
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 post-merge projection: Native [PR #341](https://github.com/lostlight530/agentic-frontier-observatory/pull/341) actually merged at `25a02637b646cb3ee75695c073abccdb71090635`; current inspected main `a7796901cabe0cf4df3c0abfcfe149e72d9ef118`. W48 = 5/7 original Native, 28–29 NOT_DUE; November = 26/27 original Native, 28–30 NOT_DUE, OPEN. November 16 remains retrospective with zero original Native credit. Earlier proposed/NOT_MERGED wording below is retained solely as a historical producer checkpoint.
+
+Current proposal Special inventory: 10 September + 10 October + 10 November = 30; no extra canonical weekly files. Earlier index rows are historical checkpoints.
+
+---
+
+
 Only `YYYY-Www.md` files are canonical weekly records.
 
 | Week | Coverage | State | Current audit |
@@ -92,3 +101,56 @@ W40 changes on real contract-defined NIST evidence, not repeated no-change check
 ## 2026-10-01 cross-month calibration
 
 W40 continues across the September→October boundary. The 2026-10-01 Daily is real repository-native coverage but only confirms the already-recorded NIST current state; it does not create another independent strengthening event. September accounting closure and W40 lifecycle remain separate clocks.
+
+## Special research inventory — 2026-11-27 September checkpoint
+
+Count non-canonical research files once by primary research month, not number of event sections. W39 August carry-ins retain their true dates; W40 October-authored September events are September. Existing aggregation files are not split. Current count: September 10, October 1, November 0; target 10 each. Actual source recheck of four new Specials: 2026-11-27.
+
+| Month | File | Relation |
+| --- | --- | --- |
+| 2026-09 | [2026-W36-2026-09-07-special-event-reconciliation.md](./2026-W36-2026-09-07-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W37-2026-09-20-special-event-reconciliation.md](./2026-W37-2026-09-20-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W38-2026-09-20-special-event-reconciliation.md](./2026-W38-2026-09-20-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W39-2026-09-27-special-event-reconciliation.md](./2026-W39-2026-09-27-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W40-special-reconciliation-2026-10-04.md](./2026-W40-special-reconciliation-2026-10-04.md) | retained aggregate Special |
+| 2026-09 | [2026-09-special-event-reconciliation-2026-11-02.md](./2026-09-special-event-reconciliation-2026-11-02.md) | retained aggregate Special |
+| 2026-10 | [2026-10-special-event-reconciliation-2026-11-02.md](./2026-10-special-event-reconciliation-2026-11-02.md) | retained aggregate Special |
+| 2026-09 | [Muse Spark 1.3：跨 Harness 训练与长任务评价](./2026-09-02-special-meta-muse-spark-harness-generalization.md) | new distinct research object; 2026-W36 |
+| 2026-09 | [NVIDIA PAIR：本地多设备推理路由与 Agent 执行隔离](./2026-09-03-special-nvidia-pair-local-inference-routing.md) | new distinct research object; 2026-W36 |
+| 2026-09 | [澳大利亚 DSX 产能计划：电力、设施与可调度 AI 算力](./2026-09-09-special-nvidia-australia-capacity.md) | new distinct research object; 2026-W37 |
+| 2026-09 | [A2A JS 1.3.0：持久任务存储与恢复合同](./2026-09-29-special-a2a-js-database-store-contract.md) | new distinct research object; 2026-W40 |
+
+All Specials are non-canonical; the 17 canonical weekly owners remain unchanged in count and historical status.
+
+## Special research inventory — 2026-11-27 October checkpoint
+
+Current primary-month file count: September 10, October 10, November 0. Prior September checkpoint is historical. October: 1 retained aggregate + 9 new Specials.
+
+| Date | Special | Canonical week |
+| --- | --- | --- |
+| 2026-10-02 | [数学研究协作：可验证证明与研究贡献归属](./2026-10-02-special-meta-mathematical-discovery.md) | 2026-W40 |
+| 2026-10-09 | [Poppy 0.1：跨企业个人智能体授权合同](./2026-10-09-special-poppy-draft-operation-contract.md) | 2026-W41 |
+| 2026-10-12 | [Muse Wonder：长任务记忆与 Harness 评价](./2026-10-12-special-muse-wonder-harness-evaluation.md) | 2026-W42 |
+| 2026-10-12 | [AgentCore Memory：记忆保留、计量与权限](./2026-10-12-special-agentcore-memory-economics.md) | 2026-W42 |
+| 2026-10-12 | [Agent 治理：从模型输出监管到行动责任](./2026-10-12-special-governance-action-accountability.md) | 2026-W42 |
+| 2026-10-15 | [Muse Spark Open：权重、硬件与开放许可边界](./2026-10-15-special-muse-spark-open-hardware-contract.md) | 2026-W42 |
+| 2026-10-19 | [A2A Python SDK 1.2.3：失败隔离与生命周期清理](./2026-10-19-special-a2a-python-lifecycle-cleanup.md) | 2026-W43 |
+| 2026-10-27 | [Genie 4：世界模拟与物理行动证据](./2026-10-27-special-genie4-world-simulation.md) | 2026-W44 |
+| 2026-10-27 | [Oracle/NVIDIA：Vera Rubin 算力计划与可调度资源](./2026-10-27-special-oracle-nvidia-vera-rubin-capacity.md) | 2026-W44 |
+
+## Special research inventory — 2026-11-27 final quantity checkpoint
+
+Current primary-month file count: September 10, October 10, November 10 = 30. 7 retained aggregates and 23 newly authored research files. Previous checkpoints are historical. November 10/10 is a Special quantity target, not a closed monthly research period.
+
+| Date | Special | Canonical week |
+| --- | --- | --- |
+| 2026-11-03 | [Antigravity 化学信息学 Skills：领域工具与科学证据](./2026-11-03-special-antigravity-cheminformatics-skills.md) | 2026-W45 |
+| 2026-11-09 | [Muse Ember：低成本模型与智能体任务经济学](./2026-11-09-special-muse-ember-task-economics.md) | 2026-W46 |
+| 2026-11-10 | [AlphaProof Code：机器检查证明与实现级安全](./2026-11-10-special-alphaproof-code-verified-software.md) | 2026-W46 |
+| 2026-11-10 | [Gemini 4 Carbon：模型卡与跨 Harness 评价合同](./2026-11-10-special-gemini-carbon-evaluation-contract.md) | 2026-W46 |
+| 2026-11-12 | [AgentCore V2：默认运行时迁移与会话恢复](./2026-11-12-special-agentcore-v2-default-runtime.md) | 2026-W46 |
+| 2026-11-14 | [Poppy 1.0：草案到稳定合同的版本演进](./2026-11-14-special-poppy-v1-contract-stabilization.md) | 2026-W46 |
+| 2026-11-20 | [IETF Agentproto：对话管理、身份与通信需求](./2026-11-20-special-ietf-agentproto-usecase-requirements.md) | 2026-W47 |
+| 2026-11-23 | [OpenAI Agents SDK alpha.2：跨 Worker 审批与检查点迁移](./2026-11-23-special-agents-sdk-alpha2-checkpoint-approval.md) | 2026-W48 |
+| 2026-11-23 | [量子算法 Agent 团队：共享笔记与形式验证](./2026-11-23-special-quantum-agent-teams-formal-verification.md) | 2026-W48 |
+| 2026-11-25 | [Google ADK 2.15.1：工具校验、跨 Agent 流与发布证据](./2026-11-25-special-google-adk-2151-release-boundaries.md) | 2026-W48 |

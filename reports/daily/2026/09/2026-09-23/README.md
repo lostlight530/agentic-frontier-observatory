@@ -18,3 +18,17 @@ PACK_COMPLETENESS
 SAME_LINEAGE_RECHECK
 != INDEPENDENT_EVIDENCE
 ```
+
+## 2026-11-27 forward structural restoration
+
+The following derived files point to the exact retained integrated source `b719ff7887b4aabb16270f0c863edcb2f6ecc21e`. They retain historical facet wording, not a new taxonomy mapping or new observation.
+
+- [F1](F1-history-theory.md)
+- [F2](F2-models-algorithms.md)
+- [F3](F3-infrastructure.md)
+- [F4](F4-agentic-systems.md)
+- [F5](F5-evaluation-governance.md)
+- [F6](F6-ecosystem-society.md)
+- [F7](F7-synthesis.md)
+
+Native and hypothesis credit increment: 0. Original index and Daily above remain unchanged.

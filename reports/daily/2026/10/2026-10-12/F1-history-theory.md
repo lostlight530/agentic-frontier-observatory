@@ -1,3 +1,31 @@
+# F1 — Theory and historical continuity / retrospective completion
+
+- Actual review: 2026-11-27; target logical date 2026-10-12; original source access UNKNOWN.
+- Original status stub blob: `f2406bd972b2825e56df52046503b72ff2f95720`; preserved below.
+- Record class: RETROSPECTIVE_DOCUMENTARY_RESEARCH; original execution credit 0.
+
+## Evidence and bounded finding
+
+The 12 October Meta model-family disclosure uses memory and sustained effort as distinct capability categories. Brookings commentary dated the same publisher day shifts governance from output inspection to action accountability. Neither is an independent general theory of durable agency.
+
+## Mechanism, counterexample and next verification
+
+Model training, persistent host state and an authorized effect are three different mechanisms. Test a resumed task with unchanged model, deliberately stale memory, and a changed user grant. A successful text response cannot resolve the other two.
+
+## Source custody
+
+- [Meta research — Muse Wonder, 2026-10-12](https://research.meta.ai/blog/muse-wonder)
+- [Meta developer launch — 2026-10-12](https://dev.meta.ai/resources/blog/build-with-muse-wonder)
+- [Sierra draft announcement — 2026-10-09](https://sierra.ai/uk/blog/poppy)
+- [Poppy archived specification 0.1](https://personalagentprotocol.org/docs/0.1/spec)
+- [Brookings signed commentary — 2026-10-12](https://www.brookings.edu/articles/shaping-global-governance-of-ai-agents/)
+
+These sources were read later, not during the missing run. [Integrated owner](../2026-10-12.md). No independent benchmark, protocol test, runtime or production verification performed.
+
+---
+
+## Preserved historical gap register (earlier point-in-time)
+
 # F1 — 2026-10-12 unexecuted native workstream status
 
 - `record_class: BACKFILL_GAP_REGISTER`.

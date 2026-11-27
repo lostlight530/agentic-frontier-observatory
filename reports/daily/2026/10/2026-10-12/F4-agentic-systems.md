@@ -1,3 +1,31 @@
+# F4 — Agentic systems / retrospective completion
+
+- Actual review: 2026-11-27; target logical date 2026-10-12; original source access UNKNOWN.
+- Original status stub blob: `a9f1cfdfcb8bc09f115f30f9e671a1e67e61c688`; preserved below.
+- Record class: RETROSPECTIVE_DOCUMENTARY_RESEARCH; original execution credit 0.
+
+## Evidence and bounded finding
+
+The frozen Poppy 0.1 specification contains discovery, session authorization, browsing, API and conversation surfaces. Sierra's 9 October disclosure identifies a draft, not a stable deployed system. The historical 12 October correction records the publication date; this current frozen page is not a recovered original 12 October capture. Meta's Active Memory/Focus claims describe model/product behavior, not portable effect semantics.
+
+## Mechanism, counterexample and next verification
+
+Compare user/agent/session identity, exact action scope, tool invocation and target receipt as separate states. A draft session or remembered instruction cannot replace current grant and completion evidence. Test expired grant after resumed work, rather than infer protocol interoperability.
+
+## Source custody
+
+- [Meta research — Muse Wonder, 2026-10-12](https://research.meta.ai/blog/muse-wonder)
+- [Meta developer launch — 2026-10-12](https://dev.meta.ai/resources/blog/build-with-muse-wonder)
+- [Sierra draft announcement — 2026-10-09](https://sierra.ai/uk/blog/poppy)
+- [Poppy archived specification 0.1](https://personalagentprotocol.org/docs/0.1/spec)
+- [Brookings signed commentary — 2026-10-12](https://www.brookings.edu/articles/shaping-global-governance-of-ai-agents/)
+
+These sources were read later, not during the missing run. [Integrated owner](../2026-10-12.md). No independent benchmark, protocol test, runtime or production verification performed.
+
+---
+
+## Preserved historical gap register (earlier point-in-time)
+
 # F4 — 2026-10-12 unexecuted native workstream status
 
 - `record_class: BACKFILL_GAP_REGISTER`.

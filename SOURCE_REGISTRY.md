@@ -218,3 +218,41 @@ The following first-party URLs were actually inspected on 2026-11-02 as dated so
 | 2026-10-08 Cyber Mission | Anthropic, https://www.anthropic.com/news/anthropic-cyber-mission | Program/OSS Scanner announcement; actual patch correctness NOT_VERIFIED |
 
 Special records: [September](reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md) and [October](reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md). Original W39/W41 and all original Native Dailies remain unchanged. Multiple Anthropic pages share the same publisher family and cannot count as independent confirmations of each other's effects.
+
+## 2026-11-27 September Special source admission
+
+Actual recheck 2026-11-27; no issuer independence from a repost or version family, no original-day credit.
+
+- [Muse Spark 1.3：跨 Harness 训练与长任务评价](reports/weekly/2026/2026-09-02-special-meta-muse-spark-harness-generalization.md) — Meta Research; https://research.meta.ai/blog/introducing-muse-spark-1-3; bounded publication/metadata evidence, limitations in Special.
+- [NVIDIA PAIR：本地多设备推理路由与 Agent 执行隔离](reports/weekly/2026/2026-09-03-special-nvidia-pair-local-inference-routing.md) — NVIDIA; https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/; bounded publication/metadata evidence, limitations in Special.
+- [澳大利亚 DSX 产能计划：电力、设施与可调度 AI 算力](reports/weekly/2026/2026-09-09-special-nvidia-australia-capacity.md) — NVIDIA; https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Expands-AI-Infrastructure-Capacity-in-Partnership-With-Australias-Data-Center-Ecosystem/default.aspx; bounded publication/metadata evidence, limitations in Special.
+- [A2A JS 1.3.0：持久任务存储与恢复合同](reports/weekly/2026/2026-09-29-special-a2a-js-database-store-contract.md) — A2A Project; https://github.com/a2aproject/a2a-js/releases/tag/v1.3.0; bounded publication/metadata evidence, limitations in Special.
+
+## 2026-11-27 October Special source admission
+
+Actual later source reading; original access and issuer independence not inferred. Secondary-only scope and mutable source limits are recorded in the associated Special.
+
+- [数学研究协作：可验证证明与研究贡献归属](reports/weekly/2026/2026-10-02-special-meta-mathematical-discovery.md) — Meta Research; https://research.meta.ai/blog/solving-open-research-problems-together.
+- [Poppy 0.1：跨企业个人智能体授权合同](reports/weekly/2026/2026-10-09-special-poppy-draft-operation-contract.md) — Sierra；Poppy; https://sierra.ai/uk/blog/poppy ; https://personalagentprotocol.org/docs/0.1/spec.
+- [Muse Wonder：长任务记忆与 Harness 评价](reports/weekly/2026/2026-10-12-special-muse-wonder-harness-evaluation.md) — Meta Research；Meta Developer; https://research.meta.ai/blog/muse-wonder ; https://dev.meta.ai/resources/blog/build-with-muse-wonder.
+- [AgentCore Memory：记忆保留、计量与权限](reports/weekly/2026/2026-10-12-special-agentcore-memory-economics.md) — AWS; https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing/ ; https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-long-term-memory-ttl/.
+- [Agent 治理：从模型输出监管到行动责任](reports/weekly/2026/2026-10-12-special-governance-action-accountability.md) — Brookings; https://www.brookings.edu/articles/shaping-global-governance-of-ai-agents/.
+- [Muse Spark Open：权重、硬件与开放许可边界](reports/weekly/2026/2026-10-15-special-muse-spark-open-hardware-contract.md) — Meta Research; https://research.meta.ai/blog/muse-spark-open.
+- [A2A Python SDK 1.2.3：失败隔离与生命周期清理](reports/weekly/2026/2026-10-19-special-a2a-python-lifecycle-cleanup.md) — A2A Project; https://github.com/a2aproject/a2a-python/releases/tag/v1.2.3.
+- [Genie 4：世界模拟与物理行动证据](reports/weekly/2026/2026-10-27-special-genie4-world-simulation.md) — Google DeepMind; https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/.
+- [Oracle/NVIDIA：Vera Rubin 算力计划与可调度资源](reports/weekly/2026/2026-10-27-special-oracle-nvidia-vera-rubin-capacity.md) — NVIDIA；Oracle; https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure.
+
+## 2026-11-27 November Special source admission
+
+Actual later source reading; original access and issuer independence not inferred. Access failures, secondary source boundaries and mutable references are recorded in the associated Special.
+
+- [Antigravity 化学信息学 Skills：领域工具与科学证据](reports/weekly/2026/2026-11-03-special-antigravity-cheminformatics-skills.md) — Google DeepMind; https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/?hl=en.
+- [Muse Ember：低成本模型与智能体任务经济学](reports/weekly/2026/2026-11-09-special-muse-ember-task-economics.md) — Meta Research; https://research.meta.ai/blog/muse-ember.
+- [AlphaProof Code：机器检查证明与实现级安全](reports/weekly/2026/2026-11-10-special-alphaproof-code-verified-software.md) — Google DeepMind; https://deepmind.google/blog/introducing-alphaproof-code/.
+- [Gemini 4 Carbon：模型卡与跨 Harness 评价合同](reports/weekly/2026/2026-11-10-special-gemini-carbon-evaluation-contract.md) — Google DeepMind; https://deepmind.google/models/model-cards/gemini-4-carbon/.
+- [AgentCore V2：默认运行时迁移与会话恢复](reports/weekly/2026/2026-11-12-special-agentcore-v2-default-runtime.md) — AWS; https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/.
+- [Poppy 1.0：草案到稳定合同的版本演进](reports/weekly/2026/2026-11-14-special-poppy-v1-contract-stabilization.md) — Sierra；Personal Agent Protocol; https://sierra.ai/blog/releasing-poppy ; https://personalagentprotocol.org/docs/changelog.
+- [IETF Agentproto：对话管理、身份与通信需求](reports/weekly/2026/2026-11-20-special-ietf-agentproto-usecase-requirements.md) — IETF Datatracker; https://datatracker.ietf.org/doc/html/draft-ietf-agentproto-usecases-requirements-00.
+- [OpenAI Agents SDK alpha.2：跨 Worker 审批与检查点迁移](reports/weekly/2026/2026-11-23-special-agents-sdk-alpha2-checkpoint-approval.md) — OpenAI; https://github.com/openai/openai-agents-python/releases/tag/v1.0.0-alpha.2.
+- [量子算法 Agent 团队：共享笔记与形式验证](reports/weekly/2026/2026-11-23-special-quantum-agent-teams-formal-verification.md) — Google DeepMind；Google Quantum AI; https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/?trk=public_post_comment-text.
+- [Google ADK 2.15.1：工具校验、跨 Agent 流与发布证据](reports/weekly/2026/2026-11-25-special-google-adk-2151-release-boundaries.md) — Google ADK；PyPI; https://github.com/google/adk-python/releases/tag/v2.15.1 ; https://pypi.org/project/google-adk/2.15.1/.

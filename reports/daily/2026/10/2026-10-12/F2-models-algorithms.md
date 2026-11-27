@@ -1,3 +1,31 @@
+# F2 — Models and algorithms / retrospective completion
+
+- Actual review: 2026-11-27; target logical date 2026-10-12; original source access UNKNOWN.
+- Original status stub blob: `44e151e6028b42d7a96ff423962831c6636f8b54`; preserved below.
+- Record class: RETROSPECTIVE_DOCUMENTARY_RESEARCH; original execution credit 0.
+
+## Evidence and bounded finding
+
+Meta's 12 October research article introduces Muse Wonder and Wonder Full, with Active Memory and Active Focus as vendor-defined capabilities. The developer announcement places Wonder on API and Muse Code while Full is subscription-only at launch. The vendor cites evaluations including FocusBench and SWE-Marathon.
+
+## Mechanism, counterexample and next verification
+
+Benchmark scores are contingent on model variant, effort, scaffold, task set and evaluator; the two distribution surfaces are not equivalent. Obtain version-pinned evaluator artifacts and replay, separating memory retrieval from task completion.
+
+## Source custody
+
+- [Meta research — Muse Wonder, 2026-10-12](https://research.meta.ai/blog/muse-wonder)
+- [Meta developer launch — 2026-10-12](https://dev.meta.ai/resources/blog/build-with-muse-wonder)
+- [Sierra draft announcement — 2026-10-09](https://sierra.ai/uk/blog/poppy)
+- [Poppy archived specification 0.1](https://personalagentprotocol.org/docs/0.1/spec)
+- [Brookings signed commentary — 2026-10-12](https://www.brookings.edu/articles/shaping-global-governance-of-ai-agents/)
+
+These sources were read later, not during the missing run. [Integrated owner](../2026-10-12.md). No independent benchmark, protocol test, runtime or production verification performed.
+
+---
+
+## Preserved historical gap register (earlier point-in-time)
+
 # F2 — 2026-10-12 unexecuted native workstream status
 
 - `record_class: BACKFILL_GAP_REGISTER`.
