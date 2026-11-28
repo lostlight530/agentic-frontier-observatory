@@ -30,7 +30,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W45 | 2–8 Nov | **FINAL / 7 of 7 W45 native dates** | Nov02–08 seven F1–F7 native dates now merged main (Nov08 originally shared one Draft PR with Sunday settlement)，H45-1/2/3 OPEN，2026-11-08 15:27:56 Asia/Shanghai |
 | W46 | 9–15 Nov | **FINAL / 7 of 7 Native Dailies** | Canonical W46 FINAL；H46-1..4 OPEN，历史 producer Draft 为 point-in-time 记录 |
 | W47 | 16–22 Nov | **FINAL / NATIVE RECEIPT GAP** | 6/7 original Native；11-16 retrospective complete content，original receipt UNRECOVERED；H47-1..4 OPEN；[canonical W47](./2026-W47.md) |
-| [W48](./2026-W48.md) | 23–29 Nov | **OPEN** | 4/7 merged through Nov26；Nov27 proposed → 5/7；H1/H3 STRENGTHENED BUT OPEN（继承11-25），H2/H4 OPEN / UNCHANGED |
+| [W48](./2026-W48.md) | 23–29 Nov | **OPEN** | 5/7 merged through Nov27；Nov28 proposed → 6/7；H1/H3 STRENGTHENED BUT OPEN（继承11-25）；H2/H4 OPEN / UNCHANGED |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
